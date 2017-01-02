@@ -2,13 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <div class="panel panel-default">
-                    <div class="panel-heading">Example Component</div>
-
-                    <div class="panel-body">
-                        I'm an example component!
-                    </div>
-                </div>
+                {{message}}
             </div>
         </div>
     </div>
@@ -16,8 +10,18 @@
 
 <script>
     export default {
-        mounted() {
-            console.log('Component ready.')
+        data(){
+            return {
+                message: "hello"
+            };
+
+        },
+        mounted(){
+            console.log("I am ready");
+            this.$http.post('/python-data')
+            .then(response => {
+                console.log(response.data)
+            });
         }
     }
 </script>
