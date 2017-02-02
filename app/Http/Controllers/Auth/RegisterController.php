@@ -2,10 +2,13 @@
 
 namespace App\Http\Controllers\Auth;
 
+use App\Http\Requests\StoreUserRequest;
 use App\User;
+use Illuminate\Http\Request;
 use Validator;
 use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\RegistersUsers;
+use App\Http\Controllers\ShopController as ShopController;
 
 class RegisterController extends Controller
 {
@@ -28,6 +31,7 @@ class RegisterController extends Controller
      * @var string
      */
     protected $redirectTo = '/home';
+    protected $shopController;
 
     /**
      * Create a new controller instance.
@@ -37,23 +41,20 @@ class RegisterController extends Controller
     public function __construct()
     {
         $this->middleware('guest');
+        //$this->shopController = new ShopController();
     }
 
     /**
      * Get a validator for an incoming registration request.
      *
-     * @param  array  $data
+     * @param  Request  $request
      * @return \Illuminate\Contracts\Validation\Validator
      */
-    protected function validator(array $data)
+    protected function validator(StoreUserRequest $request)
     {
-        return Validator::make($data, [
-            'name' => 'required|max:255',
-            'email' => 'required|email|max:255|unique:users',
-            'password' => 'required|min:6|confirmed',
-        ]);
+        $data = $request->all();
+        $errors = array();
     }
-
     /**
      * Create a new user instance after a valid registration.
      *
@@ -64,7 +65,7 @@ class RegisterController extends Controller
     {
         return User::create([
             'name' => $data['name'],
-            'email' => $data['email'],
+            'email_phone' => $data['email_phone'],
             'password' => bcrypt($data['password']),
         ]);
     }

@@ -31,5 +31,65 @@ Vue.component(
 );
 
 const app = new Vue({
-    el: '#app'
+    el: '#app',
+
+    method: {
+        registerUser: function () {
+            alert("got you");
+        }
+    }/*methods of vue ends*/
 });
+
+/*when the webpage's elemenents are ready*/
+$(document).ready(function () {
+
+    /**
+     *register the user
+     */
+    $("#register_user").click(function (event) {
+        event.preventDefault()
+
+        //send the post request to save the user
+        $.ajax({
+            data: $("#user_register_form").serialize(),
+            type: 'post',
+            url: '/register',
+            success: function (data) {
+                console.log("this was supposed to be success" + data)
+            },
+            error: function (error) {
+                $('div.alert-danger').show();
+                $.each(error, function (index, error) {
+                    $('div.alert-danger ul').push('<li>'+ error +'</li>')
+                })
+            }
+        })
+    })
+
+    /**
+     * register the shop information
+     */
+    $("#register_shop").click(function (event) {
+        event.preventDefault()
+
+        //send the post request to save the user
+        $.ajax({
+            data: $("#shop_register_form").serialize(),
+            type: 'post',
+            url: '/register-shop',
+            success: function (data) {
+                window.location = '/home'
+            },
+            error: function (error) {
+                console.log("error" + error)
+            }
+        })
+    })
+
+    /**
+     * hide the error or success notification
+     */
+    if(($(".alert")).length > 0){
+        $(".alert").delay(4000).slideUp(400)
+    }
+})

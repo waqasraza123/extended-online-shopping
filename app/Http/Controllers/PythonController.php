@@ -29,6 +29,7 @@ class PythonController extends Controller
      */
     public function save(Request $request, $shop_name, $category, $token){
         $data = $request->all();
+
         $this->shopName = $shop_name;
         $this->category = $category;
         $this->token = $token;
@@ -58,6 +59,7 @@ class PythonController extends Controller
                 $exists->discount = $row['discount_percent'];
                 $exists->total_ratings = $row['total_ratings'];
                 $exists->local_online = 'o';
+                $exists->stock = $row['stock'];
                 $exists->shop_id = 1;
                 $exists->save();
             }
@@ -74,6 +76,7 @@ class PythonController extends Controller
                 $obj->discount = $row['discount_percent'];
                 $obj->total_ratings = $row['total_ratings'];
                 $obj->local_online = 'o';
+                $obj->stock = $row['stock'];
                 $obj->shop_id = 1;
                 $obj->save();
             }

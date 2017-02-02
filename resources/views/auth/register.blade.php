@@ -3,68 +3,108 @@
 @section('content')
 <div class="container">
     <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-md-6 col-md-offset-3">
             <div class="panel panel-default">
                 <div class="panel-heading">Register</div>
                 <div class="panel-body">
-                    <form class="form-horizontal" role="form" method="POST" action="{{ url('/register') }}">
+                    @include('partials.error-messages._include_error')
+                    @include('partials.error-messages._include_success')
+                    <form class="form-horizontal" id="user_register_form" role="form" method="POST" action="{{ url('/register') }}">
                         {{ csrf_field() }}
 
-                        <div class="form-group{{ $errors->has('name') ? ' has-error' : '' }}">
-                            <label for="name" class="col-md-4 control-label">Name</label>
-
-                            <div class="col-md-6">
-                                <input id="name" type="text" class="form-control" name="name" value="{{ old('name') }}" required autofocus>
-
-                                @if ($errors->has('name'))
-                                    <span class="help-block">
-                                        <strong>{{ $errors->first('name') }}</strong>
-                                    </span>
-                                @endif
+                        {{--name and phone number or email fields--}}
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group-sm">
+                                    <input id="name" type="text" class="form-control" name="name" value="{{ old('name') }}" required autofocus
+                                           placeholder="Your Name">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group-sm">
+                                    <input id="email_phone" type="text" class="form-control" name="email_phone" value="{{ old('shop_name') }}" required autofocus
+                                           placeholder="Email Or Phone 0300-1234567">
+                                </div>
+                            </div>
+                        </div>
+                        {{--password fields--}}
+                        <div class="row">
+                            <div class="form-group-sm">
+                                <div class="col-md-6 col-md-offset-3">
+                                    <input id="password" type="password" class="form-control" name="password" required
+                                        placeholder="Password">
+                                </div>
+                            </div>
+                            <div class="form-group-sm">
+                                <div class="col-md-6 col-md-offset-3">
+                                    <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required
+                                           placeholder="Enter Password Again">
+                                </div>
                             </div>
                         </div>
 
-                        <div class="form-group{{ $errors->has('email') ? ' has-error' : '' }}">
-                            <label for="email" class="col-md-4 control-label">E-Mail Address</label>
-
-                            <div class="col-md-6">
-                                <input id="email" type="email" class="form-control" name="email" value="{{ old('email') }}" required>
-
-                                @if ($errors->has('email'))
-                                    <span class="help-block">
-                                        <strong>{{ $errors->first('email') }}</strong>
-                                    </span>
-                                @endif
-                            </div>
-                        </div>
-
-                        <div class="form-group{{ $errors->has('password') ? ' has-error' : '' }}">
-                            <label for="password" class="col-md-4 control-label">Password</label>
-
-                            <div class="col-md-6">
-                                <input id="password" type="password" class="form-control" name="password" required>
-
-                                @if ($errors->has('password'))
-                                    <span class="help-block">
-                                        <strong>{{ $errors->first('password') }}</strong>
-                                    </span>
-                                @endif
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <label for="password-confirm" class="col-md-4 control-label">Confirm Password</label>
-
-                            <div class="col-md-6">
-                                <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required>
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <div class="col-md-6 col-md-offset-4">
-                                <button type="submit" class="btn btn-primary">
+                        <div class="row">
+                            <div class="form-group-sm">
+                                <button id="register_user" type="submit" class="bttn-fill bttn-sm bttn-primary center-block margin-top-20">
                                     Register
                                 </button>
+                            </div>
+                        </div>
+                    </form>
+                    {{--***************************************--}}
+                    {{--get the information for the shop--}}
+                    {{--***************************************--}}
+                    <form class="form-horizontal" id="shop_register_form" role="form" method="POST" action="{{ url('/register-shop') }}">
+                        {{ csrf_field() }}
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group-sm">
+                                    <input id="shop_name" type="text" class="form-control" name="shop_name"
+                                           value="{{ old('shop_name') }}" required autofocus
+                                           placeholder="Shop Name">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group-sm">
+                                    <input id="shop_phone" type="text" class="form-control" name="shop_phone"
+                                           value="{{ old('shop_phone') }}" required autofocus
+                                           placeholder="Shop Phone Number 0300-1234567">
+                                </div>
+                            </div>
+                        </div>
+
+                        {{--location information--}}
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group-sm">
+                                    <input id="market_plaza" type="text" class="form-control" name="market_plaza"
+                                           value="{{ old('market_plaza') }}" required autofocus
+                                           placeholder="Market/Plaza Name">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group-sm">
+                                    <input id="city" type="text" class="form-control" name="city"
+                                           value="{{ old('city') }}" required autofocus
+                                           placeholder="City">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group-sm">
+                                    <input id="location" type="text" class="form-control" name="location"
+                                           value="{{ old('location') }}" required autofocus
+                                           placeholder="Complete Address of Shop">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="form-group-sm">
+                                    <button id="register_shop" type="submit" class="bttn-fill bttn-sm bttn-primary center-block margin-top-20">
+                                        Register Shop
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </form>

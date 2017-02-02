@@ -22,6 +22,12 @@ Route::get('/passport-tokens', function (){
     return view('auth.passport-authentication');
 });
 Route::post('/python-data/{shop_name}/{category}/{token}', 'PythonController@save');
+
+/**
+ * Shop routes
+ */
+Route::post('register-shop', 'ShopController@create');
+
 Route::get('test', function(){
    return \Illuminate\Support\Facades\Cache::get('data');
 });
