@@ -1,3 +1,3 @@
-<div class="alert alert-success hide">
+<div class="alert alert-success hidden">
 
 </div>

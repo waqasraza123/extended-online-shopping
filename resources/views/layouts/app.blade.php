@@ -13,12 +13,15 @@
     <!-- Styles -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bttn.css/0.2.4/bttn.min.css" rel="stylesheet">
     <link href="/css/app.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link href="/css/main.css" rel="stylesheet">
     <!-- Scripts -->
     <script>
         window.Laravel = <?php echo json_encode([
             'csrfToken' => csrf_token(),
         ]); ?>
     </script>
+    @yield('head')
 </head>
 <body>
     <div id="app">
@@ -81,6 +84,7 @@
         @yield('content')
     </div>
 
+    @yield('footer')
     <!-- Scripts -->
     <script src="/js/app.js"></script>
 </body>

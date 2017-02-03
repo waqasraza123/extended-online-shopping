@@ -1,4 +1,4 @@
-<div class="alert alert-danger hide">
+<div class="alert alert-danger hidden">
     <ul>
 
     </ul>

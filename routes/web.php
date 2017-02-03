@@ -28,6 +28,10 @@ Route::post('/python-data/{shop_name}/{category}/{token}', 'PythonController@sav
  */
 Route::post('register-shop', 'ShopController@create');
 
+
+/**
+ * Test routes
+ */
 Route::get('test', function(){
    return \Illuminate\Support\Facades\Cache::get('data');
 });

@@ -1,5 +1,9 @@
 @extends('layouts.app')
-
+@section('head')
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfUZQtcEqdyFVUf9VWvhqNd89Xtse6tbA&libraries=places"
+            async defer>
+    </script>
+@endsection
 @section('content')
 <div class="container">
     <div class="row">
@@ -9,7 +13,7 @@
                 <div class="panel-body">
                     @include('partials.error-messages._include_error')
                     @include('partials.error-messages._include_success')
-                    <form class="form-horizontal" id="user_register_form" role="form" method="POST" action="{{ url('/register') }}">
+                    <form class="form-horizontal animated jello" id="user_register_form" role="form" method="POST" action="{{ url('/register') }}">
                         {{ csrf_field() }}
 
                         {{--name and phone number or email fields--}}
@@ -54,7 +58,7 @@
                     {{--***************************************--}}
                     {{--get the information for the shop--}}
                     {{--***************************************--}}
-                    <form class="form-horizontal" id="shop_register_form" role="form" method="POST" action="{{ url('/register-shop') }}">
+                    <form class="form-horizontal wq-hide" id="shop_register_form" role="form" method="POST" action="{{ url('/register-shop') }}">
                         {{ csrf_field() }}
                         <div class="row">
                             <div class="col-md-6 col-md-offset-3">
@@ -113,4 +117,13 @@
         </div>
     </div>
 </div>
+@endsection
+@section('footer')
+    <script>
+        function init() {
+            var input = document.getElementById('location');
+            var autocomplete = new google.maps.places.Autocomplete(input);
+        }
+        google.maps.event.addDomListener(window, 'load', init);
+    </script>
 @endsection

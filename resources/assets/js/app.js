@@ -42,46 +42,88 @@ const app = new Vue({
 
 /*when the webpage's elemenents are ready*/
 $(document).ready(function () {
+    /*****************************************************************************
+     *
+     *  global functions
+     *
+     * ****************************************************************************/
+    function showErrors(error) {
+        $('div.alert-danger').attr('style', 'display: block !important')
+        $("div.alert-danger ul").html('')
+        $.each(error.responseJSON, function (index, value) {
+            $("div.alert-danger ul").append('<li>'+value+'</li>')
+        });
+    }
 
-    /**
-     *register the user
-     */
+    function hideAlert() {
+        console.log('got it')
+        if($('div.alert').length > 0){$('div.alert').delay(5000).slideUp('slow')}
+    }
+
+    /*****************************************************************************
+     *
+     *  global variables
+     *
+     * ****************************************************************************/
+    var shop_register_form = $("#shop_register_form");
+    var user_register_form = $("#user_register_form");
+    /*****************************************************************************
+     *
+     *  register user
+     *
+     * ****************************************************************************/
     $("#register_user").click(function (event) {
         event.preventDefault()
 
         //send the post request to save the user
         $.ajax({
-            data: $("#user_register_form").serialize(),
+            data: user_register_form.serialize(),
             type: 'post',
             url: '/register',
             success: function (data) {
-                console.log("this was supposed to be success" + data)
+                user_register_form.addClass('animated bounceOutRight')
+                user_register_form.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                function () {
+                    //hide the user form
+                    user_register_form.hide()
+
+                    //slide in the shop registration form
+                    shop_register_form.slideDown()
+                    shop_register_form.addClass('animated bounceInLeft')
+                    shop_register_form
+                        .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                            function () {
+                                shop_register_form.removeClass('bounceInLeft')
+                                shop_register_form.addClass('jello')
+
+                            });
+                })
+
             },
             error: function (error) {
-                $('div.alert-danger').show();
-                $.each(error, function (index, error) {
-                    $('div.alert-danger ul').push('<li>'+ error +'</li>')
-                })
+                showErrors(error)
             }
         })
     })
 
-    /**
-     * register the shop information
-     */
+    /*****************************************************************************
+     *
+     *  register shop
+     *
+     * ****************************************************************************/
     $("#register_shop").click(function (event) {
         event.preventDefault()
 
         //send the post request to save the user
         $.ajax({
-            data: $("#shop_register_form").serialize(),
+            data: shop_register_form.serialize(),
             type: 'post',
             url: '/register-shop',
             success: function (data) {
                 window.location = '/home'
             },
             error: function (error) {
-                console.log("error" + error)
+                showErrors(error)
             }
         })
     })
@@ -89,7 +131,8 @@ $(document).ready(function () {
     /**
      * hide the error or success notification
      */
-    if(($(".alert")).length > 0){
-        $(".alert").delay(4000).slideUp(400)
-    }
+    setInterval(hideAlert, 4000)
+
+    //add google maps search
+
 })

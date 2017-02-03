@@ -17,6 +17,5 @@
   },
   "dependencies": {
     "gulp-install": "^0.6.0",
-    "vue-location-picker": "^1.0.1"
   }
 }
