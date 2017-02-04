@@ -48,3 +48,8 @@ loading animation*/
           -webkit-transform: scale(1.0);
       }
 }
+.signup-box .card{margin-bottom: 0px !important;}
+.signup-box {
+    max-width: 360px;
+    margin: 5% auto;
+}
