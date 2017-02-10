@@ -18,6 +18,13 @@ class AppServiceProvider extends ServiceProvider
         {
             return preg_match("/^[0]{1}[3]{1}[0-6]{1}[0-9]{1}[0-9]{7}$/", str_replace("-", "", $value));
         });
+
+
+        Validator::extend('discount', function($attribute, $value, $parameters)
+        {
+            //current price (parameters) should obviously be greater than discount price
+            return $parameters > $value;
+        });
     }
 
     /**

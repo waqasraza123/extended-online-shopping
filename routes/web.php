@@ -27,11 +27,13 @@ Route::post('/python-data/{shop_name}/{category}/{token}', 'PythonController@sav
  * Shop routes
  */
 Route::post('register-shop', 'ShopController@create');
+Route::resource('products/mobile', 'MobileController');
+Route::resource('products/laptop', 'LaptopController');
 
 
 /**
  * Test routes
  */
 Route::get('test', function(){
-   return \Illuminate\Support\Facades\Cache::get('data');
+    echo \Illuminate\Support\Facades\File::exists('test.txt');
 });

@@ -9,7 +9,7 @@
     <div class="signup-box">
         @include('partials.error-messages._include_error')
         @include('partials.error-messages._include_success')
-        <div class="animated jello card">
+        <div class="animated bounceIn card">
             <div class="body">
                 <form novalidate="novalidate" class="form-horizontal animated" id="user_register_form" role="form" method="POST" action="{{ url('/register') }}">
                     {{ csrf_field() }}
@@ -55,10 +55,10 @@
                         <label for="terms">I read and agree to the <a href="javascript:void(0);">terms of usage</a>.</label>
                     </div>
 
-                    <button id="register_user" class="btn btn-block btn-lg bg-pink waves-effect" type="submit">SIGN UP</button>
+                    <button id="register_user" class="btn btn-block btn-lg bg-pink waves-effect submit" type="submit">SIGN UP</button>
 
                     <div class="m-t-25 m-b--5 align-center">
-                        <a href="sign-in.html">You already have a membership?</a>
+                        <a href="/login">Sign In?</a>
                     </div>
 
                 </form>
@@ -121,7 +121,7 @@
                                    placeholder="Market Location">
                         </div>
                     </div>
-                    <button id="register_shop" type="submit" class="btn btn-block btn-lg bg-pink waves-effect">
+                    <button id="register_shop" type="submit" class="btn btn-block btn-lg bg-pink waves-effect submit">
                         Register Shop
                     </button>
                 </form>
@@ -140,5 +140,4 @@
     </script>
     <script src="/theme/plugins/node-waves/waves.js"></script>
     <script src="/theme/plugins/jquery-validation/jquery.validate.js"></script>
-    <script src="/theme/js/admin.js"></script>
 @endsection
