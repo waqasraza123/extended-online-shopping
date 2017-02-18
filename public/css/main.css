@@ -215,3 +215,11 @@ p {
     text-align: center;
     font-size: 25px;
 }
+.right_sidebar aside{
+    right: 0;
+    left: inherit ;
+}
+.right_sidebar .slimScrollDiv, .right_sidebar .slimScrollDiv .list{
+    height: 100% !important;
+}
+.sidebar{width: 250px}

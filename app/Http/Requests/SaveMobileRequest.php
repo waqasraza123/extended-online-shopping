@@ -33,7 +33,6 @@ class SaveMobileRequest extends FormRequest
             'current_price' => 'required|integer',
             'discount_price' => 'discount:'.$currentPrice,
             'product_image' => 'required|image',
-            'colors' => 'required',
             'brands' => 'required'
         ];
     }

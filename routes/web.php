@@ -11,9 +11,7 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', ['as' => 'home', 'uses' => 'WelcomeController@index']);
 
 Auth::routes();
 
@@ -29,11 +27,13 @@ Route::post('/python-data/{shop_name}/{category}/{token}', 'PythonController@sav
 Route::post('register-shop', 'ShopController@create');
 Route::resource('products/mobile', 'MobileController');
 Route::resource('products/laptop', 'LaptopController');
+Route::get('/products/brands/{id}/{name}',
+    ['as' => 'brands', 'uses' => 'BrandController@showProducts']);
 
 
 /**
  * Test routes
  */
 Route::get('test', function(){
-    echo \Illuminate\Support\Facades\File::exists('test.txt');
+    return \Illuminate\Support\Facades\Auth::user()->id;
 });

@@ -2,7 +2,7 @@
     <div class="card">
         <div class="header">
             <h2>
-                Add New Mobile
+                Edit {{$mobile->title}}
             </h2>
             <ul class="header-dropdown m-r--5">
                 <li class="dropdown">
@@ -25,7 +25,8 @@
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-7">
                     <div class="form-group">
                         <div class="form-line">
-                            <input type="file" id="product_image" name="product_image" class="form-control" required>
+                            <input type="file" id="product_image" name="product_image" class="form-control"
+                                   value="{{$mobile->image}}" required>
                         </div>
                     </div>
                 </div>
@@ -37,7 +38,8 @@
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-7">
                     <div class="form-group">
                         <div class="form-line">
-                            <input type="text" id="title" name="title" class="form-control" placeholder="name of mobile" required>
+                            {!! Form::text('title', null, ['id' => 'title', 'class' => 'form-control',
+                            'placeholder' => 'Name of mobile', 'required']) !!}
                         </div>
                     </div>
                 </div>
@@ -90,7 +92,7 @@
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-7">
                     <div class="form-group">
                         <div class="form-line">
-                            {!! Form::select('brands', $brands, null, ['class' => 'form-control',
+                            {!! Form::select('brands', $brands, $mobile->brand->id, ['class' => 'form-control',
                             'id' => 'brands', 'placeholder' => 'Select or Type', 'required']) !!}
                         </div>
                     </div>
@@ -104,7 +106,7 @@
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-7">
                     <div class="form-group">
                         <div class="form-line">
-                            {!! Form::select('colors[]', $colors, null, ['multiple' => 'true',
+                            {!! Form::select('colors[]', $colors, $mobile->colors()->pluck('colors.id')->toArray(), ['multiple' => 'true',
                             'class' => 'form-control',
                             'id' => 'colors',
                             'data-placeholder' => 'Select or Type']) !!}
@@ -120,7 +122,7 @@
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-7">
                     <div class="form-group">
                         <div class="form-line">
-                            {!! Form::select('storage[]', $storage, null, ['multiple' => 'true',
+                            {!! Form::select('storage[]', $storage, $mobile->storages()->pluck('storages.id')->toArray(), ['multiple' => 'true',
                             'class' => 'form-control',
                             'id' => 'storage',
                             'data-placeholder' => 'Select or Type']) !!}
@@ -131,7 +133,7 @@
             <input type="hidden" value="l" name="local_online">
             <div class="row clearfix">
                 <div class="col-lg-offset-2 col-md-offset-2 col-sm-offset-4 col-xs-offset-5">
-                    <button type="submit" class="btn btn-primary m-t-15 waves-effect submit" id="add_mobile_btn">Add Mobile</button>
+                    <button type="submit" class="btn btn-primary m-t-15 waves-effect submit" id="add_mobile_btn">Update Mobile</button>
                 </div>
             </div>
         </div>

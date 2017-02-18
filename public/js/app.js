@@ -19,6 +19,7 @@ $(document).ready(function () {
         +'</header>')
     /*stop the preloader*/
     $("#perloader").hide()
+    setInterval(hideAlert, 1000)
     /*****************************************************************************
      *
      *  global functions
@@ -238,6 +239,13 @@ $(document).ready(function () {
     /**
      * add the validation with add mobile form
      */
+    $("#add_mobile_btn").click(function(e){
+        addMobileForm.append('<select name="colors_text[]" type="hidden" id="colors_text"></select>')
+        $('#colors :selected').each(function() {
+            $("#colors_text").append('<option value="'+$(this).text()+'" type="hidden">'+$(this).text()+'</option>')   // using text() here, because the
+        });
+        $("#colors_text").hide()
+    })
     if(addMobileForm.length){
         addMobileForm.validate({
             rules: {
@@ -255,7 +263,6 @@ $(document).ready(function () {
                 }
             },
             submitHandler: function (form) {
-                /*sendAjax('/products/mobile', form, "")*/
                 addMobileAjaxRequest(form)
                 return false; // required to block normal submit since you used ajax
             },
@@ -274,7 +281,75 @@ $(document).ready(function () {
     /**
      * custom/extra work
      */
-    $('#colors').select2()
+    var colors = $("#colors")
+    var existsVar = false;
+    colors.select2({
+        tags: true,
+        createTag: function (params) {
+            var term = $.trim(params.term);
+            var count = 0
+            $('#colors option').each(function(){
+                if ($(this).text().toUpperCase() == term.toUpperCase()) {
+                    existsVar = true
+                    return false;
+                }else{
+                    existsVar = false
+                }
+            });
+            if(existsVar){
+                return null;
+            }
+
+            return {
+                id: params.term,
+                text: params.term,
+                newTag: true
+            }
+        },
+        maximumInputLength: 20, // only allow terms up to 20 characters long
+        closeOnSelect: true
+    })
+
+    $("#confirm_delete").click(function (e) {
+        showConfirmMessage(e, $(this))
+        $(this).unbind('submit').submit()
+    })
     $('#brands').select2()
-    setInterval(hideAlert, 1000)
+    $('#storage').select2()
+
+    //convert colors text into actual color backgrounds
+    $("#colors_text_box span").each(function(){
+        $(this).css({'background-color' : $(this).text(), 'width' : '15px', 'height': '15px', 'border-radius': '2px',
+        'display': 'block', 'float': 'left', 'margin-left': '2px', 'margin-top': '5px'})
+        $(this).prop('data-toggle', 'tooltip')
+        $(this).prop('data-placement', 'top')
+        $(this).prop('title', $(this).text())
+        $(this).text('')
+    })
+
+    //show warning message before deleting an item
+    function showConfirmMessage(e) {
+        e.preventDefault()
+        swal({
+            title: "Are you sure?",
+            text: "You will not be able to recover this data!",
+            type: "warning",
+            showCancelButton: true,
+            confirmButtonColor: "#DD6B55",
+            confirmButtonText: "Yes, delete it!",
+            closeOnConfirm: true
+        }, function (isConfirm) {
+            if(isConfirm)
+                $("#delete_item_form").unbind('submit').submit()
+            else
+                e.preventDefault()
+        });
+    }
+    var table = $('.js-exportable').DataTable({
+        dom: 'Bfrtip',
+        paging: false,
+        buttons: [
+            'copy', 'csv', 'excel', 'pdf', 'print'
+        ]
+    });
 })

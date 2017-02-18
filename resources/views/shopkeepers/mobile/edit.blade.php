@@ -1,35 +1,29 @@
 @extends('layouts.app')
-
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet">
 @section('content')
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <div class="panel panel-default">
-                    <div class="panel-heading">Edit Mobile {{ $mobile->id}}</div>
-                    <div class="panel-body">
+    <div class="row">
+        <div class="col-md-12">
+            @if ($errors->any())
+                <ul class="alert alert-danger">
+                    @foreach ($errors->all() as $error)
+                        <li>{{ $error }}</li>
+                    @endforeach
+                </ul>
+            @endif
 
-                        @if ($errors->any())
-                            <ul class="alert alert-danger">
-                                @foreach ($errors->all() as $error)
-                                    <li>{{ $error }}</li>
-                                @endforeach
-                            </ul>
-                        @endif
+            {!! Form::model($mobile, [
+                'method' => 'PATCH',
+                'url' => ['/products/mobile', $mobile->id],
+                'class' => 'form-horizontal',
+                'files' => true
+            ]) !!}
 
-                        {!! Form::model($mobile, [
-                            'method' => 'PATCH',
-                            'url' => ['/products/mobile', $mobile->id],
-                            'class' => 'form-horizontal',
-                            'files' => true
-                        ]) !!}
+            @include ('shopkeepers.mobile.update')
 
-                        @include ('shopkeepers.mobile.form', ['submitButtonText' => 'Update'])
-
-                        {!! Form::close() !!}
-
-                    </div>
-                </div>
-            </div>
+            {!! Form::close() !!}
         </div>
     </div>
+@endsection
+@section('footer')
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
 @endsection

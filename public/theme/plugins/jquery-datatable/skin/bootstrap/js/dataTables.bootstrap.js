@@ -201,6 +201,5 @@ else if ( jQuery ) {
 	factory( jQuery, jQuery.fn.dataTable );
 }
 
-
 })(window, document);
 
