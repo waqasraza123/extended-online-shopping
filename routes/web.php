@@ -35,5 +35,17 @@ Route::get('/products/brands/{id}/{name}',
  * Test routes
  */
 Route::get('test', function(){
-    return \Illuminate\Support\Facades\Auth::user()->id;
+    $save = null;
+    if(!file_exists(public_path().'/uploads/mobiles/daraz')){
+        \Illuminate\Support\Facades\File::makeDirectory(public_path(). '/uploads/products/mobiles/daraz', 0777, true);
+    }
+    /*while($save == null ){
+        try{
+            $save = copy('https://static.daraz.pk/p/apple-4335-9133646-1-catalog_grid_3.jpg',
+                public_path().'/uploads/products/flower.png');
+        }
+        catch (Exception $err){
+            $stop = null;
+        }
+    }*/
 });

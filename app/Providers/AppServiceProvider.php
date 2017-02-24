@@ -1,11 +1,13 @@
 <?php
 
 namespace App\Providers;
+use Illuminate\Support\Facades\View;
 use Validator;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
 {
+    public $placeholderImage;
     /**
      * Bootstrap any application services.
      *
@@ -25,6 +27,9 @@ class AppServiceProvider extends ServiceProvider
             //current price (parameters) should obviously be greater than discount price
             return $parameters > $value;
         });
+
+        $this->placeholderImage = url('/').'/uploads/placeholder.png';
+        View::share('placeholderImage', $this->placeholderImage);
     }
 
     /**

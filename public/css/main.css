@@ -223,3 +223,22 @@ p {
     height: 100% !important;
 }
 .sidebar{width: 250px}
+.margin-0{margin: 0}
+.image_outer{padding: 40px; background-color: #F1F5F7}.small-font{font-size: 9px}
+.white-block.product-box{
+    padding: 5px;
+    background-color: white;
+    border: 1px solid;
+    border-color: whitesmoke;
+}
+.white-block .white-block-border{
+    padding: 2px;
+    border: 1px solid;
+    border-color: whitesmoke;
+}
+.product-data {
+    padding: 20px 5px;
+    min-height: 160px;
+}
+.frontend-content{background-color: #F1F5F7}
+

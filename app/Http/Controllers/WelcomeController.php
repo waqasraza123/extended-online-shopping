@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Brand;
+use App\Mobile;
 use Illuminate\Http\Request;
 
 class WelcomeController extends Controller
@@ -15,6 +16,7 @@ class WelcomeController extends Controller
     public function index()
     {
         $brands = Brand::all();
-        return view('welcome')->withBrands($brands);
+        $mobiles = Mobile::paginate(24);
+        return view('welcome', compact('mobiles'))->withBrands($brands);
     }
 }

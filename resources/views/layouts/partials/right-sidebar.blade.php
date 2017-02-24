@@ -356,10 +356,11 @@
         <!-- Footer -->
         <div class="legal">
             <div class="copyright">
-                &copy; 2016 <a href="javascript:void(0);">AdminBSB - Material Design</a>.
+                <h4>Extended Online Shopping</h4>
+                <a href="/">Buy it cheap and Better!</a>
             </div>
             <div class="version">
-                <b>Version: </b> 1.0.4
+                <b>Version: </b> 1.0  - &copy; 2016 - <?php echo date('Y')?>
             </div>
         </div>
         <!-- #Footer -->

@@ -56,14 +56,13 @@
                                             'method'=>'DELETE',
                                             'url' => ['/products/mobile', $mobile->id],
                                             'style' => 'display:inline',
-                                            'id' => 'delete_item_form'
+                                            'class' => 'delete_item_form'
                                         ]) !!}
                                         {!! Form::button('<span class="glyphicon glyphicon-trash waves-effect" aria-hidden="true" title="Delete Mobile" />', array(
                                                 'type' => 'submit',
-                                                'class' => 'btn btn-danger btn-xs',
+                                                'class' => 'btn btn-danger btn-xs confirm_delete',
                                                 'title' => 'Delete Mobile',
-                                                'data-type' => 'confirm',
-                                                'id' => 'confirm_delete'
+                                                'data-type' => 'confirm'
                                         )) !!}
                                         {!! Form::close() !!}
                                     </td>

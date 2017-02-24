@@ -10,8 +10,17 @@
             @include('partials.error-messages.error')
             @include('partials.error-messages.success')
             <div class="panel panel-default">
-                <div class="panel-heading">Mobiles
-                    <a style="float: right;" href="{{ url('/products/mobile/create') }}" class="btn btn-primary btn-sm" title="Add New Mobile"><span class="glyphicon glyphicon-plus" aria-hidden="true"/> Add New</a>
+                <div class="panel-heading">
+                    <div class="row">
+                        <div class="col-sm-6"><h3>Mobiles</h3></div>
+                        <div class="col-sm-6">
+                            <a style="margin-top: 10px; margin-bottom: 10px"
+                               href="{{ url('/products/mobile/create') }}"
+                               class="pull-right btn btn-primary btn-circle waves-effect waves-circle waves-float" title="Add New Mobile">
+                                <span class="glyphicon glyphicon-plus" aria-hidden="true"/>
+                            </a>
+                        </div>
+                    </div>
                 </div>
                 <div class="panel-body">
                     <div class="table-responsive" style="padding-top: 10px">
@@ -35,24 +44,24 @@
                                     <td>{{ $item->id }}</td>
                                     <td>{{ $item->title }}</td>
                                     <td>{{ $item->brand->name }}</td>
-                                    <td id="colors_text_box">
+                                    <td id="colors_text_box" class="remove_spaces">
+                                        <?php $col = '';?>
                                         @foreach($item->colors as $color)
-                                            <span>
-                                                {{ trim($color->color)}}
-                                            </span>
+                                            <?php !$loop->last == true ? $col.=$color->color.' | ' : $col.=$color->color; ?>
                                         @endforeach
+                                        {{$col}}
                                     </td>
-
-                                    <td>
+                                    @spaceless
+                                    <td class="remove_spaces">
+                                        <?php $sto = '';?>
                                         @foreach($item->storages as $s)
-                                            {{$s->storage}}
-                                            @if(!$loop->last)
-                                                {{'|'}}
-                                            @endif
+                                            <?php (!$loop->last) == true ? $sto.=$s->storage.' | ' : $sto.=$s->storage.""; ?>
                                         @endforeach
+                                        {{$sto}}
                                     </td>
+                                    @endspaceless
                                     <td>{{$item->stock}}</td>
-                                    <td>{{number_format($item->current_price)}}</td>
+                                    <td>{{strcmp($item->current_price, "0") == 0 ? (strpos($item->old_price, ',') !== false ? $item->old_price : number_format($item->old_price)) : (strpos($item->current_price, ',') !== false ? $item->current_price : number_format($item->current_price))}}</td>
                                     <td>{{$item->discount}}</td>
 
                                     <td>
@@ -62,14 +71,13 @@
                                             'method'=>'DELETE',
                                             'url' => ['/products/mobile', $item->id],
                                             'style' => 'display:inline',
-                                            'id' => 'delete_item_form'
+                                            'class' => 'delete_item_form'
                                         ]) !!}
                                             {!! Form::button('<span class="glyphicon glyphicon-trash waves-effect" aria-hidden="true" title="Delete Mobile" />', array(
                                                     'type' => 'submit',
-                                                    'class' => 'btn btn-danger btn-xs',
+                                                    'class' => 'btn btn-danger btn-xs confirm_delete',
                                                     'title' => 'Delete Mobile',
-                                                    'data-type' => 'confirm',
-                                                    'id' => 'confirm_delete'
+                                                    'data-type' => 'confirm'
                                             )) !!}
                                         {!! Form::close() !!}
                                     </td>

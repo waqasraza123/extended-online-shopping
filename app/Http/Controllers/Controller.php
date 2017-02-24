@@ -6,11 +6,13 @@ use App\Brand;
 use App\Mobile;
 use App\Shop;
 use App\Storage;
+use App\User;
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Session;
 
 class Controller extends BaseController
@@ -42,6 +44,9 @@ class Controller extends BaseController
         }
         else
             $this->authenticated = false;
+
+        //create the directory
+
 
         /*$this->brands = collect([
             'Samsung' => 'Samsung',
@@ -123,5 +128,69 @@ class Controller extends BaseController
             $m->storage = $s;
             $m->save();
         }*/
+
+
+        /*create the online shops and users*/
+
+        //create the online shop users
+        /*User::insert([
+            [
+                'name' => 'Daraz',
+                'email_phone' => 'customer@daraz.pk',
+                'phone' => '021-111-132-729',
+                'email' => 'customer@daraz.pk',
+                'password' => bcrypt('D@r@z')
+            ],
+            [
+                'name' => 'Mega',
+                'email_phone' => 'info@mega.pk',
+                'phone' => '021-3-111-634275',
+                'email' => 'info@mega.pk',
+                'password' => bcrypt('MEg@')
+            ],
+            [
+                'name' => 'Telemart',
+                'email_phone' => 'info@telemart.pk',
+                'phone' => '021-111-662453',
+                'email' => 'info@telemart.pk',
+                'password' => bcrypt('Telem@rt')
+            ]
+        ]);*/
+
+        //create the online shops
+        /*$darazUserId = User::where('email', 'customer@daraz.pk')->first()->id;
+        $megaUserId = User::where('email', 'info@mega.pk')->first()->id;
+        $telemartUserId = User::where('email', 'info@telemart.pk')->first()->id;*/
+        /*Shop::insert([
+            [
+                'shop_name' => 'Daraz',
+                'phone' => '021-111-132-729',
+                'market_plaza' => 'online',
+                'location' => 'online',
+                'user_id' => $darazUserId,
+                'city' => 'online'
+            ],
+            [
+                'shop_name' => 'Mega',
+                'phone' => '021-3-111-634275',
+                'market_plaza' => 'online',
+                'location' => 'online',
+                'user_id' => $megaUserId,
+                'city' => 'online'
+            ],
+            [
+                'shop_name' => 'Telemart',
+                'phone' => '021-111-662453',
+                'market_plaza' => 'online',
+                'location' => 'online',
+                'user_id' => $telemartUserId,
+                'city' => 'online'
+            ]
+        ]);*/
+    }
+
+    public function createDirectory($shopName, $category){
+        if(!file_exists(public_path().'/uploads/products/'.$category.'/'.$shopName))
+            File::makeDirectory(public_path().'/uploads/products/'.$category.'/'.$shopName, 0777, true);
     }
 }

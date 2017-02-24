@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "90ca99af5b93699d229a757b2052a1bd",
-    "content-hash": "ce1d4926dbaf18d4e069a1480ba6e919",
+    "hash": "d47dcb188b4e8cd3e7cdc702defe4df8",
+    "content-hash": "77b2713e7db3675f41c0efaff778dcc9",
     "packages": [
         {
             "name": "appzcoder/crud-generator",
-            "version": "v2.0.0",
+            "version": "v2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/appzcoder/crud-generator.git",
-                "reference": "7b7d75aee6a0ef2bf457dd4ab975265ada3921af"
+                "reference": "93ec6907d78cbadc381f56d054565f31ce46944b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/appzcoder/crud-generator/zipball/7b7d75aee6a0ef2bf457dd4ab975265ada3921af",
-                "reference": "7b7d75aee6a0ef2bf457dd4ab975265ada3921af",
+                "url": "https://api.github.com/repos/appzcoder/crud-generator/zipball/93ec6907d78cbadc381f56d054565f31ce46944b",
+                "reference": "93ec6907d78cbadc381f56d054565f31ce46944b",
                 "shasum": ""
             },
             "require": {
@@ -57,7 +57,7 @@
                 "laravel",
                 "laravel crud generator"
             ],
-            "time": "2016-12-17 15:06:13"
+            "time": "2017-02-11 12:25:38"
         },
         {
             "name": "classpreloader/classpreloader",
@@ -426,6 +426,49 @@
                 "uri"
             ],
             "time": "2016-06-24 23:00:38"
+        },
+        {
+            "name": "hedronium/spaceless-blade",
+            "version": "v2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Hedronium/SpacelessBlade.git",
+                "reference": "bcf36bcc046dffc18d8ef161356933069bf2cdc1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Hedronium/SpacelessBlade/zipball/bcf36bcc046dffc18d8ef161356933069bf2cdc1",
+                "reference": "bcf36bcc046dffc18d8ef161356933069bf2cdc1",
+                "shasum": ""
+            },
+            "replace": {
+                "solidew/spaceless-blade": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "hedronium\\SpacelessBlade\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Omran Jamal",
+                    "email": "o.jamal97@gmail.com",
+                    "homepage": "http://about.me/omran.jamal"
+                }
+            ],
+            "description": "Adds the @spaceless tag to Blade. (works like in Twig)",
+            "keywords": [
+                "blade",
+                "laravel",
+                "spaceless",
+                "twig"
+            ],
+            "time": "2016-01-25 17:22:00"
         },
         {
             "name": "jakub-onderka/php-console-color",
@@ -1262,16 +1305,16 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v3.0.3",
+            "version": "v3.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "5b8182cc0abb4b0ff290ba9df6c0e1323286013a"
+                "reference": "0bf561dfe75ba80441c22adecc0529056671a7d2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/5b8182cc0abb4b0ff290ba9df6c0e1323286013a",
-                "reference": "5b8182cc0abb4b0ff290ba9df6c0e1323286013a",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/0bf561dfe75ba80441c22adecc0529056671a7d2",
+                "reference": "0bf561dfe75ba80441c22adecc0529056671a7d2",
                 "shasum": ""
             },
             "require": {
@@ -1309,7 +1352,7 @@
                 "parser",
                 "php"
             ],
-            "time": "2017-02-03 21:57:31"
+            "time": "2017-02-10 20:20:03"
         },
         {
             "name": "paragonie/random_compat",
@@ -1705,16 +1748,16 @@
         },
         {
             "name": "swiftmailer/swiftmailer",
-            "version": "v5.4.5",
+            "version": "v5.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/swiftmailer/swiftmailer.git",
-                "reference": "cd142238a339459b10da3d8234220963f392540c"
+                "reference": "81fdccfaf8bdc5d5d7a1ef6bb3a61bbb1a6c4a3e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/cd142238a339459b10da3d8234220963f392540c",
-                "reference": "cd142238a339459b10da3d8234220963f392540c",
+                "url": "https://api.github.com/repos/swiftmailer/swiftmailer/zipball/81fdccfaf8bdc5d5d7a1ef6bb3a61bbb1a6c4a3e",
+                "reference": "81fdccfaf8bdc5d5d7a1ef6bb3a61bbb1a6c4a3e",
                 "shasum": ""
             },
             "require": {
@@ -1755,7 +1798,7 @@
                 "mail",
                 "mailer"
             ],
-            "time": "2016-12-29 10:02:40"
+            "time": "2017-02-13 07:52:53"
         },
         {
             "name": "symfony/console",
@@ -1877,7 +1920,7 @@
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v3.2.3",
+            "version": "v3.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
@@ -3878,16 +3921,16 @@
         },
         {
             "name": "sebastian/object-enumerator",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/object-enumerator.git",
-                "reference": "96f8a3f257b69e8128ad74d3a7fd464bcbaa3b35"
+                "reference": "1311872ac850040a79c3c058bea3e22d0f09cbb7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/object-enumerator/zipball/96f8a3f257b69e8128ad74d3a7fd464bcbaa3b35",
-                "reference": "96f8a3f257b69e8128ad74d3a7fd464bcbaa3b35",
+                "url": "https://api.github.com/repos/sebastianbergmann/object-enumerator/zipball/1311872ac850040a79c3c058bea3e22d0f09cbb7",
+                "reference": "1311872ac850040a79c3c058bea3e22d0f09cbb7",
                 "shasum": ""
             },
             "require": {
@@ -3920,7 +3963,7 @@
             ],
             "description": "Traverses array structures and object graphs to enumerate all referenced objects",
             "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
-            "time": "2016-11-19 07:35:10"
+            "time": "2017-02-18 15:18:39"
         },
         {
             "name": "sebastian/recursion-context",
@@ -4171,16 +4214,16 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.2.3",
+            "version": "v3.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "e1718c6bf57e1efbb8793ada951584b2ab27775b"
+                "reference": "9724c684646fcb5387d579b4bfaa63ee0b0c64c8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/e1718c6bf57e1efbb8793ada951584b2ab27775b",
-                "reference": "e1718c6bf57e1efbb8793ada951584b2ab27775b",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/9724c684646fcb5387d579b4bfaa63ee0b0c64c8",
+                "reference": "9724c684646fcb5387d579b4bfaa63ee0b0c64c8",
                 "shasum": ""
             },
             "require": {
@@ -4222,7 +4265,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-21 17:06:35"
+            "time": "2017-02-16 22:46:52"
         },
         {
             "name": "webmozart/assert",

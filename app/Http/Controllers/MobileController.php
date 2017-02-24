@@ -31,7 +31,7 @@ class MobileController extends Controller
      */
     public function index()
     {
-        $mobile = Mobile::paginate(25);
+        $mobile = Mobile::paginate(24);
 
         return view('shopkeepers.mobile.index', compact('mobile'));
     }
@@ -65,9 +65,8 @@ class MobileController extends Controller
 
         if (Input::file('product_image')->isValid()) {
             $extension = Input::file('product_image')->getClientOriginalExtension(); // getting image extension
-            $fileName = $data['title'].' '.$controller->currentShop->shop_name.'.'.$extension; // renameing image
-
-            Input::file('product_image')->move(public_path().$destinationPath, $fileName); // uploading file to given path
+            $fileName = str_replace(" ", "_", strtolower($data['title'].' '.$controller->currentShop->shop_name.'.'.$extension)); // renameing image
+            Input::file('product_image')->move(public_path().$destinationPath, $fileName);
         }
 
         foreach ($data['colors'] as $key => $c){
@@ -86,12 +85,12 @@ class MobileController extends Controller
         $mobile = null;
         DB::transaction(function () use ($destinationPath, $fileName, $data, $colorsArray) {
             $mobile  = Mobile::create([
-                'title' => $data['title'],
+                'title' => ucwords($data['title']),
                 'brand_id' => $data['brands'],
-                'image' => public_path().$destinationPath.'/'.$fileName,
+                'image' => url('/').$destinationPath.'/'.$fileName,
                 'link' => '#',
-                'current_price' => $data['current_price'],
-                'old_price' => $data['discount_price'],
+                'current_price' => $data['discount_price'], //discount price is new price so it would be current price
+                'old_price' => $data['current_price'],
                 'local_online' => 'l',
                 'stock' => $data['stock'],
                 'shop_id' => $this->shopId == null ? 0 : $this->shopId,
@@ -172,7 +171,7 @@ class MobileController extends Controller
 
         if (Input::file('product_image')->isValid()) {
             $extension = Input::file('product_image')->getClientOriginalExtension(); // getting image extension
-            $fileName = $data['title'].' '.$controller->currentShop->shop_name.'.'.$extension; // renameing image
+            $fileName = str_replace(" ", "_", strtolower($data['title'].' '.$controller->currentShop->shop_name.'.'.$extension));
 
             Input::file('product_image')->move(public_path().$destinationPath, $fileName); // uploading file to given path
         }
@@ -193,12 +192,12 @@ class MobileController extends Controller
         $mobile = null;
         DB::transaction(function () use ($destinationPath, $fileName, $data, $colorsArray, $id) {
             $mobile  = Mobile::find($id)->update([
-                'title' => $data['title'],
+                'title' => ucwords($data['title']),
                 'brand_id' => $data['brands'],
-                'image' => public_path().$destinationPath.'/'.$fileName,
+                'image' => url('/').$destinationPath.'/'.$fileName,
                 'link' => '#',
-                'current_price' => $data['current_price'],
-                'old_price' => $data['discount_price'],
+                'current_price' => $data['discount_price'], //discount price is new price so it would be current price
+                'old_price' => $data['current_price'],
                 'local_online' => 'l',
                 'stock' => $data['stock'],
                 'shop_id' => $this->shopId == null ? 0 : $this->shopId,

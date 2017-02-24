@@ -310,7 +310,7 @@ $(document).ready(function () {
         closeOnSelect: true
     })
 
-    $("#confirm_delete").click(function (e) {
+    $(".confirm_delete").click(function (e) {
         showConfirmMessage(e, $(this))
         $(this).unbind('submit').submit()
     })
@@ -318,14 +318,13 @@ $(document).ready(function () {
     $('#storage').select2()
 
     //convert colors text into actual color backgrounds
-    $("#colors_text_box span").each(function(){
+    /*$("#colors_text_box span").each(function(){
         $(this).css({'background-color' : $(this).text(), 'width' : '15px', 'height': '15px', 'border-radius': '2px',
         'display': 'block', 'float': 'left', 'margin-left': '2px', 'margin-top': '5px'})
         $(this).prop('data-toggle', 'tooltip')
         $(this).prop('data-placement', 'top')
         $(this).prop('title', $(this).text())
-        $(this).text('')
-    })
+    })*/
 
     //show warning message before deleting an item
     function showConfirmMessage(e) {
@@ -340,16 +339,110 @@ $(document).ready(function () {
             closeOnConfirm: true
         }, function (isConfirm) {
             if(isConfirm)
-                $("#delete_item_form").unbind('submit').submit()
+                $(".delete_item_form").unbind('submit').submit()
             else
                 e.preventDefault()
         });
     }
-    var table = $('.js-exportable').DataTable({
-        dom: 'Bfrtip',
-        paging: false,
-        buttons: [
-            'copy', 'csv', 'excel', 'pdf', 'print'
-        ]
-    });
-})
+
+    //jquery datatables
+    try{
+        var table = $('.js-exportable').DataTable({
+            dom: 'Bfrtip',
+            paging: false,
+            buttons: [
+                'copy', 'csv', 'excel', 'pdf', 'print'
+            ]
+        });
+    }
+    catch(err) {
+        console.log(err)
+    }
+    $(".remove_spaces").each(function(){
+        $(this).text($.trim($(this).text()).replace(/(\r\n|\n|\r)/gm,''))
+    })
+    $.fn.unveil = function(threshold, callback) {
+
+        var $w = $(window),
+            th = threshold || 0,
+            retina = window.devicePixelRatio > 1,
+            attrib = retina? "data-src-retina" : "data-src",
+            images = this,
+            loaded;
+
+        this.one("unveil", function() {
+            var source = this.getAttribute(attrib);
+            source = source || this.getAttribute("data-src");
+            if (source) {
+                this.setAttribute("src", source);
+                if (typeof callback === "function") callback.call(this);
+            }
+        });
+
+        function unveil() {
+            var inview = images.filter(function() {
+                var $e = $(this);
+                if ($e.is(":hidden")) return;
+
+                var wt = $w.scrollTop(),
+                    wb = wt + $w.height(),
+                    et = $e.offset().top,
+                    eb = et + $e.height();
+
+                return eb >= wt - th && et <= wb + th;
+            });
+
+            loaded = inview.trigger("unveil");
+            images = images.not(loaded);
+        }
+
+        $w.on("scroll.unveil resize.unveil lookup.unveil", unveil);
+
+        unveil();
+
+        return this;
+
+    };
+    $('img').unveil()
+
+    $.ajax({
+        url: 'http://localhost:8000/python-data/daraz/mobiles/KH3423K4HPQEQN2342091313K23WDQKDJDDQWJD9804H',
+        type: 'POST',
+        data: {1: {
+            "url": "https://www.daraz.pk/hp-notebook-15-ay015nx-core-i3-5005u-red-6509413.html",
+            "color": "Red",
+            "image_url": "https://static.daraz.pk/p/hp-6695-3149056-1-catalog_grid_3.jpg",
+            "brand": "HP",
+            "title_alt": "Notebook - 15-ay015nx - Core-i3-5005U - Red",
+            "currency": "Rs.",
+            "current_price": "39,700",
+            "old_price": "45,000",
+            "discount_percent": "12%",
+            "rating_percent": 0,
+            "total_ratings": "14",
+            "stock": "In Stock"
+        },
+            2: {
+                "url": "https://www.daraz.pk/hp-notebook-15-ay015nx-core-i3-5005u-red-6509413.html",
+                "color": "Red",
+                "image_url": "https://static.daraz.pk/p/hp-6695-3149056-1-catalog_grid_3.jpg",
+                "brand": "HP",
+                "title_alt": "Notebook - 15-ay015nx - Core-i3-5005U - Red",
+                "currency": "Rs.",
+                "current_price": "39,700",
+                "old_price": "45,000",
+                "discount_percent": "12%",
+                "rating_percent": 0,
+                "total_ratings": "14",
+                "stock": "In Stock"
+            }
+        },
+        success: function(data){
+            console.log(data)
+        },
+        error: function(err){
+            console.log(err)
+        }
+    })
+
+})//document ready ends here

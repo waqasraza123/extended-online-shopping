@@ -2,12 +2,17 @@
 
 namespace App\Http\Controllers;
 
+use App\Brand;
+use App\Color;
 use App\Laptop;
 use App\Mobile;
+use App\Shop;
 use Illuminate\Http\Request;
+use League\Flysystem\Exception;
+
 class PythonController extends Controller
 {
-    private $shopName, $category, $token = null;
+    private $shopName, $category, $token, $isMobile, $isLaptop = null;
     /**
      * @param Request $request
      * validate the incoming request
@@ -29,7 +34,6 @@ class PythonController extends Controller
      */
     public function save(Request $request, $shop_name, $category, $token){
         $data = $request->all();
-
         $this->shopName = $shop_name;
         $this->category = $category;
         $this->token = $token;
@@ -41,45 +45,115 @@ class PythonController extends Controller
         {
             if(in_array($category, $mobileCategories)){
                 $obj = new Mobile();
+                $this->isMobile = true;
             }
             if(in_array($category, $laptopCategories)){
                 $obj = new Laptop();
+                $this->isLaptop = true;
             }
             //update the data if already there
             $exists = $obj->where('link', $row['url'])->first();
             if($exists){
-                $exists->color = $row['color'];
                 $exists->title = $row['title_alt'];
-                $exists->brand = $row['brand'];
+                $exists->brand_id = $this->saveBrand($row['brand']);
                 $exists->image = $row['image_url'];
                 $exists->link = $row['url'];
-                $exists->rating = $row['rating_percent'];
+                //$exists->rating = $row['rating_percent'];
                 $exists->old_price = $row['old_price'];
                 $exists->current_price = $row['current_price'];
                 $exists->discount = $row['discount_percent'];
-                $exists->total_ratings = $row['total_ratings'];
+                //$exists->total_ratings = $row['total_ratings'];
                 $exists->local_online = 'o';
                 $exists->stock = $row['stock'];
-                $exists->shop_id = 1;
+                $exists->shop_id = $this->getShopId();
                 $exists->save();
+
+                $this->saveColors($row['color'], $exists->id);
             }
             else{
                 //get the outer keys, data_sku
-                $obj->color = $row['color'];
                 $obj->title = $row['title_alt'];
-                $obj->brand = $row['brand'];
+                $obj->brand_id = $this->saveBrand($row['brand']);
                 $obj->image = $row['image_url'];
                 $obj->link = $row['url'];
-                $obj->rating = $row['rating_percent'];
+                //$exists->rating = $row['rating_percent'];
                 $obj->old_price = $row['old_price'];
                 $obj->current_price = $row['current_price'];
                 $obj->discount = $row['discount_percent'];
-                $obj->total_ratings = $row['total_ratings'];
+                //$exists->total_ratings = $row['total_ratings'];
                 $obj->local_online = 'o';
                 $obj->stock = $row['stock'];
-                $obj->shop_id = 1;
+                $obj->shop_id = $this->getShopId();
                 $obj->save();
+
+                $this->saveColors($row['color'], $obj->id);
             }
         }//foreach ends
     }//save ends
+
+    /**
+     * save brands and associates with products
+     * @param $brandName
+     * @return mixed
+     */
+    public function saveBrand($brandName){
+        $brand = Brand::firstOrCreate(['name' => $brandName]);
+        return $brand->id;
+    }
+
+    /**
+     * save the product images
+     * @param $imageUrl
+     */
+    public function saveImage($imageUrl, $title){
+
+        $title = strtolower(str_replace(' ', '_', $title));
+
+        if($this->isMobile){
+            $this->createDirectory($this->shopName, 'mobiles');
+        }
+        else{
+            $this->createDirectory($this->shopName, 'laptops');
+        }
+
+        try{
+            if($this->isMobile){
+                copy($imageUrl, public_path().'/uploads/products/mobiles/'.$this->shopName . '/' . $title.'.png');
+                return public_path().'/uploads/products/mobiles/'.$this->shopName . '/' . $title.'.png';
+            }
+            else{
+                copy($imageUrl, public_path().'/uploads/products/laptops/'.$this->shopName . '/' . $title.'.png');
+                return public_path().'/uploads/products/laptops/'.$this->shopName . '/' . $title.'.png';
+            }
+        }
+        catch (Exception $e){}
+    }
+
+    /**
+     * sync the colors
+     * @param $colors
+     */
+    public function saveColors($colors, $mobileId){
+        $mobile = Mobile::find($mobileId);
+        if(strpos($colors, ',') !== false){
+            $colors = explode(',', $colors);
+        }
+        else if (strpos($colors, '|') !== false){
+            $colors = explode('|', $colors);
+        }
+
+        $colorsArray = array();
+        if(is_array($colors) or ($colors instanceof \Traversable))
+            foreach ($colors as $color){
+                if($color) {
+                    $c = Color::firstOrCreate(['color' => $color]);
+                    array_push($colorsArray, $c->id);
+                }
+            }
+        $mobile->colors()->sync($colorsArray);
+    }
+
+    public function getShopId(){
+        return Shop::where('shop_name', ucwords($this->shopName))->first()->id;
+    }
 }

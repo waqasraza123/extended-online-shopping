@@ -25,10 +25,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-2 left_sidebar">
-            @include('layouts.partials.sidebar')
-        </div>
-        <div class="col-md-8 content" style="margin-top:100px">
+        <div class="col-md-10 content frontend-content" style="margin-top:100px">
             @yield('content')
         </div>
         <div class="col-md-2 right_sidebar">
