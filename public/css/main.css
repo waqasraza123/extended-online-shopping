@@ -238,7 +238,13 @@ p {
 }
 .product-data {
     padding: 20px 5px;
-    min-height: 160px;
+    min-height: 100px;
 }
 .frontend-content{background-color: #F1F5F7}
+.col-sm-6.col-md-3.product.mobile {
+    margin-bottom: 20px;
+}
+.shops-info-table thead tr i{
+    font-size: 12px !important;
+}
 

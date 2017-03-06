@@ -10,7 +10,7 @@
         "laravel/passport": "^1.0",
         "appzcoder/crud-generator": "^2.0",
         "laravelcollective/html": "5.3.*",
-        "hedronium/spaceless-blade": "~2.0"
+        "laravel/scout": "2.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

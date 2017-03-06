@@ -255,10 +255,14 @@ class MobileController extends Controller
      * @return string
      */
     public function discount($newPrice, $oldPrice){
-        $percent = ($oldPrice - $newPrice)/$oldPrice;
+
         if($newPrice == '0'){
             return 0 . '%';
         }
+        if($oldPrice == 0){
+            return 0 . '%';
+        }
+        $percent = ($oldPrice - $newPrice)/$oldPrice;
         return number_format( $percent * 100, 2 ) . '%'; // change 2 to # of decimals
     }
 }

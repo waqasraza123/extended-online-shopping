@@ -14,5 +14,9 @@ use Illuminate\Http\Request;
 */
 
 Route::get('/user', function (Request $request) {
-    return $request->user();
+    return \App\Mobile::where('title', 'LIKE', 'iphone')->get();
 })->middleware('auth:api');
+
+Route::get("/search/{search_term}", 'APIController@searchData')->name('search-api');
+Route::get("/search/single/{id}", 'APIController@returnSinglePhoneData')->name('search-api-single');
+Route::get("/search/shop/{id}", 'APIController@returnShopData')->name('api-shop');

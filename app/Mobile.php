@@ -6,8 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Mobile extends Model
 {
-    protected $fillable = ['id', 'data_sku', 'title', 'brand_id', 'color', 'old_price',
-    'current_price', 'discount', 'local_online', 'shop_id', 'link', 'image', 'stock'];
+    protected $fillable = ['id', 'title', 'brand_id', 'color', 'storage', 'image', 'model'];
 
     public function brand(){
         return $this->belongsTo('App\Brand', 'brand_id', 'id');

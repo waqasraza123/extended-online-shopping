@@ -78,3 +78,8 @@ $factory->define(App\Laptop::class, function (Faker\Generator $faker) {
         }
     ];
 });
+
+$colors = \App\Color::all();
+foreach($mobiles as $m){
+    $m->b()->sync($colors);
+}

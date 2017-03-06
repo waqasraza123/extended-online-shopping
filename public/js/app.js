@@ -31,6 +31,8 @@ $(document).ready(function () {
         $.each(error.responseJSON, function (index, value) {
             $("div.alert-danger ul").append('<li>'+value+'</li>')
         });
+        $(loader).hide()
+        submitButton.prop('disabled', false)
     }
 
     function hideAlert() {
@@ -73,11 +75,10 @@ $(document).ready(function () {
 
                                 });
                     })
-                submitButton.removeProp('disabled')
+                submitButton.prop('disabled', false)
+                loader.hide()
             },
             error: function (error) {
-                $(loader).hide()
-                submitButton.removeProp('disabled')
                 showErrors(error)
             }
         })
@@ -138,13 +139,13 @@ $(document).ready(function () {
             type: 'post',
             url: url,
             success: function (data) {
-                submitButton.removeProp('disabled')
+                submitButton.prop('disabled', false)
                 $(loader).hide()
                 alert("hola")
                 window.location = redirectUrl
             },
             error: function (error) {
-                submitButton.removeProp('disabled')
+                submitButton.prop('disabled', false)
                 $(loader).hide()
                 showErrors(error)
             }
@@ -283,39 +284,45 @@ $(document).ready(function () {
      */
     var colors = $("#colors")
     var existsVar = false;
-    colors.select2({
-        tags: true,
-        createTag: function (params) {
-            var term = $.trim(params.term);
-            var count = 0
-            $('#colors option').each(function(){
-                if ($(this).text().toUpperCase() == term.toUpperCase()) {
-                    existsVar = true
-                    return false;
-                }else{
-                    existsVar = false
+    try{
+        colors.select2({
+            tags: true,
+            createTag: function (params) {
+                var term = $.trim(params.term);
+                var count = 0
+                $('#colors option').each(function(){
+                    if ($(this).text().toUpperCase() == term.toUpperCase()) {
+                        existsVar = true
+                        return false;
+                    }else{
+                        existsVar = false
+                    }
+                });
+                if(existsVar){
+                    return null;
                 }
-            });
-            if(existsVar){
-                return null;
-            }
 
-            return {
-                id: params.term,
-                text: params.term,
-                newTag: true
-            }
-        },
-        maximumInputLength: 20, // only allow terms up to 20 characters long
-        closeOnSelect: true
-    })
+                return {
+                    id: params.term,
+                    text: params.term,
+                    newTag: true
+                }
+            },
+            maximumInputLength: 20, // only allow terms up to 20 characters long
+            closeOnSelect: true
+        })
+        $('#brands').select2()
+        $('#storage').select2()
+    }
+    catch (err){
+        console.log(err + " select 2 error")
+    }
 
+    //show popup before deleting the item
     $(".confirm_delete").click(function (e) {
         showConfirmMessage(e, $(this))
         $(this).unbind('submit').submit()
     })
-    $('#brands').select2()
-    $('#storage').select2()
 
     //convert colors text into actual color backgrounds
     /*$("#colors_text_box span").each(function(){

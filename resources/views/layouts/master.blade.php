@@ -9,16 +9,6 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>{{ config('app.name', 'Laravel') }}</title>
-    <script>
-        var preloaderParent = document.getElementById("preloaderParent");
-        var preloader = '<header id="perloader">'+
-                '<div aria-busy="true" aria-label="Loading, please wait." role="progressbar"></div>'+
-                '</header>';
-        function insertAfter(newNode, referenceNode) {
-            referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);
-        }
-        insertAfter(preloader, preloaderParent)
-    </script>
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic-ext" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" type="text/css">
@@ -47,6 +37,7 @@
 <div class="overlay"></div>
 <!-- #END# Overlay For Sidebars -->
 <!-- Search Bar -->
+
 <div class="search-bar">
     <div class="search-icon">
         <i class="material-icons">search</i>
@@ -63,7 +54,7 @@
         <div class="navbar-header">
             <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
             <a href="javascript:void(0);" class="bars"></a>
-            <a class="navbar-brand" href="index.html">ADMINBSB - MATERIAL DESIGN</a>
+            <a class="navbar-brand" href="{{route('home')}}">EXTENDED ONLINE SHOPPING</a>
         </div>
         <div class="collapse navbar-collapse" id="navbar-collapse">
             <ul class="nav navbar-nav navbar-right">
@@ -91,7 +82,7 @@
                         </ul>
                     </li>
             @endif
-            <!-- Call Search -->
+            {{--<!-- Call Search -->
                 <li><a href="javascript:void(0);" class="js-search" data-close="true"><i class="material-icons">search</i></a></li>
                 <!-- #END# Call Search -->
                 <!-- Notifications -->
@@ -282,14 +273,14 @@
                     </ul>
                 </li>
                 <!-- #END# Tasks -->
-                <li class="pull-right"><a href="javascript:void(0);" class="js-right-sidebar" data-close="true"><i class="material-icons">more_vert</i></a></li>
+                <li class="pull-right"><a href="javascript:void(0);" class="js-right-sidebar" data-close="true"><i class="material-icons">more_vert</i></a></li>--}}
             </ul>
         </div>
     </div>
 </nav>
 <!-- #Top Bar -->
 
-<section class="container" style="margin-top: 50px">
+<section class="container" style="margin-top: 100px">
     @yield('content')
 </section>
 <!-- jQuery library -->
