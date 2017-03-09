@@ -47,7 +47,14 @@ class APIController extends Controller
      */
     public function returnSinglePhoneData($id){
 
+        /*$temp = collect([1499, 1457, 1472, 1507, 1523, 1587, 1596, 1629, 1641, 1696, 1720, 1752, 1746, 1762, 1768, 1774]);
+        $completeData = array();*/
+
+        /*foreach ($temp as $t){*/
+            //$id = $t;
+
         $mobile = Mobile::find($id);
+
         $mobileData = MobileData::select('shop_id', 'mobile_id')
             ->where('mobile_id', $id)
             ->groupBy(['shop_id', 'mobile_id'])->get();
@@ -70,10 +77,14 @@ class APIController extends Controller
             $dataHolder['title'] = $mobile->title;
             $dataHolder['image_url'] = $mobile->image;
             $dataHolder['brand_id'] = $mobile->brand_id;
+            $dataHolder['shop_name'] = Shop::where('id', $d->shop_id)->first()->shop_name;
 
             array_push($finalArr, $dataHolder);
         }
 
+            //array_push($completeData, $finalArr);
+
+        //}
         return response()->json($finalArr);
     }
 

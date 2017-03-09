@@ -1,4 +1,7 @@
 @extends('layouts.frontend')
+@section('head')
+    <link href="/theme/plugins/sweetalert/sweetalert.css" rel="stylesheet" />
+@endsection
 @section('content')
     @include('frontend.search-bar')
     <div class="row clearfix" style="margin-top: 20px">
@@ -61,7 +64,7 @@
                                         </td>
 
                                         <td valign="middle">
-                                            {{--@if($d->old_price != '0')<strike><small class="small-font">Rs {{$d->old_price}}</small></strike>, @endif --}}<h3 class="col-red">Rs {{$d->current_price}}</h3>
+                                            {{--@if($d->old_price != '0')<strike><small class="small-font">Rs {{$d->old_price}}</small></strike>, @endif --}}<h3 class="col-red">Rs {{(int)$d->current_price}}</h3>
                                         </td>
                                         <td class="col-teal" valign="middle"><h3>
                                             @if($d->current_price == '0' || $d->old_price == '0')
@@ -72,7 +75,11 @@
                                         </h3></td>
 
                                         <td valign="middle">
-                                            <a class="btn btn-lg bg-blue" style="color: #fff; margin-top: 10px;" href="{{$d->link}}">Visit Store Link</a>
+                                            @if($d->local_online == 'l')
+                                                <a class="btn btn-lg bg-teal local-store waves-effect" data-type="with-custom-icon" style="color: #fff; margin-top: 10px;">View Store Info</a>
+                                            @else
+                                                <a class="btn btn-lg bg-blue waves-effect" style="color: #fff; margin-top: 10px;" href="{{$d->link}}">Visit Store Link</a>
+                                            @endif
                                         </td>
                                     </tr>
                                 @endforeach
@@ -84,4 +91,7 @@
             </div>
         </div>
     </div>
+@endsection
+@section('footer')
+    <script src="/theme/plugins/sweetalert/sweetalert.min.js"></script>
 @endsection

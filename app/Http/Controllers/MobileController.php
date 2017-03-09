@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Brand;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
+use App\MobileData;
 use App\Storage;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Input;
@@ -33,6 +34,40 @@ class MobileController extends Controller
     {
         $mobile = Mobile::paginate(24);
 
+        /*$mobiles = Mobile::select('title')
+            ->groupBy('title')
+            ->limit(500)
+            ->offset(100)
+            ->get();
+
+        $data = array();
+        foreach ($mobiles as $index => $m){
+            $mo = Mobile::where([['title', $m->title], ['title', '<>', '']])->first();
+            if($mo){
+                $d = MobileData::where('mobile_id', $mo->id)->first();
+                if($d){
+                    $dataHolder['shop_id'] = $d->shop_id;
+                    $dataHolder['mobile_id'] = $d->mobile_id;
+                    $dataHolder['link'] = $d->link;
+                    $dataHolder['old_price'] = $d->old_price;
+                    $dataHolder['new_price'] = $d->current_price;
+                    $dataHolder['local_online'] = $d->local_online;
+                    $dataHolder['title'] = $mo->title;
+                    $dataHolder['image_url'] = $mo->image;
+                    $dataHolder['brand_id'] = $mo->brand_id;
+                    $dataHolder['color'] = $d->brand_id;
+                    $dataHolder['storage'] = $d->brand_id;
+                    $dataHolder['shop_name'] = Shop::where('id', $d->shop_id)->first()->shop_name;
+
+                    array_push($data, $dataHolder);
+                }
+            }
+        }
+
+
+        $data = collect($data);
+        return response()->json($data);*/
+
         return view('shopkeepers.mobile.index', compact('mobile'));
     }
 
@@ -43,9 +78,9 @@ class MobileController extends Controller
      */
     public function create()
     {
-        $colors = Color::pluck("color", "id");
+        $colors = Color::pluck("color", "color");
         $brands = Brand::pluck('name', 'id');
-        $storage = Storage::pluck('storage', 'id');
+        $storage = Storage::pluck('storage', 'storage');
         return view('shopkeepers.mobile.create', compact('colors', 'brands', 'storage'));
     }
 
@@ -82,34 +117,47 @@ class MobileController extends Controller
             }
         }
         //dd($data['colors']);
-        $mobile = null;
-        DB::transaction(function () use ($destinationPath, $fileName, $data, $colorsArray) {
-            $mobile  = Mobile::create([
-                'title' => ucwords($data['title']),
-                'brand_id' => $data['brands'],
-                'image' => url('/').$destinationPath.'/'.$fileName,
-                'link' => '#',
-                'current_price' => $data['discount_price'], //discount price is new price so it would be current price
-                'old_price' => $data['current_price'],
-                'local_online' => 'l',
-                'stock' => $data['stock'],
-                'shop_id' => $this->shopId == null ? 0 : $this->shopId,
-                'discount' => $this->discount($data['discount_price'], $data['current_price'])
-            ]);
-            //filter the array for string color values
-            $data['colors'] = array_filter($data['colors'], function($var){return (is_numeric($var));});
 
-            //save the colors as well
-            foreach ($data['colors'] as $key => $color){
-                $colorsArray[$color] = ['color_products_type' => 'App\Mobile', 'color_products_id' => $mobile->id];
-            }
+        foreach ($data['storage'] as $s){
+            foreach ($data['colors'] as $c){
+                $mobile = null;
+                DB::transaction(function () use ($destinationPath, $fileName, $data, $colorsArray, $s, $c) {
+                    $dataController = new DataController();
+                    $mobile = Mobile::create([
+                        'title' => ucwords($data['title']),
+                        'image' => url('/').$destinationPath.'/'.$fileName,
+                        'brand_id' => $data['brands'],
+                        'model' => $dataController->getModel($data['title']),
+                        'storage' => $s,
+                        'color' => $c
+                    ]);
 
-            //sync storage
-            if($data['storage']){
-                $mobile->storages()->sync($data['storage']);
+                    $mobileData  = MobileData::create([
+                        'link' => '#',
+                        'current_price' => $data['discount_price'], //discount price is new price so it would be current price
+                        'old_price' => $data['current_price'],
+                        'local_online' => 'l',
+                        //'stock' => $data['stock'],
+                        'mobile_id' => $mobile->id,
+                        'shop_id' => $this->shopId == null ? 0 : $this->shopId,
+                        'discount' => $this->discount($data['discount_price'], $data['current_price'])
+                    ]);
+                    //filter the array for string color values
+                    //$data['colors'] = array_filter($data['colors'], function($var){return (is_numeric($var));});
+
+                    //save the colors as well
+                    /*foreach ($data['colors'] as $key => $color){
+                        $colorsArray[$color] = ['color_products_type' => 'App\Mobile', 'color_products_id' => $mobile->id];
+                    }*/
+
+                    //sync storage
+                    /*if($data['storage']){
+                        $mobile->storages()->sync($data['storage']);
+                    }
+                    $mobile->colors()->sync($colorsArray);*/
+                }, 5);
             }
-            $mobile->colors()->sync($colorsArray);
-        }, 5);
+        }
 
         Session::flash('success', 'Mobile added!');
         $response = array(
@@ -146,8 +194,8 @@ class MobileController extends Controller
      */
     public function edit($id)
     {
-        $colors = Color::pluck("color", "id");
-        $storage = Storage::pluck('storage', 'id');
+        $colors = Color::pluck("color", "color");
+        $storage = Storage::pluck('storage', 'storage');
         $mobile = Mobile::findOrFail($id);
         $brands = Brand::pluck('name', 'id');
         return view('shopkeepers.mobile.edit', compact('mobile', 'colors', 'brands', 'storage'));
@@ -164,7 +212,7 @@ class MobileController extends Controller
     public function update($id, SaveMobileRequest $request, Controller $controller)
     {
 
-        $data = $request->all();
+        /*$data = $request->all();
         $destinationPath = '/uploads/products/mobiles'; // upload path
         $fileName = null;
         $colorsArray = array();
@@ -222,7 +270,72 @@ class MobileController extends Controller
         Session::flash('success', 'Mobile added!');
         $response = array(
             'success' => 'Mobile Updated!'
-        );
+        );*/
+        $data = $request->all();
+        $destinationPath = '/uploads/products/mobiles'; // upload path
+        $fileName = null;
+        $colorsArray = array();
+
+        if (Input::file('product_image')->isValid()) {
+            $extension = Input::file('product_image')->getClientOriginalExtension(); // getting image extension
+            $fileName = str_replace(" ", "_", strtolower($data['title'].' '.$controller->currentShop->shop_name.'.'.$extension)); // renameing image
+            Input::file('product_image')->move(public_path().$destinationPath, $fileName);
+        }
+
+        foreach ($data['colors'] as $key => $c){
+            if(!is_numeric($c)){
+                $c = ucwords($c);
+                $color = Color::firstOrNew(["color" => $c]);
+                //create new record
+                if($color){
+                    $color->color = $c;
+                }
+                $color->save();
+                array_push($data['colors'], $color->id);
+            }
+        }
+        //dd($data['colors']);
+
+        foreach ($data['storage'] as $s){
+            foreach ($data['colors'] as $c){
+                $mobile = null;
+                DB::transaction(function () use ($destinationPath, $fileName, $data, $colorsArray, $s, $c, $id) {
+                    $dataController = new DataController();
+                    $mobile = Mobile::where('id', $id)->update([
+                        'title' => ucwords($data['title']),
+                        'image' => url('/').$destinationPath.'/'.$fileName,
+                        'brand_id' => $data['brands'],
+                        'model' => $dataController->getModel($data['title']),
+                        'storage' => $s,
+                        'color' => $c
+                    ]);
+
+                    $mobileData  = MobileData::where('mobile_id', $id)->update([
+                        'link' => '#',
+                        'current_price' => $data['discount_price'], //discount price is new price so it would be current price
+                        'old_price' => $data['current_price'],
+                        'local_online' => 'l',
+                        //'stock' => $data['stock'],
+                        'mobile_id' => $mobile->id,
+                        'shop_id' => $this->shopId == null ? 0 : $this->shopId,
+                        'discount' => $this->discount($data['discount_price'], $data['current_price'])
+                    ]);
+                    //filter the array for string color values
+                    //$data['colors'] = array_filter($data['colors'], function($var){return (is_numeric($var));});
+
+                    //save the colors as well
+                    /*foreach ($data['colors'] as $key => $color){
+                        $colorsArray[$color] = ['color_products_type' => 'App\Mobile', 'color_products_id' => $mobile->id];
+                    }*/
+
+                    //sync storage
+                    /*if($data['storage']){
+                        $mobile->storages()->sync($data['storage']);
+                    }
+                    $mobile->colors()->sync($colorsArray);*/
+                }, 5);
+            }
+        }
 
         if($mobile){
             return redirect(route('mobile.create'))->with('success', 'Mobile Updated!');
@@ -240,11 +353,15 @@ class MobileController extends Controller
      */
     public function destroy($id)
     {
-        $mobile = Mobile::find($id);
+        $mobile = Mobile::where('id', $id)->first();
         $mobile->brand()->dissociate();
-        $mobile->colors()->detach();
-        $mobile->storages()->detach();
-        Mobile::destroy($id);
+        /*$mobile->colors()->detach();
+        $mobile->storages()->detach();*/
+        $mobile->delete();
+        foreach (MobileData::where('mobile_id', $id)->get() as $m){
+            $m->delete();
+        }
+
 
         return redirect('products/mobile')->withSuccess('Mobile Deleted!');
     }

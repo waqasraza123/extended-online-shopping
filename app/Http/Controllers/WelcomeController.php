@@ -17,9 +17,30 @@ class WelcomeController extends Controller
     public function index()
     {
         $brands = Brand::all();
-        $mobiles = Mobile::paginate(24);
         $searchText = "";
-        return view('welcome', compact('mobiles', 'searchText'))->withBrands($brands);
+
+        //get the first mobile and then get the first mobile data
+        $mobilesData = Mobile::select('title')
+            ->where([
+                ['title', '<>', ''],
+                ['title', '<>', ':) Smiley'],
+                ['brand_id', '<>', '6']
+            ])
+            ->groupBy('title')
+            ->paginate(24);
+
+        $data = array();
+        //$mobilesData->chunk(10, function($mobiles) use ($data){
+            foreach ($mobilesData as $index => $m){
+                //dd(MobileData::where('mobile_id', Mobile::where('title', $m->title)->first()->id)->first());
+                //if(MobileData::where('mobile_id', Mobile::where('title', $m->title)->first()->id)->first()){
+                    array_push($data, Mobile::where('title', $m->title)->first());
+                //}
+            }
+        //});
+        $data = collect($data);
+        //return response()->json($data);
+        return view('welcome', compact('searchText'))->with(['brands' => $brands, 'mobiles' => $data]);
     }
 
     /**

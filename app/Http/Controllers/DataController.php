@@ -22,7 +22,7 @@ class DataController extends Controller
      * read data from files
      */
     public function readData(){
-        $filename = public_path() . '/online/telemart/mobiles.txt';
+        $filename = public_path() . '/online/daraz/smartphones.txt';
         $onlineData = file_get_contents($filename);
 
         $di = new \RecursiveDirectoryIterator(public_path().'/scrap/');
@@ -94,7 +94,7 @@ class DataController extends Controller
                     if(preg_match("/^[a-zA-Z0-9]*(-|\\s)*$gsmTitle(\\s|-)+(\\p{N}GB)*\\B/i", $onlineTitle)){
                         //save the compared data to db and link shops
                         echo $gsmTitle . ' = ' . $onlineTitle . '<br>';
-                        $this->saveComparedData($brandName, $gsmLine, $onlineLine, "Telemart");
+                        $this->saveComparedData($brandName, $gsmLine, $onlineLine, "Zemlak Inc");
                     }
                 }
             }
@@ -182,15 +182,18 @@ class DataController extends Controller
         $shopId = Shop::where('shop_name', ucwords($shopName))->first()->id;
 
         $mobileId = Mobile::where('title', $baseData[0])->first()->id;
-
+        $oldPrice = rand(50000, 100000);
+        $newPrice = 1000000;
+        while ($newPrice > $oldPrice || $newPrice == 0)
+            $newPrice = rand(50000, 100000);
         MobileData::firstOrCreate([
             'shop_id' => $shopId,
             'mobile_id' => $mobileId,
             'link' => $productLink,
-            'old_price' => $oldPrice,
-            'current_price' => $newPrice,
+            'old_price' => (string)$oldPrice,
+            'current_price' => (string)$newPrice,
             'discount' => $mobileController->discount($newPrice, $oldPrice),
-            'local_online' => 'o'
+            'local_online' => 'l'
         ]);
     }
 

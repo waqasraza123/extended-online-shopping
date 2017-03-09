@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Mobile;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -23,6 +24,7 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('home');
+        $mobile = Mobile::paginate(24);
+        return view('shopkeepers.mobile.index', compact('mobile'));
     }
 }

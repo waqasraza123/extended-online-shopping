@@ -323,6 +323,9 @@ $(document).ready(function () {
         showConfirmMessage(e, $(this))
         $(this).unbind('submit').submit()
     })
+    $(".local-store").click(function (e) {
+        showShopInfo(e)
+    })
 
     //convert colors text into actual color backgrounds
     /*$("#colors_text_box span").each(function(){
@@ -349,6 +352,14 @@ $(document).ready(function () {
                 $(".delete_item_form").unbind('submit').submit()
             else
                 e.preventDefault()
+        });
+    }
+
+    function showShopInfo(e) {
+        swal({
+            title: "Galaxy Mobiles",
+            text: "Shop # 5, G9 Markaz, Islamabad, Pakistan",
+            imageUrl: "/shop.png"
         });
     }
 
@@ -412,7 +423,7 @@ $(document).ready(function () {
     };
     $('img').unveil()
 
-    $.ajax({
+    /*$.ajax({
         url: 'http://localhost:8000/python-data/daraz/mobiles/KH3423K4HPQEQN2342091313K23WDQKDJDDQWJD9804H',
         type: 'POST',
         data: {1: {
@@ -450,6 +461,6 @@ $(document).ready(function () {
         error: function(err){
             console.log(err)
         }
-    })
+    })*/
 
 })//document ready ends here

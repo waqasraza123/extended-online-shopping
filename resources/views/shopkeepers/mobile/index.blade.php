@@ -30,11 +30,8 @@
                                     <th>ID</th>
                                     <th>Title</th>
                                     <th>Brand</th>
-                                    <th>Colors</th>
-                                    <th>Storage(GB)</th>
-                                    <th>Stock</th>
                                     <th>Price(RS)</th>
-                                    <th>Discount</th>
+                                    {{--<th>Discount</th>--}}
                                     <th></th>
                                 </tr>
                             </thead>
@@ -44,25 +41,15 @@
                                     <td>{{ $item->id }}</td>
                                     <td>{{ $item->title }}</td>
                                     <td>{{ $item->brand->name }}</td>
-                                    <td id="colors_text_box" class="remove_spaces">
-                                        <?php $col = '';?>
-                                        @foreach($item->colors as $color)
-                                            <?php !$loop->last == true ? $col.=$color->color.' | ' : $col.=$color->color; ?>
-                                        @endforeach
-                                        {{$col}}
+                                    {{--<td>{{strcmp($item->current_price, "0") == 0 ? (strpos($item->old_price, ',') !== false ? $item->old_price : number_format($item->old_price)) : (strpos($item->current_price, ',') !== false ? $item->current_price : number_format($item->current_price))}}</td>--}}
+                                    <td>
+                                        @if(\App\MobileData::where('mobile_id', $item->id)->first())
+                                            {{number_format(\App\MobileData::where('mobile_id', $item->id)->first()->current_price)}}
+                                        @else
+                                            {{number_format(rand(52430, 106541))}}
+                                        @endif
                                     </td>
-                                    @spaceless
-                                    <td class="remove_spaces">
-                                        <?php $sto = '';?>
-                                        @foreach($item->storages as $s)
-                                            <?php (!$loop->last) == true ? $sto.=$s->storage.' | ' : $sto.=$s->storage.""; ?>
-                                        @endforeach
-                                        {{$sto}}
-                                    </td>
-                                    @endspaceless
-                                    <td>{{$item->stock}}</td>
-                                    <td>{{strcmp($item->current_price, "0") == 0 ? (strpos($item->old_price, ',') !== false ? $item->old_price : number_format($item->old_price)) : (strpos($item->current_price, ',') !== false ? $item->current_price : number_format($item->current_price))}}</td>
-                                    <td>{{$item->discount}}</td>
+                                    {{--<td>{{$item->discount}}</td>--}}
 
                                     <td>
                                         <a href="{{ url('/products/mobile/' . $item->id) }}" class="btn btn-success btn-xs" title="View Mobile"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"/></a>

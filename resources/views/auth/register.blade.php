@@ -50,10 +50,10 @@
                                    placeholder="Enter Password Again">
                         </div>
                     </div>
-                    <div class="form-group">
+                    {{--<div class="form-group">
                         <input type="checkbox" name="terms" id="terms" class="filled-in chk-col-pink">
                         <label for="terms">I read and agree to the <a href="javascript:void(0);">terms of usage</a>.</label>
-                    </div>
+                    </div>--}}
 
                     <button id="register_user" class="btn btn-block btn-lg bg-pink waves-effect submit" type="submit">SIGN UP</button>
 
