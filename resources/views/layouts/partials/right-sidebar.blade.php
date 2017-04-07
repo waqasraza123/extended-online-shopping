@@ -3,6 +3,7 @@
 
         <!-- Menu -->
         <div class="menu">
+            @include('frontend.partials.filters.filter')
             <ul class="list">
                 <li class="header">Filter Results</li>
                 <li class="active">
@@ -14,6 +15,7 @@
             </ul>
         </div>
         <!-- #Menu -->
+
         <!-- Footer -->
         <div class="legal">
             <div class="copyright">

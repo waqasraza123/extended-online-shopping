@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Brand;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
-use App\MobileData;
+use App\ProductData;
 use App\Storage;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Input;
@@ -44,7 +44,7 @@ class MobileController extends Controller
         foreach ($mobiles as $index => $m){
             $mo = Mobile::where([['title', $m->title], ['title', '<>', '']])->first();
             if($mo){
-                $d = MobileData::where('mobile_id', $mo->id)->first();
+                $d = ProductData::where('mobile_id', $mo->id)->first();
                 if($d){
                     $dataHolder['shop_id'] = $d->shop_id;
                     $dataHolder['mobile_id'] = $d->mobile_id;
@@ -132,7 +132,7 @@ class MobileController extends Controller
                         'color' => $c
                     ]);
 
-                    $mobileData  = MobileData::create([
+                    $mobileData  = ProductData::create([
                         'link' => '#',
                         'current_price' => $data['discount_price'], //discount price is new price so it would be current price
                         'old_price' => $data['current_price'],
@@ -310,7 +310,7 @@ class MobileController extends Controller
                         'color' => $c
                     ]);
 
-                    $mobileData  = MobileData::where('mobile_id', $id)->update([
+                    $mobileData  = ProductData::where('mobile_id', $id)->update([
                         'link' => '#',
                         'current_price' => $data['discount_price'], //discount price is new price so it would be current price
                         'old_price' => $data['current_price'],
@@ -358,7 +358,7 @@ class MobileController extends Controller
         /*$mobile->colors()->detach();
         $mobile->storages()->detach();*/
         $mobile->delete();
-        foreach (MobileData::where('mobile_id', $id)->get() as $m){
+        foreach (ProductData::where('mobile_id', $id)->get() as $m){
             $m->delete();
         }
 

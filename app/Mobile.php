@@ -19,4 +19,8 @@ class Mobile extends Model
     public function storages(){
         return $this->belongsToMany('App\Storage', 'mobile_storage', 'mobile_id', 'storage_id');
     }
+
+    public function data(){
+        return $this->hasMany('App\ProductData', 'mobile_id', 'id');
+    }
 }

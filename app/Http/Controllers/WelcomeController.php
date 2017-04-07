@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Brand;
 use App\Mobile;
-use App\MobileData;
+use App\ProductData;
 use Illuminate\Http\Request;
 
 class WelcomeController extends Controller
@@ -20,7 +20,7 @@ class WelcomeController extends Controller
         $searchText = "";
 
         //get the first mobile and then get the first mobile data
-        $mobilesData = Mobile::select('title')
+        $mobiles = Mobile::select('title')
             ->where([
                 ['title', '<>', ''],
                 ['title', '<>', ':) Smiley'],
@@ -30,14 +30,25 @@ class WelcomeController extends Controller
             ->paginate(24);
 
         $data = array();
-        //$mobilesData->chunk(10, function($mobiles) use ($data){
-            foreach ($mobilesData as $index => $m){
-                //dd(MobileData::where('mobile_id', Mobile::where('title', $m->title)->first()->id)->first());
-                //if(MobileData::where('mobile_id', Mobile::where('title', $m->title)->first()->id)->first()){
-                    array_push($data, Mobile::where('title', $m->title)->first());
-                //}
+        foreach ($mobiles as $index => $m){
+            $mobile = Mobile::where('title', $m->title)->first();
+
+
+            //get mobile data
+            //contains the shop id as well
+            //would return collection
+            $mobileData = $mobile->data;
+            $price = 999999999999;
+            foreach ($mobileData as $item){
+                $price = $item->current_price < $price ? $item->current_price : $price;
             }
-        //});
+            //now get the shop location
+
+
+            $data[$index]['mobile'] = $mobile;
+            $data[$index]['data'] = $mobileData;
+            $data[$index]['price'] = $price;
+        }
         $data = collect($data);
         //return response()->json($data);
         return view('welcome', compact('searchText'))->with(['brands' => $brands, 'mobiles' => $data]);
@@ -50,13 +61,13 @@ class WelcomeController extends Controller
      */
     public function showMobile($brand, $id){
         $mobile = Mobile::find($id);
-        $mobileData = MobileData::select('shop_id', 'mobile_id')
+        $mobileData = ProductData::select('shop_id', 'mobile_id')
             ->where('mobile_id', $id)
             ->groupBy(['shop_id', 'mobile_id'])->get();
 
         $data = [];
         foreach($mobileData as $m){
-            array_push($data, MobileData::where(['mobile_id' => $m->mobile_id, 'shop_id' => $m->shop_id])->first());
+            array_push($data, ProductData::where(['mobile_id' => $m->mobile_id, 'shop_id' => $m->shop_id])->first());
         }
 
         $data = collect($data);

@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Mobile;
-use App\MobileData;
+use App\ProductData;
 use App\Shop;
 use Illuminate\Http\Request;
 
@@ -32,7 +32,12 @@ class APIController extends Controller
             array_push($data, Mobile::where('title', $m->title)->first());
         }
         $data = collect($data);
+        foreach ($data as $d){
 
+            if($d->image){
+                $d->image = $this->setImageUrl($d->image);
+            }
+        }
         return response()->json($data);
     }
 
@@ -55,19 +60,22 @@ class APIController extends Controller
 
         $mobile = Mobile::find($id);
 
-        $mobileData = MobileData::select('shop_id', 'mobile_id')
+        $mobileData = ProductData::select('shop_id', 'mobile_id')
             ->where('mobile_id', $id)
             ->groupBy(['shop_id', 'mobile_id'])->get();
 
         $data = [];
         foreach($mobileData as $m){
-            array_push($data, MobileData::where(['mobile_id' => $m->mobile_id, 'shop_id' => $m->shop_id])->first());
+            array_push($data, ProductData::where(['mobile_id' => $m->mobile_id, 'shop_id' => $m->shop_id])->first());
         }
 
         $data = collect($data);
         $dataHolder = [];
         $finalArr = [];
         foreach ($data as $d){
+
+            $mobile->image = $this->setImageUrl($mobile->image);
+
             $dataHolder['shop_id'] = $d->shop_id;
             $dataHolder['mobile_id'] = $d->mobile_id;
             $dataHolder['link'] = $d->link;
@@ -91,5 +99,23 @@ class APIController extends Controller
     public function returnShopData($id){
         $shop = Shop::find($id);
         return response()->json($shop);
+    }
+
+    public function setImageUrl($url){
+
+        $fullData = '';
+        $temp = explode('/', $url);
+        foreach ($temp as $index => $t){
+            if(count($temp)-2 == $index){
+                $t = ucwords($t);
+                if(count($temp)-1 != $index){
+                    $t = '/' . $t . '/';
+                }
+            }
+            $fullData = $fullData . $t;
+        }
+
+        $url = str_replace('localhost:8000', '//clabiane.net/eos/public/', $fullData);
+        return $url;
     }
 }

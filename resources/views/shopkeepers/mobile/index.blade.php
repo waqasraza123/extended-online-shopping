@@ -43,8 +43,8 @@
                                     <td>{{ $item->brand->name }}</td>
                                     {{--<td>{{strcmp($item->current_price, "0") == 0 ? (strpos($item->old_price, ',') !== false ? $item->old_price : number_format($item->old_price)) : (strpos($item->current_price, ',') !== false ? $item->current_price : number_format($item->current_price))}}</td>--}}
                                     <td>
-                                        @if(\App\MobileData::where('mobile_id', $item->id)->first())
-                                            {{number_format(\App\MobileData::where('mobile_id', $item->id)->first()->current_price)}}
+                                        @if(\App\ProductData::where('mobile_id', $item->id)->first())
+                                            {{number_format(\App\ProductData::where('mobile_id', $item->id)->first()->current_price)}}
                                         @else
                                             {{number_format(rand(52430, 106541))}}
                                         @endif

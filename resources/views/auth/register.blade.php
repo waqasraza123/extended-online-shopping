@@ -32,6 +32,17 @@
                                    placeholder="Email Or Phone 0300-1234567">
                         </div>
                     </div>
+
+                    <div class="input-group">
+                    <span class="input-group-addon">
+                        <i class="material-icons">place</i>
+                    </span>
+                        <div class="form-line">
+                            <input id="user-location" type="text" class="form-control" name="user_location" required
+                            placeholder="Your Location">
+                        </div>
+                    </div>
+
                     <div class="input-group">
                     <span class="input-group-addon">
                         <i class="material-icons">lock</i>
@@ -50,6 +61,7 @@
                                    placeholder="Enter Password Again">
                         </div>
                     </div>
+
                     {{--<div class="form-group">
                         <input type="checkbox" name="terms" id="terms" class="filled-in chk-col-pink">
                         <label for="terms">I read and agree to the <a href="javascript:void(0);">terms of usage</a>.</label>
@@ -124,6 +136,8 @@
                     <button id="register_shop" type="submit" class="btn btn-block btn-lg bg-pink waves-effect submit">
                         Register Shop
                     </button>
+
+                    <p style="text-align: center; margin-top: 10px; text-decoration: underline" id="skip_shop_reg">Do it Later.</p>
                 </form>
             </div>
         </div>
@@ -134,6 +148,10 @@
     <script>
         function init() {
             var input = document.getElementById('location');
+            var autocomplete = new google.maps.places.Autocomplete(input);
+        }
+        function init() {
+            var input = document.getElementById('user-location');
             var autocomplete = new google.maps.places.Autocomplete(input);
         }
         google.maps.event.addDomListener(window, 'load', init);

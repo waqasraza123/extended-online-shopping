@@ -247,4 +247,8 @@ p {
 .shops-info-table thead tr i{
     font-size: 12px !important;
 }
+.filters-form .col-sm-12{margin-top: 20px;}
+/*.irs-from, .irs-to, .irs-single {
+    background: #2196F3;
+}*/
 

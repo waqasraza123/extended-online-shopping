@@ -3,9 +3,11 @@
 namespace App\Http\Controllers;
 
 use App\Brand;
+use App\Color;
 use App\Mobile;
-use App\MobileData;
+use App\ProductData;
 use App\Shop;
+use App\Storage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
 use Illuminate\Filesystem\Filesystem;
@@ -90,11 +92,60 @@ class DataController extends Controller
                 $gsmTitle = preg_replace("/[a-zA-Z0-9]+\\/[a-zA-Z0-9]+/", "" , $gsmTitle);
 
                 if($brandName == $gsmFileName){
+                    $yearPass = false;
+                    $colorPass = false;
+                    $overallPass = false;
+                    $exactMatch = false;
 
-                    if(preg_match("/^[a-zA-Z0-9]*(-|\\s)*$gsmTitle(\\s|-)+(\\p{N}GB)*\\B/i", $onlineTitle)){
-                        //save the compared data to db and link shops
+                    $colors = Color::pluck('color')->toArray();
+                    //dd($colors);
+                    $years = range(2000, date('Y'));
+
+                    if($gsmTitle == 'B' || $gsmTitle == 'b'){
+                        if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)([^[G]])$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
+                            $overallPass = true;
+                        }
+                    }
+
+                    if($gsmTitle == 'Z' || $gsmTitle == 'z'){
+                        if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)([^[GH]])$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
+                            $overallPass = true;
+                        }
+                    }
+
+                    //if exact title or followed by - or _ or :
+                    if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)$gsmTitle$/i", $onlineTitle)){
+                        $exactMatch = true;
+                    }
+
+                    if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
+                        $overallPass = true;
+                    }
+
+                    //now handle the case where space comes after title
+                    foreach ($years as $y){
+
+                        //there must be a space after title
+                        //after space a year, gb, dual sim, 2g or 3g etc
+                        if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($y)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
+                            $yearPass = true;
+                        }
+                    }
+
+                    foreach ($colors as $c){
+                        $c = preg_replace('/\\W/', '', $c);
+                        echo $c . '<br>';
+                        if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($c)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
+                            $colorPass = true;
+                        }
+                    }
+
+                    if($colorPass || $yearPass || $overallPass || $exactMatch){
+                        echo 'color pass '. $this->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $this->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .
+                            $this->returnTrueFalse($overallPass).'<br>' . 'exact match ' . $this->returnTrueFalse($exactMatch). '<br>';
                         echo $gsmTitle . ' = ' . $onlineTitle . '<br>';
-                        $this->saveComparedData($brandName, $gsmLine, $onlineLine, "Zemlak Inc");
+
+                        $this->saveComparedData($brandName, $gsmLine, $onlineLine, "Daraz");
                     }
                 }
             }
@@ -114,7 +165,7 @@ class DataController extends Controller
             $data = explode(";", $line);
 
             //if more than one storages start a loop
-            //make sure to save on ly storage at storage place
+            //make sure to save only storage at storage place
             //not the ram memory as in some cases
             if(isset($data[1])){
                 //if gb or mb text exits, it is memory
@@ -148,19 +199,36 @@ class DataController extends Controller
             //replace the / char and content around it with ""
             $gsmTitle = preg_replace("/[a-zA-Z0-9]+\\/[a-zA-Z0-9]+/", "" , $gsmTitle);
 
-            foreach ($storages as $s){
-                foreach ($colors as $c){
-                    Mobile::firstOrCreate([
-                        'title' => $data[0],
-                        'brand_id' => $brand->id,
-                        'image' => url('/').'/scrap/'.$brandName . '/' .$data[0].'.png',
-                        'storage' => $s == 1024 ? 1 : $s,
-                        //replace the special char from color
-                        'color' => preg_replace ('/[^\p{L}\p{N}]/u', ' ', $c) == null ? "no color" : preg_replace ('/[^\p{L}\p{N}]/u', '_', $c),
-                        'model' => $this->getModel($gsmTitle)
-                    ]);
-                }
+            $mobile = Mobile::firstOrCreate([
+                'title' => $data[0],
+                'brand_id' => $brand->id,
+                'image' => url('/').'/scrap/'.$brandName . '/' .$data[0].'.png',
+                /*'storage' => $s == 1024 ? 1 : $s,
+                //replace the special char from color
+                'color' => preg_replace ('/[^\p{L}\p{N}]/u', ' ', $c) == null ? "no color" : preg_replace ('/[^\p{L}\p{N}]/u', '_', $c),
+                */'model' => $this->getModel($gsmTitle)
+            ]);
+
+            /*insert colors and storages*/
+            $colorIds = array();
+            $storageIds = array();
+
+            foreach($colors as $c){
+                $color = Color::firstOrCreate([
+                    'color' => $c
+                ]);
+                array_push($colorIds, $color->id);
             }
+
+            foreach($storages as $s){
+                $storage = Storage::firstOrCreate([
+                    'storage' => $s
+                ]);
+                array_push($storageIds, $storage->id);
+            }
+
+            $mobile->colors()->sync($colorIds);
+            $mobile->storages()->sync($storageIds);
         }
     }
 
@@ -182,19 +250,22 @@ class DataController extends Controller
         $shopId = Shop::where('shop_name', ucwords($shopName))->first()->id;
 
         $mobileId = Mobile::where('title', $baseData[0])->first()->id;
-        $oldPrice = rand(50000, 100000);
+        /*$oldPrice = rand(50000, 100000);
         $newPrice = 1000000;
         while ($newPrice > $oldPrice || $newPrice == 0)
-            $newPrice = rand(50000, 100000);
-        MobileData::firstOrCreate([
-            'shop_id' => $shopId,
-            'mobile_id' => $mobileId,
-            'link' => $productLink,
-            'old_price' => (string)$oldPrice,
-            'current_price' => (string)$newPrice,
-            'discount' => $mobileController->discount($newPrice, $oldPrice),
-            'local_online' => 'l'
-        ]);
+            $newPrice = rand(50000, 100000);*/
+        $mobileData = ProductData::where('mobile_id', $mobileId)->where('shop_id', $shopId)->first();
+        if(!$mobileData){
+            ProductData::create([
+                'shop_id' => $shopId,
+                'mobile_id' => $mobileId,
+                'link' => $productLink,
+                'old_price' => (string)$oldPrice,
+                'current_price' => (string)$newPrice,
+                'discount' => $mobileController->discount($newPrice, $oldPrice),
+                'local_online' => 'o'
+            ]);
+        }
     }
 
     /**
@@ -203,5 +274,9 @@ class DataController extends Controller
     public function getModel($gsmTitle){
         echo preg_replace("/\\s/", "-", strtolower($gsmTitle));
         return preg_replace("/\\s/", "-", strtolower($gsmTitle));
+    }
+
+    function returnTrueFalse($var){
+        return $var == true ? "true" : "false";
     }
 }

@@ -69,6 +69,7 @@ class StoreUserRequest extends FormRequest
             return [
                 'name' => 'required|max:255',
                 'email_phone' => 'required|email|max:255|unique:users,email_phone',
+                'user_location.required' => 'Please enter your location.',
                 'password' => 'required|min:6|confirmed',
             ];
         }
@@ -77,6 +78,7 @@ class StoreUserRequest extends FormRequest
             return [
                 'name' => 'required|max:255',
                 'email_phone' => 'required|phone|max:12|unique:users,email_phone',
+                'user_location.required' => 'Please enter your location.',
                 'password' => 'required|min:6|confirmed',
             ];
         }
@@ -84,6 +86,7 @@ class StoreUserRequest extends FormRequest
             return [
                 'name' => 'required|max:255',
                 'email_phone' => 'required|phone|max:12|unique:users,email_phone',
+                'user_location.required' => 'Please enter your location.',
                 'password' => 'required|min:6|confirmed',
             ];
         }

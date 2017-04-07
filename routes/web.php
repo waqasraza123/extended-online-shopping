@@ -43,3 +43,8 @@ Route::get('/mobiles/{brand}/{id}', 'WelcomeController@showMobile')->name('show-
  * Test routes
  */
 Route::get('test', 'DataController@readData');
+Route::get('test2', function (){
+    $ip = $_SERVER['REMOTE_ADDR'];
+    $details = json_decode(file_get_contents("http://ipinfo.io/{$ip}/json"));
+    print_r($details);
+});

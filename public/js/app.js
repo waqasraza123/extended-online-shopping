@@ -421,7 +421,13 @@ $(document).ready(function () {
         return this;
 
     };
+
+    //call lazy load function
     $('img').unveil()
+    $("#skip_shop_reg").click(function () {
+        window.location = '/home'
+    })
+
 
     /*$.ajax({
         url: 'http://localhost:8000/python-data/daraz/mobiles/KH3423K4HPQEQN2342091313K23WDQKDJDDQWJD9804H',

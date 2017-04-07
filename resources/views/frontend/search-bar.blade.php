@@ -6,7 +6,7 @@
                 <input type="text" name="search_text" class="form-control" value="{{isset($searchText) == false ? "" : $searchText}}">
             </div>
             <div class="col-sm-2">
-                <input type="submit" name="search_button" class="btn bg-teal btn-block btn-lg waves-effect" value="Search">
+                <input type="submit" name="search_button" class="btn bg-blue btn-block btn-lg waves-effect" value="Search">
             </div>
         </div>
         {!! Form::close() !!}

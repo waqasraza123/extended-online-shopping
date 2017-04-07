@@ -4,5 +4,7 @@
 /.idea
 Homestead.json
 Homestead.yaml
+.env
 /public/scrap/*
 /public/online/*
+/config/database.php
