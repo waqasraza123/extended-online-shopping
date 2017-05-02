@@ -4,102 +4,141 @@ namespace App\Http\Controllers;
 
 use App\Brand;
 use App\Color;
+use App\Jobs\SaveStoresDataJob;
 use App\Mobile;
 use App\ProductData;
 use App\Shop;
 use App\Storage;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
 use Illuminate\Filesystem\Filesystem;
 
 class DataController extends Controller
 {
+
     protected $f = null;
+    public $colors = null;
+    public $years = null;
+    protected $globalBrandName = null;
+    public $shopName = null;
+    protected $dir = null;
+    protected $dirName = null;
+
+
+    /**
+     * DataController constructor.
+     */
     public function __construct()
     {
         $this->f = fopen('data.txt', 'a+');
+        $this->colors = Color::pluck('color')->toArray();
+        $this->years = range(2000, date('Y'));
+        $this->shopName = 'Telemart';
+        $this->dir = public_path() . '/online';
     }
 
-    /**
-     * read data from files
-     */
-    public function readData(){
-        $filename = public_path() . '/online/daraz/smartphones.txt';
-        $onlineData = file_get_contents($filename);
-
+    public function readAndStoreGsmData(){
         $di = new \RecursiveDirectoryIterator(public_path().'/scrap/');
 
         foreach (new \RecursiveIteratorIterator($di) as $filename => $file) {
 
             if($file->getExtension() == 'txt' && $file->isFile()){
-                /*if(strtolower(explode(".", $file->getFileName())[0]) == $brandName){*/
-
-                    try
-                    {
-                        $onlyFileName = strtolower(explode(".", $file->getFilename())[0]);
-                        $gsmData = file_get_contents($filename);
-                        //$this->saveData($gsmData, $onlyFileName);
-                        $this->compareData($gsmData, $onlineData, $onlyFileName);
-
-                    }
-                    catch (FileNotFoundException $exception)
-                    {
-                        die("The file doesn't exist");
-                    }
-                //}
+                try
+                {
+                    $onlyFileName = strtolower(explode(".", $file->getFilename())[0]);
+                    $gsmData = file_get_contents($filename);
+                    $this->saveData($gsmData, $onlyFileName);
+                }
+                catch (FileNotFoundException $exception)
+                {
+                    die("The file doesn't exist");
+                }
             }
-            /*if(@is_array(getimagesize($file))){
-                echo 'true';
-            } else {
-                echo 'false';
-            }*/
         }
-
     }
 
     /**
-     * compare titles to categorize
-     * @param $localTitle
-     * @param $onlineTitle
+     * read data from files
      */
-    public function compareData($gsmData, $onlineData, $gsmFileName){
+    public function readData($dir, $fileName){
+        $filename = public_path() . '/online/'. $dir .'/' . $fileName;
+        $onlineData = file_get_contents($filename);
+        $this->compareData($onlineData);
+    }
 
-        //first check that brand name matches the filename
-        //then start the comparison
-        $gsmLines = explode("\n", $gsmData); // this is your array of words
+
+
+    /**
+     * compare titles to categorize
+     * @param $onlineData
+     */
+    public function compareData($onlineData){
+
         $onlineLines = explode("\n", $onlineData); // this is your array of words
+        //sort the online data files
+        //based on brand name
+        usort($onlineLines, function($a, $b)
+        {
+            return strcmp(explode(";", $a)[0], explode(";", $b)[0]);
+        });
 
+        $colors = $this->colors;
+        $skipArray = array();
+        //dd($onlineLines);
+        $dbMobiles = null;
         foreach($onlineLines as $onlineLine){
             if($onlineLine == ""){
                 continue;
             }
-            foreach($gsmLines as $gsmLine){
+            $onlineTitle = explode(";", $onlineLine)[1];
 
-                if($gsmLine == null){
-                    continue;
+            //get the brand name from every line
+            $brandName = strtolower(explode(";", $onlineLine)[0]);
+
+            //if brand name not already in array
+            //then fetch the data
+            //since brand has changed
+            if(!(DB::table('temp')->where('brand', $brandName)->where('shop', $this->shopName)->first())){
+                $dbMobiles = Brand::where('name', $brandName)->first();
+                if($dbMobiles){
+                    $dbMobiles = Brand::find($dbMobiles->id)->mobiles()->where('mobiles.title', '<>', '')->get();
                 }
+                array_push($skipArray, $brandName);
+                DB::table('temp')->insert(['brand' => $brandName, 'shop' => $this->shopName]);
+            }
+            //if brand name is in the array already
+            //then keep on reading the data
+            //loop through database mobiles
+            //to compare
+            $mobileMatched = null;
+            if(count($dbMobiles) > 0){
+                if ($mobileMatched == true)
+                    return;
+                foreach ($dbMobiles as $mobile){
 
-                $gsmTitle = explode(";", $gsmLine)[0];
-                $onlineTitle = explode(";", $onlineLine)[1];
+                    //if a mobile has matched then
+                    //skip that line since it wont
+                    //match with any other mobile
+                    if($mobileMatched == true){
+                        break;
+                    }
+                    $gsmTitle = $mobile->title;
 
-                $brandName = strtolower(explode(";", $onlineLine)[0]);
+                    //echo $brandName . ' = ' . $gsmFileName . '<br>';
+                    //replace everything including (content) with "" galaxy (2016) = galaxy
+                    $gsmTitle = preg_replace("/\\((.*?)\\)|(:\\))*/", "" , $gsmTitle);
 
-                //echo $brandName . ' = ' . $gsmFileName . '<br>';
-                //replace everything including (content) with "" galaxy (2016) = galaxy
-                $gsmTitle = preg_replace("/\\((.*?)\\)|(:\\))*/", "" , $gsmTitle);
+                    //replace the / char and content around it with ""
+                    $gsmTitle = preg_replace("/[a-zA-Z0-9]+\\/[a-zA-Z0-9]+/", "" , $gsmTitle);
 
-                //replace the / char and content around it with ""
-                $gsmTitle = preg_replace("/[a-zA-Z0-9]+\\/[a-zA-Z0-9]+/", "" , $gsmTitle);
-
-                if($brandName == $gsmFileName){
                     $yearPass = false;
                     $colorPass = false;
                     $overallPass = false;
                     $exactMatch = false;
 
-                    $colors = Color::pluck('color')->toArray();
                     //dd($colors);
-                    $years = range(2000, date('Y'));
+                    $years = $this->years;
 
                     if($gsmTitle == 'B' || $gsmTitle == 'b'){
                         if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)([^[G]])$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
@@ -122,35 +161,47 @@ class DataController extends Controller
                         $overallPass = true;
                     }
 
-                    //now handle the case where space comes after title
-                    foreach ($years as $y){
+                    if(!($exactMatch == true || $overallPass == true)){
+                        //now handle the case where space comes after title
+                        foreach ($years as $y){
 
-                        //there must be a space after title
-                        //after space a year, gb, dual sim, 2g or 3g etc
-                        if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($y)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
-                            $yearPass = true;
+                            //there must be a space after title
+                            //after space a year, gb, dual sim, 2g or 3g etc
+                            if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($y)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
+                                $yearPass = true;
+                            }
                         }
                     }
 
-                    foreach ($colors as $c){
-                        $c = preg_replace('/\\W/', '', $c);
-                        echo $c . '<br>';
-                        if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($c)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
-                            $colorPass = true;
+                    /*if(!($exactMatch == true || $overallPass == true || $yearPass == true)) {
+                        foreach ($colors as $c){
+                            $c = preg_replace('/\\W/', '', $c);
+                            if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($c)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
+                                $colorPass = true;
+                            }
                         }
-                    }
+                    }*/
 
-                    if($colorPass || $yearPass || $overallPass || $exactMatch){
+                    if($yearPass || $overallPass || $exactMatch){
                         echo 'color pass '. $this->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $this->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .
                             $this->returnTrueFalse($overallPass).'<br>' . 'exact match ' . $this->returnTrueFalse($exactMatch). '<br>';
                         echo $gsmTitle . ' = ' . $onlineTitle . '<br>';
-
-                        $this->saveComparedData($brandName, $gsmLine, $onlineLine, "Daraz");
+                        $this->saveComparedData($gsmTitle, $onlineLine, $this->shopName, $mobile->id);
+                        $mobileMatched = true;
+                    }
+                    else{
+                        /*echo 'All of the passes failed';
+                        echo $gsmTitle . ' = ' . $onlineTitle . '<br>';*/
                     }
                 }
+            }//end if db mobiles is null
+            else{
+                //echo $brandName. '<br>';
             }
         }
     }
+
+
 
     /**
      * save data in database
@@ -232,28 +283,29 @@ class DataController extends Controller
         }
     }
 
-    public function saveComparedData($brandName, $baseData, $onlineData, $shopName){
+
+
+    /**
+     * @param $gsmTitle
+     * @param $onlineData
+     * @param $shopName
+     * @param $mobileId
+     */
+    public function saveComparedData($gsmTitle, $onlineData, $shopName, $mobileId){
 
         $mobileController = new MobileController();
         $onlineData = explode(";", $onlineData);
-        $baseData = explode(";", $baseData);
-
-        $gsmTitle = $baseData[0];
+        $unmodifiedTitle = $gsmTitle;
         $oldPrice = $onlineData[3];
         $newPrice = $onlineData[4];
         $productLink = $onlineData[5];
         //replace everything including (content) with "" galaxy (2016) = galaxy
-        $gsmTitle = preg_replace("/\\((.*?)\\)|(:\\))*/", "" , $gsmTitle[0]);
+        $gsmTitle = preg_replace("/\\((.*?)\\)|(:\\))*/", "" , $gsmTitle);
 
         //replace the / char and content around it with ""
         $gsmTitle = preg_replace("/[a-zA-Z0-9]+\\/[a-zA-Z0-9]+/", "" , $gsmTitle);
         $shopId = Shop::where('shop_name', ucwords($shopName))->first()->id;
 
-        $mobileId = Mobile::where('title', $baseData[0])->first()->id;
-        /*$oldPrice = rand(50000, 100000);
-        $newPrice = 1000000;
-        while ($newPrice > $oldPrice || $newPrice == 0)
-            $newPrice = rand(50000, 100000);*/
         $mobileData = ProductData::where('mobile_id', $mobileId)->where('shop_id', $shopId)->first();
         if(!$mobileData){
             ProductData::create([
@@ -263,20 +315,66 @@ class DataController extends Controller
                 'old_price' => (string)$oldPrice,
                 'current_price' => (string)$newPrice,
                 'discount' => $mobileController->discount($newPrice, $oldPrice),
-                'local_online' => 'o'
+                'local_online' => 'o',
+                'stock' => '111999'
             ]);
         }
+        else{
+            ProductData::where('mobile_id', $mobileId)->where('shop_id', $shopId)->update([
+                'shop_id' => $shopId,
+                'mobile_id' => $mobileId,
+                'link' => $productLink,
+                'old_price' => (string)$oldPrice,
+                'current_price' => (string)$newPrice,
+                'discount' => $mobileController->discount($newPrice, $oldPrice),
+                'local_online' => 'o',
+                'stock' => '111999'
+            ]);
+
+            /*$product = ProductData::where('mobile_id', $mobileId)->where('shop_id', $shopId)->first();
+            $product->colors()->sync($colorIds);
+            $product->storages()->sync($storageIds);*/
+        }
     }
+
+
 
     /**
      * returns model, slug for the title
      */
     public function getModel($gsmTitle){
-        echo preg_replace("/\\s/", "-", strtolower($gsmTitle));
         return preg_replace("/\\s/", "-", strtolower($gsmTitle));
     }
 
     function returnTrueFalse($var){
         return $var == true ? "true" : "false";
+    }
+
+
+
+    /**
+     * read the data from
+     * all the online shops and
+     * dispatch job for each file
+     *
+     */
+    function listFolderFiles()
+    {
+        foreach (new \DirectoryIterator($this->dir) as $fileInfo) {
+            if (!$fileInfo->isDot()) {
+                //echo $fileInfo->getFilename() . ' file type = ' . $fileInfo->getType();
+                if($fileInfo->getType() == 'dir'){
+                    $this->dirName = $fileInfo->getFilename();
+                    $this->shopName = ucwords($fileInfo->getFilename());
+                }
+                if($fileInfo->getType() == 'file' && !(in_array($fileInfo->getFilename(), ['laptops', 'laptop']))){
+                    $this->dispatch(new SaveStoresDataJob($this->dirName, $fileInfo->getFilename()));
+                }
+                if ($fileInfo->isDir()) {
+                    $this->dir = $fileInfo->getPathname();
+                    $this->listFolderFiles();
+                }
+            }
+        }
     }
 }

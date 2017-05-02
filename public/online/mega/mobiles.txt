@@ -1,321 +1,40 @@
-Apple;Apple iPhone 7;;;73,999;http://www.mega.pk/mobiles_products/14912/Apple-iPhone-7.html
-Apple;Apple iPhone 7 Plus;;;85,999;http://www.mega.pk/mobiles_products/14909/Apple-iPhone-7-Plus.html
-Samsung;Samsung Galaxy S7 Edge;;65,000 - PKR;59,999;http://www.mega.pk/mobiles_products/13771/Samsung-Galaxy-S7-Edge.html
-Samsung;Samsung Galaxy S7;;62,000 - PKR;52,999;http://www.mega.pk/mobiles_products/13769/Samsung-Galaxy-S7.html
-Samsung;Samsung Galaxy Note 5;;;55,999;http://www.mega.pk/mobiles_products/13287/Samsung-Galaxy-Note-5.html
-Apple;Apple iPhone 7 Plus 256GB;;107,999 - PKR;103,999;http://www.mega.pk/mobiles_products/14981/Apple-iPhone-7-Plus-256GB.html
-Samsung;Samsung Galaxy S6 Edge;;;47,999;http://www.mega.pk/mobiles_products/12227/Samsung-Galaxy-S6-Edge.html
+Apple;Apple iPhone 7;;;71,499;http://www.mega.pk/mobiles_products/14912/Apple-iPhone-7.html
+Apple;Apple iPhone 7 Plus;;;83,999;http://www.mega.pk/mobiles_products/14909/Apple-iPhone-7-Plus.html
+Samsung;Samsung Galaxy S7 Edge;;60,999 - PKR;57,999;http://www.mega.pk/mobiles_products/13771/Samsung-Galaxy-S7-Edge.html
+Samsung;Samsung Galaxy S7;;;61,999;http://www.mega.pk/mobiles_products/13769/Samsung-Galaxy-S7.html
+Samsung;Samsung Galaxy S8 Plus;;;96,999;http://www.mega.pk/mobiles_products/15903/Samsung-Galaxy-S8-Plus.html
+Samsung;Samsung Galaxy Note 5;;;65,999;http://www.mega.pk/mobiles_products/13287/Samsung-Galaxy-Note-5.html
+Samsung;Samsung Galaxy S8;;;86,999;http://www.mega.pk/mobiles_products/15902/Samsung-Galaxy-S8.html
+Apple;Apple iPhone 7 Plus 256GB;;103,999 - PKR;98,999;http://www.mega.pk/mobiles_products/14981/Apple-iPhone-7-Plus-256GB.html
+Samsung;Samsung Galaxy S6 Edge;;;46,999;http://www.mega.pk/mobiles_products/12227/Samsung-Galaxy-S6-Edge.html
 Samsung;Samsung Galaxy S6 Edge Plus;;;57,499;http://www.mega.pk/mobiles_products/13288/Samsung-Galaxy-S6-Edge-Plus.html
 Apple;Apple iPhone 6S Plus;;;61,999;http://www.mega.pk/mobiles_products/13396/Apple-iPhone-6S-Plus.html
-Google;Google Pixel XL;;;105,999;http://www.mega.pk/mobiles_products/15345/Google-Pixel-XL.html
+Google;Google Pixel XL;;;88,999;http://www.mega.pk/mobiles_products/15345/Google-Pixel-XL.html
 Sony;Sony Xperia Z3 Plus;;36,000 - PKR;33,999;http://www.mega.pk/mobiles_products/13506/Sony-Xperia-Z3-Plus.html
-Apple;Apple iPhone 7 Jet Black 128GB;;;86,499;http://www.mega.pk/mobiles_products/15258/Apple-iPhone-7-Jet-Black-128GB.html
-Apple;Apple iPhone 6S 32GB;;;60,499;http://www.mega.pk/mobiles_products/13395/Apple-iPhone-6S-32GB.html
-Samsung;Samsung galaxy J7 Prime;;;26,799;http://www.mega.pk/mobiles_products/15343/Samsung-galaxy-J7-Prime.html
+Apple;Apple iPhone 7 Jet Black 128GB;;;81,999;http://www.mega.pk/mobiles_products/15258/Apple-iPhone-7-Jet-Black-128GB.html
+Apple;Apple iPhone 6S 32GB;;;60,249;http://www.mega.pk/mobiles_products/13395/Apple-iPhone-6S-32GB.html
+Samsung;Samsung galaxy J7 Prime;;;25,499;http://www.mega.pk/mobiles_products/15343/Samsung-galaxy-J7-Prime.html
 Samsung;Samsung Galaxy Note 5 Dual;;;58,999;http://www.mega.pk/mobiles_products/13293/Samsung-Galaxy-Note-5-Dual.html
-Samsung;Samsung j5 prime;;;20,999;http://www.mega.pk/mobiles_products/15346/Samsung-j5-prime.html
-Samsung;Samsung Galaxy A3 (2016);;;23,999;http://www.mega.pk/mobiles_products/13578/Samsung-Galaxy-A3-(2016).html
+Samsung;Samsung Galaxy  j5 prime;;;18,999;http://www.mega.pk/mobiles_products/15346/Samsung-Galaxy--j5-prime.html
+Samsung;Samsung Galaxy A3 (2016);;;22,499;http://www.mega.pk/mobiles_products/13578/Samsung-Galaxy-A3-(2016).html
 Samsung;Samsung Galaxy A5(2016);;;29,999;http://www.mega.pk/mobiles_products/13579/Samsung-Galaxy-A5(2016).html
-Samsung;Samsung Galaxy A7 (2016);;40,000 - PKR;36,999;http://www.mega.pk/mobiles_products/13581/Samsung-Galaxy-A7-(2016).html
-Huawei;Huawei Honor 8;;;45,499;http://www.mega.pk/mobiles_products/15285/Huawei-Honor-8.html
+Samsung;Samsung Galaxy A7 (2016);;37,599 - PKR;35,499;http://www.mega.pk/mobiles_products/13581/Samsung-Galaxy-A7-(2016).html
+Huawei;Huawei Honor 8;;;41,999;http://www.mega.pk/mobiles_products/15285/Huawei-Honor-8.html
 Samsung;Samsung Galaxy J1 (2016);;;12,399;http://www.mega.pk/mobiles_products/13582/Samsung-Galaxy-J1-(2016).html
-HTC;HTC M10;;;53,999;http://www.mega.pk/mobiles_products/15349/HTC-M10.html
+HTC;HTC M10;;;51,499;http://www.mega.pk/mobiles_products/15349/HTC-M10.html
 Samsung;Samsung Galaxy J7 2016;;;23,999;http://www.mega.pk/mobiles_products/13997/Samsung-Galaxy-J7-2016.html
-Samsung;Samsung Galaxy J5 2016;;;19,999;http://www.mega.pk/mobiles_products/13996/Samsung-Galaxy-J5-2016.html
+Samsung;Samsung Galaxy J5 2016;;;19,499;http://www.mega.pk/mobiles_products/13996/Samsung-Galaxy-J5-2016.html
 Samsung;Samsung Galaxy A9 (2016);;;41,999;http://www.mega.pk/mobiles_products/14251/Samsung-Galaxy-A9-(2016).html
-Apple;Apple iPhone 7 Plus 128GB;;;96,999;http://www.mega.pk/mobiles_products/14980/Apple-iPhone-7-Plus-128GB.html
-Apple;Apple iPhone 7 256GB;;90,999 - PKR;87,999;http://www.mega.pk/mobiles_products/14979/Apple-iPhone-7-256GB.html
-Apple;Apple iPhone 7 128GB;;;83,999;http://www.mega.pk/mobiles_products/14978/Apple-iPhone-7-128GB.html
+Apple;Apple iPhone 7 Plus 128GB;;;93,999;http://www.mega.pk/mobiles_products/14980/Apple-iPhone-7-Plus-128GB.html
+Apple;Apple iPhone 7 256GB;;90,999 - PKR;84,999;http://www.mega.pk/mobiles_products/14979/Apple-iPhone-7-256GB.html
+Apple;Apple iPhone 7 128GB;;;81,999;http://www.mega.pk/mobiles_products/14978/Apple-iPhone-7-128GB.html
 HTC;HTC Desire 628 Dual;;;23,999;http://www.mega.pk/mobiles_products/14825/HTC-Desire-628-Dual.html
 QMobile;QMobile Noir S2;;;9,499;http://www.mega.pk/mobiles_products/14459/QMobile-Noir-S2.html
-Samsung;Samsung Galaxy C7;;;36,999;http://www.mega.pk/mobiles_products/14373/Samsung-Galaxy-C7.html
-Samsung;Samsung Galaxy C5;;;30,999;http://www.mega.pk/mobiles_products/14369/Samsung-Galaxy-C5.html
-Oneplus;Oneplus 3;;;47,999;http://www.mega.pk/mobiles_products/14297/Oneplus-3.html
+Samsung;Samsung Galaxy C7;;;35,999;http://www.mega.pk/mobiles_products/14373/Samsung-Galaxy-C7.html
+Samsung;Samsung Galaxy C5;;;28,990;http://www.mega.pk/mobiles_products/14369/Samsung-Galaxy-C5.html
+Oneplus;Oneplus 3;;;44,499;http://www.mega.pk/mobiles_products/14297/Oneplus-3.html
 Nokia;Nokia  222;;;4,974;http://www.mega.pk/mobiles_products/14285/Nokia--222.html
 Nokia;Nokia  108;;;3,599;http://www.mega.pk/mobiles_products/14284/Nokia--108.html
 Huawei;Huawei Y3II;;;9,799;http://www.mega.pk/mobiles_products/14229/Huawei-Y3II.html
 LG;LG G4s Dual;;;19,999;http://www.mega.pk/mobiles_products/14196/LG-G4s-Dual.html
 Huawei;Huawei Y5 II;;;14,499;http://www.mega.pk/mobiles_products/14171/Huawei-Y5-II.html
-Lenovo;Lenovo K3 Note;;;19,899;http://www.mega.pk/mobiles_products/14009/Lenovo-K3-Note.html
-Huawei;Huawei P9 LITE;;;25,999;http://www.mega.pk/mobiles_products/14006/Huawei-P9-LITE.html
-HTC;HTC Desire 728 Dual SIM;;;26,499;http://www.mega.pk/mobiles_products/14005/HTC-Desire-728-Dual-SIM.html
-HTC;HTC Desire 626G Plus;;;19,999;http://www.mega.pk/mobiles_products/14002/HTC-Desire-626G-Plus.html
-HTC;HTC Desire 526G Plus;;;13,499;http://www.mega.pk/mobiles_products/14000/HTC-Desire-526G-Plus.html
-Huawei;Huawei P9 Plus 64GB;;;64,499;http://www.mega.pk/mobiles_products/13982/Huawei-P9-Plus-64GB.html
-Lenovo;Lenovo Vibe C;;;11,499;http://www.mega.pk/mobiles_products/13948/Lenovo-Vibe-C.html
-Lenovo;Lenovo Vibe S1 Lite;;;24,999;http://www.mega.pk/mobiles_products/13947/Lenovo-Vibe-S1-Lite.html
-Lenovo;Lenovo Vibe P1;;;31,499;http://www.mega.pk/mobiles_products/13944/Lenovo-Vibe-P1.html
-Lenovo;Lenovo A6010;;;14,999;http://www.mega.pk/mobiles_products/13943/Lenovo-A6010.html
-Huawei;Huawei P9;;;52,999;http://www.mega.pk/mobiles_products/13942/Huawei-P9.html
-LG;LG G5;;59,999 - PKR;45,999;http://www.mega.pk/mobiles_products/13940/LG-G5.html
-Huawei;Huawei Y6 Pro;;;17,499;http://www.mega.pk/mobiles_products/13932/Huawei-Y6-Pro.html
-Apple;Apple iPhone SE 64GB;;60,000 - PKR;49,999;http://www.mega.pk/mobiles_products/13928/Apple-iPhone-SE-64GB.html
-Haier;Haier Esteem i50;;;10,899;http://www.mega.pk/mobiles_products/13887/Haier-Esteem-i50.html
-Haier;Haier Esteem i80;;;19,899;http://www.mega.pk/mobiles_products/13886/Haier-Esteem-i80.html
-Haier;Haier Esteem i90;;;23,499;http://www.mega.pk/mobiles_products/13885/Haier-Esteem-i90.html
-Samsung;Samsung Galaxy J1 Mini;;;9,999;http://www.mega.pk/mobiles_products/13875/Samsung-Galaxy-J1-Mini.html
-Samsung;Samsung Galaxy J3 (2016);;;14,899;http://www.mega.pk/mobiles_products/13841/Samsung-Galaxy-J3-(2016).html
-OPPO;OPPO F1;;;22,499;http://www.mega.pk/mobiles_products/13792/OPPO-F1.html
-QMobile;QMobile Noir Z12;;;20,499;http://www.mega.pk/mobiles_products/13777/QMobile-Noir-Z12.html
-Lenovo;Lenovo Vibe K5 Plus;;;17,999;http://www.mega.pk/mobiles_products/13776/Lenovo-Vibe-K5-Plus.html
-Lenovo;Lenovo A7010;;;28,499;http://www.mega.pk/mobiles_products/13734/Lenovo-A7010.html
-QMobile;QMobile Noir M350;;;11,499;http://www.mega.pk/mobiles_products/13706/QMobile-Noir-M350.html
-BlackBerry;BlackBerry Porsche Design P9983;;;69,999;http://www.mega.pk/mobiles_products/13699/BlackBerry-Porsche-Design-P9983.html
-Huawei;Huawei Y635;;;12,499;http://www.mega.pk/mobiles_products/13692/Huawei-Y635.html
-Huawei;Huawei Honor 5x;;;21,999;http://www.mega.pk/mobiles_products/13691/Huawei-Honor-5x.html
-QMobile;QMobile Noir M99;;;11,699;http://www.mega.pk/mobiles_products/13672/QMobile-Noir-M99.html
-QMobile;QMobile Noir W50;;;6,899;http://www.mega.pk/mobiles_products/13671/QMobile-Noir-W50.html
-Huawei;Huawei Mate 8 64 GB;;;62,999;http://www.mega.pk/mobiles_products/13633/Huawei-Mate-8-64-GB.html
-QMobile;QMobile Noir S3;;;9,899;http://www.mega.pk/mobiles_products/13600/QMobile-Noir-S3.html
-QMobile;QMobile Noir LT-700;;;15,549;http://www.mega.pk/mobiles_products/13597/QMobile-Noir-LT-700.html
-QMobile;QMobile Noir i7i;;;8,249;http://www.mega.pk/mobiles_products/13595/QMobile-Noir-i7i.html
-Rivo;Rivo Rhythm RX150;;;12,849;http://www.mega.pk/mobiles_products/13588/Rivo-Rhythm-RX150.html
-iNew;iNew U3;;;10,999;http://www.mega.pk/mobiles_products/13586/i-U3.html
-iNew;iNew U5;;;12,999;http://www.mega.pk/mobiles_products/13585/i-U5.html
-Samsung;Samsung Galaxy J1 Ace;;;9,999;http://www.mega.pk/mobiles_products/13576/Samsung-Galaxy-J1-Ace.html
-Nokia;Nokia 230;;;6,599;http://www.mega.pk/mobiles_products/13575/Nokia-230.html
-OPPO;OPPO Joy 3;;;12,499;http://www.mega.pk/mobiles_products/13564/OPPO-Joy-3.html
-Huawei;Huawei Ascend Y625;;;11,999;http://www.mega.pk/mobiles_products/13562/Huawei-Ascend-Y625.html
-iNew;iNew L3;;;20,499;http://www.mega.pk/mobiles_products/13561/i-L3.html
-Lenovo;Lenovo Vibe S1;;;33,999;http://www.mega.pk/mobiles_products/13560/Lenovo-Vibe-S1.html
-OPPO;OPPO Neo 7;;;13,999;http://www.mega.pk/mobiles_products/13559/OPPO-Neo-7.html
-HTC;HTC ONE A9;;;51,999;http://www.mega.pk/mobiles_products/13552/HTC-ONE-A9.html
-Huawei;Huawei Honor 4X;;;23,499;http://www.mega.pk/mobiles_products/13538/Huawei-Honor-4X.html
-Huawei;Huawei Y6;;;12,999;http://www.mega.pk/mobiles_products/13537/Huawei-Y6.html
-RIvo;RIvo Phantom PZ20;;;19,999;http://www.mega.pk/mobiles_products/13536/RIvo-Phantom-PZ20.html
-Huawei;Huawei ShotX;;;29,499;http://www.mega.pk/mobiles_products/13535/Huawei-ShotX.html
-QMobile;QMobile Noir Z10;;;16,499;http://www.mega.pk/mobiles_products/13534/QMobile-Noir-Z10.html
-BlackBerry;BlackBerry Priv;;;43,999;http://www.mega.pk/mobiles_products/13531/BlackBerry-Priv.html
-Lenovo;Lenovo Vibe P1m;;;16,999;http://www.mega.pk/mobiles_products/13511/Lenovo-Vibe-P1m.html
-Samsung;Samsung Galaxy S6 Edge Plus 64GB;;;58,999;http://www.mega.pk/mobiles_products/13504/Samsung-Galaxy-S6-Edge-Plus-64GB.html
-Rivo;Rivo Phantom PZ18;;;16,499;http://www.mega.pk/mobiles_products/13503/Rivo-Phantom-PZ18.html
-iNew;iNew V1;;;10,499;http://www.mega.pk/mobiles_products/13500/i-V1.html
-iNew;iNew V7;;;16,299;http://www.mega.pk/mobiles_products/13499/i-V7.html
-iNew;iNew L1;;;20,499;http://www.mega.pk/mobiles_products/13498/i-L1.html
-iNew;iNew L4;;;19,499;http://www.mega.pk/mobiles_products/13497/i-L4.html
-Haier;Haier Esteem i40;;;11,499;http://www.mega.pk/mobiles_products/13489/Haier-Esteem-i40.html
-Samsung;Samsung J200H;;;13,999;http://www.mega.pk/mobiles_products/13485/Samsung-J200H.html
-Lenovo;Lenovo A1000;;;6,499;http://www.mega.pk/mobiles_products/13445/Lenovo-A1000.html
-BlackBerry;BlackBerry Passport Silver Edition;;44,000 - PKR;35,999;http://www.mega.pk/mobiles_products/13440/BlackBerry-Passport-Silver-Edition.html
-LG;LG Nexus 6P;;;69,999;http://www.mega.pk/mobiles_products/13439/LG-Nexus-6P.html
-GFive;GFive President G7;;;9,999;http://www.mega.pk/mobiles_products/13416/GFive-President-G7.html
-Lenovo;Lenovo A7000;;;16,999;http://www.mega.pk/mobiles_products/13411/Lenovo-A7000.html
-Apple;Apple iPhone 6S Plus 128GB;;;89,999;http://www.mega.pk/mobiles_products/13409/Apple-iPhone-6S-Plus-128GB.html
-Apple;Apple iPhone 6S Plus 64GB;;;72,999;http://www.mega.pk/mobiles_products/13408/Apple-iPhone-6S-Plus-64GB.html
-Apple;Apple iPhone 6S 128GB;;;68,999;http://www.mega.pk/mobiles_products/13407/Apple-iPhone-6S-128GB.html
-Apple;Apple iPhone 6S 64GB;;;66,499;http://www.mega.pk/mobiles_products/13406/Apple-iPhone-6S-64GB.html
-Oppo;Oppo Mirror 5;;;18,999;http://www.mega.pk/mobiles_products/13399/Oppo-Mirror-5.html
-OPPO;OPPO R7 Lite;;;23,999;http://www.mega.pk/mobiles_products/13397/OPPO-R7-Lite.html
-OnePlus;OnePlus 2 64GB;;;47,999;http://www.mega.pk/mobiles_products/13394/OnePlus-2-64GB.html
-Sony;Sony Xperia Z5 Premium;;55,000 - PKR;48,999;http://www.mega.pk/mobiles_products/13385/Sony-Xperia-Z5-Premium.html
-Sony;Sony Xperia Z5;;54,000 - PKR;47,999;http://www.mega.pk/mobiles_products/13383/Sony-Xperia-Z5.html
-Nokia;Nokia 105 Dual Sim;;;2,699;http://www.mega.pk/mobiles_products/13368/Nokia-105-Dual-Sim.html
-Q;Q Mobile i6i;;;8,249;http://www.mega.pk/mobiles_products/13352/Q-Mobile-i6i.html
-Q;Q Mobile X20;;;6,799;http://www.mega.pk/mobiles_products/13350/Q-Mobile-X20.html
-Q;Q Mobile X34;;;6,649;http://www.mega.pk/mobiles_products/13349/Q-Mobile-X34.html
-Q;Q Mobile Z8;;;12,999;http://www.mega.pk/mobiles_products/13346/Q-Mobile-Z8.html
-Q;Q Mobile T250;;;5,299;http://www.mega.pk/mobiles_products/13343/Q-Mobile-T250.html
-Q;Q Mobile T200;;;5,199;http://www.mega.pk/mobiles_products/13342/Q-Mobile-T200.html
-Q;Q Mobile S5;;;12,499;http://www.mega.pk/mobiles_products/13341/Q-Mobile-S5.html
-Rivo;Rivo Rhythm RX100;;;12,899;http://www.mega.pk/mobiles_products/13317/Rivo-Rhythm-RX100.html
-Rivo;Rivo PZ8;;;7,999;http://www.mega.pk/mobiles_products/13309/Rivo-PZ8.html
-Rivo;Rivo PZ1;;;5,299;http://www.mega.pk/mobiles_products/13306/Rivo-PZ1.html
-Rivo;Rivo Rhythm RX80;;;8,999;http://www.mega.pk/mobiles_products/13304/Rivo-Rhythm-RX80.html
-Rivo;Rivo Rhythm RX75;;;8,399;http://www.mega.pk/mobiles_products/13302/Rivo-Rhythm-RX75.html
-Huawei;Huawei Honor 7;;;37,499;http://www.mega.pk/mobiles_products/13299/Huawei-Honor-7.html
-Samsung;Samsung Galaxy J5;;;17,999;http://www.mega.pk/mobiles_products/13291/Samsung-Galaxy-J5.html
-OnePlus;OnePlus 2;;;43,999;http://www.mega.pk/mobiles_products/13290/OnePlus-2.html
-QMobile;QMobile Noir S1;;;9,499;http://www.mega.pk/mobiles_products/13283/QMobile-Noir-S1.html
-Rivo;Rivo Rhythm RX70;;;8,699;http://www.mega.pk/mobiles_products/13240/Rivo-Rhythm-RX70.html
-Rivo;Rivo Rhythm RX65;;;6,199;http://www.mega.pk/mobiles_products/13231/Rivo-Rhythm-RX65.html
-Huawei;Huawei P8 Lite;;;21,899;http://www.mega.pk/mobiles_products/13215/Huawei-P8-Lite.html
-Huawei;Huawei Y5;;;9,499;http://www.mega.pk/mobiles_products/13126/Huawei-Y5.html
-Huawei;Huawei Y3;;;7,999;http://www.mega.pk/mobiles_products/13097/Huawei-Y3.html
-QMobile;QMobile Noir A1;;;11,449;http://www.mega.pk/mobiles_products/13078/QMobile-Noir-A1.html
-Huawei;Huawei Ascend Y221;;;7,299;http://www.mega.pk/mobiles_products/12884/Huawei-Ascend-Y221.html
-OPPO;OPPO Joy Plus;;;10,999;http://www.mega.pk/mobiles_products/12747/OPPO-Joy-Plus.html
-OPPO;OPPO Mirror 3;;;19,499;http://www.mega.pk/mobiles_products/12742/OPPO-Mirror-3.html
-OPPO;OPPO Neo 5s;;;18,499;http://www.mega.pk/mobiles_products/12739/OPPO-Neo-5s.html
-Huawei;Huawei P8;;;47,999;http://www.mega.pk/mobiles_products/12708/Huawei-P8.html
-Huawei;Huawei Honor 4C;;;15,999;http://www.mega.pk/mobiles_products/12677/Huawei-Honor-4C.html
-Lenovo;Lenovo A5000;;;12,999;http://www.mega.pk/mobiles_products/12600/Lenovo-A5000.html
-Lenovo;Lenovo P70;;;21,499;http://www.mega.pk/mobiles_products/12599/Lenovo-P70.html
-Haier;Haier M105;;;2,599;http://www.mega.pk/mobiles_products/12539/Haier-M105.html
-Voice;Voice V12;;;5,949;http://www.mega.pk/mobiles_products/12536/Voice-V12.html
-Haier;Haier Esteem i70;;;17,999;http://www.mega.pk/mobiles_products/12519/Haier-Esteem-i70.html
-Haier;Haier Esteem L50;;;15,999;http://www.mega.pk/mobiles_products/12515/Haier-Esteem-L50.html
-Haier;Haier pursuit G20;;;7,299;http://www.mega.pk/mobiles_products/12497/Haier-pursuit-G20.html
-Haier;Haier Pursuit G30;;;7,999;http://www.mega.pk/mobiles_products/12496/Haier-Pursuit-G30.html
-Lenovo;Lenovo A6000;;;12,999;http://www.mega.pk/mobiles_products/12493/Lenovo-A6000.html
-LG;LG G4;;;33,999;http://www.mega.pk/mobiles_products/12423/LG-G4.html
-HTC;HTC Desire 626 Dual;;;20,999;http://www.mega.pk/mobiles_products/12388/HTC-Desire-626-Dual.html
-GFive;GFive Classic 1;;;7,899;http://www.mega.pk/mobiles_products/12369/GFive-Classic-1.html
-GFive;GFive President G10;;;17,998;http://www.mega.pk/mobiles_products/12366/GFive-President-G10.html
-GFive;GFive President G10 OctaCore;;;11,900;http://www.mega.pk/mobiles_products/12365/GFive-President-G10-OctaCore.html
-GFive;GFive Classic 9;;;14,900;http://www.mega.pk/mobiles_products/12356/GFive-Classic-9.html
-GFive;GFive President Smart 5;;;7,899;http://www.mega.pk/mobiles_products/12353/GFive-President-Smart-5.html
-GFive;GFive President A97;;;7,199;http://www.mega.pk/mobiles_products/12352/GFive-President-A97.html
-GFive;GFive President Smart 2;;;5,289;http://www.mega.pk/mobiles_products/12350/GFive-President-Smart-2.html
-GFive;GFive G Note 3;;;17,499;http://www.mega.pk/mobiles_products/12349/GFive-G-Note-3.html
-GFive;GFive LTE 1;;;14,500;http://www.mega.pk/mobiles_products/12343/GFive-LTE-1.html
-GFive;GFive President G10 Fashion;;;12,899;http://www.mega.pk/mobiles_products/12341/GFive-President-G10-Fashion.html
-GFive;GFive President G9;;;9,999;http://www.mega.pk/mobiles_products/12339/GFive-President-G9.html
-GFive;GFive President G6;;;8,499;http://www.mega.pk/mobiles_products/12325/GFive-President-G6.html
-GFive;GFive President Tango 7;;;23,299;http://www.mega.pk/mobiles_products/12322/GFive-President-Tango-7.html
-Lenovo;Lenovo A328;;;9,799;http://www.mega.pk/mobiles_products/12318/Lenovo-A328.html
-Samsung;Samsung Galaxy S6;;;42,999;http://www.mega.pk/mobiles_products/12226/Samsung-Galaxy-S6.html
-Rivo;Rivo RX60;;;8,999;http://www.mega.pk/mobiles_products/12168/Rivo-RX60.html
-Rivo;Rivo RX55;;;5,499;http://www.mega.pk/mobiles_products/12167/Rivo-RX55.html
-Rivo;Rivo PZ15;;;13,999;http://www.mega.pk/mobiles_products/12157/Rivo-PZ15.html
-Rivo;Rivo PZ10;;;12,499;http://www.mega.pk/mobiles_products/12156/Rivo-PZ10.html
-Lenovo;Lenovo Vibe Z2;;;50,999;http://www.mega.pk/mobiles_products/12143/Lenovo-Vibe-Z2.html
-Lenovo;Lenovo A319;;;5,499;http://www.mega.pk/mobiles_products/12140/Lenovo-A319.html
-Nokia;Nokia 215 Dual Sim;;;4,149;http://www.mega.pk/mobiles_products/12135/Nokia-215-Dual-Sim.html
-Q;Q Mobile Noir X60;;;9,999;http://www.mega.pk/mobiles_products/12090/Q-Mobile-Noir-X60.html
-Samsung;Samsung Galaxy A5;;;25,499;http://www.mega.pk/mobiles_products/11935/Samsung-Galaxy-A5.html
-Nokia;Nokia Lumia 535 Dual Sim;;;10,499;http://www.mega.pk/mobiles_products/11693/Nokia-Lumia-535-Dual-Sim.html
-Voice;Voice Xtreme X3;;;14,499;http://www.mega.pk/mobiles_products/11667/Voice-Xtreme-X3.html
-Voice;Voice V44;;;11,399;http://www.mega.pk/mobiles_products/11666/Voice-V44.html
-Voice;Voice V22;;;8,299;http://www.mega.pk/mobiles_products/11665/Voice-V22.html
-Voice;Voice V21;;;7,999;http://www.mega.pk/mobiles_products/11663/Voice-V21.html
-OPPO;OPPO R5;;;27,499;http://www.mega.pk/mobiles_products/11636/OPPO-R5.html
-OPPO;OPPO N3;;;31,499;http://www.mega.pk/mobiles_products/11635/OPPO-N3.html
-Q;Q Mobile Noir X400;;;10,499;http://www.mega.pk/mobiles_products/11613/Q-Mobile-Noir-X400.html
-Huawei;Huawei Honor 3C 4G;;;15,499;http://www.mega.pk/mobiles_products/11603/Huawei-Honor-3C-4G.html
-Huawei;Huawei Ascend Y520;;;9,799;http://www.mega.pk/mobiles_products/11590/Huawei-Ascend-Y520.html
-Voice;Voice V15;;;7,099;http://www.mega.pk/mobiles_products/11390/Voice-V15.html
-Voice;Voice V14;;;7,699;http://www.mega.pk/mobiles_products/11389/Voice-V14.html
-Voice;Voice V40i;;;11,199;http://www.mega.pk/mobiles_products/11387/Voice-V40i.html
-Nokia;Nokia 130 Dual SIM;;;3,159;http://www.mega.pk/mobiles_products/11166/Nokia-130-Dual-SIM.html
-Huawei;Huawei Ascend G7;;;26,499;http://www.mega.pk/mobiles_products/11018/Huawei-Ascend-G7.html
-Apple;Apple iPhone 6;;;50,999;http://www.mega.pk/mobiles_products/10949/Apple-iPhone-6.html
-GRight;GRight Inspire A480;;;14,799;http://www.mega.pk/mobiles_products/10889/GRight-Inspire-A480.html
-GRight;GRight Inspire A380 mini;;;12,499;http://www.mega.pk/mobiles_products/10888/GRight-Inspire-A380-mini.html
-GRight;GRight Inspire A380;;;14,599;http://www.mega.pk/mobiles_products/10885/GRight-Inspire-A380.html
-GRight;GRight View X X1;;;20,499;http://www.mega.pk/mobiles_products/10880/GRight-View-X-X1.html
-Huawei;Huawei Ascend G630;;;15,499;http://www.mega.pk/mobiles_products/10852/Huawei-Ascend-G630.html
-Huawei;Huawei Ascend Y600;;;11,999;http://www.mega.pk/mobiles_products/10851/Huawei-Ascend-Y600.html
-Voice;Voice V55;;;11,899;http://www.mega.pk/mobiles_products/10748/Voice-V55.html
-Voice;Voice V50;;;11,799;http://www.mega.pk/mobiles_products/10746/Voice-V50.html
-Huawei;Huawei Ascend Y330;;;8,499;http://www.mega.pk/mobiles_products/10735/Huawei-Ascend-Y330.html
-Huawei;Huawei Honor 3C;;;15,899;http://www.mega.pk/mobiles_products/10718/Huawei-Honor-3C.html
-Nokia;Nokia 225;;;6,599;http://www.mega.pk/mobiles_products/10097/Nokia-225.html
-Huawei;Huawei Ascend Y530;;;13,999;http://www.mega.pk/mobiles_products/9914/Huawei-Ascend-Y530.html
-Voice;Voice Xtreme X5;;;20,499;http://www.mega.pk/mobiles_products/9843/Voice-Xtreme-X5.html
-Voice;Voice Xtreme V90;;;20,899;http://www.mega.pk/mobiles_products/9842/Voice-Xtreme-V90.html
-Voice;Voice Xtreme V75;;;15,799;http://www.mega.pk/mobiles_products/9841/Voice-Xtreme-V75.html
-Voice;Voice Xtreme V65;;;14,799;http://www.mega.pk/mobiles_products/9840/Voice-Xtreme-V65.html
-Voice;Voice Xtreme V20;;;8,299;http://www.mega.pk/mobiles_products/9839/Voice-Xtreme-V20.html
-Voice;Voice Xtreme V35;;;11,499;http://www.mega.pk/mobiles_products/9838/Voice-Xtreme-V35.html
-Voice;Voice Xtreme V10;;;6,899;http://www.mega.pk/mobiles_products/9825/Voice-Xtreme-V10.html
-Huawei;Huawei  Ascend Y220;;;6,999;http://www.mega.pk/mobiles_products/8718/Huawei--Ascend-Y220.html
-Huawei;Huawei Ascend Y511;;;12,299;http://www.mega.pk/mobiles_products/8574/Huawei-Ascend-Y511.html
-Voice;Voice Xtreme V70;;;15,499;http://www.mega.pk/mobiles_products/8511/Voice-Xtreme-V70.html
-Voice;Voice Xtreme V60;;;14,499;http://www.mega.pk/mobiles_products/8510/Voice-Xtreme-V60.html
-Voice;Voice Xtreme V40;;;11,499;http://www.mega.pk/mobiles_products/8505/Voice-Xtreme-V40.html
-Voice;Voice Xtreme V30;;;10,199;http://www.mega.pk/mobiles_products/8504/Voice-Xtreme-V30.html
-Huawei;Huawei G610;;;14,499;http://www.mega.pk/mobiles_products/8326/Huawei-G610.html
-Huawei;Huawei Honor 5A;;;N/A;http://www.mega.pk/mobiles_products/15284/Huawei-Honor-5A.html
-Samsung;Samsung Galaxy C7 Pro;;;47,999;http://www.mega.pk/mobiles_products/16140/Samsung-Galaxy-C7-Pro.html
-Huawei;Huawei Honor 8 Lite;;;24,899;http://www.mega.pk/mobiles_products/16110/Huawei-Honor-8-Lite.html
-Nokia;Nokia 3310 (2017);;;N/A;http://www.mega.pk/mobiles_products/16109/Nokia-3310-(2017).html
-LG;LG G6;;;N/A;http://www.mega.pk/mobiles_products/16108/LG-G6.html
-Huawei;Huawei P10 Plus;;;N/A;http://www.mega.pk/mobiles_products/16107/Huawei-P10-Plus.html
-Huawei;Huawei P10;;;N/A;http://www.mega.pk/mobiles_products/16106/Huawei-P10.html
-Motorola;Motorola Moto G5 Plus;;;N/A;http://www.mega.pk/mobiles_products/16105/Motorola-Moto-G5-Plus.html
-Motorola;Motorola Moto G5;;;N/A;http://www.mega.pk/mobiles_products/16104/Motorola-Moto-G5.html
-Sony;Sony Xperia XZs;;;N/A;http://www.mega.pk/mobiles_products/16103/Sony-Xperia-XZs.html
-Sony;Sony Xperia XZ Premium;;;N/A;http://www.mega.pk/mobiles_products/16102/Sony-Xperia-XZ-Premium.html
-Sony;Sony Xperia XA1 Ultra;;;32,999;http://www.mega.pk/mobiles_products/16100/Sony-Xperia-XA1-Ultra.html
-OPPO;OPPO  A57;;;N/A;http://www.mega.pk/mobiles_products/16089/OPPO--A57.html
-Huawei;Huawei Mate 9 Pro;;;N/A;http://www.mega.pk/mobiles_products/16084/Huawei-Mate-9-Pro.html
-Huawei;Huawei Honor 8 Pro;;;N/A;http://www.mega.pk/mobiles_products/16080/Huawei-Honor-8-Pro.html
-Motorola;Motorola  MOTO M;;;29,999;http://www.mega.pk/mobiles_products/16068/Motorola--MOTO-M.html
-Motorola;Motorola Moto M;;;31,499;http://www.mega.pk/mobiles_products/16046/Motorola-Moto-M.html
-Sony;Sony  Xperia XA;;;22,499;http://www.mega.pk/mobiles_products/16045/Sony--Xperia-XA.html
-Xiaomi;Xiaomi Mi 5;;;N/A;http://www.mega.pk/mobiles_products/15965/Xiaomi-Mi-5.html
-Xiaomi;Xiaomi Redmi Note 3;;;N/A;http://www.mega.pk/mobiles_products/15964/Xiaomi-Redmi-Note-3.html
-Xiaomi;Xiaomi Redmi Note 4;;;N/A;http://www.mega.pk/mobiles_products/15963/Xiaomi-Redmi-Note-4.html
-Xiaomi;Xiaomi Mi Max;;;N/A;http://www.mega.pk/mobiles_products/15962/Xiaomi-Mi-Max.html
-Samsung;Samsung  OnePlus 3T;;;52,999;http://www.mega.pk/mobiles_products/15949/Samsung--OnePlus-3T.html
-Lenovo;Lenovo B (A2016) 4G LTE;;;9,499;http://www.mega.pk/mobiles_products/15944/Lenovo-B-(A2016)-4G-LTE.html
-Samsung;Samsung Galaxy S7 Edge 128 GB;;;73,499;http://www.mega.pk/mobiles_products/15941/Samsung-Galaxy-S7-Edge-128-GB.html
-Samsung;Samsung Galaxy C5 64 GB;;;32,499;http://www.mega.pk/mobiles_products/15940/Samsung-Galaxy-C5-64-GB.html
-Samsung;Samsung  Galaxy J2 Prime;;;14,499;http://www.mega.pk/mobiles_products/15938/Samsung--Galaxy-J2-Prime.html
-Motorola;Motorola Moto Z;;;74,999;http://www.mega.pk/mobiles_products/15937/Motorola-Moto-Z.html
-Samsung;Samsung Galaxy on8;;;N/A;http://www.mega.pk/mobiles_products/15907/Samsung-Galaxy-on8.html
-Samsung;Samsung Galaxy S8 Plus;;;N/A;http://www.mega.pk/mobiles_products/15903/Samsung-Galaxy-S8-Plus.html
-Samsung;Samsung Galaxy S8;;;N/A;http://www.mega.pk/mobiles_products/15902/Samsung-Galaxy-S8.html
-Samsung;Samsung Galaxy On7;;;17,999;http://www.mega.pk/mobiles_products/15901/Samsung-Galaxy-On7.html
-Samsung;Samsung Galaxy A3 (2017);;;33,999;http://www.mega.pk/mobiles_products/15900/Samsung-Galaxy-A3-(2017).html
-Infinix;Infinix HOT 3 2GB;;;15,199;http://www.mega.pk/mobiles_products/15883/Infinix-HOT-3-2GB.html
-Infinix;Infinix HOT S 2GB;;;16,899;http://www.mega.pk/mobiles_products/15882/Infinix-HOT-S-2GB.html
-Infinix;Infinix HOT S;;;18,999;http://www.mega.pk/mobiles_products/15881/Infinix-HOT-S.html
-Samsung;Samsung Galaxy A5 (2017);;;37,799;http://www.mega.pk/mobiles_products/15874/Samsung-Galaxy-A5-(2017).html
-Samsung;Samsung Galaxy A7 (2017);;;50,499;http://www.mega.pk/mobiles_products/15873/Samsung-Galaxy-A7-(2017).html
-Infinix;Infinix HOT 3;;;10,499;http://www.mega.pk/mobiles_products/15872/Infinix-HOT-3.html
-Infinix;Infinix Zero 4;;;22,999;http://www.mega.pk/mobiles_products/15871/Infinix-Zero-4.html
-Infinix;Infinix Zero 3;;;20,899;http://www.mega.pk/mobiles_products/15870/Infinix-Zero-3.html
-Infinix;Infinix Note 3;;;18,999;http://www.mega.pk/mobiles_products/15869/Infinix-Note-3.html
-Samsung;Samsung  A8;;;43,999;http://www.mega.pk/mobiles_products/15806/Samsung--A8.html
-Huawei;Huawei Honor 6X;;;27,499;http://www.mega.pk/mobiles_products/15771/Huawei-Honor-6X.html
-Huawei;Huawei P8;;;52,999;http://www.mega.pk/mobiles_products/15762/Huawei-P8.html
-Huawei;Huawei Nexus 6P;;;70,999;http://www.mega.pk/mobiles_products/15761/Huawei-Nexus-6P.html
-Samsung;Samsung galaxy J3 Pro;;13,499 - PKR;14,299;http://www.mega.pk/mobiles_products/15684/Samsung-galaxy-J3-Pro.html
-Q;Q Mobile Jazz X JS7;;;7,999;http://www.mega.pk/mobiles_products/15643/Q-Mobile-Jazz-X-JS7.html
-Q;Q Mobile Jazz X JS2;;;6,999;http://www.mega.pk/mobiles_products/15642/Q-Mobile-Jazz-X-JS2.html
-QMobile;QMobile Noir LT680;;;12,499;http://www.mega.pk/mobiles_products/15641/QMobile-Noir-LT680.html
-Q;Q mobile Jazz X JS1;;;5,149;http://www.mega.pk/mobiles_products/15640/Q-mobile-Jazz-X-JS1.html
-QMobile;QMobile Noir LT650;;;11,499;http://www.mega.pk/mobiles_products/15639/QMobile-Noir-LT650.html
-QMobile;QMobile Noir LT700 Pro;;;15,499;http://www.mega.pk/mobiles_products/15638/QMobile-Noir-LT700-Pro.html
-QMobile;QMobile Noir LT750;;;15,999;http://www.mega.pk/mobiles_products/15637/QMobile-Noir-LT750.html
-QMobile;QMobile Noir S1 PRO;;;8,499;http://www.mega.pk/mobiles_products/15636/QMobile-Noir-S1-PRO.html
-QMobile;QMobile Noir S2 Pro;;;10,999;http://www.mega.pk/mobiles_products/15635/QMobile-Noir-S2-Pro.html
-QMobile;QMobile Noir S6S;;;11,549;http://www.mega.pk/mobiles_products/15634/QMobile-Noir-S6S.html
-QMobile;QMobile Noir X32;;;5,499;http://www.mega.pk/mobiles_products/15633/QMobile-Noir-X32.html
-QMobile;QMobile X700 PRO ll;;;9,889;http://www.mega.pk/mobiles_products/15632/QMobile-X700-PRO-ll.html
-QMobile;QMobile Noir X700 Pro Lite;;;8,899;http://www.mega.pk/mobiles_products/15631/QMobile-Noir-X700-Pro-Lite.html
-OPPO;OPPO F1s;;;30,899;http://www.mega.pk/mobiles_products/15630/OPPO-F1s.html
-QMobile;QMobile Noir Z12 Pro;;;20,999;http://www.mega.pk/mobiles_products/15629/QMobile-Noir-Z12-Pro.html
-QMobile;QMobile Noir Z14;;;25,499;http://www.mega.pk/mobiles_products/15628/QMobile-Noir-Z14.html
-OPPO;OPPO F1 Plus;;;38,499;http://www.mega.pk/mobiles_products/15627/OPPO-F1-Plus.html
-QMobile;QMobile Noir J7;;;18,499;http://www.mega.pk/mobiles_products/15626/QMobile-Noir-J7.html
-QMobile;QMobile Noir J5;;;13,889;http://www.mega.pk/mobiles_products/15625/QMobile-Noir-J5.html
-QMobile;QMobile Noir i2 Pro;;;6,649;http://www.mega.pk/mobiles_products/15624/QMobile-Noir-i2-Pro.html
-QMobile;QMobile Noir i2;;;5,849;http://www.mega.pk/mobiles_products/15623/QMobile-Noir-i2.html
-QMobile;QMobile Noir A6;;;16,499;http://www.mega.pk/mobiles_products/15620/QMobile-Noir-A6.html
-QMobile;QMobile Noir A3;;;14,499;http://www.mega.pk/mobiles_products/15618/QMobile-Noir-A3.html
-QMobile;QMobile Noir S6;;;12,749;http://www.mega.pk/mobiles_products/15608/QMobile-Noir-S6.html
-QMobile;QMobile Noir S6 PLus;;;12,999;http://www.mega.pk/mobiles_products/15607/QMobile-Noir-S6-PLus.html
-Samsung;Samsung galaxy J7 Prime  32 GB;;;27,499;http://www.mega.pk/mobiles_products/15606/Samsung-galaxy-J7-Prime--32-GB.html
-Samsung;Samsung Galaxy A9 pro;;;49,999;http://www.mega.pk/mobiles_products/15602/Samsung-Galaxy-A9-pro.html
-Samsung;Samsung Galaxy C7 64GB;;;43,499;http://www.mega.pk/mobiles_products/15601/Samsung-Galaxy-C7-64GB.html
-Samsung;Samsung Galaxy J1 Mini Prime;;;9,999;http://www.mega.pk/mobiles_products/15600/Samsung-Galaxy-J1-Mini-Prime.html
-Samung;Samung Galaxy C9 Pro;;;50,999;http://www.mega.pk/mobiles_products/15599/Samung-Galaxy-C9-Pro.html
-Huawei;Huawei Mate 9;;;67,999;http://www.mega.pk/mobiles_products/15552/Huawei-Mate-9.html
-Huawei;Huawei GR3;;;18,999;http://www.mega.pk/mobiles_products/15493/Huawei-GR3.html
-Huawei;Huawei Y6II LTE;;;18,499;http://www.mega.pk/mobiles_products/15491/Huawei-Y6II-LTE.html
-Huawei;Huawei Nova Plus;;;38,999;http://www.mega.pk/mobiles_products/15490/Huawei-Nova-Plus.html
-QMobile;QMobile Noir i6 Metal One;;;7,849;http://www.mega.pk/mobiles_products/15466/QMobile-Noir-i6-Metal-One.html
-Qmobile;Qmobile Noir i6 Metal HD;;;9,199;http://www.mega.pk/mobiles_products/15463/Qmobile-Noir-i6-Metal-HD.html
-Qmobile;Qmobile Noir S4;;;11,699;http://www.mega.pk/mobiles_products/15460/Qmobile-Noir-S4.html
-QMobile;QMobile X700 Pro;;;9,399;http://www.mega.pk/mobiles_products/15458/QMobile-X700-Pro.html
-Samsung;Samsung galaxy Grand Prime Plus;;;14,999;http://www.mega.pk/mobiles_products/15356/Samsung-galaxy-Grand-Prime-Plus.html
-LG;LG V20;;;58,999;http://www.mega.pk/mobiles_products/15347/LG-V20.html
-Google;Google Pixel;;;80,999;http://www.mega.pk/mobiles_products/15344/Google-Pixel.html
-HTC;HTC Desire 830;;;30,999;http://www.mega.pk/mobiles_products/15306/HTC-Desire-830.html
-HTC;HTC One X9;;;37,499;http://www.mega.pk/mobiles_products/13778/HTC-One-X9.html
-Huawei;Huawei Mate S;;;48,999;http://www.mega.pk/mobiles_products/13387/Huawei-Mate-S.html
-Huawei;Huawei G8;;;37,999;http://www.mega.pk/mobiles_products/13386/Huawei-G8.html
-Huawei;Huawei P8 Max;;;53,999;http://www.mega.pk/mobiles_products/13298/Huawei-P8-Max.html
-Samsung;Samsung Galaxy Note 5 64GB;;;60,999;http://www.mega.pk/mobiles_products/13292/Samsung-Galaxy-Note-5-64GB.html
-Huawei;Huawei Ascend Y625;;;11,999;http://www.mega.pk/mobiles_products/12399/Huawei-Ascend-Y625.html
-Huawei;Huawei Ascend Y550;;;14,999;http://www.mega.pk/mobiles_products/12086/Huawei-Ascend-Y550.html
-Huawei;Huawei Honor 3C Lite;;;15,999;http://www.mega.pk/mobiles_products/11696/Huawei-Honor-3C-Lite.html
-Huawei;Huawei Honor 6;;;35,499;http://www.mega.pk/mobiles_products/11614/Huawei-Honor-6.html
-Samsung;Samsung Galaxy Grand Prime;;;14,999;http://www.mega.pk/mobiles_products/11570/Samsung-Galaxy-Grand-Prime.html
-BlackBerry;BlackBerry Passport;;;30,999;http://www.mega.pk/mobiles_products/11544/BlackBerry-Passport.html
-Huawei;Huawei Ascend Mate 7;;;47,999;http://www.mega.pk/mobiles_products/11017/Huawei-Ascend-Mate-7.html
-Samsung;Samsung Galaxy Core 2;;;11,499;http://www.mega.pk/mobiles_products/10729/Samsung-Galaxy-Core-2.html
-Huawei;Huawei Ascend P7;;;38,999;http://www.mega.pk/mobiles_products/10706/Huawei-Ascend-P7.html
-Huawei;Huawei Ascend G730;;;20,499;http://www.mega.pk/mobiles_products/10047/Huawei-Ascend-G730.html

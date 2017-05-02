@@ -3,12 +3,13 @@
         <div class="navbar-header">
             <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
             <a href="javascript:void(0);" class="bars"></a>
-            <a class="navbar-brand" href="{{route('home')}}">EXTENDED ONLINE SHOPPING</a>
+            <a class="navbar-brand" href="/">EXTENDED ONLINE SHOPPING</a>
         </div>
         <div class="collapse navbar-collapse" id="navbar-collapse">
             <ul class="nav navbar-nav navbar-right">
                 @if (Auth::guest())
                     <li><a href="{{ url('/login') }}">Login</a></li>
+                    {{--<li><a href="{{ url('/login/shop') }}">My Shop</a></li>--}}
                     <li><a href="{{ url('/register') }}">Register</a></li>
                 @else
                     <li class="dropdown">
@@ -27,6 +28,9 @@
                                 <form id="logout-form" action="{{ url('/logout') }}" method="POST" style="display: none;">
                                     {{ csrf_field() }}
                                 </form>
+                            </li>
+                            <li>
+                                <a href="{{route('dashboard')}}">My Dashboard</a>
                             </li>
                         </ul>
                     </li>

@@ -251,4 +251,29 @@ p {
 /*.irs-from, .irs-to, .irs-single {
     background: #2196F3;
 }*/
+.info-box-2{
+    cursor: pointer;
+}
+.excel-add-form, .bulk-add-form{display: none}
+.preloader.circle{
+    display: none;
+    position: fixed !important;
+    top: 30% !important;
+    bottom: 0 !important;
+    left: 10% !important;
+    right: 0 !important;
+    margin: auto;
+    z-index: 10000;
+}
+.select2-container--default .select2-search--inline .select2-search__field {
+    width: auto !important;
+}
+.select2-container {
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    vertical-align: middle;
+    width: 100% !important;
+}
 

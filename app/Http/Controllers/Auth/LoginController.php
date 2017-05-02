@@ -3,7 +3,10 @@
 namespace App\Http\Controllers\Auth;
 
 use App\Http\Controllers\Controller;
+use App\Http\Controllers\ShopController;
+use App\User;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
+use Illuminate\Support\Facades\Auth;
 
 class LoginController extends Controller
 {
@@ -25,15 +28,55 @@ class LoginController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = '/home';
+    protected $redirectTo = '/register/shop';
+
+
 
     /**
-     * Create a new controller instance.
      *
-     * @return void
+     * LoginController constructor.
+     *
      */
     public function __construct()
     {
         $this->middleware('guest', ['except' => 'logout']);
+        $this->middleware('verified', ['only' => 'login']);
+        $this->middleware('has-shop', ['only' => 'login']);
+    }
+
+
+    /**
+     * logout the user
+     */
+    public function logout(){
+        Auth::logout();
+
+        return redirect('/');
+    }
+
+    /**
+     * Handle an authentication attempt.
+     *
+     * @param $email
+     * @param $password
+     * @return Response
+     */
+    public function authenticate($email)
+    {
+        $user = User::where('email_phone', $email)->where('verified', 1)->first();
+
+        Auth::login($user, true);
+
+        $count = (new ShopController())->getShops($user);
+
+        if($count > 0){
+            //redirect the user to select a shop
+            return redirect()->route('select-shops-form', ['id' => $user->id]);
+        }
+
+        //user has no shops
+        else{
+            return redirect()->route('register-shop');
+        }
     }
 }

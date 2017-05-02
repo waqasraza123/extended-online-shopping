@@ -38,5 +38,8 @@
 <!-- Custom Js -->
 <script src="/theme/js/admin.js"></script>
 <script src="/theme/js/pages/index.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfUZQtcEqdyFVUf9VWvhqNd89Xtse6tbA&libraries=places&region=pk"
+        async defer>
+</script>
 @yield('footer')
 <script src="/js/app.js"></script>

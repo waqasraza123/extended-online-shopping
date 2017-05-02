@@ -28,12 +28,15 @@
 
                                 <tr>
                                     <td>{{ $mobile->id }}</td>
-                                    <td>{{ $mobile->title }}</td>
-                                    <td>{{ $mobile->brand->name }}</td>
+                                    <td>{{ $mobile->mobile->title }}</td>
+                                    <td>{{ \App\Brand::find($mobile->mobile->brand_id)->name }}</td>
                                     <td id="colors_text_box">
                                         @foreach($mobile->colors as $color)
                                             <span>
                                                 {{ trim($color->color)}}
+                                                @if(!$loop->last)
+                                                    {{'|'}}
+                                                @endif
                                             </span>
                                         @endforeach
                                     </td>
@@ -51,7 +54,7 @@
                                     <td>{{$mobile->discount}}</td>
 
                                     <td>
-                                        <a href="{{ url('products/mobile/' . $mobile->id. '/edit') }}" class="btn btn-primary btn-xs" title="Edit Mobile"><span class="glyphicon glyphicon-pencil" aria-hidden="true"/></a>
+                                        <a href="{{ url('products/mobile/' . $mobile->mobile->id. '/edit') }}" class="btn btn-primary btn-xs" title="Edit Mobile"><span class="glyphicon glyphicon-pencil" aria-hidden="true"/></a>
                                         {!! Form::open([
                                             'method'=>'DELETE',
                                             'url' => ['/products/mobile', $mobile->id],

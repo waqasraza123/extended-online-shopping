@@ -1,200 +1,320 @@
+HP;15-ay028ca Notebook - 15.6" Touchscreen - Intel Core i3-6100U - Windows 10;Black;48,000;41,299;https://www.daraz.pk/hp-15-ay028ca-notebook-15.6-touchscreen-intel-core-i3-6100u-windows-10-6603554.html
+HP;ProBook 4540s - 15.6" HD - 3rd Gen. Core i3-3110M - 500GB HDD - Silver;Grey;40,000;24,999;https://www.daraz.pk/hp-probook-4540s-15.6-hd-3rd-gen.-core-i3-3110m-500gb-hdd-silver-6606913.html
+DELL;Inspiron 3558 - Core i3 5th Generation - DOS - Black;Black;39,999;37,299;https://www.daraz.pk/dell-inspiron-3558-core-i3-5th-generation-dos-black-6404353.html
+HP;EliteBook Folio 1020 G1 Special Edition - 12.5" WQHD - Core M-5Y51 CPU - 256GB M.2 SSD - Platinum;Silver;85,000;41,999;https://www.daraz.pk/hp-elitebook-folio-1020-g1-special-edition-12.5-wqhd-core-m-5y51-cpu-256gb-m.2-ssd-platinum-6606399.html
+DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - Black;;0;53,000;https://www.daraz.pk/inspiron-15-5559-core-i5-6200u-2.3-ghz-black-dell-mpg59712.html
+HP;EliteBook 840 G2 - Core i5-5200U - 500GB HDD - Gray;Silver;85,000;48,999;https://www.daraz.pk/hp-elitebook-840-g2-core-i5-5200u-500gb-hdd-gray-6555782.html
+Lenovo;IdeaPad 110 - Intel Celeron N3060 - 2GB RAM - 500GB HDD - Black;Black;0;30,500;https://www.daraz.pk/lenovo-ideapad-110-intel-celeron-n3060-2gb-ram-500gb-hdd-black-6549827.html
+Lenovo;B51-80 15.6" HD LED - Intel Core i5 6200U - 6GB DDR3 - 1TB HDD - DVDRW - OS Not Installed - Black;Black;55,000;48,999;https://www.daraz.pk/lenovo-b51-80-15.6-hd-led-intel-core-i5-6200u-6gb-ddr3-1tb-hdd-dvdrw-os-not-installed-black-6507613.html
+DELL;Inspiron 3567 - Intel Core i7-7500U 2.7 GHz - DOS - Black;Black;75,000;65,999;https://www.daraz.pk/dell-inspiron-3567-intel-core-i7-7500u-2.7-ghz-dos-black-6543366.html
+HP;EliteBook Folio 1020 G1 Special Edition - 12.5" WQHD - Core M-5Y51 CPU - 256GB M.2 SSD - Platinum;Silver;115,000;47,800;https://www.daraz.pk/elitebook-folio-1020-g1-special-edition-12.5-wqhd-core-m-5y51-cpu-256gb-m.2-ssd-platinum-hp-mpg60240.html
+DELL;Venue 10 Pro - 10.1" TouchScreen - Intel Atom Z3735F with Detachable Keyboard & 16GB SD Card;Black;23,499;15,998;https://www.daraz.pk/dell-venue-10-pro-10.1-touchscreen-intel-atom-z3735f-with-detachable-keyboard-16gb-sd-card-6566267.html
+DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - Black;Black;67,000;51,499;https://www.daraz.pk/inspiron-15-5559-15.6-hd-core-i5-6300u-2.3-ghz-500gb-hdd-4gb-ram-2gb-amd-radeon-r5-m335-gpu-os-not-installed-black-supplier-warranty-dell-mpg31984.html
+HP;ProBook 450 G4 - Core i5-7200U - Silver;Silver;69,000;62,499;https://www.daraz.pk/probook-450-g4-core-i5-7200u-silver-hp-mpg54867.html
+DELL;Latitude 14 E5450 - 5th Gen - Core i5 - Black;Black;54,999;39,999;https://www.daraz.pk/dell-latitude-14-e5450-5th-gen-core-i5-black-6553160.html
+DELL;Inspiron 15 - 5559 - Intel Core i3 6th Gen 6100U 2.3GHz- Ram 4GB- Hard 1TB- 15.6" Screen size- Win 10- Sliver;;0;48,500;https://www.daraz.pk/dell-inspiron-15-5559-intel-core-i3-6th-gen-6100u-2.3ghz-ram-4gb-hard-1tb-15.6-screen-size-win-10-sliver-6393653.html
+Lenovo;Thinkpad Edge E5180 - Intel Core i5-6200U - 4GB RAM - 500GB - Windows 10 - Black;Black;54,600;45,999;https://www.daraz.pk/lenovo-thinkpad-edge-e5180-intel-core-i5-6200u-4gb-ram-500gb-windows-10-black-6586692.html
+HP;Slate 21 Pro - 2GB - 16GB - Android 4.3 Jelly Bean - With Keyboard & Mouse;Black;30,999;24,499;https://www.daraz.pk/hp-slate-21-pro-2gb-16gb-android-4.3-jelly-bean-with-keyboard-mouse-6611193.html
+HP;Stream-13 - 13.3" HD LED - Intel Celeron N2840 - Horizon Blue;Blue;28,000;18,799;https://www.daraz.pk/stream-13-13.3-hd-led-intel-celeron-n2840-horizon-blue-hp-mpg59552.html
 HP;Elite x2 1012 G1 - Core M5-6Y54 - 12" UWVA Touch - 256GB SSD - Silver;Silver;145,000;61,999;https://www.daraz.pk/hp-elite-x2-1012-g1-core-m5-6y54-12-uwva-touch-256gb-ssd-silver-6489058.html
-HP;EliteBook Folio 1020 G1 Special Edition - 12.5" WQHD - Core M-5Y51 CPU - 256GB M.2 SSD - Platinum;Silver;115,000;48,500;https://www.daraz.pk/hp-elitebook-folio-1020-g1-special-edition-12.5-wqhd-core-m-5y51-cpu-256gb-m.2-ssd-platinum-6426474.html
-DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - 1TB HDD - Windows 10 - Matte Silver;Silver;68,999;53,999;https://www.daraz.pk/dell-inspiron-15-5559-core-i5-6200u-2.3-ghz-1tb-hdd-windows-10-matte-silver-6473519.html
-Lenovo;IdeaPad 110 - Core i3-6100U 2.3 GHz - Black;Black;41,000;37,800;https://www.daraz.pk/lenovo-ideapad-110-core-i3-6100u-2.3-ghz-black-6448437.html
-HP;ENVY x360 - m6-aq103dx - Core i5-7200U - Win. 10 - Silver;Silver;69,999;65,250;https://www.daraz.pk/hp-envy-x360-m6-aq103dx-core-i5-7200u-win.-10-silver-6494812.html
-HP;Notebook - 15-ay105ne - Core i5-7200U - Silver;Silver;61,000;57,499;https://www.daraz.pk/hp-notebook-15-ay105ne-core-i5-7200u-silver-6502698.html
-HP;Elite x2 1012 G1 - Core M7-6Y75 - 12" UWVA Touch - 256GB SSD - Win. 10 - Silver;Silver;170,000;69,999;https://www.daraz.pk/hp-elite-x2-1012-g1-core-m7-6y75-12-uwva-touch-256gb-ssd-win.-10-silver-6489056.html
-HP;ProBook 450 G4 - Core i5-7200U - Silver;Silver;69,000;63,499;https://www.daraz.pk/probook-450-g4-core-i5-7200u-silver-hp-mpg54867.html
-HP;Spectre x2 - 12-a002tu - Core M5-6Y54 - 12" WUXGA+ Touch - 256GB SSD - Silver;Silver;104,000;57,999;https://www.daraz.pk/hp-spectre-x2-12-a002tu-core-m5-6y54-12-wuxga-touch-256gb-ssd-silver-6415374.html
-Lenovo;Thinkpad Edge E5180 - Intel® Core™ i5-6200U - 4 GB RAM - 500 GB - Win10 - Black (Brand Warranty);Silver;54,600;46,800;https://www.daraz.pk/lenovo-thinkpad-edge-e5180-intelr-coretm-i5-6200u-4-gb-ram-500-gb-win10-black-brand-warranty-6435138.html
-HP;Elitepad 1000 G2 - Intel Atom 1.6 GHz - Silver;Black;45,000;29,999;https://www.daraz.pk/hp-elitepad-1000-g2-intel-atom-1.6-ghz-silver-6332220.html
-DELL;Inspiron 15 - 5559 - Intel Core i3 6th Gen 6100U 2.3GHz- Ram 4GB- Hard 1TB- 15.6" Screen size- Win 10- Sliver;Black;48,500;43,999;https://www.daraz.pk/dell-inspiron-15-5559-intel-core-i3-6th-gen-6100u-2.3ghz-ram-4gb-hard-1tb-15.6-screen-size-win-10-sliver-6393653.html
-DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - Black;Black;67,000;51,999;https://www.daraz.pk/inspiron-15-5559-15.6-hd-core-i5-6300u-2.3-ghz-500gb-hdd-4gb-ram-2gb-amd-radeon-r5-m335-gpu-os-not-installed-black-supplier-warranty-dell-mpg31984.html
-DELL;Inspiron 15 5567 - Core i3-7100U - Gloss Black;Black;58,500;48,900;https://www.daraz.pk/dell-inspiron-15-5567-core-i3-7100u-gloss-black-6520976.html
-HP;Elitebook 820 G2 - 12.5" HD LED - Core i7 5th Generation - Silver & Black;Black|Silver;59,999;55,599;https://www.daraz.pk/hp-elitebook-820-g2-12.5-hd-led-core-i7-5th-generation-silver-black-6478073.html
-HP;EliteBook 820 G2 - Core i5-5200U - 500GB+32GB Dual Drive - Black;Black;88,000;49,199;https://www.daraz.pk/hp-elitebook-820-g2-core-i5-5200u-500gb32gb-dual-drive-black-6478067.html
-Lenovo;Ideapad 700 - Intel Core i7 6700HQ -  4GB Nvidia GTX 950M - Win. 10 - Black with Belkin Backpack;Black;115,000;95,500;https://www.daraz.pk/lenovo-ideapad-700-intel-core-i7-6700hq-4gb-nvidia-gtx-950m-win.-10-black-with-belkin-backpack-6482449.html
-HP;Stream-11 - 11.6" HD LED - Intel Celeron n3050 - Horizon Blue;Blue;22,999;17,999;https://www.daraz.pk/hp-stream-11-11.6-hd-led-intel-celeron-n3050-horizon-blue-6479874.html
-Lenovo;Intel Core i5 - Ideapad 110 - 6th Gen 6200U -Ram 4GB - Hard 500GB - 15.6" Display - Dos - Black;Black;52,000;46,900;https://www.daraz.pk/lenovo-intel-core-i5-ideapad-110-6th-gen-6200u-ram-4gb-hard-500gb-15.6-display-dos-black-6408144.html
-HP;Spectre x2 - 12-a005tu - Core M3-6Y30 - 12" WUXGA+ Touch - 128GB SSD - Silver;Silver;85,000;49,999;https://www.daraz.pk/hp-spectre-x2-12-a005tu-core-m3-6y30-12-wuxga-touch-128gb-ssd-silver-6489048.html
-Lenovo;Ideapad 110 - Core i3-6100U 6th Generation - Black;Black;39,000;38,000;https://www.daraz.pk/lenovo-ideapad-110-core-i3-6100u-6th-generation-black-6486881.html
-ASUS;X555UA-M02760 - 15.6" - Core i5-6200U 2.3 GHz - 500GB HDD - Black;Black;53,000;49,999;https://www.daraz.pk/asus-x555ua-m02760-15.6-core-i5-6200u-2.3-ghz-500gb-hdd-black-6348993.html
-HP;Notebook 15-AY102TU - Intel Core i5-7100U - Jack Black;Black;69,000;56,500;https://www.daraz.pk/15-ay102tu-notebook-intel-core-i5-7100u-jack-black-hp-mpg53154.html
-HP;Notebook 15-AY101TU - Intel Core i3-7100U - Jack Black;Black;52,000;46,800;https://www.daraz.pk/15-ay101tu-notebook-intel-core-i3-7100u-jack-black-hp-mpg53153.html
-Lenovo;Ideapad 310 - 15.6" HD - Core i5 7200U 2.5 GHz - 1.0TB HDD - 4GB RAM - Black;Black;54,000;48,500;https://www.daraz.pk/lenovo-ideapad-310-15.6-hd-core-i5-7200u-2.5-ghz-1.0tb-hdd-4gb-ram-black-6458202.html
-Lenovo;Ideapad 300 - 15" HD - 500GB HDD - 4GB RAM - Core i5 6200U 2.3 GHz - Silver;Silver;58,000;48,800;https://www.daraz.pk/lenovo-ideapad-300-15-hd-500gb-hdd-4gb-ram-core-i5-6200u-2.3-ghz-silver-6446187.html
-HP;Notebook - ay-103tu - Core i3 7th Generation 7100u - Black;Black;48,999;45,299;https://www.daraz.pk/hp-notebook-ay-103tu-core-i3-7th-generation-7100u-black-6469442.html
+DELL;Inspiron i5559  - Core i3 6100U - Theoretical Grey;Grey;45,500;42,099;https://www.daraz.pk/dell-inspiron-i5559-core-i3-6100u-theoretical-grey-6601982.html
+HP;Notebook 250 G5 - 15.6 Inch HD LED Screen - Intel Celeron N3050 - Black;Black;0;34,000;https://www.daraz.pk/hp-notebook-250-g5-15.6-inch-hd-led-screen-intel-celeron-n3050-black-6595488.html
+HP;Notebook - 15-ba079dx (Touch) - AMD Quad-Core A10-9600P - 6GB RAM - 1TB HDD - Black;Black;51,000;41,999;https://www.daraz.pk/hp-notebook-15-ba079dx-touch-amd-quad-core-a10-9600p-6gb-ram-1tb-hdd-black-6609481.html
+ASUS;X540S - 15.6" HD LED - Intel Celeron N3050 - Intel HD Graphics - Windows 10;Black;29,999;26,999;https://www.daraz.pk/asus-x540s-15.6-hd-led-intel-celeron-n3050-intel-hd-graphics-windows-10-6613498.html
+Lenovo;Intel Core i5 - Ideapad 110 - 6th Gen 6200U -Ram 4GB - Hard 500GB - 15.6" Display - Dos - Black;Black;0;52,000;https://www.daraz.pk/lenovo-intel-core-i5-ideapad-110-6th-gen-6200u-ram-4gb-hard-500gb-15.6-display-dos-black-6408144.html
+HP;Stream-11 - 11.6" HD LED - Intel Celeron N3050 - Horizon Blue;Blue;0;22,999;https://www.daraz.pk/hp-stream-11-11.6-hd-led-intel-celeron-n3050-horizon-blue-6479874.html
+Lenovo;B51-80 15.6" HD LED - Intel Core i7 6500U - 8GB DDR3 - 1TB HDD - ATI 2GB Graphics - DVDRW - OS Not Installed - Black;;72,000;59,999;https://www.daraz.pk/lenovo-b51-80-15.6-hd-led-intel-core-i7-6500u-8gb-ddr3-1tb-hdd-ati-2gb-graphics-dvdrw-os-not-installed-black-6536609.html
+HP;Notebook - 15-ay105ne - Core i5-7200U - Silver;Silver;67,000;53,500;https://www.daraz.pk/hp-notebook-15-ay105ne-core-i5-7200u-silver-6502698.html
+ASUS;X555UA-M02760 - 15.6" - Core i5-6200U 2.3 GHz - 500GB HDD - Black;Black;53,000;47,999;https://www.daraz.pk/asus-x555ua-m02760-15.6-core-i5-6200u-2.3-ghz-500gb-hdd-black-6348993.html
+HP;15-AY101TU Notebook - Intel Core i3-7100U - Jack Black;Black;0;48,000;https://www.daraz.pk/15-ay101tu-notebook-intel-core-i3-7100u-jack-black-hp-mpg53153.html
+Lenovo;Ideapad 310 - Intel Core i5 7200u - Free DOS - Black;;63,000;54,999;https://www.daraz.pk/ideapad-310-intel-core-i5-7200u-free-dos-black-lenovo-mpg60637.html
+ASUS;X540LA 15.6 inch Notebook - Core i3-5005U - Black;;0;37,500;https://www.daraz.pk/asus-x540la-15.6-inch-notebook-core-i3-5005u-black-6607897.html
+DELL;Inspiron 3567 - Intel Core i3-6006U - Black;Black;42,000;38,399;https://www.daraz.pk/inspiron-3567-intel-core-i5-7200u-black-dell-mpg58044.html
+Lenovo;Ideapad 110 - Core i3-6100U 6th Generation - Black;Black;0;39,000;https://www.daraz.pk/ideapad-110-core-i3-6100u-6th-generation-black-lenovo-mpg58984.html
 DELL;Inspiron 15 5567 - Core i5-7200U - Fog Grey;Grey;72,000;66,900;https://www.daraz.pk/dell-inspiron-15-5567-core-i5-7200u-fog-grey-6458460.html
-HP;Notebook - 15-ay189nia - Core i5-7200U 2.5 GHz - Turbo Silver;Silver;55,000;52,999;https://www.daraz.pk/hp-notebook-15-ay189nia-core-i5-7200u-2.5-ghz-turbo-silver-6502697.html
-Lenovo;Ideapad 310 - Core i5 7200U 2.5 GHz - Win10 - Black;Black;58,000;51,900;https://www.daraz.pk/lenovo-ideapad-310-core-i5-7200u-2.5-ghz-win10-black-6507617.html
-Lenovo;Ideapad 310 - Core i5 7200U 2.5 GHz - DOS - Black;Black;54,000;48,800;https://www.daraz.pk/lenovo-ideapad-310-core-i5-7200u-2.5-ghz-dos-black-6507615.html
-DELL;XPS 13 (9360) - 13.3" Full HD - Core i7-7500U - Silver;Silver;205,000;195,000;https://www.daraz.pk/dell-xps-13-9360-13.3-full-hd-core-i7-7500u-silver-6485741.html
-HP;Notebook - 15-ay190nia - Core i5-7200U - Turbo Silver;Silver;56,000;53,999;https://www.daraz.pk/hp-notebook-15-ay190nia-core-i5-7200u-turbo-silver-6502700.html
-Apple;MacBook Pro MF841 - 13.3" Retina Display - Core i5-5287U - 512 PCIe SSD - 8GB RAM - OS X Yosemite - Silver;Silver;210,000;181,000;https://www.daraz.pk/apple-macbook-pro-mf841-13.3-retina-display-core-i5-5287u-512-pcie-ssd-8gb-ram-os-x-yosemite-silver-6449831.html
-HP;ENVY - X360-m6-aq003dx - 15.6" - Core i5-6200U - 1TB - Silver;Silver;76,999;66,999;https://www.daraz.pk/hp-envy-x360-m6-aq003dx-15.6-core-i5-6200u-1tb-silver-6470341.html
-HP;Notebook - 15-ay120tx - Core i5 7th Generation 7200u - Black ;Black;61,999;58,999;https://www.daraz.pk/hp-notebook-15-ay120tx-core-i5-7th-generation-7200u-black-6469445.html
-HP;ENVY m6-w103dx (Touch) - 15.6" x360 Full HD - Core i5-6200U - Silver;Silver;65,000;58,000;https://www.daraz.pk/hp-envy-m6-w103dx-touch-15.6-x360-full-hd-core-i5-6200u-silver-5970497.html
-Lenovo;Y700 Gaming - Core i7-6700HQ -2.6GHz-Ram 12GB-Hard 256GB-15.6"(1920x1080)NVIDIA GTX 960M 4GB-Win 10- Black;Black;0;150,000;https://www.daraz.pk/lenovo-y700-gaming-core-i7-6700hq-2.6ghz-ram-12gb-hard-256gb-15.61920x1080nvidia-gtx-960m-4gb-win-10-black-6328772.html
-Lenovo;IdeaPad 310 - Intel Core i3 6th Gen - DOS - Black;Black;48,000;39,900;https://www.daraz.pk/lenovo-ideapad-310-intel-core-i3-6th-gen-dos-black-6505908.html
-DELL;Inspiron 15 5559 - Core i7 6500U 2.3 GHz - Black;Black;79,500;73,499;https://www.daraz.pk/inspiron-15-5559-15.6-hd-core-i7-6500u-2.3-ghz-1-tb-hdd-8-gb-ram-4gb-amd-radeon-r5-m335-gpu-os-not-installed-black-dell-mpg34475.html
+Lenovo;IdeaPad 310 - Intel Core i3 6th Gen - DOS - Black;;48,000;39,500;https://www.daraz.pk/ideapad-310-intel-core-i3-6th-gen-dos-black-lenovo-mpg59759.html
+HP;Notebook - 15-ay189nia - Core i5-7200U - Turbo Silver;;0;53,000;https://www.daraz.pk/hp-notebook-15-ay189nia-core-i5-7200u-turbo-silver-6595484.html
+HP;Pavilion 15-au018wm - Intel Core i7 6th Generation - 15.6" HD TouchScreen - Windows 10;Silver;85,000;72,999;https://www.daraz.pk/hp-pavilion-15-au018wm-intel-core-i7-6th-generation-15.6-hd-touchscreen-windows-10-6566266.html
+HP;Pavilion x360 11-k118tu - 900 MHzCore M3-6Y30 - 500GB HDD - 4GB RAM - Win. 10 Home - Natural Silver;;79,000;54,999;https://www.daraz.pk/hp-pavilion-x360-11-k118tu-900-mhzcore-m3-6y30-500gb-hdd-4gb-ram-win.-10-home-natural-silver-6586695.html
+HP;15 AY 079 - Intel Core i5 6200U-6th Gen - Ram 4GB - Hard 500 GB - 2GB GC- 15.6" Screen Size -Dos - Black;Black;0;60,000;https://www.daraz.pk/hp-15-ay-079-intel-core-i5-6200u-6th-gen-ram-4gb-hard-500-gb-2gb-gc-15.6-screen-size-dos-black-6451710.html
+DELL;Inspiron 15 3567 - 15.6" HD LED - Core i5 7th Gen. 2.5 GHz - Black;Black;57,999;51,799;https://www.daraz.pk/inspiron-15-3567-15.6-hd-led-core-i5-7th-gen.-2.5-ghz-black-dell-mpg60564.html
+HP;15-ay028ca Notebook - 15.6" Touchscreen - Intel Core i3-6100U - Windows 10;Black;48,000;41,299;https://www.daraz.pk/hp-15-ay028ca-notebook-15.6-touchscreen-intel-core-i3-6100u-windows-10-6603554.html
+HP;ProBook 4540s - 15.6" HD - 3rd Gen. Core i3-3110M - 500GB HDD - Silver;Grey;40,000;24,999;https://www.daraz.pk/hp-probook-4540s-15.6-hd-3rd-gen.-core-i3-3110m-500gb-hdd-silver-6606913.html
+DELL;Inspiron 3558 - Core i3 5th Generation - DOS - Black;Black;39,999;37,299;https://www.daraz.pk/dell-inspiron-3558-core-i3-5th-generation-dos-black-6404353.html
+HP;EliteBook Folio 1020 G1 Special Edition - 12.5" WQHD - Core M-5Y51 CPU - 256GB M.2 SSD - Platinum;Silver;85,000;41,999;https://www.daraz.pk/hp-elitebook-folio-1020-g1-special-edition-12.5-wqhd-core-m-5y51-cpu-256gb-m.2-ssd-platinum-6606399.html
+DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - Black;;0;53,000;https://www.daraz.pk/inspiron-15-5559-core-i5-6200u-2.3-ghz-black-dell-mpg59712.html
+HP;EliteBook 840 G2 - Core i5-5200U - 500GB HDD - Gray;Silver;85,000;48,999;https://www.daraz.pk/hp-elitebook-840-g2-core-i5-5200u-500gb-hdd-gray-6555782.html
+Lenovo;IdeaPad 110 - Intel Celeron N3060 - 2GB RAM - 500GB HDD - Black;Black;0;30,500;https://www.daraz.pk/lenovo-ideapad-110-intel-celeron-n3060-2gb-ram-500gb-hdd-black-6549827.html
+Lenovo;B51-80 15.6" HD LED - Intel Core i5 6200U - 6GB DDR3 - 1TB HDD - DVDRW - OS Not Installed - Black;Black;55,000;48,999;https://www.daraz.pk/lenovo-b51-80-15.6-hd-led-intel-core-i5-6200u-6gb-ddr3-1tb-hdd-dvdrw-os-not-installed-black-6507613.html
+DELL;Inspiron 3567 - Intel Core i7-7500U 2.7 GHz - DOS - Black;Black;75,000;65,999;https://www.daraz.pk/dell-inspiron-3567-intel-core-i7-7500u-2.7-ghz-dos-black-6543366.html
+HP;EliteBook Folio 1020 G1 Special Edition - 12.5" WQHD - Core M-5Y51 CPU - 256GB M.2 SSD - Platinum;Silver;115,000;47,800;https://www.daraz.pk/elitebook-folio-1020-g1-special-edition-12.5-wqhd-core-m-5y51-cpu-256gb-m.2-ssd-platinum-hp-mpg60240.html
+DELL;Venue 10 Pro - 10.1" TouchScreen - Intel Atom Z3735F with Detachable Keyboard & 16GB SD Card;Black;23,499;15,998;https://www.daraz.pk/dell-venue-10-pro-10.1-touchscreen-intel-atom-z3735f-with-detachable-keyboard-16gb-sd-card-6566267.html
+DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - Black;Black;67,000;51,499;https://www.daraz.pk/inspiron-15-5559-15.6-hd-core-i5-6300u-2.3-ghz-500gb-hdd-4gb-ram-2gb-amd-radeon-r5-m335-gpu-os-not-installed-black-supplier-warranty-dell-mpg31984.html
+HP;ProBook 450 G4 - Core i5-7200U - Silver;Silver;69,000;62,499;https://www.daraz.pk/probook-450-g4-core-i5-7200u-silver-hp-mpg54867.html
+DELL;Latitude 14 E5450 - 5th Gen - Core i5 - Black;Black;54,999;39,999;https://www.daraz.pk/dell-latitude-14-e5450-5th-gen-core-i5-black-6553160.html
+DELL;Inspiron 15 - 5559 - Intel Core i3 6th Gen 6100U 2.3GHz- Ram 4GB- Hard 1TB- 15.6" Screen size- Win 10- Sliver;;0;48,500;https://www.daraz.pk/dell-inspiron-15-5559-intel-core-i3-6th-gen-6100u-2.3ghz-ram-4gb-hard-1tb-15.6-screen-size-win-10-sliver-6393653.html
+Lenovo;Thinkpad Edge E5180 - Intel Core i5-6200U - 4GB RAM - 500GB - Windows 10 - Black;Black;54,600;45,999;https://www.daraz.pk/lenovo-thinkpad-edge-e5180-intel-core-i5-6200u-4gb-ram-500gb-windows-10-black-6586692.html
+HP;Slate 21 Pro - 2GB - 16GB - Android 4.3 Jelly Bean - With Keyboard & Mouse;Black;30,999;24,499;https://www.daraz.pk/hp-slate-21-pro-2gb-16gb-android-4.3-jelly-bean-with-keyboard-mouse-6611193.html
+HP;Stream-13 - 13.3" HD LED - Intel Celeron N2840 - Horizon Blue;Blue;28,000;18,799;https://www.daraz.pk/stream-13-13.3-hd-led-intel-celeron-n2840-horizon-blue-hp-mpg59552.html
 HP;Elite x2 1012 G1 - Core M5-6Y54 - 12" UWVA Touch - 256GB SSD - Silver;Silver;145,000;61,999;https://www.daraz.pk/hp-elite-x2-1012-g1-core-m5-6y54-12-uwva-touch-256gb-ssd-silver-6489058.html
-HP;EliteBook Folio 1020 G1 Special Edition - 12.5" WQHD - Core M-5Y51 CPU - 256GB M.2 SSD - Platinum;Silver;115,000;48,500;https://www.daraz.pk/hp-elitebook-folio-1020-g1-special-edition-12.5-wqhd-core-m-5y51-cpu-256gb-m.2-ssd-platinum-6426474.html
-DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - 1TB HDD - Windows 10 - Matte Silver;Silver;68,999;53,999;https://www.daraz.pk/dell-inspiron-15-5559-core-i5-6200u-2.3-ghz-1tb-hdd-windows-10-matte-silver-6473519.html
-Lenovo;IdeaPad 110 - Core i3-6100U 2.3 GHz - Black;Black;41,000;37,800;https://www.daraz.pk/lenovo-ideapad-110-core-i3-6100u-2.3-ghz-black-6448437.html
-HP;ENVY x360 - m6-aq103dx - Core i5-7200U - Win. 10 - Silver;Silver;69,999;65,250;https://www.daraz.pk/hp-envy-x360-m6-aq103dx-core-i5-7200u-win.-10-silver-6494812.html
-HP;Notebook - 15-ay105ne - Core i5-7200U - Silver;Silver;61,000;57,499;https://www.daraz.pk/hp-notebook-15-ay105ne-core-i5-7200u-silver-6502698.html
-HP;Elite x2 1012 G1 - Core M7-6Y75 - 12" UWVA Touch - 256GB SSD - Win. 10 - Silver;Silver;170,000;69,999;https://www.daraz.pk/hp-elite-x2-1012-g1-core-m7-6y75-12-uwva-touch-256gb-ssd-win.-10-silver-6489056.html
-HP;ProBook 450 G4 - Core i5-7200U - Silver;Silver;69,000;63,499;https://www.daraz.pk/probook-450-g4-core-i5-7200u-silver-hp-mpg54867.html
-HP;Spectre x2 - 12-a002tu - Core M5-6Y54 - 12" WUXGA+ Touch - 256GB SSD - Silver;Silver;104,000;57,999;https://www.daraz.pk/hp-spectre-x2-12-a002tu-core-m5-6y54-12-wuxga-touch-256gb-ssd-silver-6415374.html
-Lenovo;Thinkpad Edge E5180 - Intel® Core™ i5-6200U - 4 GB RAM - 500 GB - Win10 - Black (Brand Warranty);Silver;54,600;46,800;https://www.daraz.pk/lenovo-thinkpad-edge-e5180-intelr-coretm-i5-6200u-4-gb-ram-500-gb-win10-black-brand-warranty-6435138.html
-HP;Elitepad 1000 G2 - Intel Atom 1.6 GHz - Silver;Black;45,000;29,999;https://www.daraz.pk/hp-elitepad-1000-g2-intel-atom-1.6-ghz-silver-6332220.html
-DELL;Inspiron 15 - 5559 - Intel Core i3 6th Gen 6100U 2.3GHz- Ram 4GB- Hard 1TB- 15.6" Screen size- Win 10- Sliver;Black;48,500;43,999;https://www.daraz.pk/dell-inspiron-15-5559-intel-core-i3-6th-gen-6100u-2.3ghz-ram-4gb-hard-1tb-15.6-screen-size-win-10-sliver-6393653.html
-DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - Black;Black;67,000;51,999;https://www.daraz.pk/inspiron-15-5559-15.6-hd-core-i5-6300u-2.3-ghz-500gb-hdd-4gb-ram-2gb-amd-radeon-r5-m335-gpu-os-not-installed-black-supplier-warranty-dell-mpg31984.html
-DELL;Inspiron 15 5567 - Core i3-7100U - Gloss Black;Black;58,500;48,900;https://www.daraz.pk/dell-inspiron-15-5567-core-i3-7100u-gloss-black-6520976.html
-HP;Elitebook 820 G2 - 12.5" HD LED - Core i7 5th Generation - Silver & Black;Black|Silver;59,999;55,599;https://www.daraz.pk/hp-elitebook-820-g2-12.5-hd-led-core-i7-5th-generation-silver-black-6478073.html
-HP;EliteBook 820 G2 - Core i5-5200U - 500GB+32GB Dual Drive - Black;Black;88,000;49,199;https://www.daraz.pk/hp-elitebook-820-g2-core-i5-5200u-500gb32gb-dual-drive-black-6478067.html
-Lenovo;Ideapad 700 - Intel Core i7 6700HQ -  4GB Nvidia GTX 950M - Win. 10 - Black with Belkin Backpack;Black;115,000;95,500;https://www.daraz.pk/lenovo-ideapad-700-intel-core-i7-6700hq-4gb-nvidia-gtx-950m-win.-10-black-with-belkin-backpack-6482449.html
-HP;Stream-11 - 11.6" HD LED - Intel Celeron n3050 - Horizon Blue;Blue;22,999;17,999;https://www.daraz.pk/hp-stream-11-11.6-hd-led-intel-celeron-n3050-horizon-blue-6479874.html
-Lenovo;Intel Core i5 - Ideapad 110 - 6th Gen 6200U -Ram 4GB - Hard 500GB - 15.6" Display - Dos - Black;Black;52,000;46,900;https://www.daraz.pk/lenovo-intel-core-i5-ideapad-110-6th-gen-6200u-ram-4gb-hard-500gb-15.6-display-dos-black-6408144.html
-HP;Spectre x2 - 12-a005tu - Core M3-6Y30 - 12" WUXGA+ Touch - 128GB SSD - Silver;Silver;85,000;49,999;https://www.daraz.pk/hp-spectre-x2-12-a005tu-core-m3-6y30-12-wuxga-touch-128gb-ssd-silver-6489048.html
-Lenovo;Ideapad 110 - Core i3-6100U 6th Generation - Black;Black;39,000;38,000;https://www.daraz.pk/lenovo-ideapad-110-core-i3-6100u-6th-generation-black-6486881.html
-ASUS;X555UA-M02760 - 15.6" - Core i5-6200U 2.3 GHz - 500GB HDD - Black;Black;53,000;49,999;https://www.daraz.pk/asus-x555ua-m02760-15.6-core-i5-6200u-2.3-ghz-500gb-hdd-black-6348993.html
-HP;Notebook 15-AY102TU - Intel Core i5-7100U - Jack Black;Black;69,000;56,500;https://www.daraz.pk/15-ay102tu-notebook-intel-core-i5-7100u-jack-black-hp-mpg53154.html
-HP;Notebook 15-AY101TU - Intel Core i3-7100U - Jack Black;Black;52,000;46,800;https://www.daraz.pk/15-ay101tu-notebook-intel-core-i3-7100u-jack-black-hp-mpg53153.html
-Lenovo;Ideapad 310 - 15.6" HD - Core i5 7200U 2.5 GHz - 1.0TB HDD - 4GB RAM - Black;Black;54,000;48,500;https://www.daraz.pk/lenovo-ideapad-310-15.6-hd-core-i5-7200u-2.5-ghz-1.0tb-hdd-4gb-ram-black-6458202.html
-Lenovo;Ideapad 300 - 15" HD - 500GB HDD - 4GB RAM - Core i5 6200U 2.3 GHz - Silver;Silver;58,000;48,800;https://www.daraz.pk/lenovo-ideapad-300-15-hd-500gb-hdd-4gb-ram-core-i5-6200u-2.3-ghz-silver-6446187.html
-HP;Notebook - ay-103tu - Core i3 7th Generation 7100u - Black;Black;48,999;45,299;https://www.daraz.pk/hp-notebook-ay-103tu-core-i3-7th-generation-7100u-black-6469442.html
+DELL;Inspiron i5559  - Core i3 6100U - Theoretical Grey;Grey;45,500;42,099;https://www.daraz.pk/dell-inspiron-i5559-core-i3-6100u-theoretical-grey-6601982.html
+HP;Notebook 250 G5 - 15.6 Inch HD LED Screen - Intel Celeron N3050 - Black;Black;0;34,000;https://www.daraz.pk/hp-notebook-250-g5-15.6-inch-hd-led-screen-intel-celeron-n3050-black-6595488.html
+HP;Notebook - 15-ba079dx (Touch) - AMD Quad-Core A10-9600P - 6GB RAM - 1TB HDD - Black;Black;51,000;41,999;https://www.daraz.pk/hp-notebook-15-ba079dx-touch-amd-quad-core-a10-9600p-6gb-ram-1tb-hdd-black-6609481.html
+ASUS;X540S - 15.6" HD LED - Intel Celeron N3050 - Intel HD Graphics - Windows 10;Black;29,999;26,999;https://www.daraz.pk/asus-x540s-15.6-hd-led-intel-celeron-n3050-intel-hd-graphics-windows-10-6613498.html
+Lenovo;Intel Core i5 - Ideapad 110 - 6th Gen 6200U -Ram 4GB - Hard 500GB - 15.6" Display - Dos - Black;Black;0;52,000;https://www.daraz.pk/lenovo-intel-core-i5-ideapad-110-6th-gen-6200u-ram-4gb-hard-500gb-15.6-display-dos-black-6408144.html
+HP;Stream-11 - 11.6" HD LED - Intel Celeron N3050 - Horizon Blue;Blue;0;22,999;https://www.daraz.pk/hp-stream-11-11.6-hd-led-intel-celeron-n3050-horizon-blue-6479874.html
+Lenovo;B51-80 15.6" HD LED - Intel Core i7 6500U - 8GB DDR3 - 1TB HDD - ATI 2GB Graphics - DVDRW - OS Not Installed - Black;;72,000;59,999;https://www.daraz.pk/lenovo-b51-80-15.6-hd-led-intel-core-i7-6500u-8gb-ddr3-1tb-hdd-ati-2gb-graphics-dvdrw-os-not-installed-black-6536609.html
+HP;Notebook - 15-ay105ne - Core i5-7200U - Silver;Silver;67,000;53,500;https://www.daraz.pk/hp-notebook-15-ay105ne-core-i5-7200u-silver-6502698.html
+ASUS;X555UA-M02760 - 15.6" - Core i5-6200U 2.3 GHz - 500GB HDD - Black;Black;53,000;47,999;https://www.daraz.pk/asus-x555ua-m02760-15.6-core-i5-6200u-2.3-ghz-500gb-hdd-black-6348993.html
+HP;15-AY101TU Notebook - Intel Core i3-7100U - Jack Black;Black;0;48,000;https://www.daraz.pk/15-ay101tu-notebook-intel-core-i3-7100u-jack-black-hp-mpg53153.html
+Lenovo;Ideapad 310 - Intel Core i5 7200u - Free DOS - Black;;63,000;54,999;https://www.daraz.pk/ideapad-310-intel-core-i5-7200u-free-dos-black-lenovo-mpg60637.html
+ASUS;X540LA 15.6 inch Notebook - Core i3-5005U - Black;;0;37,500;https://www.daraz.pk/asus-x540la-15.6-inch-notebook-core-i3-5005u-black-6607897.html
+DELL;Inspiron 3567 - Intel Core i3-6006U - Black;Black;42,000;38,399;https://www.daraz.pk/inspiron-3567-intel-core-i5-7200u-black-dell-mpg58044.html
+Lenovo;Ideapad 110 - Core i3-6100U 6th Generation - Black;Black;0;39,000;https://www.daraz.pk/ideapad-110-core-i3-6100u-6th-generation-black-lenovo-mpg58984.html
 DELL;Inspiron 15 5567 - Core i5-7200U - Fog Grey;Grey;72,000;66,900;https://www.daraz.pk/dell-inspiron-15-5567-core-i5-7200u-fog-grey-6458460.html
-HP;Notebook - 15-ay189nia - Core i5-7200U 2.5 GHz - Turbo Silver;Silver;55,000;52,999;https://www.daraz.pk/hp-notebook-15-ay189nia-core-i5-7200u-2.5-ghz-turbo-silver-6502697.html
-Lenovo;Ideapad 310 - Core i5 7200U 2.5 GHz - Win10 - Black;Black;58,000;51,900;https://www.daraz.pk/lenovo-ideapad-310-core-i5-7200u-2.5-ghz-win10-black-6507617.html
-Lenovo;Ideapad 310 - Core i5 7200U 2.5 GHz - DOS - Black;Black;54,000;48,800;https://www.daraz.pk/lenovo-ideapad-310-core-i5-7200u-2.5-ghz-dos-black-6507615.html
+Lenovo;IdeaPad 310 - Intel Core i3 6th Gen - DOS - Black;;48,000;39,500;https://www.daraz.pk/ideapad-310-intel-core-i3-6th-gen-dos-black-lenovo-mpg59759.html
+HP;Notebook - 15-ay189nia - Core i5-7200U - Turbo Silver;;0;53,000;https://www.daraz.pk/hp-notebook-15-ay189nia-core-i5-7200u-turbo-silver-6595484.html
+HP;Pavilion 15-au018wm - Intel Core i7 6th Generation - 15.6" HD TouchScreen - Windows 10;Silver;85,000;72,999;https://www.daraz.pk/hp-pavilion-15-au018wm-intel-core-i7-6th-generation-15.6-hd-touchscreen-windows-10-6566266.html
+HP;Pavilion x360 11-k118tu - 900 MHzCore M3-6Y30 - 500GB HDD - 4GB RAM - Win. 10 Home - Natural Silver;;79,000;54,999;https://www.daraz.pk/hp-pavilion-x360-11-k118tu-900-mhzcore-m3-6y30-500gb-hdd-4gb-ram-win.-10-home-natural-silver-6586695.html
+HP;15 AY 079 - Intel Core i5 6200U-6th Gen - Ram 4GB - Hard 500 GB - 2GB GC- 15.6" Screen Size -Dos - Black;Black;0;60,000;https://www.daraz.pk/hp-15-ay-079-intel-core-i5-6200u-6th-gen-ram-4gb-hard-500-gb-2gb-gc-15.6-screen-size-dos-black-6451710.html
+DELL;Inspiron 15 3567 - 15.6" HD LED - Core i5 7th Gen. 2.5 GHz - Black;Black;57,999;51,799;https://www.daraz.pk/inspiron-15-3567-15.6-hd-led-core-i5-7th-gen.-2.5-ghz-black-dell-mpg60564.html
 DELL;XPS 13 (9360) - 13.3" Full HD - Core i7-7500U - Silver;Silver;205,000;195,000;https://www.daraz.pk/dell-xps-13-9360-13.3-full-hd-core-i7-7500u-silver-6485741.html
-HP;Notebook - 15-ay190nia - Core i5-7200U - Turbo Silver;Silver;56,000;53,999;https://www.daraz.pk/hp-notebook-15-ay190nia-core-i5-7200u-turbo-silver-6502700.html
-Apple;MacBook Pro MF841 - 13.3" Retina Display - Core i5-5287U - 512 PCIe SSD - 8GB RAM - OS X Yosemite - Silver;Silver;210,000;181,000;https://www.daraz.pk/apple-macbook-pro-mf841-13.3-retina-display-core-i5-5287u-512-pcie-ssd-8gb-ram-os-x-yosemite-silver-6449831.html
-HP;ENVY - X360-m6-aq003dx - 15.6" - Core i5-6200U - 1TB - Silver;Silver;76,999;66,999;https://www.daraz.pk/hp-envy-x360-m6-aq003dx-15.6-core-i5-6200u-1tb-silver-6470341.html
-HP;Notebook - 15-ay120tx - Core i5 7th Generation 7200u - Black ;Black;61,999;58,999;https://www.daraz.pk/hp-notebook-15-ay120tx-core-i5-7th-generation-7200u-black-6469445.html
-HP;ENVY m6-w103dx (Touch) - 15.6" x360 Full HD - Core i5-6200U - Silver;Silver;65,000;58,000;https://www.daraz.pk/hp-envy-m6-w103dx-touch-15.6-x360-full-hd-core-i5-6200u-silver-5970497.html
+HP;Elite x2 1012 G1 - Core M7-6Y75 - 12" UWVA Touch - 256GB SSD - Win. 10 - Silver;Silver;170,000;68,999;https://www.daraz.pk/elite-x2-1012-g1-core-m7-6y75-12-uwva-touch-256gb-ssd-win.-10-silver-hp-mpg58112.html
 Lenovo;Y700 Gaming - Core i7-6700HQ -2.6GHz-Ram 12GB-Hard 256GB-15.6"(1920x1080)NVIDIA GTX 960M 4GB-Win 10- Black;Black;0;150,000;https://www.daraz.pk/lenovo-y700-gaming-core-i7-6700hq-2.6ghz-ram-12gb-hard-256gb-15.61920x1080nvidia-gtx-960m-4gb-win-10-black-6328772.html
-Lenovo;IdeaPad 310 - Intel Core i3 6th Gen - DOS - Black;Black;48,000;39,900;https://www.daraz.pk/lenovo-ideapad-310-intel-core-i3-6th-gen-dos-black-6505908.html
-DELL;Inspiron 15 5559 - Core i7 6500U 2.3 GHz - Black;Black;79,500;73,499;https://www.daraz.pk/inspiron-15-5559-15.6-hd-core-i7-6500u-2.3-ghz-1-tb-hdd-8-gb-ram-4gb-amd-radeon-r5-m335-gpu-os-not-installed-black-dell-mpg34475.html
-HP;Slatebook - E4Y18Pa - ARM Cortex A15 1.8Ghz - Grey;Grey;35,000;29,500;https://www.daraz.pk/slatebook-e4y18pa-10.1-inches-arm-cortex-a15-1.8ghz-16-gb-2-gb-android-grey-brand-warranty-hp-mpg3621.html
-HP;ProBook 450 G3 - Core i5 6200U - Black;Black;68,000;62,999;https://www.daraz.pk/probook-450-g3-core-i5-6200u-black-hp-mpg54260.html
-HP;Elite x2 1012 G1 - Core M7-6Y75 - Win. 10 - Silver;Silver;170,000;79,999;https://www.daraz.pk/hp-elite-x2-1012-g1-core-m7-6y75-win.-10-silver-6503430.html
-HP;Pavillion 15-AY039 - Intel core i3 6th Gen-6100U -Ram 4GB,Hard 1TB -15.6",Window10, Silver;Silver;0;48,900;https://www.daraz.pk/hp-pavillion-15-ay039-intel-core-i3-6th-gen-6100u-ram-4gbhard-1tb-15.6window10-silver-6458261.html
-HP;Pavilion 15-ay120tx - Intel® Core™ i5-7100U 2.4 GHz - Jack Black;Black;61,999;59,350;https://www.daraz.pk/hp-pavilion-15-ay120tx-intelr-coretm-i5-7100u-2.4-ghz-jack-black-6467121.html
-Lenovo;G5045 - AMD Dual Core A6-6310 - Black;Black;0;54,400;https://www.daraz.pk/g5045-amd-dual-core-a6-6310-black-lenovo-mpg48271.html
-HP;Notebook - 15-ay122tx - Core i7 7th Generation 7500u - Black ;Black;81,999;77,400;https://www.daraz.pk/hp-notebook-15-ay122tx-core-i7-7th-generation-7500u-black-6469451.html
-HP;15-ay122tx - Intel Core i7- Black;Black;89,000;77,700;https://www.daraz.pk/hp-15-ay122tx-intel-core-i7-black-6450399.html
-Lenovo;Yoga 500 - Intel Core i3 5th Generation - White;White;72,000;61,425;https://www.daraz.pk/yoga-500-14-inch-intel-core-i3-5th-generation-2.2-ghz-4gb-ram-500gb-hdd-8gb-flash-windows-10-touch-white-lenovo-mpg10991.html
-HP;ProBook 450 G4 - Core i7-7500U - Silver;Silver;79,000;74,999;https://www.daraz.pk/hp-probook-450-g4-core-i7-7500u-silver-6502695.html
-DELL;Inspiron 15 7566 Gaming - 15.6" Full HD - Core i5-6300HQ Quad Core - Beijing Red;Red|Silver;105,000;99,999;https://www.daraz.pk/inspiron-15-7566-gaming-15.6-full-hd-core-i5-6300hq-quad-core-beijing-red-dell-mpg56084.html
-HP;Spectre x2 - 12-a003tu - Core M7-6Y75 - 12" WUXGA+ Touch - 256GB SSD - Silver;Silver;122,000;70,599;https://www.daraz.pk/hp-spectre-x2-12-a003tu-core-m7-6y75-12-wuxga-touch-256gb-ssd-silver-6489046.html
-Lenovo;ThinkPad - E460 Laptop - Core i5 - 6th Gen - 15.6" - 500 GB - 4 GB RAM - Black;Black;77,400;67,500;https://www.daraz.pk/lenovo-thinkpad-e460-laptop-core-i5-6th-gen-15.6-500-gb-4-gb-ram-black-6374820.html
+HP;HP-15 ay540TU-Core i3-6100U-4GB RAM - 500 HDD-DOS-15.6 DISPLAY-BLACK;Black;45,000;39,999;https://www.daraz.pk/hp-hp-15-ay540tu-core-i3-6100u-4gb-ram-500-hdd-dos-15.6-display-black-6524717.html
+Lenovo;Ideapad 310 - Core i5 7200U 2.5 GHz - Win10 - Black;;58,000;49,900;https://www.daraz.pk/ideapad-310-core-i5-7200u-2.5-ghz-win10-black-lenovo-mpg60635.html
+Lenovo;Ideapad 310 - Core i5 7200U 2.5 GHz - DOS - Black;;54,000;48,999;https://www.daraz.pk/ideapad-310-core-i5-7200u-2.5-ghz-dos-black-lenovo-mpg60634.html
+DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - White;;62,000;54,500;https://www.daraz.pk/dell-inspiron-15-5559-core-i5-6200u-2.3-ghz-white-6616696.html
+HP;Notebook - 15-ay190nia - Core i5-7200U - Turbo Silver;Silver;56,000;50,999;https://www.daraz.pk/notebook-15-ay190nia-core-i5-7200u-turbo-silver-hp-mpg58113.html
+HP;Notebook - 15-ay189nia - Core i5-7200U 2.5 GHz - Turbo Silver;Silver;55,000;49,999;https://www.daraz.pk/hp-notebook-15-ay189nia-core-i5-7200u-2.5-ghz-turbo-silver-6502697.html
+HP;15 AY 041 WM - Intel Core i3 6th Gen - 1TB - Silver;Silver;0;45,000;https://www.daraz.pk/hp-15-ay-041-wm-intel-core-i3-6th-gen-1tb-silver-6605480.html
+DELL;Inspiron 11 3168 - 11.6" x360 Flip 2-in-1 Touchscreen - Intel Pentium QuadCore N3710 - 4GB & 500GB - Blue;Blue;29,999;27,500;https://www.daraz.pk/dell-inspiron-11-3168-11.6-x360-flip-2-in-1-touchscreen-intel-pentium-quadcore-n3710-4gb-500gb-blue-6591588.html
+HP;15 - AF152nr - 15.6" HD LED Touch Screen - 6th Gen AMD A8 Carrizo QuadCore - Windows 10;Silver;44,900;38,900;https://www.daraz.pk/hp-15-af152nr-15.6-hd-led-touch-screen-6th-gen-amd-a8-carrizo-quadcore-windows-10-6591594.html
+DELL;Inspiron 15 5559 - Core i7 6500U 2.3 GHz - Black;Black;0;79,500;https://www.daraz.pk/inspiron-15-5559-15.6-hd-core-i7-6500u-2.3-ghz-1-tb-hdd-8-gb-ram-4gb-amd-radeon-r5-m335-gpu-os-not-installed-black-dell-mpg34475.html
+HP;ProBook 450 G3 - 15.6" HD - Core i5 6th Gen 2.3 GHz -8GB RAM - 1TB HDD - Win10 - Black;Black;0;72,000;https://www.daraz.pk/hp-probook-450-g3-15.6-hd-core-i5-6th-gen-2.3-ghz-8gb-ram-1tb-hdd-win10-black-6379035.html
+HP;ProBook 450 G3 - Core i5 6200U - Black;Black;0;68,000;https://www.daraz.pk/probook-450-g3-core-i5-6200u-black-hp-mpg54260.html
+Lenovo;Ideapad 700 - Intel Core i7 6700HQ -  4GB Nvidia GTX 950M - Win. 10 - Black with Belkin Backpack;Black;115,000;93,700;https://www.daraz.pk/lenovo-ideapad-700-intel-core-i7-6700hq-4gb-nvidia-gtx-950m-win.-10-black-with-belkin-backpack-6482449.html
+HP;Elitepad 1000 G2 - Intel Atom 1.6 GHz - Silver;Black;45,000;26,999;https://www.daraz.pk/elitepad-1000-g2-intel-atom-1.6-ghz-silver-hp-mpg60242.html
+HP;Elite x2 1012 G1 - Core M7-6Y75 - Win. 10 - Silver;Silver;0;170,000;https://www.daraz.pk/hp-elite-x2-1012-g1-core-m7-6y75-win.-10-silver-6503430.html
+Lenovo;Business Series Laptop - E50-80 - Intel® Core™ i7-5500U - Black - 8GB RAM;Black;107,580;91,000;https://www.daraz.pk/lenovo-business-series-laptop-e50-80-intelr-coretm-i7-5500u-black-8gb-ram-6248043.html
+Lenovo;G5045 - AMD Dual Core A6-6310 - Black;;0;54,400;https://www.daraz.pk/g5045-amd-dual-core-a6-6310-black-lenovo-mpg48271.html
+Lenovo;ThinkPad Yoga 460 - 14.0 FHD MultiTouch - intel Core i5 6th Gen - 256 GB SSD - 8 GB RAM - Black;Black;158,500;145,200;https://www.daraz.pk/lenovo-thinkpad-yoga-460-14.0-fhd-multitouch-intel-core-i5-6th-gen-256-gb-ssd-8-gb-ram-black-6422953.html
 Lenovo;E5080 - Intel® Core™ i3-5005U(P) - Black - 4 GB RAM;Black;54,900;46,500;https://www.daraz.pk/lenovo-e5080-intelr-coretm-i3-5005up-black-4-gb-ram-6248105.html
 Lenovo;Lenovo E4080 - 14.0" Anti-Glare - Intel® Core™ i3-5005U(P) - 4 GB DDR3 - 500 GB - DOS - Black;Black;62,150;47,500;https://www.daraz.pk/lenovo-lenovo-e4080-14.0-anti-glare-intelr-coretm-i3-5005up-4-gb-ddr3-500-gb-dos-black-6134376.html
-Lenovo;Business Series Laptop - E50-80 - Intel® Core™ i7-5500U - Black - 8GB RAM;Black;107,580;91,000;https://www.daraz.pk/lenovo-business-series-laptop-e50-80-intelr-coretm-i7-5500u-black-8gb-ram-6248043.html
-HP;Pavilion 15-ab202tx - Core i5 6200U - Silver;Silver;84,500;61,499;https://www.daraz.pk/pavilion-15-ab202tx-15.6-hd-core-i5-6200u-2.3-ghz-1-tb-hdd-2gb-nvidia-940m-gpu-4gb-ram-no-os-installed-natural-silver-brand-warranty-hp-mpg34483.html
-HP;HP-15 ay540TU-Core i3-6006U-4GB RAM - 1TB HDD-DOS-15.6 DISPLAY-BLACK;Black;45,000;41,999;https://www.daraz.pk/hp-hp-15-ay540tu-core-i3-6006u-4gb-ram-1tb-hdd-dos-15.6-display-black-6524717.html
-HP;Omen 15 - Core i7-7700HQ - 4GB GTX 1050 - Black;Black|Red;175,000;147,400;https://www.daraz.pk/hp-omen-15-core-i7-7700hq-4gb-gtx-1050-black-6510746.html
-Lenovo;Y50-70 Laptop - 4th Generation Intel Core i7-4720HQ - Black;Black;115,000;94,999;https://www.daraz.pk/lenovo-y50-70-laptop-4th-generation-intel-core-i7-4720hq-black-6503641.html
-HP;m6-aq103dx - ENVY x360 - Core i5-7200U - Win. 10 - Silver;Silver;70,000;66,000;https://www.daraz.pk/hp-m6-aq103dx-envy-x360-core-i5-7200u-win.-10-silver-6526207.html
-Lenovo;Yoga 3 Pro - Core M 1.2 GHz - Silver;Silver;149,350;133,999;https://www.daraz.pk/yoga-3-pro-13.3-convertible-touch-core-m-1.2-ghz-8gb-ram-512gb-ssd-win.-8.1-silver-lenovo-mpg10990.html
-Lenovo;Ideapad-300 - Core i5-6200U - 4GB RAM - 500GB HDD - DOS;Silver;49,000;46,000;https://www.daraz.pk/lenovo-ideapad-300-core-i5-6200u-4gb-ram-500gb-hdd-dos-6525771.html
-HP;15-ay120ne - Core i7-7500U - AMD R7 M440 - Turbo Silver;Silver;72,000;71,999;https://www.daraz.pk/hp-15-ay120ne-core-i7-7500u-amd-r7-m440-turbo-silver-6505240.html
-HP;ProBook 430 G2 - Core i5 5th Generation - Black;Black;55,500;54,500;https://www.daraz.pk/hp-probook-430-g2-core-i5-5th-generation-black-6519972.html
-Lenovo;Ideapad 310 - Core i7 7500U 2.5 GHz - Win 10 - Black;Black;75,000;68,775;https://www.daraz.pk/lenovo-ideapad-310-core-i7-7500u-2.5-ghz-win-10-black-6510089.html
-Lenovo;Ideapad 310 - Intel Core i5 7200u - Free DOS - Black;Black;63,000;56,175;https://www.daraz.pk/lenovo-ideapad-310-intel-core-i5-7200u-free-dos-black-6509544.html
-DELL;Inspiron 15 7559 - 15.6" 4K Touch - Core i7-6700HQ - GTX 960M 4GB - Grey;Black|Red;135,000;118,425;https://www.daraz.pk/dell-inspiron-15-7559-15.6-4k-touch-core-i7-6700hq-gtx-960m-4gb-grey-6505956.html
-HP;HP Notebook - 15-ay190nia - 15.6" HD - Core i5-7200U - 2GB AMD Radeon R5 M430 - Turbo Silver;Silver;54,999;54,500;https://www.daraz.pk/hp-hp-notebook-15-ay190nia-15.6-hd-core-i5-7200u-2gb-amd-radeon-r5-m430-turbo-silver-6504033.html
-HP;450 G4 - CORE I7-7500U - 8GB RAM - 1TB HDD - DOS - Silver;Silver;85,000;79,000;https://www.daraz.pk/hp-450-g4-core-i7-7500u-8gb-ram-1tb-hdd-dos-silver-6501894.html
-HP;450 G4 - Ci5-7200U - 8GB RAM - 1TB HDD - DOS - Silver;Silver;75,000;67,000;https://www.daraz.pk/hp-450-g4-ci5-7200u-8gb-ram-1tb-hdd-dos-silver-6501890.html
-DELL;Inspiron 15 5567 - 15.6" HD - Core i3-7100U - 1TB HDD - Ubuntu - Fog Gray;Grey;55,500;47,800;https://www.daraz.pk/dell-inspiron-15-5567-15.6-hd-core-i3-7100u-1tb-hdd-ubuntu-fog-gray-6489065.html
-DELL;XPS 13 9350 (Touch) - 13.3" Quad HD+ - Core i7 6500U - 512GB PCI Express Flash SSD - 16GB RAM - Windows 10 - Silver;Silver;0;229,000;https://www.daraz.pk/xps-13-9350-touch-13.3-quad-hd-core-i7-6500u-512gb-pci-express-flash-ssd-16gb-ram-windows-10-silver-dell-mpg43471.html
-ASUS;ROG GL752V - 2.7 GHz Core i7-6700HK - Ram 64GB-Hard 1TB+512GB SSD Gaming Notebook - Win 10 - Grey Metal;Grey;320,000;288,999;https://www.daraz.pk/asus-rog-gl752v-2.7-ghz-core-i7-6700hk-ram-64gb-hard-1tb512gb-ssd-gaming-notebook-win-10-grey-metal-6393138.html
-DELL;Inspiron 15 7559 - 15.6" 4K Touch - Core i7-6700HQ - GTX 960M 4GB - Grey;Grey;135,000;118,425;https://www.daraz.pk/dell-inspiron-15-7559-15.6-4k-touch-core-i7-6700hq-gtx-960m-4gb-grey-6486836.html
-HP;Elite x2 1012 G1 - Core M3-6Y30 - 12" UWVA Touch - 128GB SSD - Win.10 - Silver;Silver;94,000;49,999;https://www.daraz.pk/hp-elite-x2-1012-g1-core-m3-6y30-12-uwva-touch-128gb-ssd-win.10-silver-6489054.html
-HP;Pavilion x2-10-n010tu - Intel Atom - WIN 8.1-Touch Detachable - Red;Red;40,000;38,000;https://www.daraz.pk/hp-pavilion-x2-10-n010tu-intel-atom-win-8.1-touch-detachable-red-6491589.html
-HP;ProBook 450 G4 - Core i5-7200U- 2GB GeForce 930MX - Silver;Silver;76,000;65,250;https://www.daraz.pk/hp-probook-450-g4-core-i5-7200u-2gb-geforce-930mx-silver-6486807.html
-Lenovo;IP 300 - Intel Celerone - Black;Black;0;30,975;https://www.daraz.pk/lenovo-ip-300-intel-celerone-black-6487021.html
-HP;Elitebook-820 G2 - Core i7-5500U - Black;Grey;70,000;59,000;https://www.daraz.pk/hp-elitebook-820-g2-core-i7-5500u-black-6482316.html
-HP;ProBook 450 G3 - 15.6" HD - 8GB RAM - 1TB HDD - Core i7 7th Generation - 2GB AMD Radeon R7 M340 – Free DOS - Black with Bag;Black;78,000;76,000;https://www.daraz.pk/hp-probook-450-g3-15.6-hd-8gb-ram-1tb-hdd-core-i7-7th-generation-2gb-amd-radeon-r7-m340-free-dos-black-with-bag-6010588.html
-HP;Probook 4550 G3 - 7th Generation AMD A8 1.9 GHZ - Black;Black;80,000;69,999;https://www.daraz.pk/hp-probook-4550-g3-7th-generation-amd-a8-1.9-ghz-black-6472690.html
-Lenovo;IdeaPad 110 - Intel Celeron N3060 - 4GB RAM - 500GB HDD - Black;Black;30,999;26,999;https://www.daraz.pk/lenovo-ideapad-110-intel-celeron-n3060-4gb-ram-500gb-hdd-black-6453421.html
-HP;Envy 15 K100 - 4th Generation Intel Core i7  - 1TB SATA HDD - Ram  8GB DDR 3L - Operating System Windows 8;Silver;89,000;73,500;https://www.daraz.pk/hp-envy-15-k100-4th-generation-intel-core-i7-1tb-sata-hdd-ram-8gb-ddr-3l-operating-system-windows-8-6355420.html
-Lenovo;THINKPAD E460 Laptop - 14" - Intel Core I5 6200U -  Win 7/10 PRO  - Black;Black;98,000;82,900;https://www.daraz.pk/lenovo-thinkpad-e460-laptop-14-intel-core-i5-6200u-win-710-pro-black-6343260.html
-Lenovo;Thinkpad X1 Carbon Laptop - 14" - Intel Core I7 5th Gen - 8 GB RAM - Hard Disk 256 GB SSD - Windows 8 - Black;Black;0;150,000;https://www.daraz.pk/lenovo-thinkpad-x1-carbon-laptop-14-intel-core-i7-5th-gen-8-gb-ram-hard-disk-256-gb-ssd-windows-8-black-6376929.html
-HP;HP 8460P - 2.3GHz Intel Core i5-2520M - Silver;Black;30,500;30,000;https://www.daraz.pk/hp-hp-8460p-2.3ghz-intel-core-i5-2520m-silver-6435034.html
-DELL;5547 - Intel Core CI7 4510U - 8GB RAM - 1TB HDD - 2GB AMD R7 M265 GPU - 15.6" - DOS - Silver;Silver;77,000;59,900;https://www.daraz.pk/dell-5547-intel-core-ci7-4510u-8gb-ram-1tb-hdd-2gb-amd-r7-m265-gpu-15.6-dos-silver-6311013.html
-DELL;Inspiron 15 5567 - 15.6" HD - Core i7-7500U - 4GB AMD R7 M445 - Fog Gray;Silver;94,000;82,500;https://www.daraz.pk/inspiron-15-5567-15.6-hd-core-i7-7500u-4gb-amd-r7-m445-fog-gray-dell-mpg54673.html
-DELL;Inspiron 15 5567 - 15.6" HD - Core i5-7200U - 2GB AMD R7 M445 - Fog Gray;Silver;72,000;66,900;https://www.daraz.pk/inspiron-15-5567-15.6-hd-core-i5-7200u-2gb-amd-r7-m445-fog-gray-dell-mpg54672.html
-Lenovo;Ideapad 300 - Intel core i7 6th Gen 500 GB - Black;Black;0;64,500;https://www.daraz.pk/lenovo-ideapad-300-intel-core-i7-6th-gen-500-gb-black-6489013.html
-Lenovo;Ideapad 110 - Intel core i5 6th Gen - 500 GB - Black;Black;0;55,000;https://www.daraz.pk/lenovo-ideapad-110-intel-core-i5-6th-gen-500-gb-black-6488994.html
-Lenovo;Ideapad 110 - Intel core i3 6th Gen - 500 GB - Black;Black;0;41,500;https://www.daraz.pk/lenovo-ideapad-110-intel-core-i3-6th-gen-500-gb-black-6488986.html
-HP;hp-elitebook - 820 G2 - Core-i7-5500U - Silver;Silver;66,000;59,000;https://www.daraz.pk/hp-hp-elitebook-820-g2-core-i7-5500u-silver-6488858.html
-HP;Spectre-x2- core m3 -6y30 - 4GB RAM- 128 GB SSD- WIN 10 - Touch Screen;Silver;60,000;54,000;https://www.daraz.pk/hp-spectre-x2-core-m3-6y30-4gb-ram-128-gb-ssd-win-10-touch-screen-6440873.html
-Lenovo;Ideapad 300 - Intel celeron - Black;Black;0;28,500;https://www.daraz.pk/ideapad-300-intel-celeron-black-lenovo-mpg53295.html
-DELL;E6420 - 2.4GHz Intel i5 - Space Grey;Black;34,100;32,000;https://www.daraz.pk/dell-e6420-2.4ghz-intel-i5-space-grey-6453401.html
-HP;Pavilion x2 Detachable - 10.1" HD -  Atom x5-Z8300 - 64GB eMMC - 2GB RAM - Windows 10 - Blizzard White;White;43,000;31,990;https://www.daraz.pk/hp-pavilion-x2-detachable-10.1-hd-atom-x5-z8300-64gb-emmc-2gb-ram-windows-10-blizzard-white-5516676.html
-Lenovo;IdeaPad 110 - 15.6" HD - 500 GB HDD - 4 GB RAM - OS Not Installed - Black;Black;29,500;28,500;https://www.daraz.pk/ideapad-100-15.6-hd-500-gb-hdd-2-gb-ram-os-not-installed-black-lenovo-mpg44544.html
-HP;ProBook 450 G4 - 15.6" HD - Core i5 7200U - 2GB AMD R7 M340 - 1TB HDD - 8GB RAM - DOS - Black;Black;70,000;64,500;https://www.daraz.pk/probook-450-g3-15.6-hd-core-i5-6200u-2gb-amd-r7-m340-1tb-hdd-8gb-ram-dos-black-hp-mpg44596.html
-DELL;5559 - 8GB RAM - 1TB HDD - Win 10 - Silver;Silver;67,000;57,999;https://www.daraz.pk/dell-5559-8gb-ram-1tb-hdd-win-10-silver-6471679.html
-Lenovo;Ideapad 310 - Intel Core i3 - Black;Black;0;47,000;https://www.daraz.pk/lenovo-ideapad-310-intel-core-i3-black-6487023.html
-DELL;Latitude E 3470 - Intel Core i5 6th Gen 6200U HD - Black;Black;75,000;69,500;https://www.daraz.pk/dell-latitude-e-3470-intel-core-i5-6th-gen-6200u-hd-black-6486901.html
-Lenovo;Ideapad 310-15IKB - Intel Core i5-7200U - Black;Black;54,000;47,990;https://www.daraz.pk/lenovo-ideapad-310-15ikb-intel-core-i5-7200u-black-6437836.html
 Lenovo;ThinkPad E550 (5200U) Laptop - 15.6" - Intel® Core™ i5 - 500GB 5400rpm HDD - 4GB RAM DDR3 - Black;Black;85,580;77,800;https://www.daraz.pk/lenovo-thinkpad-e550-5200u-laptop-15.6-intelr-coretm-i5-500gb-5400rpm-hdd-4gb-ram-ddr3-black-5562871.html
-ACER;Aspire E1-572G 4th Generation 15.6" - Intel Core i5 - 750 GB - 4GB Ram - HD Graphics 4000 - Window 8 - Black;Black;65,000;58,500;https://www.daraz.pk/acer-aspire-e1-572g-4th-generation-15.6-intel-core-i5-750-gb-4gb-ram-hd-graphics-4000-window-8-black-5415715.html
-DELL;7566 Inspiron - i7-6700HQ - Black;Black;170,000;140,999;https://www.daraz.pk/dell-7566-inspiron-i7-6700hq-black-6483103.html
-DELL;Inspiron 5567 - Core i3-7100U - Black;Black;58,000;48,900;https://www.daraz.pk/dell-inspiron-5567-core-i3-7100u-black-6482923.html
-DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - 1TB HDD - Windows 10 - Matte Silver with a free Belkin Bag Pack;Black;68,999;57,900;https://www.daraz.pk/dell-inspiron-15-5559-core-i5-6200u-2.3-ghz-1tb-hdd-windows-10-matte-silver-with-a-free-belkin-bag-pack-6482442.html
-Lenovo;Y40 70 - Intel Core i7 4th Gen - 14'' - Windows 8 - Black;Black;100,000;85,000;https://www.daraz.pk/lenovo-y40-70-intel-core-i7-4th-gen-14-windows-8-black-6479470.html
-HP;Spectre-x2 - core m7 - Silver;Silver;90,000;78,000;https://www.daraz.pk/hp-spectre-x2-core-m7-silver-6475975.html
-HP;Probook 450G3 - i3 6100U - Black & Silver;Black|Silver;65,000;64,500;https://www.daraz.pk/hp-probook-450g3-i3-6100u-black-silver-6469295.html
-HP;Pavilion 15-ay120tx - Intel® Core™ i5-7100U - Jack Black;Black;63,000;60,300;https://www.daraz.pk/hp-pavilion-15-ay120tx-intelr-coretm-i5-7100u-jack-black-6468306.html
-DELL;Inspiron 5547 - intel core i7 4th Gen - 8GB RAM - Silver;Silver;0;62,000;https://www.daraz.pk/dell-inspiron-5547-intel-core-i7-4th-gen-8gb-ram-silver-6459896.html
-HP;Elitebook-folio 1040 - G2-Core i5 - 8GB - Silver;Silver;96,000;62,000;https://www.daraz.pk/hp-elitebook-folio-1040-g2-core-i5-8gb-silver-6458102.html
-DELL;Inspiron 15 5559 - 15.6" HD - Core i5-6200U 2.3 GHz - 2GB AMD M335 GPU - Matte Silver;Silver;62,500;56,350;https://www.daraz.pk/dell-inspiron-15-5559-15.6-hd-core-i5-6200u-2.3-ghz-2gb-amd-m335-gpu-matte-silver-6458096.html
-HP;Elitebook 840 G3 - Core i5 - Silver;Silver;0;85,000;https://www.daraz.pk/hp-elitebook-840-g3-core-i5-silver-6453827.html
-HP;Envy - 13-d059tu-core i5 - Fingerprints - Silver;Silver;72,000;65,000;https://www.daraz.pk/hp-envy-13-d059tu-core-i5-fingerprints-silver-6453819.html
-HP;Envy 15-ae140TX - Core i7 - Silver;Silver;100,000;88,000;https://www.daraz.pk/hp-envy-15-ae140tx-core-i7-silver-6450702.html
-Lenovo;ThinkPad Yoga 460 - 14.0 FHD MultiTouch - intel Core i5 6th Gen - 256 GB SSD - 8 GB RAM - Black;Black;158,500;145,200;https://www.daraz.pk/lenovo-thinkpad-yoga-460-14.0-fhd-multitouch-intel-core-i5-6th-gen-256-gb-ssd-8-gb-ram-black-6422953.html
-HP;Spectre - 13-v113tu - Core i5-7200U 2.5 GHz - Windows 10 - Dark Grey & Copper;Bronze|Silver;162,999;159,599;https://www.daraz.pk/hp-spectre-13-v113tu-core-i5-7200u-2.5-ghz-windows-10-dark-grey-copper-6391812.html
-HP;Spectre - 13-v114tu - Core i7-7500U 2.7 GHz - Windows 10 - Dark Grey & Copper;Bronze|Silver;185,999;182,999;https://www.daraz.pk/hp-spectre-13-v114tu-core-i7-7500u-2.7-ghz-windows-10-dark-grey-copper-6391808.html
+HP;Notebook - 15-ay122tx - Core i7 7th Generation 7500u - Black ;Black;81,999;77,400;https://www.daraz.pk/hp-notebook-15-ay122tx-core-i7-7th-generation-7500u-black-6469451.html
+HP;Notebook - 15-ay120tx - Core i5 7th Generation 7200u - Black ;Black;61,999;57,900;https://www.daraz.pk/hp-notebook-15-ay120tx-core-i5-7th-generation-7200u-black-6469445.html
+HP;Notebook - ay-103tu - Core i3 7th Generation 7100u - Black;Black;48,999;45,299;https://www.daraz.pk/hp-notebook-ay-103tu-core-i3-7th-generation-7100u-black-6469442.html
+HP;Stream-11 - 11.6" HD LED - Intel Celeron N3050 - Pink;Pink;19,500;16,500;https://www.daraz.pk/hp-stream-11-11.6-hd-led-intel-celeron-n3050-pink-6589198.html
+Lenovo;Ideapad 310 - Core i7 7500U 2.5 GHz - Win 10 - Black;;75,000;66,500;https://www.daraz.pk/ideapad-310-core-i7-7500u-2.5-ghz-win-10-black-lenovo-mpg60636.html
+Lenovo;Ideapad 310 - Core i7 7500U 2.5 GHz - DOS - Black;;75,000;61,999;https://www.daraz.pk/lenovo-ideapad-310-core-i7-7500u-2.5-ghz-dos-black-6610972.html
+HP;15 AY 540TU - Intel Core i3 6th Gen - 1TB - Black;Black;0;40,500;https://www.daraz.pk/hp-15-ay-540tu-intel-core-i3-6th-gen-1tb-black-6605482.html
+HP;Omen 15 - 15.6" Full HD - 7th Gen. Core i7 QuadCore - 4GB Nvidia GTX1050m - B&O Speakers - Windows 10;Black;145,000;135,000;https://www.daraz.pk/hp-omen-15-15.6-full-hd-7th-gen.-core-i7-quadcore-4gb-nvidia-gtx1050m-bo-speakers-windows-10-6602271.html
+HP;ProBook 450 G3 - 15.6" HD - 8GB RAM - 1TB HDD - Core i7 7th Generation - 2GB AMD Radeon R7 M340 – Free DOS - Black with Bag;Black;78,000;76,000;https://www.daraz.pk/hp-probook-450-g3-15.6-hd-8gb-ram-1tb-hdd-core-i7-7th-generation-2gb-amd-radeon-r7-m340-free-dos-black-with-bag-6010588.html
+Lenovo;Ideapad 310 - Core i7 7500U 2.7 GHz - Black;;84,000;71,900;https://www.daraz.pk/lenovo-ideapad-310-core-i7-7500u-2.7-ghz-black-6614265.html
+HP;ProBook 450 G4 - Core i7-7500U - Silver;Silver;79,000;72,499;https://www.daraz.pk/hp-probook-450-g4-core-i7-7500u-silver-6502695.html
+HP;Probook 4550 G3 - 7th Generation AMD A8 1.9 GHZ - Black;Black;80,000;69,999;https://www.daraz.pk/hp-probook-4550-g3-7th-generation-amd-a8-1.9-ghz-black-6472690.html
+HP;Spectre x2 - 12-a003tu - Core M7-6Y75 - 12" WUXGA+ Touch - 256GB SSD - Silver;Silver;122,000;64,999;https://www.daraz.pk/hp-spectre-x2-12-a003tu-core-m7-6y75-12-wuxga-touch-256gb-ssd-silver-6489046.html
+Lenovo;ThinkPad - E460 Laptop - Core i5 - 6th Gen - 15.6" - 500 GB - 4 GB RAM - Black;Black;77,400;67,500;https://www.daraz.pk/lenovo-thinkpad-e460-laptop-core-i5-6th-gen-15.6-500-gb-4-gb-ram-black-6374820.html
+HP;HP 8460P - 2.3GHz Intel Core i5-2520M - Silver;;30,500;29,500;https://www.daraz.pk/hp-hp-8460p-2.3ghz-intel-core-i5-2520m-silver-6435034.html
+DELL;E6420 - 2.4GHz Intel i5 - Space Grey;Black;34,100;32,000;https://www.daraz.pk/dell-e6420-2.4ghz-intel-i5-space-grey-6453401.html
+HP;Pavilion 15-ab202tx - Core i5 6200U - Silver;Silver;0;84,500;https://www.daraz.pk/pavilion-15-ab202tx-15.6-hd-core-i5-6200u-2.3-ghz-1-tb-hdd-2gb-nvidia-940m-gpu-4gb-ram-no-os-installed-natural-silver-brand-warranty-hp-mpg34483.html
+Apple;MacBook Pro - MLH42 - 15" With Touch Bar - 2.7GHz Quad-Core Intel Core i7 - 16GB - 512GB - Space Grey;Grey;0;349,949;https://www.daraz.pk/apple-macbook-pro-mlh42-15-with-touch-bar-2.7ghz-quad-core-intel-core-i7-16gb-512gb-space-grey-6579098.html
+HP;Omen 17 - 17.3" Full HD - 7th Gen. Core i7 QuadCore - 4GB Nvidia GTX1050 - B&O Speakers - Windows 10;Black;165,000;155,000;https://www.daraz.pk/hp-omen-17-17.3-full-hd-7th-gen.-core-i7-quadcore-4gb-nvidia-gtx1050-bo-speakers-windows-10-6603750.html
+DELL;Inspiron 7568 - 15.6" Touch Screen - Win 10 - Black;;120,000;97,999;https://www.daraz.pk/inspiron-7568-15.6-touch-screen-win-10-black-dell-mpg60197.html
+HP;15-ay122tx Notebook - 7th Gen. Core i7 - AMD Radeon R7 M440 Graphics - Black;Black;81,999;74,999;https://www.daraz.pk/hp-15-ay122tx-notebook-7th-gen.-core-i7-amd-radeon-r7-m440-graphics-black-6611788.html
+HP;HP EliteBook 840 G2 - Core i7 - 14" - 5500U - 4GB RAM - 1TB HDD - OS DOS - Grey;Grey;75,000;66,000;https://www.daraz.pk/hp-hp-elitebook-840-g2-core-i7-14-5500u-4gb-ram-1tb-hdd-os-dos-grey-6610450.html
+HP;ProBook 470 G3 - Core i7 - 6500U -8 GB RAM - 1TB HDD - Silver;Silver;65,000;60,500;https://www.daraz.pk/hp-probook-470-g3-core-i7-6500u-8-gb-ram-1tb-hdd-silver-6609628.html
+Lenovo;V310 - Intel Core i5-7200U - Black;Black;49,000;43,750;https://www.daraz.pk/v310-intel-core-i5-7200u-black-lenovo-mpg60638.html
+HP;15-ay105ne Notebook - 7th Gen. Core i5-7200U - 1TB HDD - Silver;Silver;0;61,000;https://www.daraz.pk/15-ay105ne-notebook-7th-gen.-core-i5-7200u-1tb-hdd-silver-hp-mpg60583.html
+DELL;Inspiron 15 - 5559 - Intel Core i3 6th Gen - 6100U - Black;Black;47,000;42,499;https://www.daraz.pk/dell-inspiron-15-5559-intel-core-i3-6th-gen-6100u-black-6587269.html
+HP;EliteBook 840 G1- Core i5-4300U - 320GB HDD - Grey;Black;55,000;34,999;https://www.daraz.pk/hp-elitebook-840-g1-core-i5-4300u-320gb-hdd-grey-6613567.html
+DELL;Vostro 15-3559 With Dell Topload Bag  (2 Years Dell Pro Support Warranty) With Power Companion 18000 Mah;;100,000;73,349;https://www.daraz.pk/dell-vostro-15-3559-with-dell-topload-bag-2-years-dell-pro-support-warranty-with-power-companion-18000-mah-6619336.html
+ACER;Aspire E5 575G - 15.6" HD Screen - 7th Gen Core i5 - 2GB NVIDIA 940MX - Windows 10;Black;0;61,000;https://www.daraz.pk/acer-aspire-e5-575g-15.6-hd-screen-7th-gen-core-i5-2gb-nvidia-940mx-windows-10-6591587.html
+DELL;INSPIRON 5559  Ci3 6100U - , 4GB, 1TB , DVD/RW, 15.6", DOS, (BLACK & SLIVER);;48,200;45,500;https://www.daraz.pk/dell-inspiron-5559-ci3-6100u-4gb-1tb-dvdrw-15.6-dos-black-sliver-6619775.html
+Apple;13.3" MacBook Pro with Touch Bar - 256GB PCIe SSD - macOS Sierra - Space Grey;Grey;0;191,600;https://www.daraz.pk/13.3-macbook-pro-with-touch-bar-256gb-pcie-ssd-macos-sierra-space-grey-apple-mpg60477.html
+Apple;MacBook Pro MF839 - 13.3" - Dual Core Ci5 - 2.7GHz Turbo upto 3.1GHz - 8GB - 128GB - Mac OS X Yosemite - Space Grey;Grey;0;144,849;https://www.daraz.pk/apple-macbook-pro-mf839-13.3-dual-core-ci5-2.7ghz-turbo-upto-3.1ghz-8gb-128gb-mac-os-x-yosemite-space-grey-6579094.html
+Apple;9.7" iPad Pro with Wi-Fi & 4G LTE - 32GB - Space Grey;Green;0;66,350;https://www.daraz.pk/apple-9.7-ipad-pro-with-wi-fi-4g-lte-32gb-space-grey-6616759.html
+DELL;Vostro 15-3559 With Dell Topload Bag  (2 Years Dell Pro Support Warranty) With Power Companion 18000 Mah;;110,000;96,799;https://www.daraz.pk/dell-vostro-15-3559-with-dell-topload-bag-2-years-dell-pro-support-warranty-with-power-companion-18000-mah-6619335.html
+HP;15-ay190nia Notebook - Core i5-7200U - 500GB - Turbo Silver;Silver;56,000;54,210;https://www.daraz.pk/hp-15-ay190nia-notebook-core-i5-7200u-500gb-turbo-silver-6573905.html
+TopShops;Comb Of 2 USB Mini Flexible Fan + USB Led Light;;0;498;https://www.daraz.pk/top-shops-comb-of-2-usb-mini-flexible-fan-usb-led-light-6584168.html
+HP;ProBook 440 G3 - Core i5 6200U 2.3 GHz -  500GBHDD - 4GB RAM - Black;Black;100,000;53,999;https://www.daraz.pk/hp-probook-440-g3-core-i5-6200u-2.3-ghz-500gbhdd-4gb-ram-black-6580663.html
+Lenovo;IdeaPad 110 - Core i3-6100U 2.3 GHz - Windows 10;Black;42,000;36,999;https://www.daraz.pk/ideapad-110-core-i3-6100u-2.3-ghz-windows-10-lenovo-mpg60633.html
+TopShops;Combo of USB Fan + USB Light + Multi Sim Adapter + Selfie Stick;;1,299;799;https://www.daraz.pk/top-shops-combo-of-usb-fan-usb-light-multi-sim-adapter-selfie-stick-6584167.html
+Apple;9.7" iPad Pro with Wi-Fi - 256GB - Rose Gold;Golden;0;98,280;https://www.daraz.pk/9.7-ipad-pro-with-wi-fi-256gb-rose-gold-apple-mpg60480.html
+HP;Pavilion x360 - m3-u103dx - Core i5-7200U - 13.3" Full HD Notebook - Modern Gold;Golden|Silver;64,000;61,500;https://www.daraz.pk/hp-pavilion-x360-m3-u103dx-core-i5-7200u-13.3-full-hd-notebook-modern-gold-6564799.html
+HP;Probook 430 G3 - 13.3" HD - Core i5 6200U 2.3 GHz - 500GB HDD - Black;Black;48,500;47,000;https://www.daraz.pk/probook-430-g3-13.3-hd-core-i5-6200u-2.3-ghz-500gb-hdd-black-hp-mpg60243.html
+HP;EliteBook Folio 1020 G1 - 12.5" Full HD - 256GB SSD - Platinum;Silver;42,500;40,500;https://www.daraz.pk/elitebook-folio-1020-g1-12.5-full-hd-256gb-ssd-platinum-hp-mpg60239.html
+HP;Business V1G98UT 12.5" 820G3 i5-6200U 4G 500GB - Silver;;65,000;43,999;https://www.daraz.pk/hp-business-v1g98ut-12.5-820g3-i5-6200u-4g-500gb-silver-6609480.html
+DELL;CI5-6200 - Notebook - Black & Silver;;62,000;58,500;https://www.daraz.pk/dell-ci5-6200-notebook-black-silver-6609315.html
+DELL;Inspiron 15 7559 - 15.6" 4K Touch - Core i7-6700HQ - GTX 960M 4GB - Grey;Black|Red;135,000;107,500;https://www.daraz.pk/dell-inspiron-15-7559-15.6-4k-touch-core-i7-6700hq-gtx-960m-4gb-grey-6611782.html
+HP;Notebook 15-ay072nia - Intel Core i3-6006U -  Black;Black;43,000;38,550;https://www.daraz.pk/notebook-15-ay072nia-intel-core-i3-6006u-black-hp-mpg60586.html
+DELL;Inspiron 15 5567 - Core i3-7100U - Gloss Black;Black;49,999;46,500;https://www.daraz.pk/dell-inspiron-15-5567-core-i3-7100u-gloss-black-6610423.html
+HP;Spectre x2 - 12-a002tu - Core M5-6Y54 - 12" WUXGA+ Touch - 256GB SSD - Silver;Silver;60,000;54,000;https://www.daraz.pk/spectre-x2-12-a002tu-core-m5-6y54-12-wuxga-touch-256gb-ssd-silver-hp-mpg60245.html
+HP;Spectre x2 - 12-a005tu - Core M3-6Y30 - 12" WUXGA+ Touch - 128GB SSD - Silver;Silver;50,500;43,500;https://www.daraz.pk/spectre-x2-12-a005tu-core-m3-6y30-12-wuxga-touch-128gb-ssd-silver-hp-mpg60246.html
+HP;EliteBook 840 G2 - Core i5-5200U - 500GB HDD - Grey;Black;65,000;42,999;https://www.daraz.pk/hp-elitebook-840-g2-core-i5-5200u-500gb-hdd-grey-6613561.html
+HP;Elitebook 820 G2 - 12.5" HD LED - Core i7 5th Generation - Silver & Black;Black|Silver;54,000;51,999;https://www.daraz.pk/elitebook-820-g2-12.5-hd-led-core-i7-5th-generation-silver-black-hp-mpg60241.html
+Apple;13.3" MacBook Pro Retina - 256GB PCIe SSD - macOS Sierra - Silver;Silver;0;150,550;https://www.daraz.pk/13.3-macbook-pro-retina-256gb-pcie-ssd-macos-sierra-silver-apple-mpg59030.html
+Apple;9.7" iPad Pro with Wi-Fi & 4G LTE - 32GB - Rose Gold;Golden;0;66,350;https://www.daraz.pk/9.7-ipad-pro-with-wi-fi-4g-lte-32gb-rose-gold-apple-mpg60479.html
+Apple;15.4" MacBook Pro with Touch Bar - 512GB PCIe SSD - macOS Sierra - Space Grey;Grey;0;292,650;https://www.daraz.pk/15.4-macbook-pro-with-touch-bar-512gb-pcie-ssd-macos-sierra-space-grey-apple-mpg60478.html
+HP;Spectre x360 Signature Edition 2-in-1 Notebook - 13.3" Touch Screen - 512GB SSD - Copper;Brown;0;210,550;https://www.daraz.pk/spectre-x360-signature-edition-2-in-1-notebook-13.3-touch-screen-512gb-ssd-copper-hp-mpg60587.html
+Apple;13.3" MacBook Pro Retina - 256GB PCIe SSD - macOS Sierra - Space Grey;Grey;0;152,650;https://www.daraz.pk/13.3-macbook-pro-retina-256gb-pcie-ssd-macos-sierra-space-grey-apple-mpg60476.html
+Microsoft;Surface Pro 4 - Core i5 Skylake - 256GB SSD - Silver;Silver;0;120,000;https://www.daraz.pk/surface-pro-4-core-i5-skylake-256gb-ssd-silver-microsoft-mpg60645.html
+HP;Envy Notebook m7 d-u009dx - 1TB SATA - Windows 10 - Silver;Silver;121,100;99,999;https://www.daraz.pk/envy-notebook-m7-d-u009dx-1tb-sata-windows-10-silver-hp-mpg60584.html
+HP;Pavilion - 15-au185sa - Core i5-7200U - 15.6" HD - 8GB RAM - 1TB HDD - Win. 10 - Manhattan Gold (REFURBISHED);Golden;62,500;54,999;https://www.daraz.pk/hp-pavilion-15-au185sa-core-i5-7200u-15.6-hd-8gb-ram-1tb-hdd-win.-10-manhattan-gold-refurbished-6613635.html
+DELL;Inspiron 17-7779 17.3" x360 Laptop - Core i7-7500U - 16GB RAM - 4GB NVIDIA 940MX - Gray;Grey;125,000;104,500;https://www.daraz.pk/dell-inspiron-17-7779-17.3-x360-laptop-core-i7-7500u-16gb-ram-4gb-nvidia-940mx-gray-6611790.html
+HP;15-ay120tx Notebook - 7th Generation Core i5-7200u - AMD Radeon R5 M430 Graphics - Black;Black;61,999;57,300;https://www.daraz.pk/hp-15-ay120tx-notebook-7th-generation-core-i5-7200u-amd-radeon-r5-m430-graphics-black-6611789.html
+HP;Notebook - 15-ay052nr - Core i3-6100U - 1TB HDD - Turbo Silver;;45,500;37,999;https://www.daraz.pk/hp-notebook-15-ay052nr-core-i3-6100u-1tb-hdd-turbo-silver-6611785.html
+DELL;Inspiron 15 5567 - Core i5-7200U - Fog Grey;Grey;72,000;54,200;https://www.daraz.pk/dell-inspiron-15-5567-core-i5-7200u-fog-grey-6611784.html
+DELL;Inspiron 15 5559 - Core i5-6200U 2.3 GHz - Glossy Black;Black;62,000;48,750;https://www.daraz.pk/dell-inspiron-15-5559-core-i5-6200u-2.3-ghz-glossy-black-6611781.html
+HP;Notebook - 15-ay066ne - Core i3-6006U - Jack Black;Black;45,000;39,400;https://www.daraz.pk/hp-notebook-15-ay066ne-core-i3-6006u-jack-black-6611778.html
+DELL;Inspiron 3558 - Core i5 5200U - 2.2GHz - 6GB - 1.0TB - Intel HD;Black;0;56,500;https://www.daraz.pk/dell-inspiron-3558-core-i5-5200u-2.2ghz-6gb-1.0tb-intel-hd-6616881.html
+DELL;Inspiron 5567 - Core i5 7200U - 2.5GHz - 4GB - 1.0TB - ATI 2GB 7th Generation;Black;0;69,900;https://www.daraz.pk/dell-inspiron-5567-core-i5-7200u-2.5ghz-4gb-1.0tb-ati-2gb-7th-generation-6616879.html
+DELL;Inspiron 5567 - Core i7 7500U - 2.7GHz - 8GB - 1.0TB - ATI 4GB 7th Generation;Black;0;85,500;https://www.daraz.pk/dell-inspiron-5567-core-i7-7500u-2.7ghz-8gb-1.0tb-ati-4gb-7th-generation-6616871.html
+DELL;7559 - Core i7 6700HQ - 2.6GHz - 8GB - 1.0TB - HDD - Nvidia GTX960 M 4GB;Black;0;112,000;https://www.daraz.pk/dell-7559-core-i7-6700hq-2.6ghz-8gb-1.0tb-hdd-nvidia-gtx960-m-4gb-6616866.html
+HP;EliteBook 2nd Gen 8460 Intel Core i5 Notebook;;30,500;30,000;https://www.daraz.pk/hp-elitebook-2nd-gen-8460-intel-core-i5-notebook-6609809.html
+HP;Slatebook 21 - 1.8GHz - 8GB EMMC - White With Free;;0;28,000;https://www.daraz.pk/hp-slatebook-21-1.8ghz-8gb-emmc-white-with-free-6494097.html
+DELL;Inspiron 15 5559 - Core i7 6500U 2.3 GHz - Black;Black;79,500;75,999;https://www.daraz.pk/dell-inspiron-15-5559-core-i7-6500u-2.3-ghz-black-6618898.html
+DELL;Inspiron 15 5559 - 15.6" HD - Core i5 6200U 2.3 GHz - 500GB HDD - 4GB RAM - 2GB AMD Radeon R5 M335 GPU - OS Not Installed - Black;Black;56,000;51,999;https://www.daraz.pk/dell-inspiron-15-5559-15.6-hd-core-i5-6200u-2.3-ghz-500gb-hdd-4gb-ram-2gb-amd-radeon-r5-m335-gpu-os-not-installed-black-6618893.html
+DELL;Inspiron 5559  - Core i3 6100U - 4GB - 1TB - Black;;51,000;41,999;https://www.daraz.pk/dell-inspiron-5559-core-i3-6100u-4gb-1tb-black-6618620.html
+Lenovo;YOGA 910 Convertible - Intel Core I7 7500U 2.7Ghz-13.3" Ram 16GB- Win 10 -Touch - Silver;Silver;0;199,000;https://www.daraz.pk/lenovo-yoga-910-convertible-intel-core-i7-7500u-2.7ghz-13.3-ram-16gb-win-10-touch-silver-6617590.html
+Lenovo;ThinkPad - E460 Laptop - Core i5 - 6th Gen - 15.6";;0;67,500;https://www.daraz.pk/lenovo-thinkpad-e460-laptop-core-i5-6th-gen-15.6-6593748.html
+DELL;Inspiron 15 3558 - Core i3-5005U - 15.6" - Noteboo;;0;39,750;https://www.daraz.pk/dell-inspiron-15-3558-core-i3-5005u-15.6-noteboo-6566456.html
+HP;15-ac111tu - 15.6" HD - Core i3 5005U 2.0 GHz - 50;;0;49,900;https://www.daraz.pk/hp-15-ac111tu-15.6-hd-core-i3-5005u-2.0-ghz-50-6494099.html
+HP;15-ac186tu - Core i3 6100U - Jack Black;;0;55,000;https://www.daraz.pk/hp-15-ac186tu-core-i3-6100u-jack-black-6494098.html
+HP;15-ay195nr ci5 7th Generation 7200U- 8GB- 1TB- Dos;;59,000;51,499;https://www.daraz.pk/hp-15-ay195nr-ci5-7th-generation-7200u-8gb-1tb-dos-6618146.html
+DELL;INSPIORN 7548 INTER Core I5 5200U RAM 6GB - HARD 500GB - 15.6" SCREEN SIZE- 4GB GC-DOS - Silver;Silver;69,000;62,400;https://www.daraz.pk/dell-inspiorn-7548-inter-core-i5-5200u-ram-6gb-hard-500gb-15.6-screen-size-4gb-gc-dos-silver-6617944.html
+Lenovo;310T-15IKB Core™ i7-7500U 2.7GHz 8GB-1TB 15.6" Touchscreen DVD-RW BT WIN10 Webcam - Black;Black;75,000;67,580;https://www.daraz.pk/lenovo-310t-15ikb-coretm-i7-7500u-2.7ghz-8gb-1tb-15.6-touchscreen-dvd-rw-bt-win10-webcam-black-6617942.html
+Lenovo;310-15ISK Core™ i7-6500U 2.5GHz 8GB-1TB-15.6" DVD-RW BT WIN10 Webcam - Black;Black;66,000;60,900;https://www.daraz.pk/lenovo-310-15isk-coretm-i7-6500u-2.5ghz-8gb-1tb-15.6-dvd-rw-bt-win10-webcam-black-6617897.html
+HP;ProBook 450 G3 Celeron® Dual-Core 3855U 1.6GHz 4GB 500GB 15.6" DVD-RW BT WIN10 Pro Webcam - Silver;Silver;37,000;35,880;https://www.daraz.pk/hp-probook-450-g3-celeronr-dual-core-3855u-1.6ghz-4gb-500gb-15.6-dvd-rw-bt-win10-pro-webcam-silver-6617738.html
+HP;EliteBook 840 G3 Core™ i7-6500U - 14" - 2.5GHz - 8GB - 1TB - Silver;Silver;89,000;79,500;https://www.daraz.pk/hp-elitebook-840-g3-coretm-i7-6500u-14-2.5ghz-8gb-1tb-silver-6617393.html
+HP;Notebook 15-AY137CL - Intel Core i7 7500U - 15.6" HD LED - Silver;;0;69,000;https://www.daraz.pk/hp-notebook-15-ay137cl-intel-core-i7-7500u-15.6-hd-led-silver-6616864.html
+HP;15-AY 192 Core i3 7100U 2.4GHz,Ram  8GB, Hard 500GB, 15.6" (1366x768) DVD-RW, Win 10;;0;49,500;https://www.daraz.pk/hp-15-ay-192-core-i3-7100u-2.4ghzram-8gb-hard-500gb-15.6-1366x768-dvd-rw-win-10-6619974.html
+DELL;XPS 9350 CI5-6200U-4GB-128GB SSD-WIN10-WIFI/BT-INTEL HD GRAPHICS 520-SILVER-FHD-MCAFEE-2RPE;;154,000;127,000;https://www.daraz.pk/dell-xps-9350-ci5-6200u-4gb-128gb-ssd-win10-wifibt-intel-hd-graphics-520-silver-fhd-mcafee-2rpe-6619777.html
+DELL;5368 CI5-6200U-4GB-128GB-UBT-WIFI/BT-INTEL HD GRAPHIC 520-ERAGRAY-MCAFEE-2RPE;;104,500;92,000;https://www.daraz.pk/dell-5368-ci5-6200u-4gb-128gb-ubt-wifibt-intel-hd-graphic-520-eragray-mcafee-2rpe-6619776.html
+DELL;Inspiron 15 5565 - 15.6" HD LED - 7th Gen. AMD Dual Core A9-9400 - ATI Radeon R5 Graphics - Windows 10;Grey;84,000;59,000;https://www.daraz.pk/dell-inspiron-15-5565-15.6-hd-led-7th-gen.-amd-dual-core-a9-9400-ati-radeon-r5-graphics-windows-10-6603752.html
+DELL;Inspiron 7548 - 15.6" - Intel Core I5-5200u - Silver;Silver;72,000;62,500;https://www.daraz.pk/dell-inspiron-7548-15.6-intel-core-i5-5200u-silver-6620140.html
+DELL;Inspiron 5547 - Intel Core i7-4510U - 8GB RAM - 1TB HDD - 2GB AMD R7 M265 GPU - 15.6" - DOS - Silver;Silver;77,000;57,300;https://www.daraz.pk/dell-inspiron-5547-intel-core-i7-4510u-8gb-ram-1tb-hdd-2gb-amd-r7-m265-gpu-15.6-dos-silver-6620102.html
+DELL;Inspiron 7568 - 15.6" Touch Screen - Intel core i5 6200U - Ubuntu - Black;Black;102,000;81,250;https://www.daraz.pk/dell-inspiron-7568-15.6-touch-screen-intel-core-i5-6200u-ubuntu-black-6620091.html
+Lenovo;Ideapad 110 Core I3 - 6TH Gen - 4 GB Ram - 500 GB HDD - DOS;Black;0;37,999;https://www.daraz.pk/lenovo-ideapad-110-core-i3-6th-gen-4-gb-ram-500-gb-hdd-dos-6619888.html
+Apple;MacBook Pro MLH42 15-inch with Touch Bar: 2.7GHz quad-core Intel Core i7,16gb, 512GB 2GB RP 455 GRAPHICS CARD- Space Grey;;380,500;334,500;https://www.daraz.pk/apple-macbook-pro-mlh42-15-inch-with-touch-bar-2.7ghz-quad-core-intel-core-i716gb-512gb-2gb-rp-455-graphics-card-space-grey-6547541.html
+HP;Star Wars Special Edition 15-AN050 - Core™ i5-6200U 2.3 GHz -1 TB Hard Disk - 6 GB Ram - Screen Size 15.6" - Black;Black|Red;0;89,000;https://www.daraz.pk/hp-star-wars-special-edition-15-an050-coretm-i5-6200u-2.3-ghz-1-tb-hard-disk-6-gb-ram-screen-size-15.6-black-6561694.html
+Lenovo;Yoga Pro 2-in-1 - 13.3'' Touch Screen - 4th Gen. Core i7 - 8GB DDR3L - 512GB SSD - Windows 8;Silver;0;110,000;https://www.daraz.pk/lenovo-yoga-pro-2-in-1-13.3-touch-screen-4th-gen.-core-i7-8gb-ddr3l-512gb-ssd-windows-8-6584720.html
+DELL;XPS 13 9350 (Touch) - 13.3" Quad HD+ - Core i7 6500U - 512 GB PCI Express Flash SSD - 16GB RAM - Windows 10 - Silver;;0;150,000;https://www.daraz.pk/dell-xps-13-9350-touch-13.3-quad-hd-core-i7-6500u-512-gb-pci-express-flash-ssd-16gb-ram-windows-10-silver-6592124.html
+HP;Pavilion 15-bk151nr - 1TB HDD - Touch screen - Silver;Silver;70,000;61,000;https://www.daraz.pk/hp-pavilion-15-bk151nr-1tb-hdd-touch-screen-silver-6572724.html
+DELL;XPS13 9350 - Ultrabook - 8GB - Silver;;189,600;170,000;https://www.daraz.pk/dell-xps13-9350-ultrabook-8gb-silver-6593442.html
+HP;ProBook 450 G4 - 15.6" HD BV LED - 7th Gen Core i5 - 2GB NVIDIA GeForce 930MX - DOS;Silver;69,000;62,900;https://www.daraz.pk/hp-probook-450-g4-15.6-hd-bv-led-7th-gen-core-i5-2gb-nvidia-geforce-930mx-dos-6591602.html
+Apple;MacBook Pro MNQF2 13-inch with Touch Bar 2.9GHz Dual-Core Intel Core i5 - 8GB - 512GB - Space Grey;Grey;284,000;251,000;https://www.daraz.pk/apple-macbook-pro-mnqf2-13-inch-with-touch-bar-2.9ghz-dual-core-intel-core-i5-8gb-512gb-space-grey-6555116.html
+HP;ProBook 450 G4 - 15.6" HD BV LED - 7th Gen Core i7 - 2GB NVIDIA GeForce 930MX - DOS;Silver;79,000;74,500;https://www.daraz.pk/hp-probook-450-g4-15.6-hd-bv-led-7th-gen-core-i7-2gb-nvidia-geforce-930mx-dos-6593512.html
+SFCollections;VGA Cable - Black;Black;700;389;https://www.daraz.pk/sf-collections-vga-cable-black-6590929.html
+Apple;MacBook Pro MLH32 - 15" With Touch Bar - 2.6GHz Quad-Core Intel Core i7 - 16GB - 256GB - Space Grey;Grey;0;299,949;https://www.daraz.pk/apple-macbook-pro-mlh32-15-with-touch-bar-2.6ghz-quad-core-intel-core-i7-16gb-256gb-space-grey-6579097.html
+Apple;MacBook Air MMGG2 - 13.3" - DualCore Ci5 - 1.6Ghz turbo Upto 2.7Ghz - 8GB - 256GB - Mac OS X Yosemite - Space Grey;Grey;0;146,849;https://www.daraz.pk/apple-macbook-air-mmgg2-13.3-dualcore-ci5-1.6ghz-turbo-upto-2.7ghz-8gb-256gb-mac-os-x-yosemite-space-grey-6579096.html
+Apple;MacBook Air MMGF2 - 13.3" - Dual Core Ci5 - 1.6Ghz Turbo Upto 2.7Ghz - 8GB - 128GB - Mac OS X Yosemite - Space Grey;Grey;0;124,949;https://www.daraz.pk/apple-macbook-air-mmgf2-13.3-dual-core-ci5-1.6ghz-turbo-upto-2.7ghz-8gb-128gb-mac-os-x-yosemite-space-grey-6579093.html
+Apple;MacBook Pro MLL42 - 13" - 2.0GHz - Dual Core Intel Core i5 - 8GB -  256GB - Space Grey;Grey;0;191,499;https://www.daraz.pk/apple-macbook-pro-mll42-13-2.0ghz-dual-core-intel-core-i5-8gb-256gb-space-grey-6579092.html
+DELL;Inspiron - Core i5 7th Gen. - 15.6" - Black;Black;0;59,999;https://www.daraz.pk/dell-inspiron-core-i5-7th-gen.-15.6-black-6572727.html
+DELL;Inspiron - 15 - 5578 - 7thGen - Corei7 - 15.6" Touch Laptop;;100,000;84,999;https://www.daraz.pk/dell-inspiron-15-5578-7thgen-corei7-15.6-touch-laptop-6578110.html
+HP;Spectre X 2 - Intel Core M5 - 256 - Silver;Silver;0;75,000;https://www.daraz.pk/hp-spectre-x-2-intel-core-m5-256-silver-6578055.html
+HP;EliteBook 820 G2 - Core i5-5300U 2.3 GHz - 256GB SSD - Black;Black|Grey;86,000;42,999;https://www.daraz.pk/hp-elitebook-820-g2-core-i5-5300u-2.3-ghz-256gb-ssd-black-6573974.html
+DELL;Inspiron 3567 - Intel Core i5-7200U - 2.5 GHz - DOS - Black;;57,000;53,999;https://www.daraz.pk/dell-inspiron-3567-intel-core-i5-7200u-2.5-ghz-dos-black-6574963.html
+DELL;Latitude E5570 - 15.6'' - Intel Core i5 6th Gen - 8 GB Ram - 256 GB SSD - Windows 10 - Black;Black;0;90,550;https://www.daraz.pk/dell-latitude-e5570-15.6-intel-core-i5-6th-gen-8-gb-ram-256-gb-ssd-windows-10-black-6561681.html
+DELL;Inspiron 5568 - Core i3 - 6100U - 2.1GHz - 4GB - 500GB - HDD - Intel Shared - Silver;Black;52,000;47,400;https://www.daraz.pk/dell-inspiron-5568-core-i3-6100u-2.1ghz-4gb-500gb-hdd-intel-shared-silver-6585190.html
+DELL;Inspiron 5568 - Core i7 - 6500U - 2.5GHz - 8GB - 1.0TB - HDD - Intel Shared - Black;Black;77,000;71,600;https://www.daraz.pk/dell-inspiron-5568-core-i7-6500u-2.5ghz-8gb-1.0tb-hdd-intel-shared-black-6585180.html
+DELL;Inspiron 5578 - Core i5 - 7200U - 2.5GHz - 8GB - 1TB - SSD - Intel HD ;Black;72,000;68,500;https://www.daraz.pk/dell-inspiron-5578-core-i5-7200u-2.5ghz-8gb-1tb-ssd-intel-hd-6585168.html
+HP;AY 15-AY053 Ci5 - 8 GB - 1TB - Windows 10 - Touch;;55,000;50,500;https://www.daraz.pk/hp-ay-15-ay053-ci5-8-gb-1tb-windows-10-touch-6562402.html
+Lenovo;ThinkPad X1 Carbon - Inter Core i7 4th Gen - 8 GB RAM DDR 3 - 256 GB SSD - Screen Size 14''-Win 8- Black;;0;130,000;https://www.daraz.pk/lenovo-thinkpad-x1-carbon-inter-core-i7-4th-gen-8-gb-ram-ddr-3-256-gb-ssd-screen-size-14-win-8-black-6570856.html
+HP;Notebook - 15-ay105ne - Core i5-7200U - Silver;;60,000;55,899;https://www.daraz.pk/notebook-15-ay105ne-core-i5-7200u-silver-hp-mpg59553.html
+Apple;MacBook Pro Retina Display 12" - MF865 - DC 1.2Ghz M Processor turbo upto 2.6Ghz, 8GB, 512 Flash, Intel HD5300, Webcam 480p, Mac Os X Yosemite;;219,500;193,600;https://www.daraz.pk/apple-macbook-pro-retina-display-12-mf865-dc-1.2ghz-m-processor-turbo-upto-2.6ghz-8gb-512-flash-intel-hd5300-webcam-480p-mac-os-x-yosemite-6547525.html
+Apple;MacBook Air 11.6 MJVP2 Ci5 1.6 4GB/256 Flash;;146,300;128,000;https://www.daraz.pk/apple-macbook-air-11.6-mjvp2-ci5-1.6-4gb256-flash-6554958.html
+Apple;MacBook Pro MF839 RETINA - 13.3" - DC Ci5 - 2.7GHz Turbo Upto 3.1GHz - 8GB - 128GB - Mac OS X Yosemite - Space Grey;Grey;170,500;150,600;https://www.daraz.pk/apple-macbook-pro-mf839-retina-13.3-dc-ci5-2.7ghz-turbo-upto-3.1ghz-8gb-128gb-mac-os-x-yosemite-space-grey-6547536.html
+Apple;MacBook Air 13.3" - MMGF2 - DC Ci5 1.6Ghz turbo upto 2.7Ghz, 8GB, 128GB Flash,WebCam 720p HD, Mac OS X Yosemite;;137,800;122,000;https://www.daraz.pk/apple-macbook-air-13.3-mmgf2-dc-ci5-1.6ghz-turbo-upto-2.7ghz-8gb-128gb-flashwebcam-720p-hd-mac-os-x-yosemite-6547472.html
+HP;EliteBook 820 G3 - Core i7-6600U 2.60 GHz - 500GB 7.2K RPM HDD - Black;Black|Grey;95,000;64,999;https://www.daraz.pk/hp-elitebook-820-g3-core-i7-6600u-2.60-ghz-500gb-7.2k-rpm-hdd-black-6566272.html
+Lenovo;V310 - Intel Core i5-7200U - 500GB - Black;Black;0;49,000;https://www.daraz.pk/lenovo-v310-intel-core-i5-7200u-500gb-black-6574028.html
+HP;Notebook 15-ay191nia - Core i7-7500U - 2GB GPU - 1TB HDD - Turbo Silver;Silver;0;80,000;https://www.daraz.pk/hp-notebook-15-ay191nia-core-i7-7500u-2gb-gpu-1tb-hdd-turbo-silver-6573904.html
+HP;15-ay122tx Notebook - 7th Gen. Core i7 - 1TB HDD - Black;Black;0;81,999;https://www.daraz.pk/15-ay122tx-notebook-7th-gen.-core-i7-1tb-hdd-black-hp-mpg60238.html
+DELL;Inspiron 15 3567 - 15.6" HD - 6GB RAM - 1TB HDD - Core i5 7th Gen. 2.5 GHz - Black;Black;0;57,000;https://www.daraz.pk/dell-inspiron-15-3567-15.6-hd-6gb-ram-1tb-hdd-core-i5-7th-gen.-2.5-ghz-black-6574004.html
+HP;15-ay120tx Notebook - 7th Gen. Core i5 - 1TB HDD - Black;Black;61,999;58,350;https://www.daraz.pk/hp-15-ay120tx-notebook-7th-gen.-core-i5-1tb-hdd-black-6573481.html
+HP;HP - ProBook 470 G3 - Core i5 - 6200U - 4 GB RAM - 500GB HDD - 2GB Graphics Card - DOS;Black;80,000;56,000;https://www.daraz.pk/hp-hp-probook-470-g3-core-i5-6200u-4-gb-ram-500gb-hdd-2gb-graphics-card-dos-6538029.html
+DELL;Inspiron 7548 - Intel Core i7 5th Generation 5500U- 2.4GHz -Ram 8GB- 1TB 15.6" (3840x2160) 4GB GC-Win 8 - Silver-Touch;Silver;105,000;95,000;https://www.daraz.pk/dell-inspiron-7548-intel-core-i7-5th-generation-5500u-2.4ghz-ram-8gb-1tb-15.6-3840x2160-4gb-gc-win-8-silver-touch-6572783.html
+Lenovo;Y700-15 ISK - Core i7-6700 HQ - 16 GB - Black;Black;0;165,000;https://www.daraz.pk/lenovo-y700-15-isk-core-i7-6700-hq-16-gb-black-6572750.html
+Lenovo;Thinkpad E 560 -  Screen Size 15.6 - Operating System Windows 10 Pro - Black;;0;95,000;https://www.daraz.pk/lenovo-thinkpad-e-560-screen-size-15.6-operating-system-windows-10-pro-black-6570870.html
+HP;15-AY117 - Core i5 7200U- 2.5GHz - 8GB DDR3 - 1TB SATA - 15.6" Screen Size - Win 10 - Silver;;0;62,900;https://www.daraz.pk/hp-15-ay117-core-i5-7200u-2.5ghz-8gb-ddr3-1tb-sata-15.6-screen-size-win-10-silver-6570823.html
+DELL;XPS 13 9360 - Core i7-7500U - Silver;;209,000;194,999;https://www.daraz.pk/dell-xps-13-9360-core-i7-7500u-silver-6559871.html
+DELL;Inspiron 15-5559 Core™ i7-6500U 2.5GHz WIN10 - Silver;Silver;90,000;78,900;https://www.daraz.pk/inspiron-15-5559-coretm-i7-6500u-2.5ghz-win10-silver-dell-mpg58912.html
+HP;Notebook - 15-ay105ne - Core i5-7200U - Silver;;61,000;53,150;https://www.daraz.pk/notebook-15-ay105ne-core-i5-7200u-silver-hp-mpg60585.html
+HP;15 AY 072 - Intel Core i3 6200U - 6th Gen - 4GB RAM - Hard 500 GB - 15.6" - Black;Black;0;39,500;https://www.daraz.pk/15-ay-072-intel-core-i3-6200u-6th-gen-4gb-ram-hard-500-gb-15.6-black-hp-mpg59083.html
+HP;Notebook - 15-ay191nia - Core i7-7700U - Turbo Silver;Silver;0;80,000;https://www.daraz.pk/hp-notebook-15-ay191nia-core-i7-7700u-turbo-silver-6547227.html
+DELL;XPS 13 9350 (Touch) - 13.3" Quad HD+ - Core i7 6500U - 512GB PCI Express Flash SSD - 16GB RAM - Windows 10 - Silver;Silver;0;229,000;https://www.daraz.pk/xps-13-9350-touch-13.3-quad-hd-core-i7-6500u-512gb-pci-express-flash-ssd-16gb-ram-windows-10-silver-dell-mpg43471.html
+Lenovo;Yoga 3 Pro - Core M 1.2 GHz - Silver;Silver;0;149,350;https://www.daraz.pk/yoga-3-pro-13.3-convertible-touch-core-m-1.2-ghz-8gb-ram-512gb-ssd-win.-8.1-silver-lenovo-mpg10990.html
+Lenovo;Ideapad-300 - Core i5-6200U - 4GB RAM - 500GB HDD - DOS;Silver;51,000;46,000;https://www.daraz.pk/lenovo-ideapad-300-core-i5-6200u-4gb-ram-500gb-hdd-dos-6525771.html
+Apple;MacBook Pro MF839ZA/A - 13.3" Retina Display - Core i5 2.7 GHz - 128GB SSD - 8GB RAM - Mac OSX - Silver (Brand Warranty);Silver;0;149,350;https://www.daraz.pk/apple-macbook-pro-mf839zaa-13.3-retina-display-core-i5-2.7-ghz-128gb-ssd-8gb-ram-mac-osx-silver-brand-warranty-3846474.html
+HP;Probook 450 G4 - Intel Core i5 7500U 7th GEN 2.7 GHz - Ram 8GB - 1TB Hard Drive - Silver;;0;62,400;https://www.daraz.pk/hp-probook-450-g4-intel-core-i5-7500u-7th-gen-2.7-ghz-ram-8gb-1tb-hard-drive-silver-6563423.html
+HP;Notebook - 15-ay190 - Core i5-7200U - Turbo Silver;Silver;0;52,800;https://www.daraz.pk/hp-notebook-15-ay190-core-i5-7200u-turbo-silver-6563422.html
+HP;Notebook - 15-ay191nia - Core i7-7700U - Turbo Silver;Silver;0;68,500;https://www.daraz.pk/hp-notebook-15-ay191nia-core-i7-7700u-turbo-silver-6563420.html
+Lenovo;IdeaPad 110 - 15.6" HD - 500 GB HDD - 4 GB RAM - Black;Black;0;37,000;https://www.daraz.pk/lenovo-ideapad-110-15.6-hd-500-gb-hdd-4-gb-ram-black-6563403.html
+HP;Probook 450 G4 - Intel Core i7 7500U 7th GEN 2.7 GHz - Ram 8GB - 1TB Hard Drive - Silver;;79,000;73,949;https://www.daraz.pk/probook-450-g4-intel-core-i7-7500u-7th-gen-2.7-ghz-ram-8gb-1tb-hard-drive-silver-hp-mpg58114.html
+DELL;Inspiron 15 7559 - 15.6" 4K Touch - Core i7-6700HQ - GTX 960M 4GB - Grey;;0;113,000;https://www.daraz.pk/dell-inspiron-15-7559-15.6-4k-touch-core-i7-6700hq-gtx-960m-4gb-grey-6563400.html
+Lenovo;Ideapad V310 - Core i5-6200U 2.3 GHz Notebook - Black;Black;0;46,500;https://www.daraz.pk/ideapad-v310-core-i5-6200u-2.3-ghz-notebook-black-lenovo-mpg58397.html
+Lenovo;IdeaPad 110 - Core i3-6100U 2.3 GHz - Black;;45,000;39,999;https://www.daraz.pk/ideapad-110-core-i3-6100u-2.3-ghz-black-lenovo-mpg58396.html
 DELL;Inspiron i7559 - Core i7 6700HQ - Black;Black|Red;145,000;117,000;https://www.daraz.pk/inspiron-i7559-gaming-laptop-touch-15.6-4k-core-i7-6700hq-4gb-gtx-960m-1tb-hdd-8gb-ram-win.-10-black-with-red-accents-dell-mpg44162.html
+HP;Elitebook 820 G4 - Core i5-7200U - Silver;;102,000;84,500;https://www.daraz.pk/hp-elitebook-820-g4-core-i5-7200u-silver-6559731.html
+HP;Elitebook 820 G3 - Core i5-6200U - Silver;;106,500;85,000;https://www.daraz.pk/hp-elitebook-820-g3-core-i5-6200u-silver-6559728.html
+HP;Spectre Notebook 13-v113TU - Core i5-7200U - Grey;;189,700;159,000;https://www.daraz.pk/hp-spectre-notebook-13-v113tu-core-i5-7200u-grey-6559727.html
+HP;Spectre Notebook - 13-v114TU - Core i7-7500U - Grey;Grey;223,000;188,500;https://www.daraz.pk/hp-spectre-notebook-13-v114tu-core-i7-7500u-grey-6559725.html
+HP;Spectre Notebook 13-X360 W007TU - Core i7-7500U - Dark Grey;Grey;211,500;177,500;https://www.daraz.pk/hp-spectre-notebook-13-x360-w007tu-core-i7-7500u-dark-grey-6559724.html
+HP;Envy Notebook - 15-as105TU - Core i7-7500U - Silver;Silver;129,000;120,450;https://www.daraz.pk/hp-envy-notebook-15-as105tu-core-i7-7500u-silver-6559723.html
+HP;PAVILION 13U108TU X360 - CI5 7200 2.5 GHz - Silver;Silver;102,000;86,500;https://www.daraz.pk/hp-pavilion-13u108tu-x360-ci5-7200-2.5-ghz-silver-6559721.html
+HP;Spectre Notebook  - 13-X360 W006TU - Core i5-7200U - Natural Silver;Silver;189,000;164,600;https://www.daraz.pk/hp-spectre-notebook-13-x360-w006tu-core-i5-7200u-natural-silver-6559682.html
+HP;Notebook - 15-AY102TU - Core i5 7200U - Jack Black;Black;71,000;61,300;https://www.daraz.pk/hp-notebook-15-ay102tu-core-i5-7200u-jack-black-6559678.html
+HP;Notebook - 15-AY122TX - Core i7 7500U - Jack Black;Black;88,000;81,000;https://www.daraz.pk/hp-notebook-15-ay122tx-core-i7-7500u-jack-black-6559677.html
+HP;Notebook - 15-AY120TX - Core i5 7200U - Jack Black;Black;69,500;63,500;https://www.daraz.pk/hp-notebook-15-ay120tx-core-i5-7200u-jack-black-6559674.html
+HP;Envy Notebook - 15-AS107TU - Core i7-7500U - Silver;Silver;138,000;129,000;https://www.daraz.pk/hp-envy-notebook-15-as107tu-core-i7-7500u-silver-6559594.html
+HP;Spectre 13  - Intel Core i7  6th Gen  2.5 GHz 8 GB Ram DDR 3 - 256 GB SSD - 13.3" Full HD - Windows 10 - Golden;Silver;0;150,000;https://www.daraz.pk/hp-spectre-13-intel-core-i7-6th-gen-2.5-ghz-8-gb-ram-ddr-3-256-gb-ssd-13.3-full-hd-windows-10-golden-6561707.html
+HP;15-AE100 - ENVY - 15.6" Full HD Touchscreen - 1 TB HDD - 8 GB RAM - Core i7 6500U 2.5 GHz Processor - 4GB GTX 950M GPU - Windows 10 - Silver (Supplier Warranty);Silver;0;163,000;https://www.daraz.pk/15-ae100-envy-15.6-full-hd-touchscreen-1-tb-hdd-8-gb-ram-core-i7-6500u-2.5-ghz-processor-4gb-gtx-950m-gpu-windows-10-silver-supplier-warranty-hp-mpg32176.html
+HP;Envy17-n113TX - Core i7 - 7500u - Silver;Silver;110,000;105,000;https://www.daraz.pk/hp-envy17-n113tx-core-i7-7500u-silver-6472583.html
+HP;Elitebook-folio 1040 - G2-Core i5 - 8GB - Silver;Silver;0;88,000;https://www.daraz.pk/hp-elitebook-folio-1040-g2-core-i5-8gb-silver-6458102.html
+Lenovo;IdeaPad 110 - 15.6" - Core i3 - 6100U 2.3 GHz - 4GB RAM - 500GB HDD - DOS - Black;Black;0;44,000;https://www.daraz.pk/lenovo-ideapad-110-15.6-core-i3-6100u-2.3-ghz-4gb-ram-500gb-hdd-dos-black-6554898.html
+HP;HP-ProBook 470 G3 - Core i7 - 6500U -8 GB RAM - 1TB HDD - 2GB Graphics Card - DOS;Black;90,000;68,999;https://www.daraz.pk/hp-hp-probook-470-g3-core-i7-6500u-8-gb-ram-1tb-hdd-2gb-graphics-card-dos-6538019.html
+HP;ProBook 450 G4 - Core i7-7500U - Silver ;;0;79,000;https://www.daraz.pk/hp-probook-450-g4-core-i7-7500u-silver-6554897.html
+Lenovo;Thinkpad X1 Carbon Laptop - 14" - Intel Core I7 5th Gen - 8 GB RAM - Hard Disk 256 GB SSD - Windows 8 - Black;Black;0;150,000;https://www.daraz.pk/lenovo-thinkpad-x1-carbon-laptop-14-intel-core-i7-5th-gen-8-gb-ram-hard-disk-256-gb-ssd-windows-8-black-6376929.html
+HP;Envy Notebook - 13-ab003TU Core i7-7500U - Silver;Silver;147,000;134,500;https://www.daraz.pk/hp-envy-notebook-13-ab003tu-core-i7-7500u-silver-6550609.html
+HP;Envy Notebook - 13-ab010TU Core i5-7200U - Silver;Silver;116,100;108,000;https://www.daraz.pk/hp-envy-notebook-13-ab010tu-core-i5-7200u-silver-6550595.html
+HP;Envy Notebook - 15-as104TU - Core i5-7200U - Silver;Silver;106,300;99,000;https://www.daraz.pk/hp-envy-notebook-15-as104tu-core-i5-7200u-silver-6550593.html
+HP;Elite x2 1012 G1 - Core M3-6Y30 - 12" UWVA Touch - 128GB SSD - Win.10 - Silver;Silver;94,000;49,999;https://www.daraz.pk/hp-elite-x2-1012-g1-core-m3-6y30-12-uwva-touch-128gb-ssd-win.10-silver-6489054.html
+Lenovo;Ideapad 310-15IKB - Intel Core i5-7200U - Black;Black;54,000;47,990;https://www.daraz.pk/lenovo-ideapad-310-15ikb-intel-core-i5-7200u-black-6437836.html
+Apple;MacBook MF841 RETINA 13.3" - MF841 - DC Ci5 2.9GHz turbo upto 3.3GHz, 8GB, 512GB, WebCam 720p HD, Mac OS X Yosemite;;210,000;197,000;https://www.daraz.pk/apple-macbook-mf841-retina-13.3-mf841-dc-ci5-2.9ghz-turbo-upto-3.3ghz-8gb-512gb-webcam-720p-hd-mac-os-x-yosemite-6547581.html
+Apple;MacBook Pro MLL42 13-inch: 2.0GHz dual-core Intel Core i5, 8gb, 256GB - Space Grey;;213,500;188,500;https://www.daraz.pk/apple-macbook-pro-mll42-13-inch-2.0ghz-dual-core-intel-core-i5-8gb-256gb-space-grey-6547571.html
+Apple;MacBook Pro MLH32 15-inch with Touch Bar: 2.6GHz quad-core Intel Core i7, 16gb,256GB ,2GB RP450 GRAPHICS CARD- Space Grey;;329,000;288,000;https://www.daraz.pk/apple-macbook-pro-mlh32-15-inch-with-touch-bar-2.6ghz-quad-core-intel-core-i7-16gb256gb-2gb-rp450-graphics-card-space-grey-6547561.html
+Apple;MacBook Pro MF840 RETINA 13.3" - MF840 - DC Ci5 2.7GHz turbo upto 3.1GHz, 8GB, 256GB, WebCam 720p HD, Mac OS X Yosemite;;196,000;173,500;https://www.daraz.pk/apple-macbook-pro-mf840-retina-13.3-mf840-dc-ci5-2.7ghz-turbo-upto-3.1ghz-8gb-256gb-webcam-720p-hd-mac-os-x-yosemite-6547530.html
+Apple;MacBook Pro Retina Display 12" - MK4N2 - DC 1.2Ghz M Processor turbo upto 2.6Ghz, 8GB, 512 Flash, Webcam 480p, Mac Os X Yosemite;;219,500;193,600;https://www.daraz.pk/apple-macbook-pro-retina-display-12-mk4n2-dc-1.2ghz-m-processor-turbo-upto-2.6ghz-8gb-512-flash-webcam-480p-mac-os-x-yosemite-6547519.html
+Apple;MacBook Air 13.3" - MMGG2 - DC Ci5 1.6Ghz turbo upto 2.7Ghz, 8GB, 256GB Flash, WebCam 720p HD, Mac OS X Yosemite;;161,000;142,000;https://www.daraz.pk/apple-macbook-air-13.3-mmgg2-dc-ci5-1.6ghz-turbo-upto-2.7ghz-8gb-256gb-flash-webcam-720p-hd-mac-os-x-yosemite-6547514.html
+Apple;MacBook - Pro MLH12 13-inch with Touch Bar: 2.9GHz dual-core Intel Core i5,8gb, 256GB - Space Grey;;256,000;226,000;https://www.daraz.pk/apple-macbook-pro-mlh12-13-inch-with-touch-bar-2.9ghz-dual-core-intel-core-i58gb-256gb-space-grey-6547504.html
+Apple;Macbook Air - MLHE2 12.0" 1.1GHZ/8GB/256 Flash;;167,000;145,000;https://www.daraz.pk/apple-macbook-air-mlhe2-12.0-1.1ghz8gb256-flash-6547489.html
+DELL;Inspiron 3567 - Intel Core i7-7500U - Black;Black;0;85,000;https://www.daraz.pk/dell-inspiron-3567-intel-core-i7-7500u-black-6547270.html
+DELL;Inspiron 15 5567 - Core i5-7200U - Black;Black;0;78,000;https://www.daraz.pk/dell-inspiron-15-5567-core-i5-7200u-black-6547210.html
+DELL;Inspiron 5547 - intel core i7 4th Gen - 8GB RAM - Silver;Silver;0;62,000;https://www.daraz.pk/dell-inspiron-5547-intel-core-i7-4th-gen-8gb-ram-silver-6459896.html
+Lenovo;IdeaPad 110 - 15.6" HD - 500 GB HDD - 4 GB RAM - OS Not Installed - Black;Black;31,500;30,000;https://www.daraz.pk/ideapad-100-15.6-hd-500-gb-hdd-2-gb-ram-os-not-installed-black-lenovo-mpg44544.html
+DELL;Inspiron 5567 - Core i3-7100U - Black;Black;58,000;46,999;https://www.daraz.pk/dell-inspiron-5567-core-i3-7100u-black-6482923.html
+HP;PAVILION x360 Convert 11-K118tu, M3-6Y30 - 900MHz turbo upto 2.2GHz, 4GB, 500GB , 11.6", WEBCAM , FINGERPRINT, Window 10, SILVER - TOUCH SCREEN;;79,000;56,000;https://www.daraz.pk/hp-pavilion-x360-convert-11-k118tu-m3-6y30-900mhz-turbo-upto-2.2ghz-4gb-500gb-11.6-webcam-fingerprint-window-10-silver-touch-screen-6537218.html
+DELL;Inspiron 15 5567 - 15.6" HD - Core i7-7500U - 4GB AMD R7 M445 - Fog Gray;;94,000;82,500;https://www.daraz.pk/inspiron-15-5567-15.6-hd-core-i7-7500u-4gb-amd-r7-m445-fog-gray-dell-mpg54673.html
+HP;Pavilion 15 TBTO - Intel Core i5-6200U 2.3GHz - RAM 8GB-HARD 1TB-15.6"-WINDOWS 7 PRO-BLUE;Blue;0;59,500;https://www.daraz.pk/hp-pavilion-15-tbto-intel-core-i5-6200u-2.3ghz-ram-8gb-hard-1tb-15.6-windows-7-pro-blue-6450568.html
+HP;ProBook 450 G4 - Core i5-7200U- 2GB GeForce 930MX - Silver;Silver;76,000;65,250;https://www.daraz.pk/hp-probook-450-g4-core-i5-7200u-2gb-geforce-930mx-silver-6486807.html
+HP;Envy 15 K100 - 4th Generation Intel Core i7  - 1TB SATA HDD - Ram  8GB DDR 3L - Operating System Windows 8;Silver;0;89,000;https://www.daraz.pk/hp-envy-15-k100-4th-generation-intel-core-i7-1tb-sata-hdd-ram-8gb-ddr-3l-operating-system-windows-8-6355420.html
+Lenovo;B5030 - 15.6" LED - Intel Celeron N2840 CPU - 500 GB HDD - 2 GB RAM - OS Not Installed - Black;Black;0;27,500;https://www.daraz.pk/b5030-15.6-led-intel-celeron-n2840-cpu-500-gb-hdd-2-gb-ram-os-not-installed-black-lenovo-mpg4163.html
+HP;ProBook 430 G2 - Core i5 5th Generation - Black;Black;55,500;54,500;https://www.daraz.pk/hp-probook-430-g2-core-i5-5th-generation-black-6519972.html
+DELL;Inspiron 15 7559 - 15.6" 4K Touch - Core i7-6700HQ - GTX 960M 4GB - Grey;Black|Red;135,000;118,425;https://www.daraz.pk/dell-inspiron-15-7559-15.6-4k-touch-core-i7-6700hq-gtx-960m-4gb-grey-6505956.html
+Lenovo;Intel Core i5 6200U - B51-80 15.6" HD LED - 4GB DDR3 - 500GB HDD - Black;Black;59,000;46,999;https://www.daraz.pk/lenovo-intel-core-i5-6200u-b51-80-15.6-hd-led-4gb-ddr3-500gb-hdd-black-6513123.html
+HP;15-ay120ne - Core i7-7500U - AMD R7 M440 - Turbo Silver;Silver;0;72,000;https://www.daraz.pk/hp-15-ay120ne-core-i7-7500u-amd-r7-m440-turbo-silver-6505240.html
+Lenovo;Y50-70 Laptop - 4th Generation Intel Core i7-4720HQ - Black;Black;0;115,000;https://www.daraz.pk/lenovo-y50-70-laptop-4th-generation-intel-core-i7-4720hq-black-6503641.html
+HP;Pavilion 15-ay120tx - Intel® Core™ i5-7100U - Jack Black;Black;0;63,000;https://www.daraz.pk/hp-pavilion-15-ay120tx-intelr-coretm-i5-7100u-jack-black-6468306.html
+Lenovo;Y40 70 - Intel Core i7 4th Gen - 14'' - Windows 8 - Black;;0;100,000;https://www.daraz.pk/lenovo-y40-70-intel-core-i7-4th-gen-14-windows-8-black-6479470.html
+HP;Spectre 13 X360 - Intel Core i7 5th Gen - 13.3" - Ram 8GB - Hard 256GB -Back Lit Keyboard - Operating System Windows 10;Silver;0;115,000;https://www.daraz.pk/hp-spectre-13-x360-intel-core-i7-5th-gen-13.3-ram-8gb-hard-256gb-back-lit-keyboard-operating-system-windows-10-6438742.html
+HP;Pavilion 15-AB 243 - Screen Size 15.6" Touch - Intel Core I5 6th Gen - 8 GB RAM DDR 3 - 1 TB HDD SATA -  Windows 10 - Silver;;0;70,000;https://www.daraz.pk/hp-pavilion-15-ab-243-screen-size-15.6-touch-intel-core-i5-6th-gen-8-gb-ram-ddr-3-1-tb-hdd-sata-windows-10-silver-6393149.html
+Lenovo;YOGA 900 Convertible - Intel Core I7 6560U 2.5Ghz-13.3"QHD-(3200x1800) Ram 16GB-Hard 512GB-Win 10-Touch- Silver;Silver;0;155,000;https://www.daraz.pk/lenovo-yoga-900-convertible-intel-core-i7-6560u-2.5ghz-13.3qhd-3200x1800-ram-16gb-hard-512gb-win-10-touch-silver-6392780.html
+HP;Spectre 13 X 360 - Intel Core i7 5th Gen - Ram 8 GB DDR 3 - Hard Disk 256 GB - Screen Size 13.3" - Back Lit Keyboard - Silver;Black|Silver;0;115,000;https://www.daraz.pk/hp-spectre-13-x-360-intel-core-i7-5th-gen-ram-8-gb-ddr-3-hard-disk-256-gb-screen-size-13.3-back-lit-keyboard-silver-6383124.html
+Lenovo;Y 50 70 - Intel Core i7 4720 HQ 2.6 GHz - Hard Disk 1TB + 8 GB SSD - 16 GB RAM DDR 3 - Screen Size: 15.6" FHD (1920 x 1080) IPS Display - Graphics Card NVIDIA GTX 860 M 4 GB - Operating System Windows 8 - Black;Black;0;148,000;https://www.daraz.pk/lenovo-y-50-70-intel-core-i7-4720-hq-2.6-ghz-hard-disk-1tb-8-gb-ssd-16-gb-ram-ddr-3-screen-size-15.6-fhd-1920-x-1080-ips-display-graphics-card-nvidia-gtx-860-m-4-gb-operating-system-windows-8-black-6333273.html
+HP;Pavilion AK020 - Intel Core i7 6th Gen - 8 GB RAM  - Hard Disk 1000 GB-  Nvidia 4GB GC-15.6"FHD - Operating System Windows 10 - Silver;Silver;0;130,000;https://www.daraz.pk/hp-pavilion-ak020-intel-core-i7-6th-gen-8-gb-ram-hard-disk-1000-gb-nvidia-4gb-gc-15.6fhd-operating-system-windows-10-silver-6329359.html
+DELL;Latitude E 3470 - Intel Core i5 6th Gen 6200U HD - Black;Black;0;75,000;https://www.daraz.pk/dell-latitude-e-3470-intel-core-i5-6th-gen-6200u-hd-black-6486901.html
+HP;Pavilion 15-P006TU - Intel Core i5 - Silver;Silver;75,000;64,700;https://www.daraz.pk/hp-pavilion-15-p006tu-intel-core-i5-silver-6445683.html
+HP;Envy 15 T as000 - Core i7 6500U 2.5GHz- 8 GB Ram- Hard Disk 512GB SSD-15.6" - Touch;Silver;0;145,000;https://www.daraz.pk/hp-envy-15-t-as000-core-i7-6500u-2.5ghz-8-gb-ram-hard-disk-512gb-ssd-15.6-touch-6315930.html
 HP;ProBook 450 G3 - 15.6" HD - Core i5 6200U 2.3 GHz - 1TB HDD - 4GB RAM - FPR - No OS Installed - Black;Black;0;71,111;https://www.daraz.pk/probook-450-g3-15.6-hd-core-i5-6200u-2.3-ghz-1tb-hdd-4gb-ram-fpr-no-os-installed-black-brand-warranty-hp-mpg35503.html
-HP;EliteBook 850 G3 - Intel Core i5-6200U - Silver;Silver;102,000;79,999;https://www.daraz.pk/hp-elitebook-850-g3-intel-core-i5-6200u-silver-6445717.html
-HP;Envy TouchSmart 14-K029TX - Intel Core i7-4500U - Silver;Silver;0;170,000;https://www.daraz.pk/hp-envy-touchsmart-14-k029tx-intel-core-i7-4500u-silver-6445704.html
-HP;Pavilion 15-P006TU - Intel Core i5 - Silver;Silver;75,000;59,000;https://www.daraz.pk/hp-pavilion-15-p006tu-intel-core-i5-silver-6445683.html
-HP;Elitebook - 820 G3- 8GB RAM-256GB SSD-Win 10 - Touch Screen-Fingerprint;Silver;0;80,000;https://www.daraz.pk/hp-elitebook-820-g3-8gb-ram-256gb-ssd-win-10-touch-screen-fingerprint-6440857.html
-HP;Spectre 13 X360 - Intel Core i7 5th Gen - 13.3" - Ram 8GB - Hard 256GB -Back Lit Keyboard - Operating System Windows 10;Silver;115,000;105,000;https://www.daraz.pk/hp-spectre-13-x360-intel-core-i7-5th-gen-13.3-ram-8gb-hard-256gb-back-lit-keyboard-operating-system-windows-10-6438742.html
-DELL;Latitude E 7470 -Ultrabook- Intel Core i5 6th Gen 6300U-14.1" QHD (2560x1440) Ram 8GB, Hard 256GB,Win10 Pro , Touch  Backlit - Black;Black;150,000;115,000;https://www.daraz.pk/dell-latitude-e-7470-ultrabook-intel-core-i5-6th-gen-6300u-14.1-qhd-2560x1440-ram-8gb-hard-256gbwin10-pro-touch-backlit-black-6410721.html
-HP;Probook 450 G4 - Intel Core i7 7500U 7th GEN 2.7 GHz - Ram 8GB - 1TB Hard Drive - Silver;Silver;95,000;81,900;https://www.daraz.pk/hp-probook-450-g4-intel-core-i7-7500u-7th-gen-2.7-ghz-ram-8gb-1tb-hard-drive-silver-6409279.html
-DELL;Inspiron 5559 - Intel Core i7 6th Gen  - 8 GB RAM -1 TB HDD  - SCREEN SIZE 15.6" TOUCH - WINDOWS 10 - Silver;Silver;79,000;72,000;https://www.daraz.pk/dell-inspiron-5559-intel-core-i7-6th-gen-8-gb-ram-1-tb-hdd-screen-size-15.6-touch-windows-10-silver-6408154.html
-HP;15-r009TU - 15.6" HD - Intel Celeron N2815 1.86 GHz - 500GB HDD - 2GB RAM - No OS Installed - Black ;Silver;0;39,000;https://www.daraz.pk/15-r009tu-15.6-hd-intel-celeron-n2815-1.86-ghz-500gb-hdd-2gb-ram-no-os-installed-black-brand-warranty-hp-mpg35359.html
-HP;15-ac122nx - 15.6" HD - Core i5 6200U - 500GB HDD - 4GB RAM - No OS Installed - Turbo Silver;Silver;0;57,000;https://www.daraz.pk/15-ac122nx-15.6-hd-core-i5-6200u-500gb-hdd-4gb-ram-no-os-installed-turbo-silver-hp-mpg43566.html
-HP;ProBook 450 G3 - Core i7 6500U - Black;Black;0;82,000;https://www.daraz.pk/probook-450-g3-15.6-hd-core-i7-6500u-2.5-ghz-1tb-hdd-8-gb-ram-fpr-no-os-installed-black-brand-warranty-hp-mpg35505.html
-HP;ENVY 13-d019tu - Core i7 6500U - Natural Silver;Silver;0;148,000;https://www.daraz.pk/envy-13-d019tu-13.3-qhd-touchscreen-core-i7-6500u-2.5-ghz-256gb-m.2-ssd-8gb-ram-windows-10-natural-silver-brand-warranty-hp-mpg36971.html
-DELL;Inspiron 5559 - Core i5 6th Gen - Silver;Silver;0;58,500;https://www.daraz.pk/dell-inspiron-5559-core-i5-6th-gen-silver-6402079.html
-HP;Pro Book 450 - Core i7 - 8GB RAM - 1TB HDD - 2GB AMD Radeon Graphics - DOS - Black;Black;82,000;79,000;https://www.daraz.pk/hp-pro-book-450-core-i7-8gb-ram-1tb-hdd-2gb-amd-radeon-graphics-dos-black-6402061.html
-DELL;Latitude E 3570 -  Intel Core i5 6th Gen-6200U 2.3GHz - 8GB RAM- 500Gb HDD -15.6" HD - WINDOS 10 PRO- Black;Black;75,000;68,000;https://www.daraz.pk/dell-latitude-e-3570-intel-core-i5-6th-gen-6200u-2.3ghz-8gb-ram-500gb-hdd-15.6-hd-windos-10-pro-black-6396080.html
-DELL;Inspiron 15 5559 - Core i5-6200U 6th Gen 2.3 GHz - Ram 8GB - Hard 1TB- 15.6" -FHD- Windows 10-Touch -  Silver;Black;65,000;58,500;https://www.daraz.pk/dell-inspiron-15-5559-core-i5-6200u-6th-gen-2.3-ghz-ram-8gb-hard-1tb-15.6-fhd-windows-10-touch-silver-6393660.html
-DELL;Inspiron 7559 - Intel Core i7 6700 HQ -Ram  16gb-Hard 1TB- 4GB Garaphic Card-15.6"- FHD-Windows 10 - Black;Black;125,000;115,000;https://www.daraz.pk/dell-inspiron-7559-intel-core-i7-6700-hq-ram-16gb-hard-1tb-4gb-garaphic-card-15.6-fhd-windows-10-black-6393652.html
-HP;Pavilion 15-AB 243 - Screen Size 15.6" Touch - Intel Core I5 6th Gen - 8 GB RAM DDR 3 - 1 TB HDD SATA -  Windows 10 - Silver;Black;70,000;59,500;https://www.daraz.pk/hp-pavilion-15-ab-243-screen-size-15.6-touch-intel-core-i5-6th-gen-8-gb-ram-ddr-3-1-tb-hdd-sata-windows-10-silver-6393149.html
-HP;AC 197 - Intel Core i5 5th Gen 5200U - 2.2GHz- 4 GB Ram - 1TB  HDD - Screen 15.6"- Windows 10 - Silver;Silver;55,000;50,900;https://www.daraz.pk/hp-ac-197-intel-core-i5-5th-gen-5200u-2.2ghz-4-gb-ram-1tb-hdd-screen-15.6-windows-10-silver-6393137.html
-Lenovo;Ideapad V310 - Core i5-6200U 2.3 GHz Notebook - Black;Silver;49,500;46,900;https://www.daraz.pk/lenovo-ideapad-v310-core-i5-6200u-2.3-ghz-notebook-black-6391807.html
-DELL;Inspiron 13-7359 (Touch) - Core i7-6500U 2.5 GHz - 13.3" Full HD - Silver;Silver;85,000;78,999;https://www.daraz.pk/dell-inspiron-13-7359-touch-core-i7-6500u-2.5-ghz-13.3-full-hd-silver-6391799.html
-DELL;Inspiron 7559 - Intel Core i7 6th Gen QHD- 16 GB RAM - 1 TB HDD +8 GB SSD - 4 GB GC -Windows 10-Black-Touch;Black;148,000;124,000;https://www.daraz.pk/dell-inspiron-7559-intel-core-i7-6th-gen-qhd-16-gb-ram-1-tb-hdd-8-gb-ssd-4-gb-gc-windows-10-black-touch-6384475.html
-DELL;XPS 13 9350 Touch - 13.3" QHD - Core i7 6500U - 512GB NVMe SSD - 16 GB Ram - Windows 10 - Silver;Silver;0;225,000;https://www.daraz.pk/dell-xps-13-9350-touch-13.3-qhd-core-i7-6500u-512gb-nvme-ssd-16-gb-ram-windows-10-silver-6375980.html
-DELL;Inspiron 7548 - Intel Core i5 5200u - Silver;Silver;87,000;73,500;https://www.daraz.pk/dell-inspiron-7548-intel-core-i5-5200u-silver-6372809.html
-Lenovo;Lavie Z 360 - Intel Core i7 5th Generation 2.4GHz - Black;Black;175,000;125,099;https://www.daraz.pk/lenovo-lavie-z-360-intel-core-i7-5th-generation-2.4ghz-black-6359978.html
-HP;15-ay009ne - Core i5-6200U - Turbo Silver;Silver;58,000;49,500;https://www.daraz.pk/hp-15-ay009ne-core-i5-6200u-turbo-silver-6353754.html
-Lenovo;Y 50 70 - Intel Core i7 4720 HQ 2.6 GHz - Hard Disk 1TB + 8 GB SSD - 16 GB RAM DDR 3 - Screen Size: 15.6" FHD (1920 x 1080) IPS Display - Graphics Card NVIDIA GTX 860 M 4 GB - Operating System Windows 8 - Black;Black;148,000;115,000;https://www.daraz.pk/lenovo-y-50-70-intel-core-i7-4720-hq-2.6-ghz-hard-disk-1tb-8-gb-ssd-16-gb-ram-ddr-3-screen-size-15.6-fhd-1920-x-1080-ips-display-graphics-card-nvidia-gtx-860-m-4-gb-operating-system-windows-8-black-6333273.html
-HP;Pavilion AK020 - Intel Core i7 6th Gen - 8 GB RAM  - Hard Disk 1000 GB-  Nvidia 4GB GC-15.6"FHD - Operating System Windows 10 - Silver;Silver;130,000;118,500;https://www.daraz.pk/hp-pavilion-ak020-intel-core-i7-6th-gen-8-gb-ram-hard-disk-1000-gb-nvidia-4gb-gc-15.6fhd-operating-system-windows-10-silver-6329359.html
-HP;Envy 15 T as000 - Core i7 6500U 2.5GHz- 8 GB Ram- Hard Disk 512GB SSD-15.6" - Touch;Silver;145,000;119,000;https://www.daraz.pk/hp-envy-15-t-as000-core-i7-6500u-2.5ghz-8-gb-ram-hard-disk-512gb-ssd-15.6-touch-6315930.html
-HP;HP Probook - Core i5 6200U - Black;Black;0;77,200;https://www.daraz.pk/hp-hp-probook-core-i5-6200u-black-5848482.html
-HP;Probook 450g3 - I7 6500u - Finger Print - Backlit K/B - Webcam - Dos - Black;Black;97,400;91,783;https://www.daraz.pk/hp-probook-450g3-i7-6500u-finger-print-backlit-kb-webcam-dos-black-5847583.html
-HP;Probook 450g3 - I7 6500u - Finger Print - Webcam - Dos;Black;0;88,900;https://www.daraz.pk/hp-probook-450g3-i7-6500u-finger-print-webcam-dos-5847554.html
-HP;Probook 450g3 Laptop - Intel Core i5 - Win 8.1 Pro - Black;Black;0;91,800;https://www.daraz.pk/hp-probook-450g3-laptop-intel-core-i5-win-8.1-pro-black-5847302.html
-HP;ProBook 430 G3 - 13.3" HD - Core i7 6500U 2.5 GHz - 1TB HDD - 8GB RAM - FPR - No OS - Silver;Black;0;92,499;https://www.daraz.pk/probook-430-g3-13.3-hd-core-i7-6500u-2.5-ghz-1tb-hdd-8-gb-ram-fpr-no-os-silver-hp-mpg44595.html
-Lenovo;Yoga Pro 3 - 13.3 inches - Intel Core M 1.2 GHz - 256 GB SSD  - 8 GB Ram - Windows 10;Black;0;98,200;https://www.daraz.pk/lenovo-yoga-pro-3-13.3-inches-intel-core-m-1.2-ghz-256-gb-ssd-8-gb-ram-windows-10-5705534.html
-HP;ProBook 450 G3 - 15.6" HD - Core i7 6500U 2.5 GHz - 2GB AMD Radeon R7 M340 - 8GB RAM - 1TB HDD - Black;Black;0;97,499;https://www.daraz.pk/probook-450-g3-15.6-hd-core-i7-6500u-2.5-ghz-2gb-amd-radeon-r7-m340-8gb-ram-1tb-hdd-black-hp-mpg34492.html
+HP;Pavilion 15-ab204tu - 15.6" HD - Core i5 6200U 2.3 GHz - 1TB HDD - 4GB RAM - No OS Installed - Natural Silver;Silver;87,000;60,244;https://www.daraz.pk/pavilion-15-ab204tu-15.6-hd-core-i5-6200u-2.3-ghz-1tb-hdd-4gb-ram-no-os-installed-natural-silver-brand-warranty-hp-mpg34484.html

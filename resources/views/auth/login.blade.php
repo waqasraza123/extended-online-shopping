@@ -49,6 +49,21 @@
                         </div>
                     </div>
                 </form>
+
+                {{--select shop form--}}
+                <form novalidate="novalidate" class="form-horizontal wq-hide animated bounceIn" id="select_shop_form" role="form" method="POST" action="{{ url('/login') }}">
+                    {{ csrf_field() }}
+                    <div class="msg">Select Shop</div>
+                    <div class="input-group">
+                        <span class="input-group-addon">
+                            <i class="material-icons">shop</i>
+                        </span>
+                        <div class="form-line">
+                            <select name="shop_id" class="form-control" id="shop_id_selector"></select>
+                        </div>
+                    </div>
+                </form>
+
             </div>
         </div>
     </div>

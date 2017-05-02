@@ -170,3 +170,152 @@ Alcatel;Alcatel Pop Star 3G Dual Sim With Official Warranty;;;10,329;http://www.
 Alcatel;Alcatel Pop Star 4G Dual Sim With Official Warranty;;;12,269;http://www.telemart.pk/alcatel-pop-star-4g-dual-sim-in-pakistan.html
 Alcatel;Alcatel Pop Up 4G Dual Sim With Official Warranty;;;14,399;http://www.telemart.pk/alcatel-pop-up-in-pakistan.html
 Alcatel;Alcatel X1 4G Dual Sim With Official Warranty;;;17,999;http://www.telemart.pk/alcatel-x1-in-pakistan.html
+Apple;Apple iPhone 6 16GB Black Gold Edition;;89,999;59,999;http://www.telemart.pk/apple-iphone-6-16gb-black-gold-in-pakistan.html
+Apple;Apple iPhone 7 128GB;;88,999;79,999;http://www.telemart.pk/apple-iphone-7-128-gb-in-pakistan.html
+Apple;Apple iPhone 7 256GB;;94,999;83,999;http://www.telemart.pk/apple-iphone-7-256-gb-in-pakistan.html
+Apple;Apple iPhone 7 32GB;;78,999;69,999;http://www.telemart.pk/apple-iphone-7-32gb-in-pakistan.html
+Apple;Apple iPhone 7 Plus 128GB;;110,499;89,499;http://www.telemart.pk/apple-iphone-7-plus-128-gb-in-pakistan.html
+Apple;Apple iPhone 7 Plus 256GB;;118,999;96,499;http://www.telemart.pk/apple-iphone-7-plus-256-gb-in-pakistan.html
+Apple;Apple iPhone 7 plus 32GB;;99,999;80,499;http://www.telemart.pk/apple-iphone-7-plus-32-gb-in-pakistan.html
+Nokia;Nokia 105 Dual SIM With Warranty;;;2,599;http://www.telemart.pk/nokia-105-dual-sim-in-pakistan.html
+Nokia;Nokia 105 Single SIM With Warranty;;;2,589;http://www.telemart.pk/nokia-105-single-sim-in-pakistan.html
+Nokia;Nokia 130 Dual SIM With Warranty;;;3,149;http://www.telemart.pk/nokia-130-in-pakistan-29213.html
+Nokia;Nokia 150 Dual SIM With Warranty;;;3,599;http://www.telemart.pk/nokia-150-in-pakistan.html
+Nokia;Nokia 216 Dual SIM With Warranty;;;4,149;http://www.telemart.pk/nokia-216-in-pakistan.html
+Nokia;Nokia 230 Dual SIM With Warranty;;;5,899;http://www.telemart.pk/nokia-230-dual-sim-in-pakistan.html
+Nokia;Nokia 6 (4G, 4GB, 64GB);;;39,499;http://www.telemart.pk/nokia-6-in-pakistan.html
+Samsung;Samsung Galaxy A3 2016 4G Dual Sim;;;21,299;http://www.telemart.pk/samsung-galaxy-a3-in-pakistan-27381.html
+Samsung;Samsung Galaxy A320 (2GB,16GB) 2017;;;26,749;http://www.telemart.pk/samsung-galaxy-a320-in-pakistan.html
+Samsung;Samsung Galaxy A320F 2017 4G Dual Sim Witth Official Warranty;;;31,009;http://www.telemart.pk/samsung-galaxy-a320f-2017-in-pakistan.html
+Samsung;Samsung Galaxy A5 (2016) 4G Dual Sim ;;;30,199;http://www.telemart.pk/samsung-galaxy-a5-new-4g-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy A510 4G Dual Sim;;;28,799;http://www.telemart.pk/samsung-galaxy-a510-4g-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy A520F 2017 4G Dual Sim;;;33,999;http://www.telemart.pk/samsung-galaxy-a520f-in-pakistan.html
+Samsung;Samsung Galaxy A520F 2017 4G Dual Sim With Official Warranty;;;36,799;http://www.telemart.pk/samsung-galaxy-a520f-2017-in-pakistan.html
+Samsung;Samsung Galaxy A7 2016 4G Dual Sim ;;;35,299;http://www.telemart.pk/samsung-galaxy-a7-new-4g-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy A720F 2017 4G Dual Sim;;;39,499;http://www.telemart.pk/samsung-galaxy-a720f-in-pakistan.html
+Samsung;Samsung Galaxy A720F 2017 4G Dual Sim With Official Warranty;;;46,499;http://www.telemart.pk/samsung-galaxy-a720f-2017-in-pakistan.html
+Samsung;Samsung Galaxy A810 2016 4G Dual Sim;;;37,999;http://www.telemart.pk/samsung-galaxy-a810-in-pakistan.html
+Samsung;Samsung Galaxy A9 Pro 4G 32GB Dual Sim;;;42,499;http://www.telemart.pk/samsung-galaxy-a9-pro-4g-32gb-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy C5 32GB - English Version  ;;35,499;27,299;http://www.telemart.pk/samsung-galaxy-c5-in-pakistan.html
+Samsung;Samsung Galaxy C7 4G 64GB Dual Sim;;;33,999;http://www.telemart.pk/samsung-galaxy-c7-in-pakistan.html
+Samsung;Samsung Galaxy C7 Pro (4G, 64GB) English;;;36,499;http://www.telemart.pk/samsung-galaxy-c7-pro-english-in-pakistan.html
+Samsung;Samsung Galaxy C9 Pro 4G 64GB;;;46,499;http://www.telemart.pk/samsung-galaxy-c9-pro-in-pakistan.html
+Samsung;Samsung Galaxy Grand Prime 3G Dual SIM;;;13,399;http://www.telemart.pk/samsung-grand-prime-in-pakistan.html
+Samsung;Samsung Galaxy Grand Prime Plus 4G Dual Sim;;;12,799;http://www.telemart.pk/samsung-galaxy-grand-prime-plus-4g-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy Grand Prime Plus 4G Dual Sim With Official Warranty;;;15,019;http://www.telemart.pk/samsung-galaxy-grand-prime-plus-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy J1 Ace SM-J110H 3G 4GB Dual Sim;;;10,549;http://www.telemart.pk/samsung-galaxy-j1-ace-sm-j110h-3g-4gb-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy J1 Ace SM-J110H 3G 4GB Dual Sim With Official Warranty;;;11,149;http://www.telemart.pk/samsung-galaxy-j1-ace-sm-j110h-in-pakistan.html
+Samsung;Samsung Galaxy J1 Mini 3G Dual SiM 2016;;;9,939;http://www.telemart.pk/samsung-galaxy-j1-mini-in-pakistan.html
+Samsung;Samsung Galaxy J1 Mini Prime 3G Dual Sim;;;8,199;http://www.telemart.pk/samsung-galaxy-j1-mini-prime-in-pakistan.html
+Samsung;Samsung Galaxy J1 Mini Prime 3G Dual Sim With Official Warranty;;;9,499;http://www.telemart.pk/samsung-j1-mini-prime-3g-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy J1 Mini Prime 4G Dual Sim;;;9,999;http://www.telemart.pk/samsung-galaxy-j1-mini-prime-4g-in-pakistan.html
+Samsung;Samsung Galaxy J120F 2016 4G Dual Sim;;;11,299;http://www.telemart.pk/samsung-galaxy-j120f-4g-in-pakistan.html
+Samsung;Samsung Galaxy J2 3G With Official Warranty;;;14,349;http://www.telemart.pk/samsung-galaxy-j2-in-pakistan-10756.html
+Samsung;Samsung Galaxy J2 Prime 4G 8GB;;;12,599;http://www.telemart.pk/samsung-galaxy-j2-prime-in-pakistan.html
+Samsung;Samsung Galaxy J200H 3G Dual Sim;;;12,049;http://www.telemart.pk/samsung-galaxy-j200h-in-pakistan.html
+Samsung;Samsung Galaxy J3 3G 8GB;;;13,299;http://www.telemart.pk/samsung-galaxy-j3-3g-in-pakistan.html
+Samsung;Samsung Galaxy J3 J320F 2016 4G With Official Warranty;;;17,429;http://www.telemart.pk/samsung-galaxy-j3-j320f-in-pakistan.html
+Samsung;Samsung Galaxy J3 Pro Dual Sim;;13,499;12,699;http://www.telemart.pk/samsung-galaxy-j3-pro-in-pakistan.html
+Samsung;Samsung Galaxy J320F 2016 4G;;;14,299;http://www.telemart.pk/samsung-galaxy-j320f-in-pakistan.html
+Samsung;Samsung Galaxy j5 (2016) 4G 16GB Dual Sim;;;17,999;http://www.telemart.pk/samsung-galaxy-j5-2016-4g-16gb-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy j5 2016 4G;;;21,499;http://www.telemart.pk/samsung-galaxy-j5-2016-in-pakistan.html
+Samsung;Samsung Galaxy j5 2016 4G With Official Warranty;;;20,829;http://www.telemart.pk/samsung-galaxy-j5-2016-4g-in-pakistan.html
+Samsung;Samsung Galaxy J5 3G 8GB Dual SIM;;;16,299;http://www.telemart.pk/samsung-galaxy-j5-3g-in-pakistan.html
+Samsung;Samsung Galaxy J5 4G 8GB Dual SIM;;;18,699;http://www.telemart.pk/samsung-galaxy-j5-4g-in-pakistan.html
+Samsung;Samsung Galaxy J5 Prime 4G Dual Sim;;;18,399;http://www.telemart.pk/samsung-galaxy-j5-prime-4g-in-pakistan.html
+Samsung;Samsung Galaxy J5 Prime 4G Dual Sim With Warranty;;;23,249;http://www.telemart.pk/samsung-galaxy-j5-prime-in-pakistan.html
+Samsung;Samsung Galaxy J7 2016 4G With Official Warranty;;;25,189;http://www.telemart.pk/samsung-galaxy-j7-2016-in-pakistan.html
+Samsung;Samsung Galaxy J7 J700H 16GB 3G With Official Warranty;;;26,179;http://www.telemart.pk/samsung-galaxy-j7-j700h-in-pakistan.html
+Samsung;Samsung Galaxy J7 Prime 4G 16GB Dual Sim;;;24,499;http://www.telemart.pk/samsung-galaxy-j7-prime-4g-in-pakistan.html
+Samsung;Samsung Galaxy J7 Prime 4G 32GB Dual Sim;;;25,199;http://www.telemart.pk/samsung-galaxy-j7-prime-in-pakistan.html
+Samsung;Samsung Galaxy J7 Prime 4G Dual Sim With Warranty;;;27,129;http://www.telemart.pk/samsung-galaxy-j7-prime-4g-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy j710F 2016 4G Dual Sim;;;21,799;http://www.telemart.pk/samsung-galaxy-j710f-in-pakistan.html
+Samsung;Samsung Galaxy On5 2016 4G 16GB ;;;14,999;http://www.telemart.pk/samsung-galaxy-on5-2016-in-pakistan.html
+Samsung;Samsung Galaxy S6 Edge 32GB;;;44,499;http://www.telemart.pk/samsung-galaxy-s6-edge-32gb-in-pakistan.html
+Samsung;Samsung Galaxy S7 Edge 32GB 4G Dual Sim;;;54,299;http://www.telemart.pk/samsung-galaxy-s7-edge-32gb-4g-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy S7 Edge 4G 128GB Dual Sim Pearl Black;;;66,999;http://www.telemart.pk/samsung-galaxy-s7-edge-4g-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy S7 Edge 4G 128GB Dual Sim Pearl Black With Official Warranty;;;74,599;http://www.telemart.pk/samsung-galaxy-s7-edge-4g-pearl-black-in-pakistan.html
+Samsung;Samsung Galaxy S7 Edge 4G 32GB Dual Sim;;;55,299;http://www.telemart.pk/samsung-galaxy-s7-edge-in-pakistan-28675.html
+Samsung;Samsung Galaxy S7 Edge 4G 32GB Dual Sim + Gear 360 SM-C200;;79,999;77,999;http://www.telemart.pk/samsung-s7-edge-gear-360-in-pakistan.html
+Samsung;Samsung Galaxy S7 Edge 4G 32GB Dual Sim With Official Warranty;;;62,549;http://www.telemart.pk/samsung-galaxy-s7-edge-dual-sim-in-pakistan.html
+Samsung;Samsung Galaxy S8 (64GB, 4GB) With Warranty + FREE Flexiroam X Microchip (Free Roaming Internet & Calls In Over 100 Countries);;;87,000;http://www.telemart.pk/samsung-galaxy-s8-in-pakistan.html
+Samsung;Samsung Galaxy S8 Plus (64GB, 4GB) With Warranty + FREE Flexiroam X Microchip (Free Roaming Internet & Calls In Over 100 Countries);;;97,000;http://www.telemart.pk/samsung-galaxy-s8-plus-in-pakistan.html
+Sony;Sony Xperia XA 4G 16GB Black;;21,999;18,499;http://www.telemart.pk/sony-xperia-xa-in-pakistan.html
+Sony;Sony Xperia Z5 Premium 32GB 4G Dual Sim;;;44,699;http://www.telemart.pk/sony-xperia-z5-premium-4g-black-in-pakistan.html
+Blackberry;Blackberry DTEK 50 (4G, 3GB Ram) - Black;;29,999;25,899;http://www.telemart.pk/blackberry-dtek-50-in-pakistan.html
+BlackBerry;BlackBerry Passport 4G 32GB;;29,699;24,899;http://www.telemart.pk/blackberry-passport-in-pakistan.html
+Blackberry;Blackberry Porsche Design P9983 4G 64GB;;74,499;68,999;http://www.telemart.pk/blackberry-porsche-design-in-pakistan.html
+BlackBerry;BlackBerry Priv 32GB 4G Black;;43,499;32,399;http://www.telemart.pk/blackberry-priv-in-pakistan.html
+Huawei;Huawei Ascend Y511 3G with Official Warranty;;;11,789;http://www.telemart.pk/huawei-ascend-y511-in-pakistan.html
+Huawei;Huawei GR3 4G With Official Warranty;;;14,019;http://www.telemart.pk/huawei-gr3-in-pakistan.html
+Huawei;Huawei Honor 5X 4G Dual Sim With Official Warranty;;;15,459;http://www.telemart.pk/huawei-honor-5x-in-pakistan.html
+Huawei;Huawei Honor 6x 4G 32GB Dual Sim With Official Warranty;;;25,175;http://www.telemart.pk/huawei-honor-6x-in-pakistan.html
+Huawei;Huawei Honor 8 4G LTE With Official Warranty;;;38,739;http://www.telemart.pk/huawei-honor-8-in-pakistan.html
+Huawei;Huawei Honor 8 Lite (3GB,16GB) With Warranty ;;23,999;22,499;http://www.telemart.pk/huawei-honor-8-lite-in-pakistan.html
+Huawei;Huawei Mate 8 4G 32GB Dual Sim With Official Warranty;;;52,899;http://www.telemart.pk/huawei-mate-8-in-pakistan.html
+Huawei;Huawei Mate 8 4G 64GB Dual Sim Champagne Gold With Official Warranty;;;61,719;http://www.telemart.pk/huawei-mate-8-4g-in-pakistan.html
+Huawei;Huawei Mate 9 4G 64GB Dual Sim With Official Warranty;;;59,549;http://www.telemart.pk/huawei-mate-9-4g-in-pakistan.html
+Huawei;Huawei Mate 9 4G 6GB Ram 256GB Rom Porsche Design;;194,999;164,999;http://www.telemart.pk/huawei-mate-9-porsche-design-in-pakistan.html
+Huawei;Huawei Nexus 6P 4G 64GB With Official Warranty;;;66,679;http://www.telemart.pk/huawei-nexus-6p-in-pakistan.html
+Huawei;Huawei Nova Plus 4G LTE 32GB With Official Warranty ;;;29,039;http://www.telemart.pk/huawei-nova-plus-in-pakistan.html
+Huawei;Huawei P10 (4GB, 64GB) With Warranty ;;;55,499;http://www.telemart.pk/huawei-p10-in-pakistan.html
+Huawei;Huawei P8 16GB White With Official Warranty;;;43,999;http://www.telemart.pk/huawei-p8-in-pakistan.html
+Huawei;Huawei P8 64GB Gold With Official Warranty;;;47,759;http://www.telemart.pk/huawei-p8-gold-in-pakistan.html
+Huawei;Huawei P8 Lite 4G With Official Warranty;;;17,429;http://www.telemart.pk/huawei-p8-lite-in-pakistan.html
+Huawei;Huawei P9 4G 32GB Gray With Official Warranty;;;51,919;http://www.telemart.pk/huawei-p9-in-pakistan.html
+Huawei;Huawei P9 Lite 4G With Official Warranty;;;20,139;http://www.telemart.pk/huawei-p9-lite-in-pakiatan.html
+Huawei;Huawei P9 Plus 4G 64GB Dual Sim With Official Warranty;;;63,639;http://www.telemart.pk/huawei-p9-plus-in-pakistan-27842.html
+Huawei;Huawei Y3II 4G Dual Sim With Official Warranty;;;9,009;http://www.telemart.pk/huawei-y3ii-4g-in-pakistan.html
+Huawei;Huawei Y5II 3G With Official Warranty;;;10,339;http://www.telemart.pk/huawei-y5ii-3g-in-pakistan.html
+Huawei;Huawei Y5II 4G LTE With Official Warranty;;;14,699;http://www.telemart.pk/huawei-y5ii-4g-in-pakistan.html
+Huawei;Huawei Y6 4G LTE Dual Sim With Official Warranty;;;17,529;http://www.telemart.pk/huawei-y6-4g-in-pakistan.html
+Huawei;Huawei Y6 Pro 3G With Official Warranty;;;13,549;http://www.telemart.pk/huawei-y6-pro-3g-with-official-warranty-in-pakistan.html
+Huawei;Huawei Y6 Pro 4G With Official Warranty;;;15,489;http://www.telemart.pk/huawei-y6-pro-in-pakistan.html
+Huawei;Huawei Y625 3G Dual Sim With Official Warranty ;;;10,279;http://www.telemart.pk/huawei-y625-3g-in-pakistan.html
+Huawei;Huawei Y6II 4G LTE 16GB With Official Warranty;;;16,459;http://www.telemart.pk/huawei-y6ii-4g-in-pakistan.html
+QMobile;QMobile I5.5 4G Dual Sim with Official Warranty;;;8,399;http://www.telemart.pk/qmobile-i5-5-in-pakistan.html
+Qmobile;Qmobile Jazz Xplore JS2 With Official Warranty;;;6,719;http://www.telemart.pk/qmobile-jazz-xplore-js2-in-pakistan.html
+Qmobile;Qmobile LT650 4G With Official Warranty;;;9,599;http://www.telemart.pk/qmobile-lt650-in-pakistan.html
+Qmobile;Qmobile LT750 With Official Warranty;;;15,359;http://www.telemart.pk/qmobile-lt750-in-pakistan.html
+Qmobile;Qmobile Noir S1 Pro 4G Dual Sim Grey with Official Warranty;;;7,859;http://www.telemart.pk/qmobile-noir-s1-pro-in-pakistan.html
+Qmobile;Qmobile Noir S6 3G Dual Sim Gold With Official Warranty;;;12,239;http://www.telemart.pk/qmobile-noir-s6-in-pakistan.html
+Qmobile;Qmobile Noir S6 Plus 4G Dual Sim Gold With Official Warranty;;;11,519;http://www.telemart.pk/qmobile-noir-s6-plus-in-pakistan.html
+Qmobile;Qmobile Noir S6s 4G Dual Sim Gold With Official Warranty;;;10,559;http://www.telemart.pk/qmobile-noir-s6s-in-pakistan.html
+QMobile;QMobile Noir X2 Lite With Warranty;;;3,599;http://www.telemart.pk/qmobile-noir-x2-lite-in-pakistan.html
+QMobile;QMobile Noir X700 Pro 3G 16GB With Official Warranty;;;8,829;http://www.telemart.pk/qmobile-noir-x700-pro-in-pakistan.html
+Qmobile;Qmobile Noir Z12 Pro 4G Dual Sim with Official Warranty;;;19,199;http://www.telemart.pk/qmobile-noir-z12-pro-in-pakistan.html
+QMobile;QMobile X700 Pro II 3G Dual Sim Black with Official Warranty;;;8,829;http://www.telemart.pk/qmobile-x700-pro-ii-in-pakistan.html
+Lenovo;Lenovo A6010 4G 8GB Dual Sim With Official Warranty;;;13,249;http://www.telemart.pk/lenovo-a6010-4g-in-pakistan.html
+Lenovo;Lenovo A7000 Plus 4G Dual Sim with Official Warranty;;;18,309;http://www.telemart.pk/lenovo-a7000-plus-in-pakistan.html
+Lenovo;Lenovo B A2016 4G 8GB With Official Warranty;;;8,729;http://www.telemart.pk/lenovo-b-a2016-in-pakistan.html
+Lenovo;Lenovo C2 Power 2GB 16GB With Official Warranty;;;14,629;http://www.telemart.pk/lenovo-c2-power-in-pakistan-27313.html
+Lenovo;Lenovo K4 Note With Official Warranty;;;27,409;http://www.telemart.pk/lenovo-k4-note-in-paksitan.html
+Lenovo;Lenovo K5 Note With Official Warranty;;;29,029;http://www.telemart.pk/lenovo-k5-note-in-pakistan.html
+Lenovo;Lenovo K6 4G LTE 16GB with Official Warranty;;;21,279;http://www.telemart.pk/lenovo-k6-4g-in-pakistan.html
+Lenovo;Lenovo K6 Note 4G 32GB With Official Warranty;;;23,199;http://www.telemart.pk/lenovo-k6-note-4g-in-pakistan.html
+Lenovo;Lenovo P2 4G 32GB Dual Sim With Official Warranty;;;33,649;http://www.telemart.pk/lenovo-p2-4g-in-pakistan.html
+Lenovo;Lenovo Phab2 Pro 4G Dual Sim 64GB;;62,599;59,999;http://www.telemart.pk/lenovo-phab2-pro-4g-dual-sim-64gb-in-pakistan.html
+Lenovo;Lenovo Vibe C 2020 With Official Warranty;;;10,959;http://www.telemart.pk/lenovo-vibe-c-2020-in-pakistan.html
+Lenovo;Lenovo Vibe K5 Plus 4G Dual Sim with Official Warranty;;;17,829;http://www.telemart.pk/lenovo-vibe-k5-plus-in-pakistan.html
+Lenovo;Lenovo Vibe P1 4G 32GB With Official Warranty;;;31,299;http://www.telemart.pk/lenovo-vibe-p1-in-pakistan.html
+Lenovo;Lenovo Vibe S1 32GB With Official Warranty;;;33,679;http://www.telemart.pk/lenovo-vibe-s1-in-pakistan.html
+Innjoo;Innjoo 3 4G 64GB Dual Sim;;;30,649;http://www.telemart.pk/innjoo-3-4g-in-pakistan.html
+Innjoo;Innjoo Fire 2 Air LTE 4G Dual Sim;;;11,539;http://www.telemart.pk/innjoo-fire-2-air-in-pakistan.html
+InnJoo;InnJoo Fire 2 LTE Dual Sim;;;13,979;http://www.telemart.pk/innjoo-fire-2-lte-in-pakistan.html
+Innjoo;Innjoo Fire 3 Air LTE Dual Sim;;;13,219;http://www.telemart.pk/innjoo-fire-3-air-in-pakistan.html
+Innjoo;Innjoo Fire 3 LTE 16GB Dual Sim;;;15,049;http://www.telemart.pk/innjoo-fire-3-lte-in-pakistan.html
+Innjoo;Innjoo Halo Plus 3G 8GB Dual Sim;;;10,629;http://www.telemart.pk/innjoo-halo-plus-in-pakistan.html
+Innjoo;Innjoo Max 3 LTE Dual Sim;;;16,269;http://www.telemart.pk/innjoo-max-3-in-pakistan.html
+Innjoo;Innjoo Max 3 Pro LTE Dual Sim;;;19,629;http://www.telemart.pk/innjoo-max-3-pro-in-pakistan.html
+Alcatel;Alcatel 5010U Pixi 4 3G With Official Warranty;;;8,919;http://www.telemart.pk/alcatel-5010u-in-pakistan.html
+Alcatel;Alcatel 5051D Pop 4 4G With Official Warranty;;;12,419;http://www.telemart.pk/alcatel-5051d-in-pakistan.html
+Alcatel;Alcatel 6070K Idol 4S 4G VR With Official Warranty;;;44,999;http://www.telemart.pk/alcatel-6070k-idol-4s-in-pakistan.html
+Alcatel;Alcatel Idol 3 4G With Official Warranty;;;22,279;http://www.telemart.pk/alcatel-idol-3-black-in-pakistan.html
+Alcatel;Alcatel Idol 4 With Official Warranty ;;;26,319;http://www.telemart.pk/alcatel-idol-4-in-pakistan.html
+Alcatel;Alcatel Pixi 3 3G 4GB Black;;;9,249;http://www.telemart.pk/alcatel-pixi-3-in-pakistan.html
+Alcatel;Alcatel Pixi 3 3G Black;;;8,489;http://www.telemart.pk/alcatel-pixi-3-3g-black-in-pakistan.html
+Alcatel;Alcatel Pop 4 Plus With Official Warranty;;;13,789;http://www.telemart.pk/alcatel-pop-4-in-pakistan.html
+Alcatel;Alcatel Pop Star 3G Dual Sim With Official Warranty;;;10,329;http://www.telemart.pk/alcatel-pop-star-gold-in-pakistan.html
+Alcatel;Alcatel Pop Star 4G Dual Sim With Official Warranty;;;12,269;http://www.telemart.pk/alcatel-pop-star-4g-dual-sim-in-pakistan.html
+Alcatel;Alcatel Pop Up 4G Dual Sim With Official Warranty;;;14,399;http://www.telemart.pk/alcatel-pop-up-in-pakistan.html
+Alcatel;Alcatel X1 4G Dual Sim With Official Warranty;;;17,999;http://www.telemart.pk/alcatel-x1-in-pakistan.html

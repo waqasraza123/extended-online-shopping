@@ -29,6 +29,7 @@
             @include('layouts.partials.sidebar')
         </div>
         <div class="col-md-9 content" style="margin-top:100px">
+            @include('partials.preloader')
             @yield('content')
         </div>
     </div>

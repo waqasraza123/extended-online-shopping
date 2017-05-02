@@ -1,440 +1,440 @@
-Mi;Redmi 4a (C3) - 5.0" - 2GB - 16GB - 13MP - 4G - Gold;Golden;0;13,900;https://www.daraz.pk/mi-redmi-4a-c3-5.0-2gb-16gb-13mp-4g-gold-6514727.html
-Infinix;Zero 4 Plus - X602 - 64GB - 4GB - Gray - 4G LTE;,Golden;0;29,999;https://www.daraz.pk/infinix-zero-4-plus-x602-64gb-4gb-gray-4g-lte-6519592.html
-Infinix;Zero 4 Plus - X602 - 5.98" - 64GB - 4GB RAM -  20.7MP - Gold - 4G LTE;Golden;0;29,999;https://www.daraz.pk/infinix-zero-4-plus-x602-5.98-64gb-4gb-ram-20.7mp-gold-4g-lte-6482805.html
-Infinix;Zero 3 X552 - 16GB - Luxurious Gold - 4G LTE;Golden;20,899;15,999;https://www.daraz.pk/zero-3-x552-16gb-luxurious-gold-4g-lte-infinix-mpg47462.html
-Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB ROM - 1.5GB RAM - 8MP - Gold;Golden;15,999;15,299;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-rom-1.5gb-ram-8mp-gold-6498286.html
+Mi;Redmi 4A - 5.0" - 2GB - 32GB - 13MP - 4G - Gold;Golden;0;14,500;https://www.daraz.pk/mi-redmi-4a-5.0-2gb-32gb-13mp-4g-gold-6579322.html
+Mi;Redmi 4A - 5.0" - 2GB - 16GB - 13MP - 4G - Gold;Golden;0;13,900;https://www.daraz.pk/mi-redmi-4a-5.0-2gb-16gb-13mp-4g-gold-6514727.html
+Mi;Note 4 - C6 - 5.5" - 3GB - 32GB - 13MP - 4G - Black;;0;20,900;https://www.daraz.pk/mi-note-4-c6-5.5-3gb-32gb-13mp-4g-black-6514725.html
 Infinix;Hot 4 - X557 - 16GB - 2GB - Luxurious Gold;Golden,Black;0;12,599;https://www.daraz.pk/infinix-hot-4-x557-16gb-2gb-luxurious-gold-6382106.html
-Infinix;Note 3 Pro - X601 - 16GB - 3GB - Champagne Gold - 4G LTE;Golden,Grey;0;20,599;https://www.daraz.pk/infinix-note-3-pro-x601-16gb-3gb-champagne-gold-4g-lte-6382110.html
-Infinix;Note 3 Pro - X601 - 16GB -3GB - Silver - 4G LTE;,Golden,Grey;0;20,599;https://www.daraz.pk/infinix-note-3-pro-x601-16gb-3gb-silver-4g-lte-6382112.html
-Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - Gold;,Golden,Grey;24,900;23,890;https://www.daraz.pk/huawei-honor-8-lite-16gb-3gb-fingerprint-sensor-gold-6527726.html
-Infinix;Zero 3 X552 - 16GB - Anthracite Grey - 4G LTE;,Golden,Grey;20,899;15,999;https://www.daraz.pk/x552-zero-3-3gb-ram-16-gb-4g-lte-anthracite-grey-with-free-selfie-stick-infinix-mpg44213.html
-Infinix;Note 3 - X601 - 16GB - 2GB - Champagne Gold;Golden,Grey;0;18,599;https://www.daraz.pk/infinix-note-3-x601-16gb-2gb-champagne-gold-6382107.html
-Apple;iPhone 7 - 32GB - Without Face Time - Black - 4G LTE;Black;85,489;85,475;https://www.daraz.pk/iphone-7-32gb-without-face-time-black-apple-mpg51576.html
-Samsung;Galaxy J7 Prime - 5.5" - 16GB - 3GB RAM - 13MP - Black;Black;38,000;31,499;https://www.daraz.pk/samsung-galaxy-j7-prime-5.5-16gb-3gb-ram-13mp-black-6405538.html
-Huawei;Honor 5X - 16GB - Golden - 4G LTE;Golden;25,000;22,070;https://www.daraz.pk/honor-5x-16gb-gold-huawei-mpg38895.html
-Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Moon Light Silver - 4G LTE;Silver,Golden,Grey;69,899;66,950;https://www.daraz.pk/mate-9-64gb-rom-4gb-ram-20mp-camera-android-moon-light-silver-4g-lte-huawei-mpg56261.html
-Samsung;Galaxy J5 Prime - 1.4 GHz - 5.0" - 2 GB - 16 GB - 13 MP - Gold;Golden;27,000;24,320;https://www.daraz.pk/galaxy-j5-prime-1.4-ghz-5.0-2-gb-16-gb-13-mp-gold-samsung-mpg50286.html
-QMobile;Z12 Pro - 32GB - Coffee;Brown;0;19,999;https://www.daraz.pk/qmobile-z12-pro-32gb-coffee-6424431.html
-Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - Black;Brown;24,900;23,890;https://www.daraz.pk/honor-8-lite-16gb-3gb-fingerprint-sensor-black-huawei-mpg57097.html
-QmobileJazzX;JS2 - 8GB - Black;Black;0;6,999;https://www.daraz.pk/qmobile-jazz-x-js2-8gb-black-6419986.html
-Huawei;Y6II LTE - 16GB - Black - 4G LTE;Black;19,899;19,299;https://www.daraz.pk/y6ii-lte-16gb-black-huawei-mpg49617.html
+Infinix;S2 - X522 - 5.2" - Selfie Wefie Dual Camera - 16GB - Black;;0;18,600;https://www.daraz.pk/infinix-s2-x522-5.2-selfie-wefie-dual-camera-16gb-black-6599929.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB - 1.5GB RAM - 8MP Camera - Gold;Golden,Silver,Black;16,000;14,799;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-1.5gb-ram-8mp-camera-gold-6486068.html
 Infinix;Hot 4 - X557 - 16GB - 2GB - Sandstone Black;Black,Golden;0;12,599;https://www.daraz.pk/hot-4-x557-16gb-2gb-sandstone-black-infinix-mpg50040.html
-Lenovo;P1M - Vibe - 16GB - Black;Black;0;18,000;https://www.daraz.pk/vibe-p1m-5-16-gb-2-gb-ram-1-ghz-quad-core-8-mp-camera-black-brand-warranty-lenovo-mpg35931.html
-Samsung;Galaxy J5 J500H - 8GB - Golden;Golden;0;23,000;https://www.daraz.pk/j500h-galaxy-j5-5.0-8-gb-1.2-ghz-quad-core-gold-samsung-mpg38825.html
-Huawei;P8 Lite - 16GB - Black;Black;22,000;19,498;https://www.daraz.pk/p8-lite-5.0-16-gb-2-gb-ram-13-mp-camera-black-brand-warranty-huawei-mpg932.html
-Samsung;Galaxy J5 - J510F - 16GB ROM - 2GB RAM - 13MP Camera - White - 4G LTE;White;29,000;23,199;https://www.daraz.pk/j510f-galaxy-j5-2016-edition-5.2-16gb-hdd-2gb-ram-white-samsung-mpg44616.html
-Samsung;J500H - Galaxy J5 - 8GB - 1.5GB RAM - 13MP Camera - White;White;23,000;20,677;https://www.daraz.pk/j500h-galaxy-j5-8gb-white-samsung-mpg42473.html
-Samsung;Galaxy J2 - 4.7" - 8GB - 1GB RAM - 5MP Camera - Black;Black;16,500;14,569;https://www.daraz.pk/galaxy-j2-3g-4.7-8-gb-1-gb-ram-1.3-ghz-quad-core-5-mp-camera-black-brand-warranty-samsung-mpg38006.html
-Lenovo;A5000 - 5" - 8GB - 1GB RAM - 8MP Camera - White;White;13,900;10,199;https://www.daraz.pk/a5000-5-8-gb-1-gb-ram-8-mp-camera-white-brand-warranty-lenovo-mpg966.html
-Lenovo;A5000 - 5" - 8GB ROM - 1GB RAM - 8MP Camera - Black;Black;13,900;10,199;https://www.daraz.pk/a5000-5-8-gb-1-gb-ram-8-mp-camera-black-brand-warranty-lenovo-mpg967.html
-Lenovo;A6010 - 5.0" - 16GB - 2GB RAM - 13MP - Black - 4G LTE;Black;15,000;13,340;https://www.daraz.pk/a6010-16gb-black-mobilink-free-6gb-bundle-offer-lenovo-mpg43289.html
-Samsung;Galaxy J5 - J510F - 5.2" - 16GB ROM - 2GB RAM - 1.2 GHz Qualcomm - Black;Black;29,000;23,199;https://www.daraz.pk/j510f-galaxy-j5-2016-edition-5.2-16gb-hdd-2gb-ram-black-samsung-mpg44615.html
-QMobile;LT700 Pro - 16GB - 3GB - Gold;Golden;0;15,500;https://www.daraz.pk/qmobile-lt700-pro-16gb-3gb-gold-6395553.html
-Samsung;Galaxy J2 - 4.7" - 8GB - 1GB RAM - 5 MP - White;White;15,300;14,570;https://www.daraz.pk/galaxy-j2-4.7-8-gb-1.3-ghz-quad-core-white-samsung-mpg38915.html
-Samsung;Galaxy J1 Ace - J110H - 4.3" - 4GB - 768MB RAM - 5MP Camera - Black;Black;11,700;11,324;https://www.daraz.pk/j1-ace-j110h-4.3-4gb-hdd-768mb-ram-5mp-camera-black-brand-warranty-samsung-mpg8328.html
-Huawei;Y6 Pro - 5.0" - 2GB ROM - 16GB RAM - 13MP Camera - Black;Black;22,500;17,269;https://www.daraz.pk/y6-pro-2gb-16gb-grey-huawei-mpg43024.html
-Lenovo;Vibe C - 16GB - White - A2020;White;0;16,000;https://www.daraz.pk/vibe-c-16gb-white-a2020-lenovo-mpg47465.html
-HTC;626 LTE Desire - 16GB - Blue Lagoon;Blue;21,699;17,499;https://www.daraz.pk/626-lte-desire-16gb-blue-lagoon-htc-mpg45746.html
-HTC;Desire 728 - 5.5" - 16GB - 2GB RAM - 13MP - Dual Sim - White Luxury - 4G LTE;White;25,499;20,899;https://www.daraz.pk/desire-728-5.5-16-gb-2gb-ram-13mp-camera-dual-sim-white-luxury-htc-mpg44989.html
-Apple;iPhone 7 Plus - 128GB - Jet Black - Without Face Time - 4G LTE;Black;0;119,799;https://www.daraz.pk/apple-iphone-7-plus-128gb-jet-black-without-face-time-4g-lte-6463319.html
-Samsung;Galaxy J5 - J510F - 16GB ROM - 2GB RAM - 13MP Camera - Android - Gold - 4G LTE;Golden;29,500;23,190;https://www.daraz.pk/j510f-galaxy-j5-2016-edition-5.2-16gb-hdd-2gb-ram-gold-samsung-mpg44617.html
-Mi;Redmi 4a (C3) - 5.0" - 2GB - 16GB - 13MP - 4G - Gold;Golden;0;13,900;https://www.daraz.pk/mi-redmi-4a-c3-5.0-2gb-16gb-13mp-4g-gold-6514727.html
-Infinix;Zero 4 Plus - X602 - 64GB - 4GB - Gray - 4G LTE;,Golden;0;29,999;https://www.daraz.pk/infinix-zero-4-plus-x602-64gb-4gb-gray-4g-lte-6519592.html
 Infinix;Zero 4 Plus - X602 - 5.98" - 64GB - 4GB RAM -  20.7MP - Gold - 4G LTE;Golden;0;29,999;https://www.daraz.pk/infinix-zero-4-plus-x602-5.98-64gb-4gb-ram-20.7mp-gold-4g-lte-6482805.html
-Infinix;Zero 3 X552 - 16GB - Luxurious Gold - 4G LTE;Golden;20,899;15,999;https://www.daraz.pk/zero-3-x552-16gb-luxurious-gold-4g-lte-infinix-mpg47462.html
-Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB ROM - 1.5GB RAM - 8MP - Gold;Golden;15,999;15,299;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-rom-1.5gb-ram-8mp-gold-6498286.html
-Infinix;Hot 4 - X557 - 16GB - 2GB - Luxurious Gold;Golden,Black;0;12,599;https://www.daraz.pk/infinix-hot-4-x557-16gb-2gb-luxurious-gold-6382106.html
-Infinix;Note 3 Pro - X601 - 16GB - 3GB - Champagne Gold - 4G LTE;Golden,Grey;0;20,599;https://www.daraz.pk/infinix-note-3-pro-x601-16gb-3gb-champagne-gold-4g-lte-6382110.html
-Infinix;Note 3 Pro - X601 - 16GB -3GB - Silver - 4G LTE;,Golden,Grey;0;20,599;https://www.daraz.pk/infinix-note-3-pro-x601-16gb-3gb-silver-4g-lte-6382112.html
-Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - Gold;,Golden,Grey;24,900;23,890;https://www.daraz.pk/huawei-honor-8-lite-16gb-3gb-fingerprint-sensor-gold-6527726.html
-Infinix;Zero 3 X552 - 16GB - Anthracite Grey - 4G LTE;,Golden,Grey;20,899;15,999;https://www.daraz.pk/x552-zero-3-3gb-ram-16-gb-4g-lte-anthracite-grey-with-free-selfie-stick-infinix-mpg44213.html
-Infinix;Note 3 - X601 - 16GB - 2GB - Champagne Gold;Golden,Grey;0;18,599;https://www.daraz.pk/infinix-note-3-x601-16gb-2gb-champagne-gold-6382107.html
-Apple;iPhone 7 - 32GB - Without Face Time - Black - 4G LTE;Black;85,489;85,475;https://www.daraz.pk/iphone-7-32gb-without-face-time-black-apple-mpg51576.html
-Samsung;Galaxy J7 Prime - 5.5" - 16GB - 3GB RAM - 13MP - Black;Black;38,000;31,499;https://www.daraz.pk/samsung-galaxy-j7-prime-5.5-16gb-3gb-ram-13mp-black-6405538.html
-Huawei;Honor 5X - 16GB - Golden - 4G LTE;Golden;25,000;22,070;https://www.daraz.pk/honor-5x-16gb-gold-huawei-mpg38895.html
-Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Moon Light Silver - 4G LTE;Silver,Golden,Grey;69,899;66,950;https://www.daraz.pk/mate-9-64gb-rom-4gb-ram-20mp-camera-android-moon-light-silver-4g-lte-huawei-mpg56261.html
-Samsung;Galaxy J5 Prime - 1.4 GHz - 5.0" - 2 GB - 16 GB - 13 MP - Gold;Golden;27,000;24,320;https://www.daraz.pk/galaxy-j5-prime-1.4-ghz-5.0-2-gb-16-gb-13-mp-gold-samsung-mpg50286.html
-QMobile;Z12 Pro - 32GB - Coffee;Brown;0;19,999;https://www.daraz.pk/qmobile-z12-pro-32gb-coffee-6424431.html
-Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - Black;Brown;24,900;23,890;https://www.daraz.pk/honor-8-lite-16gb-3gb-fingerprint-sensor-black-huawei-mpg57097.html
-QmobileJazzX;JS2 - 8GB - Black;Black;0;6,999;https://www.daraz.pk/qmobile-jazz-x-js2-8gb-black-6419986.html
-Huawei;Y6II LTE - 16GB - Black - 4G LTE;Black;19,899;19,299;https://www.daraz.pk/y6ii-lte-16gb-black-huawei-mpg49617.html
-Infinix;Hot 4 - X557 - 16GB - 2GB - Sandstone Black;Black,Golden;0;12,599;https://www.daraz.pk/hot-4-x557-16gb-2gb-sandstone-black-infinix-mpg50040.html
-Lenovo;P1M - Vibe - 16GB - Black;Black;0;18,000;https://www.daraz.pk/vibe-p1m-5-16-gb-2-gb-ram-1-ghz-quad-core-8-mp-camera-black-brand-warranty-lenovo-mpg35931.html
-Samsung;Galaxy J5 J500H - 8GB - Golden;Golden;0;23,000;https://www.daraz.pk/j500h-galaxy-j5-5.0-8-gb-1.2-ghz-quad-core-gold-samsung-mpg38825.html
-Huawei;P8 Lite - 16GB - Black;Black;22,000;19,498;https://www.daraz.pk/p8-lite-5.0-16-gb-2-gb-ram-13-mp-camera-black-brand-warranty-huawei-mpg932.html
-Samsung;Galaxy J5 - J510F - 16GB ROM - 2GB RAM - 13MP Camera - White - 4G LTE;White;29,000;23,199;https://www.daraz.pk/j510f-galaxy-j5-2016-edition-5.2-16gb-hdd-2gb-ram-white-samsung-mpg44616.html
-Samsung;J500H - Galaxy J5 - 8GB - 1.5GB RAM - 13MP Camera - White;White;23,000;20,677;https://www.daraz.pk/j500h-galaxy-j5-8gb-white-samsung-mpg42473.html
-Samsung;Galaxy J2 - 4.7" - 8GB - 1GB RAM - 5MP Camera - Black;Black;16,500;14,569;https://www.daraz.pk/galaxy-j2-3g-4.7-8-gb-1-gb-ram-1.3-ghz-quad-core-5-mp-camera-black-brand-warranty-samsung-mpg38006.html
-Lenovo;A5000 - 5" - 8GB - 1GB RAM - 8MP Camera - White;White;13,900;10,199;https://www.daraz.pk/a5000-5-8-gb-1-gb-ram-8-mp-camera-white-brand-warranty-lenovo-mpg966.html
-Lenovo;A5000 - 5" - 8GB ROM - 1GB RAM - 8MP Camera - Black;Black;13,900;10,199;https://www.daraz.pk/a5000-5-8-gb-1-gb-ram-8-mp-camera-black-brand-warranty-lenovo-mpg967.html
-Lenovo;A6010 - 5.0" - 16GB - 2GB RAM - 13MP - Black - 4G LTE;Black;15,000;13,340;https://www.daraz.pk/a6010-16gb-black-mobilink-free-6gb-bundle-offer-lenovo-mpg43289.html
-Samsung;Galaxy J5 - J510F - 5.2" - 16GB ROM - 2GB RAM - 1.2 GHz Qualcomm - Black;Black;29,000;23,199;https://www.daraz.pk/j510f-galaxy-j5-2016-edition-5.2-16gb-hdd-2gb-ram-black-samsung-mpg44615.html
-QMobile;LT700 Pro - 16GB - 3GB - Gold;Golden;0;15,500;https://www.daraz.pk/qmobile-lt700-pro-16gb-3gb-gold-6395553.html
-Samsung;Galaxy J2 - 4.7" - 8GB - 1GB RAM - 5 MP - White;White;15,300;14,570;https://www.daraz.pk/galaxy-j2-4.7-8-gb-1.3-ghz-quad-core-white-samsung-mpg38915.html
-Samsung;Galaxy J1 Ace - J110H - 4.3" - 4GB - 768MB RAM - 5MP Camera - Black;Black;11,700;11,324;https://www.daraz.pk/j1-ace-j110h-4.3-4gb-hdd-768mb-ram-5mp-camera-black-brand-warranty-samsung-mpg8328.html
-Huawei;Y6 Pro - 5.0" - 2GB ROM - 16GB RAM - 13MP Camera - Black;Black;22,500;17,269;https://www.daraz.pk/y6-pro-2gb-16gb-grey-huawei-mpg43024.html
-Lenovo;Vibe C - 16GB - White - A2020;White;0;16,000;https://www.daraz.pk/vibe-c-16gb-white-a2020-lenovo-mpg47465.html
-HTC;626 LTE Desire - 16GB - Blue Lagoon;Blue;21,699;17,499;https://www.daraz.pk/626-lte-desire-16gb-blue-lagoon-htc-mpg45746.html
-HTC;Desire 728 - 5.5" - 16GB - 2GB RAM - 13MP - Dual Sim - White Luxury - 4G LTE;White;25,499;20,899;https://www.daraz.pk/desire-728-5.5-16-gb-2gb-ram-13mp-camera-dual-sim-white-luxury-htc-mpg44989.html
-Apple;iPhone 7 Plus - 128GB - Jet Black - Without Face Time - 4G LTE;Black;0;119,799;https://www.daraz.pk/apple-iphone-7-plus-128gb-jet-black-without-face-time-4g-lte-6463319.html
-Samsung;Galaxy J5 - J510F - 16GB ROM - 2GB RAM - 13MP Camera - Android - Gold - 4G LTE;Golden;29,500;23,190;https://www.daraz.pk/j510f-galaxy-j5-2016-edition-5.2-16gb-hdd-2gb-ram-gold-samsung-mpg44617.html
-HTC;Desire 526G+ - 4.7" - 16GB - Dual Sim - Lacquer Black;Black;13,999;10,850;https://www.daraz.pk/desire-526g-16gb-lacqure-black-htc-mpg45491.html
-HTC;Desire 620G - 5" - 1GB RAM - 8GB - 8MP - Grey;Grey;14,500;12,899;https://www.daraz.pk/desire-620g-8gb-grey-htc-mpg49860.html
-Microsoft;RM-1031 - Lumia 532 - 8GB - Orange;Orange;8,900;5,399;https://www.daraz.pk/rm-1031-lumia-532-4.0-8-gb-1-gb-ram-5-mp-camera-orange-brand-warranty-microsoft-mpg4579.html
-Samsung;Galaxy J700H - 16GB - White;White;28,000;25,680;https://www.daraz.pk/j700h-galaxy-j7-5.5-16-gb-1.5-gb-ram-13-mp-camera-white-brand-warranty-samsung-mpg6434.html
-Huawei;Y6II LTE - 5.5" - 16GB - 2GB RAM - 8MP Camera - Gold;Golden;19,300;18,300;https://www.daraz.pk/y6ii-lte-5.5-16gb-2gb-ram-8mp-camera-gold-huawei-mpg48086.html
-Lenovo;A6010 - 16GB - Black & White - 4G LTE;Black|White;16,500;13,050;https://www.daraz.pk/a6010-16gb-white-mobilink-free-6gb-bundle-offer-lenovo-mpg43290.html
-HTC;626 LTE Desire - 5.0" - 16GB - 2GB RAM - 13 MP Camera - White Birsch;White;0;21,699;https://www.daraz.pk/626-lte-desire-16gb-white-birsch-htc-mpg45490.html
-Huawei;Y6 Pro - 5.0" - 16GB - 2GB RAM - 13MP Camera - White;White;22,500;17,269;https://www.daraz.pk/y6-pro-16gb-white-huawei-mpg43022.html
-Microsoft;RM-1090 - Lumia 535 - 8GB - Green;Green;14,500;9,300;https://www.daraz.pk/rm-1090-lumia-535-dual-sim-5.0-8-gb-1-gb-ram-1.2-ghz-quad-core-5-mp-camera-green-brand-warranty-microsoft-mpg4834.html
-Lenovo;B A2016 - 8GB - White;White;10,750;8,580;https://www.daraz.pk/b-a2016-8gb-white-lenovo-mpg51501.html
-Infinix;Note 3 Pro - X601 - 16GB - 3GB - Crystal Grey - 4G LTE;Grey,Golden;0;20,599;https://www.daraz.pk/infinix-note-3-pro-x601-16gb-3gb-crystal-grey-4g-lte-6382113.html
+Mi;Redmi 4A - 5.0" - 2GB - 32GB - 13MP - 4G - Grey;;0;14,500;https://www.daraz.pk/mi-redmi-4a-5.0-2gb-32gb-13mp-4g-grey-6575904.html
+Mi;Redmi 4A - 5.0" - 2GB - 16GB - 13MP - 4G - Grey;Golden;0;13,900;https://www.daraz.pk/mi-redmi-4a-5.0-2gb-16gb-13mp-4g-grey-6540579.html
+Infinix;Zero 4 Plus - X602 - 64GB - 4GB - Gray - 4G LTE;,Golden;0;29,999;https://www.daraz.pk/infinix-zero-4-plus-x602-64gb-4gb-gray-4g-lte-6519592.html
+Lenovo;K5 Note A7020 - 32GB - Gold - 4G LTE;;29,000;19,799;https://www.daraz.pk/lenovo-k5-note-a7020-32gb-gold-4g-lte-6578420.html
+Huawei;P9 Lite - 5.2" - 16GB - 2GB RAM - 13MP Camera - 4G LTE - Golden;Golden;21,999;21,115;https://www.daraz.pk/p9-lite-16-gb-golden-huawei-mpg45018.html
+Huawei;Honor 6x - 5.5" - 32GB HDD - 3GB RAM - 12MP Camera - Dual Sim - Gold - 4G LTE;;27,500;26,490;https://www.daraz.pk/honor-6x-5.5-32gb-hdd-3gb-ram-12mp-camera-dual-sim-gold-4g-lte-huawei-mpg56259.html
+Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - Dual Sim - Grey - 4G LTE;;27,500;26,490;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-dual-sim-grey-4g-lte-6476330.html
+Huawei;P8 Lite - 5.0" - 16GB - 2GB RAM - 13MP Camera - Golden - 4G LTE;Golden,Black;19,000;18,235;https://www.daraz.pk/p8-lite-5-4g-16gb-2gb-ram-1.2-ghz-octa-core-13-mp-camera-gold-brand-warranty-huawei-mpg11778.html
+Huawei;Y6 Pro 3G - 5" - 2GB RAM - 16GB - 13MP - Gold;Golden;14,999;14,399;https://www.daraz.pk/y6-pro-3g-5-2gb-ram-16gb-13mp-gold-huawei-mpg56263.html
+Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - Gold;;24,900;23,890;https://www.daraz.pk/huawei-honor-8-lite-16gb-3gb-fingerprint-sensor-gold-6527726.html
+Samsung;Galaxy J5 Prime - 1.4 GHz - 5.0" - 2 GB - 16 GB - 13 MP - Gold;Golden;27,000;23,399;https://www.daraz.pk/galaxy-j5-prime-1.4-ghz-5.0-2-gb-16-gb-13-mp-gold-samsung-mpg50286.html
+Lenovo;K5 Plus - 5" - 16GB - 2GB RAM - 13 MP Camera - Silver - 4G LTE;Silver;23,500;13,899;https://www.daraz.pk/vibe-k5-plus-16gb-silver-mobilink-free-6gb-bundle-offer-lenovo-mpg43293.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Graphite Black;;59,999;59,000;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-graphite-black-6602010.html
 Huawei;Y360 - 4GB - Black;Black;7,899;5,999;https://www.daraz.pk/huawei-y360-4gb-black-6446702.html
-Huawei;Ascend Y3II - 4.5 inches - 8GB HDD - 1GB RAM - 5MP Camera - White;White;9,800;9,389;https://www.daraz.pk/y3ii-8-gb-white-huawei-mpg45026.html
-Lenovo;Vibe C A2020 - 5" - 16GB - 1GB RAM - 8MP - White;White;11,900;10,850;https://www.daraz.pk/lenovo-vibe-c-a2020-5-16gb-1gb-ram-8mp-white-6469414.html
-Apple;iPhone 7 - 128GB - Without Face Time - Jet Black;Black;98,399;92,999;https://www.daraz.pk/iphone-7-128gb-without-face-time-jet-black-apple-mpg51573.html
-QMobile;X700 Pro - Dual Sim - 16GB ROM - 2GB RAM - 5MP Camera - Gold;Golden;0;9,400;https://www.daraz.pk/x700-pro-16gb-gold-qmobile-mpg47482.html
-QmobileJazzX;Jazz X JS2 - 8GB - Gold;Golden;0;6,999;https://www.daraz.pk/qmobile-jazz-x-jazz-x-js2-8gb-gold-6443849.html
-Huawei;Y3II - 8GB - Gold;Golden;9,800;9,389;https://www.daraz.pk/y3ii-8-gb-gold-huawei-mpg45025.html
-QmobileJazzX;Jazz X JS2 - 8GB - Gold;Golden;6,999;6,000;https://www.daraz.pk/qmobile-jazz-x-jazz-x-js2-8gb-gold-6454079.html
-HTC;Desire 620G - 5" - 1GB RAM - 8GB - 8MP - White;White;14,500;12,899;https://www.daraz.pk/desire-620g-8gb-white-htc-mpg49861.html
-Huawei;Y6 Pro - 16GB - Golden;Golden;18,000;17,100;https://www.daraz.pk/y6-pro-2gb-16gb-gold-huawei-mpg43023.html
-Lenovo;K5 Plus - 5.0" - 16GB - 2GB RAM - 13MP Camera - Gold - 4G LTE;Golden;19,500;18,312;https://www.daraz.pk/vibe-k5-plus-16gb-gold-mobilink-free-6gb-bundle-offer-lenovo-mpg43292.html
-Lenovo;A2010 - 8GB - 4G - Black;Black;9,000;7,199;https://www.daraz.pk/a2010-8gb-4g-black-lenovo-mpg55752.html
-Lenovo;A2010 - 8GB - 4G - White;White;9,000;7,199;https://www.daraz.pk/lenovo-a2010-8gb-4g-white-6502528.html
-QMobile;i5.5 - 8GB - Golden;Golden;0;9,500;https://www.daraz.pk/qmobile-i5.5-8gb-golden-6419865.html
-Microsoft;RM-1031 - Lumia 532 - 8 GB - Green;Green;8,900;5,399;https://www.daraz.pk/rm-1031-lumia-532-4.0-8-gb-1-gb-ram-5-mp-camera-green-brand-warranty-microsoft-mpg4578.html
-Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Champagne Gold;Golden,Silver,Grey;0;69,899;https://www.daraz.pk/huawei-mate-9-64gb-rom-4gb-ram-20mp-camera-android-champagne-gold-6449721.html
-Microsoft;Lumia 530 - RM-1019 4 GB - Orange;Orange;10,850;4,199;https://www.daraz.pk/rm-1019-lumia-530-dual-sim-4.0-4-gb-512-mb-ram-1.2-ghz-quad-core-5-mp-camera-orange-brand-warranty-microsoft-mpg4826.html
-Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB - 1.5GB RAM - 8MP Camera - Gold;Golden,Silver,Black;16,000;15,299;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-1.5gb-ram-8mp-camera-gold-6486068.html
-Samsung;G935-F - Galaxy S7 Edge - 5.5" - Blue;Blue;89,000;75,499;https://www.daraz.pk/g935-f-galaxy-s7-edge-5.5-blue-samsung-mpg56762.html
-Huawei;Y6II LTE - 16GB - Gold - 4G LTE;Blue;19,899;18,590;https://www.daraz.pk/y6ii-lte-16gb-gold-huawei-mpg49618.html
-QMobile;Noir E1 - 4G LTE - 3GB RAM - 16GB ROM - Gold - Brand Warranty;Blue;0;13,500;https://www.daraz.pk/qmobile-noir-e1-4g-lte-3gb-ram-16gb-rom-gold-brand-warranty-6494401.html
-Samsung;Galaxy J1 Mini Prime - 8GB - White;White;9,999;9,800;https://www.daraz.pk/samsung-galaxy-j1-mini-prime-8gb-white-6501958.html
-Lenovo;C A2020 - Vibe - 8 GB - Black;White;12,900;10,770;https://www.daraz.pk/lenovo-c-a2020-vibe-8-gb-black-6502724.html
-Samsung;Galaxy A7 - 5.7" - 3GB - 32GB - 16MP - Gold;White;55,000;53,999;https://www.daraz.pk/galaxy-a7-5.7-3gb-32gb-16mp-gold-samsung-mpg56187.html
-Samsung;Galaxy J1 Mini Prime - 8GB - Gold;Golden;9,999;9,800;https://www.daraz.pk/samsung-galaxy-j1-mini-prime-8gb-gold-6501737.html
-Samsung;Galaxy A3 - A310F - 16GB - Midnight Black;Black;36,000;29,199;https://www.daraz.pk/a300f-galaxy-a3-4.5-16-gb-1-gb-ram-1.2-ghz-quad-core-8-mp-camera-midnight-black-brand-warranty-samsung-mpg5899.html
-Sony;Xperia M2 Aqua - 4.8" - 8GB - 1GB - 8MP Camera - White;White;27,500;13,999;https://www.daraz.pk/sony-xperia-m2-aqua-4.8-8gb-1gb-8mp-camera-white-6501926.html
-Samsung;Galaxy A3 - 4.7" - 2GB - 16GB - 13MP - Gold;White;37,500;36,699;https://www.daraz.pk/samsung-galaxy-a3-4.7-2gb-16gb-13mp-gold-samsung-mpg55898.html
-Samsung;Galaxy A5 - 5.2" - 3GB - 32GB - 16MP - Blue;White;47,000;45,999;https://www.daraz.pk/samsung-galaxy-a5-5.2-3gb-32gb-16mp-blue-6496810.html
-Lenovo;B A2016 - 8GB - Red;Red;10,750;8,975;https://www.daraz.pk/lenovo-b-a2016-8gb-red-6502482.html
-Sony;E2115 Xperia E4 - 5" - 8GB - 1GB RAM - 5MP - White;White;15,750;9,999;https://www.daraz.pk/e2115-xperia-e4-dual-sim-5-8-gb-hdd-1-gb-ram-5-mp-camera-white-brand-warranty-sony-mpg7049.html
-Lenovo;B A2016 - 4.5" - 8GB - 1GB RAM - 5MP - Black - 4G LTE;Black;0;10,750;https://www.daraz.pk/lenovo-b-a2016-4.5-8gb-1gb-ram-5mp-black-4g-lte-6497660.html
-Samsung;Galaxy A7 - 5.7" - 3GB - 32GB - 16MP - Blue;Black;55,000;53,999;https://www.daraz.pk/samsung-galaxy-a7-5.7-3gb-32gb-16mp-blue-6496805.html
-Huawei;Ascend Mate 8 - 32GB - Grey;Grey;51,999;48,499;https://www.daraz.pk/ascend-mate-8-32gb-grey-huawei-mpg38101.html
-Samsung;J7 Prime - 5.5" - 16GB ROM - 3GB RAM - Gold;Golden;34,999;31,199;https://www.daraz.pk/j7-prime-5.5-32gb-rom-3gb-ram-gold-samsung-mpg50022.html
-Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB - 1.5GB RAM - 8MP Camera - Black;Black,Silver,Golden;16,000;15,298;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-1.5gb-ram-8mp-camera-black-6486078.html
-Lenovo;C A2020 - Vibe - 8GB - White;White;12,900;10,770;https://www.daraz.pk/lenovo-c-a2020-vibe-8gb-white-6502740.html
-Huawei;Ascend G510 - Dual Sim - 4GB ROM - 512MB RAM - 5MP Camera - Android - White;White;11,000;6,250;https://www.daraz.pk/g510-ascend-dual-sim-4.5-4-gb-512-mb-ram-5-mp-camera-white-brand-warranty-huawei-mpg3796.html
-Samsung;Galaxy J1 Mini Prime - 8GB - Black;Black;9,999;9,800;https://www.daraz.pk/samsung-galaxy-j1-mini-prime-8gb-black-6501757.html
-Huawei;Y360 - 4GB - White;White;7,899;5,999;https://www.daraz.pk/huawei-y360-4gb-white-6446700.html
-Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB - 1.5GB RAM - 8MP Camera - Silver;Silver,Black,Golden;16,000;15,298;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-1.5gb-ram-8mp-camera-silver-6486072.html
-Lenovo;B A2016 - 4.5" - 8GB - 1GB RAM - 5MP - White - 4G LTE;White;0;10,750;https://www.daraz.pk/lenovo-b-a2016-4.5-8gb-1gb-ram-5mp-white-4g-lte-6497658.html
-Apple;iPhone 7 Plus - 256GB - Without Face Time - Black - 4G LTE;Black;0;126,799;https://www.daraz.pk/apple-iphone-7-plus-256gb-without-face-time-black-4g-lte-6467732.html
-Huawei;P8 Lite - 5.0" - 16GB - 2GB RAM - 13MP Camera - Golden - 4G LTE;Golden;22,000;19,498;https://www.daraz.pk/p8-lite-5-4g-16gb-2gb-ram-1.2-ghz-octa-core-13-mp-camera-gold-brand-warranty-huawei-mpg11778.html
-Huawei;P9 Lite - 16GB - Black - 4G LTE;Black;28,500;24,700;https://www.daraz.pk/p9-lite-16-gb-black-huawei-mpg45017.html
-QMobile;Noir S6s - 16GB - Gold;Golden;11,650;10,999;https://www.daraz.pk/qmobile-noir-s6s-16gb-gold-6433904.html
-QMobile;S6 Plus - 16GB - Gold;Golden;12,999;11,999;https://www.daraz.pk/qmobile-s6-plus-16gb-gold-6433890.html
-Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - Dual Sim - Grey - 4G LTE;Golden;28,500;26,990;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-dual-sim-grey-4g-lte-6476330.html
-Apple;iPhone 7 - 256GB - Without Face Time - Jet Black - 4G LTE;Black;0;121,289;https://www.daraz.pk/apple-iphone-7-256gb-without-face-time-jet-black-4g-lte-6432030.html
-Lenovo;K6 Note - 5.5" - 3GB RAM - 32GB - 16MP - Dark Grey - 4G LTE;Grey;0;25,900;https://www.daraz.pk/lenovo-k6-note-5.5-3gb-ram-32gb-16mp-dark-grey-4g-lte-6497648.html
-Samsung;Galaxy J7 J710F - 16GB - Golden - 4G LTE;Golden;33,000;27,899;https://www.daraz.pk/j710f-galaxy-j7-2gb-ram-gold-samsung-mpg45697.html
-Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP - Silver;Silver;0;28,500;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-silver-6487026.html
-Huawei;P9 Lite - 5.2" - 16GB - 2GB RAM - Golden;Golden;28,500;24,700;https://www.daraz.pk/p9-lite-5.2-16gb-2gb-ram-golden-huawei-mpg54099.html
-Huawei;P8 Lite - 5.0" - 16GB - 2GB RAM - 13MP Camera - White - 4G LTE;White;22,000;19,498;https://www.daraz.pk/p8-lite-5.0-16-gb-2-gb-ram-13-mp-camera-white-brand-warranty-huawei-mpg933.html
-Samsung;Galaxy A7 - 5.7" - 3GB - 32GB - 16MP - Black;White;55,000;53,999;https://www.daraz.pk/galaxy-a7-5.7-3gb-32gb-16mp-black-samsung-mpg56186.html
-Gfive;4G LTE 3 - 8GB - Black;Black;10,999;8,999;https://www.daraz.pk/gfive-4g-lte-3-8gb-black-6485167.html
-Apple;iPhone 7 Plus - 32GB - Without Face Time - Black - 4G LTE;Black;0;100,899;https://www.daraz.pk/apple-iphone-7-plus-32gb-without-face-time-black-4g-lte-6467734.html
-Huawei;Y6 Pro 3G - 5" - 2GB - 16GB - 13MP - Golden;Golden;16,900;16,250;https://www.daraz.pk/huawei-y6-pro-3g-5-2gb-16gb-13mp-golden-6487665.html
-Sony;D2302 - Xperia M2 Dual - 4.8" - 8GB HDD - 1GB RAM - 8 MP - Purple;Golden;27,000;13,999;https://www.daraz.pk/sony-d2302-xperia-m2-dual-4.8-8gb-hdd-1gb-ram-8-mp-purple-6470609.html
-Lenovo;Vibe C - A2020 - 5" - 16GB - 1GB RAM - 8MP - Black;Black;11,900;10,850;https://www.daraz.pk/lenovo-vibe-c-a2020-5-16gb-1gb-ram-8mp-black-6469422.html
-Huawei;Honor 6X - Dual Sim 5.5" - 32GB - 3GB - 12MP Camera - 4G LTE - Grey;Grey;28,500;27,360;https://www.daraz.pk/huawei-honor-6x-dual-sim-5.5-32gb-3gb-12mp-camera-4g-lte-grey-6485754.html
-Apple;iPhone 7 - 32GB - Without Face Time - Gold - 4G LTE;Golden;85,489;85,475;https://www.daraz.pk/iphone-7-32gb-without-face-time-gold-apple-mpg51577.html
-Apple;iPhone 7 - 128GB - Without Face Time - Silver - 4G LTE;Silver;0;98,389;https://www.daraz.pk/iphone-7-128gb-without-face-time-silver-apple-mpg51575.html
-Huawei;Honor 6x - 5.5" - 32GB HDD - 3GB RAM - 12MP Camera - Dual Sim - Gold - 4G LTE;Silver;28,500;26,990;https://www.daraz.pk/honor-6x-5.5-32gb-hdd-3gb-ram-12mp-camera-dual-sim-gold-4g-lte-huawei-mpg56259.html
-Huawei;Y3II - 4.5" - 8GB - 1GB - Golden;Golden;9,800;9,360;https://www.daraz.pk/huawei-y3ii-4.5-8gb-1gb-golden-6482094.html
-Samsung;Galaxy J7 Prime - 16GB - Golden;Golden;35,000;31,199;https://www.daraz.pk/galaxy-j7-prime-16gb-golden-samsung-mpg50643.html
-QMobile;Noir Z14 - 5.5" - 4GB RAM - 32GB ROM - Gold;Golden;0;25,500;https://www.daraz.pk/qmobile-noir-z14-5.5-4gb-ram-32gb-rom-gold-6394216.html
-Samsung;Galaxy J2 - 8GB - Gold;Golden;16,999;14,438;https://www.daraz.pk/galaxy-j2-8gb-gold-samsung-mpg42472.html
-Lenovo;C2 Power - 5" - 16GB ROM - 2GB RAM - Black - 4G LTE;Black;16,600;14,150;https://www.daraz.pk/c2-power-5-16gb-rom-2gb-ram-black-lenovo-mpg51210.html
-Apple;iPhone 7 - 128GB - Without Face Time - Black - 4G LTE;Black;0;98,389;https://www.daraz.pk/iphone-7-128gb-without-face-time-black-apple-mpg51571.html
-Apple;iPhone 7 - 128GB - Without Face Time - Gold - 4G LTE;Golden;0;98,389;https://www.daraz.pk/iphone-7-128gb-without-face-time-gold-apple-mpg51572.html
-Microsoft;Lumia 650 - 16 GB - Black;Black;23,000;21,500;https://www.daraz.pk/lumia-650-16-gb-black-microsoft-mpg44584.html
-Apple;iPhone 7 - 256GB - Without Face Time - Black - 4G LTE;Black;0;111,289;https://www.daraz.pk/iphone-7-256gb-without-face-time-black-apple-mpg53137.html
-Lenovo;Vibe Z2 - 32 GB - Titanium - 4G LTE;Black|Silver;52,000;24,000;https://www.daraz.pk/vibe-z2-5.5-32-gb-hdd-2-gb-ram-13-mp-camera-titanium-brand-warranty-lenovo-mpg4284.html
-Huawei;Y6 Pro 3G - 5" - 2GB RAM - 16GB - 13MP - Grey;Grey;16,899;15,890;https://www.daraz.pk/y6-pro-3g-5-2gb-ram-16gb-13mp-grey-huawei-mpg56264.html
-Apple;iPhone 7 Plus - 128GB - Without Face Time - Black - 4G LTE;Black;0;115,799;https://www.daraz.pk/apple-iphone-7-plus-128gb-without-face-time-black-4g-lte-6467733.html
-Samsung;J5 Prime - 5.0" - 16GB ROM - 2GB RAM - 13MP - Black;Black;27,000;24,320;https://www.daraz.pk/samsung-j5-prime-5.0-16gb-rom-2gb-ram-13mp-black-6446022.html
-Samsung;J710F - Galaxy J7 - 16GB - Gold With Free 16 GB Memory Card;Golden;33,000;29,100;https://www.daraz.pk/samsung-j710f-galaxy-j7-16gb-gold-with-free-16-gb-memory-card-6343302.html
-QMobile;I6 Metal HD - 0.5" - 16GB - 1GB RAM - 2 MP - Gold;Golden;0;8,850;https://www.daraz.pk/qmobile-i6-metal-hd-0.5-16gb-1gb-ram-2-mp-gold-6381702.html
+Lenovo;K5 Note A7020 - 32GB - Gold - 4G LTE;Golden;31,500;27,845;https://www.daraz.pk/k5-note-a7020-32gb-gold-lenovo-mpg47527.html
+Apple;iPhone 7 - 128GB - Without Face Time - Silver;Silver;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-silver-apple-mpg51575.html
+Apple;iPhone 7 - 32GB - Without Face Time - Rose Gold;Pink|Golden;0;85,499;https://www.daraz.pk/iphone-7-32gb-without-face-time-rose-gold-apple-mpg51578.html
+Apple;iPhone 7 - 32GB - Without Face Time - Silver;Silver;0;85,499;https://www.daraz.pk/iphone-7-32gb-without-face-time-silver-apple-mpg53138.html
+Huawei;Y6II LTE - 5.5" - 16GB - 2GB RAM - 8MP Camera - Black;Black;19,899;19,298;https://www.daraz.pk/y6ii-lte-5.5-16gb-2gb-ram-8mp-camera-black-huawei-mpg48085.html
+Apple;iPhone 7 - 128GB - Without Face Time - Black;Black;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-black-apple-mpg51571.html
+Lenovo;ZUK Z1 - 64GB - White;White;27,000;19,699;https://www.daraz.pk/lenovo-zuk-z1-64gb-white-6448908.html
+Samsung;Galaxy J5 J500H - 8GB - Golden;Golden;23,000;20,499;https://www.daraz.pk/j500h-galaxy-j5-5.0-8-gb-1.2-ghz-quad-core-gold-samsung-mpg38825.html
+Huawei;Y6II LTE - 5.5" - 16GB - 2GB RAM - 8M - Black;Black;17,999;17,280;https://www.daraz.pk/y6ii-lte-16gb-black-huawei-mpg49617.html
+Lenovo;K5 Plus - 5.0" - 16GB - 2GB RAM - 13MP Camera - Gold - 4G LTE;Golden;23,500;13,899;https://www.daraz.pk/vibe-k5-plus-16gb-gold-mobilink-free-6gb-bundle-offer-lenovo-mpg43292.html
+Samsung;Galaxy J7 Prime - 5.5" - 16GB - 3GB RAM - 13MP - Black;Black;0;27,585;https://www.daraz.pk/galaxy-j7-prime-5.5-16gb-3gb-ram-13mp-black-samsung-mpg59094.html
+Alcatel;Pop 4 - 6’’ - 4G - 16GB - 2GB - Metallic Gold;;0;24,999;https://www.daraz.pk/alcatel-pop-4-6-4g-16gb-2gb-metallic-gold-6570791.html
+Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - Black;;24,900;23,890;https://www.daraz.pk/honor-8-lite-16gb-3gb-fingerprint-sensor-black-huawei-mpg57097.html
+Apple;iPhone 7 - 128GB - Without Face Time - Jet Black;Black;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-jet-black-apple-mpg51573.html
+Samsung;Galaxy J7 Prime - 16GB - Black;;35,000;27,399;https://www.daraz.pk/galaxy-j7-prime-16gb-black-samsung-mpg58631.html
+Apple;iPhone 7 - 128GB - Without Face Time - Gold;Golden;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-gold-apple-mpg51572.html
+Lenovo;A6010 - 16GB - Black & White - 4G LTE;Black|White;16,500;13,050;https://www.daraz.pk/a6010-16gb-white-mobilink-free-6gb-bundle-offer-lenovo-mpg43290.html
+Apple;iPhone 7 - 128GB - Without Face Time - Rose Gold;Pink|Golden;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-rose-gold-apple-mpg51574.html
+Mi;Redmi 4A - 5.0" - 2GB - 32GB - 13MP - 4G - Gold;Golden;0;14,500;https://www.daraz.pk/mi-redmi-4a-5.0-2gb-32gb-13mp-4g-gold-6579322.html
+Mi;Redmi 4A - 5.0" - 2GB - 16GB - 13MP - 4G - Gold;Golden;0;13,900;https://www.daraz.pk/mi-redmi-4a-5.0-2gb-16gb-13mp-4g-gold-6514727.html
+Mi;Note 4 - C6 - 5.5" - 3GB - 32GB - 13MP - 4G - Black;;0;20,900;https://www.daraz.pk/mi-note-4-c6-5.5-3gb-32gb-13mp-4g-black-6514725.html
+Infinix;Hot 4 - X557 - 16GB - 2GB - Luxurious Gold;Golden,Black;0;12,599;https://www.daraz.pk/infinix-hot-4-x557-16gb-2gb-luxurious-gold-6382106.html
+Infinix;S2 - X522 - 5.2" - Selfie Wefie Dual Camera - 16GB - Black;;0;18,600;https://www.daraz.pk/infinix-s2-x522-5.2-selfie-wefie-dual-camera-16gb-black-6599929.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB - 1.5GB RAM - 8MP Camera - Gold;Golden,Silver,Black;16,000;14,799;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-1.5gb-ram-8mp-camera-gold-6486068.html
+Infinix;Hot 4 - X557 - 16GB - 2GB - Sandstone Black;Black,Golden;0;12,599;https://www.daraz.pk/hot-4-x557-16gb-2gb-sandstone-black-infinix-mpg50040.html
+Infinix;Zero 4 Plus - X602 - 5.98" - 64GB - 4GB RAM -  20.7MP - Gold - 4G LTE;Golden;0;29,999;https://www.daraz.pk/infinix-zero-4-plus-x602-5.98-64gb-4gb-ram-20.7mp-gold-4g-lte-6482805.html
+Mi;Redmi 4A - 5.0" - 2GB - 32GB - 13MP - 4G - Grey;;0;14,500;https://www.daraz.pk/mi-redmi-4a-5.0-2gb-32gb-13mp-4g-grey-6575904.html
+Mi;Redmi 4A - 5.0" - 2GB - 16GB - 13MP - 4G - Grey;Golden;0;13,900;https://www.daraz.pk/mi-redmi-4a-5.0-2gb-16gb-13mp-4g-grey-6540579.html
+Infinix;Zero 4 Plus - X602 - 64GB - 4GB - Gray - 4G LTE;,Golden;0;29,999;https://www.daraz.pk/infinix-zero-4-plus-x602-64gb-4gb-gray-4g-lte-6519592.html
+Lenovo;K5 Note A7020 - 32GB - Gold - 4G LTE;;29,000;19,799;https://www.daraz.pk/lenovo-k5-note-a7020-32gb-gold-4g-lte-6578420.html
+Huawei;P9 Lite - 5.2" - 16GB - 2GB RAM - 13MP Camera - 4G LTE - Golden;Golden;21,999;21,115;https://www.daraz.pk/p9-lite-16-gb-golden-huawei-mpg45018.html
+Huawei;Honor 6x - 5.5" - 32GB HDD - 3GB RAM - 12MP Camera - Dual Sim - Gold - 4G LTE;;27,500;26,490;https://www.daraz.pk/honor-6x-5.5-32gb-hdd-3gb-ram-12mp-camera-dual-sim-gold-4g-lte-huawei-mpg56259.html
+Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - Dual Sim - Grey - 4G LTE;;27,500;26,490;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-dual-sim-grey-4g-lte-6476330.html
+Huawei;P8 Lite - 5.0" - 16GB - 2GB RAM - 13MP Camera - Golden - 4G LTE;Golden,Black;19,000;18,235;https://www.daraz.pk/p8-lite-5-4g-16gb-2gb-ram-1.2-ghz-octa-core-13-mp-camera-gold-brand-warranty-huawei-mpg11778.html
+Huawei;Y6 Pro 3G - 5" - 2GB RAM - 16GB - 13MP - Gold;Golden;14,999;14,399;https://www.daraz.pk/y6-pro-3g-5-2gb-ram-16gb-13mp-gold-huawei-mpg56263.html
+Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - Gold;;24,900;23,890;https://www.daraz.pk/huawei-honor-8-lite-16gb-3gb-fingerprint-sensor-gold-6527726.html
+Samsung;Galaxy J5 Prime - 1.4 GHz - 5.0" - 2 GB - 16 GB - 13 MP - Gold;Golden;27,000;23,399;https://www.daraz.pk/galaxy-j5-prime-1.4-ghz-5.0-2-gb-16-gb-13-mp-gold-samsung-mpg50286.html
+Lenovo;K5 Plus - 5" - 16GB - 2GB RAM - 13 MP Camera - Silver - 4G LTE;Silver;23,500;13,899;https://www.daraz.pk/vibe-k5-plus-16gb-silver-mobilink-free-6gb-bundle-offer-lenovo-mpg43293.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Graphite Black;;59,999;59,000;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-graphite-black-6602010.html
+Huawei;Y360 - 4GB - Black;Black;7,899;5,999;https://www.daraz.pk/huawei-y360-4gb-black-6446702.html
+Lenovo;K5 Note A7020 - 32GB - Gold - 4G LTE;Golden;31,500;27,845;https://www.daraz.pk/k5-note-a7020-32gb-gold-lenovo-mpg47527.html
+Apple;iPhone 7 - 128GB - Without Face Time - Silver;Silver;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-silver-apple-mpg51575.html
+Apple;iPhone 7 - 32GB - Without Face Time - Rose Gold;Pink|Golden;0;85,499;https://www.daraz.pk/iphone-7-32gb-without-face-time-rose-gold-apple-mpg51578.html
+Apple;iPhone 7 - 32GB - Without Face Time - Silver;Silver;0;85,499;https://www.daraz.pk/iphone-7-32gb-without-face-time-silver-apple-mpg53138.html
+Huawei;Y6II LTE - 5.5" - 16GB - 2GB RAM - 8MP Camera - Black;Black;19,899;19,298;https://www.daraz.pk/y6ii-lte-5.5-16gb-2gb-ram-8mp-camera-black-huawei-mpg48085.html
+Apple;iPhone 7 - 128GB - Without Face Time - Black;Black;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-black-apple-mpg51571.html
+Lenovo;ZUK Z1 - 64GB - White;White;27,000;19,699;https://www.daraz.pk/lenovo-zuk-z1-64gb-white-6448908.html
+Samsung;Galaxy J5 J500H - 8GB - Golden;Golden;23,000;20,499;https://www.daraz.pk/j500h-galaxy-j5-5.0-8-gb-1.2-ghz-quad-core-gold-samsung-mpg38825.html
+Huawei;Y6II LTE - 5.5" - 16GB - 2GB RAM - 8M - Black;Black;17,999;17,280;https://www.daraz.pk/y6ii-lte-16gb-black-huawei-mpg49617.html
+Lenovo;K5 Plus - 5.0" - 16GB - 2GB RAM - 13MP Camera - Gold - 4G LTE;Golden;23,500;13,899;https://www.daraz.pk/vibe-k5-plus-16gb-gold-mobilink-free-6gb-bundle-offer-lenovo-mpg43292.html
+Samsung;Galaxy J7 Prime - 5.5" - 16GB - 3GB RAM - 13MP - Black;Black;0;27,585;https://www.daraz.pk/galaxy-j7-prime-5.5-16gb-3gb-ram-13mp-black-samsung-mpg59094.html
+Alcatel;Pop 4 - 6’’ - 4G - 16GB - 2GB - Metallic Gold;;0;24,999;https://www.daraz.pk/alcatel-pop-4-6-4g-16gb-2gb-metallic-gold-6570791.html
+Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - Black;;24,900;23,890;https://www.daraz.pk/honor-8-lite-16gb-3gb-fingerprint-sensor-black-huawei-mpg57097.html
+Apple;iPhone 7 - 128GB - Without Face Time - Jet Black;Black;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-jet-black-apple-mpg51573.html
+Samsung;Galaxy J7 Prime - 16GB - Black;;35,000;27,399;https://www.daraz.pk/galaxy-j7-prime-16gb-black-samsung-mpg58631.html
+Apple;iPhone 7 - 128GB - Without Face Time - Gold;Golden;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-gold-apple-mpg51572.html
+Lenovo;A6010 - 16GB - Black & White - 4G LTE;Black|White;16,500;13,050;https://www.daraz.pk/a6010-16gb-white-mobilink-free-6gb-bundle-offer-lenovo-mpg43290.html
+Apple;iPhone 7 - 128GB - Without Face Time - Rose Gold;Pink|Golden;0;98,399;https://www.daraz.pk/iphone-7-128gb-without-face-time-rose-gold-apple-mpg51574.html
+QmobileJazzX;JS2 - 8GB - Black;Black;0;6,999;https://www.daraz.pk/qmobile-jazz-x-js2-8gb-black-6419986.html
+Microsoft;RM-1031 - Lumia 532 - 8GB - Orange;Orange;8,900;5,399;https://www.daraz.pk/rm-1031-lumia-532-4.0-8-gb-1-gb-ram-5-mp-camera-orange-brand-warranty-microsoft-mpg4579.html
+Samsung;Galaxy J2 - 4.7" - 8GB - 1GB RAM - 5MP Camera - Black;Black;16,500;14,450;https://www.daraz.pk/galaxy-j2-3g-4.7-8-gb-1-gb-ram-1.3-ghz-quad-core-5-mp-camera-black-brand-warranty-samsung-mpg38006.html
+Huawei;Mate 9 - 64GB ROM - 4GB RAM - 4G LTE - Matte Black;Black,Golden,Grey;0;69,899;https://www.daraz.pk/huawei-mate-9-64gb-rom-4gb-ram-4g-lte-matte-black-6493647.html
+Samsung;Galaxy J2 - 4.7" - 8GB - 1GB RAM - 5 MP - White;White;16,500;14,450;https://www.daraz.pk/galaxy-j2-4.7-8-gb-1.3-ghz-quad-core-white-samsung-mpg38915.html
+QMobile;i5.5 - 8GB - Golden;Golden;0;8,950;https://www.daraz.pk/qmobile-i5.5-8gb-golden-6419865.html
+Huawei;Y6II LTE - 16GB - Gold - 4G LTE;;17,999;17,290;https://www.daraz.pk/y6ii-lte-16gb-gold-huawei-mpg49618.html
 Huawei;Ascend Mate 7 - 6" - MT7-TL10 - 32GB - Gold;Golden;50,000;41,666;https://www.daraz.pk/mt7-tl10-ascend-mate-7-6.0-32-gb-3-gb-ram-1.8-ghz-quad-core-13-mp-camera-gold-brand-warranty-huawei-mpg3816.html
-HTC;Desire 628 - 32GB - Black & Red;Black|Red;23,999;21,999;https://www.daraz.pk/htc-desire-628-32gb-black-red-6423023.html
-QMobile;Qmobile LT650 - 16GB - 1GB - Black;Black;0;9,999;https://www.daraz.pk/qmobile-qmobile-lt650-16gb-1gb-black-6395545.html
-Microsoft;Lumia 650 - 16 GB - White;White;0;23,000;https://www.daraz.pk/lumia-650-16-gb-white-microsoft-mpg43656.html
-Sony;D2302 - Xperia M2 - 4.8" - 8GB HDD - 1GB RAM - 8 MP - White;White;27,000;13,999;https://www.daraz.pk/sony-d2302-xperia-m2-4.8-8gb-hdd-1gb-ram-8-mp-white-6470608.html
-Samsung;Galaxy J5 Prime - 1.4 GHz - 5.0" - 2 GB - 16 GB - 13 MP - Black;Black;29,000;24,999;https://www.daraz.pk/galaxy-j5-prime-1.4-ghz-5.0-2-gb-16-gb-13-mp-black-samsung-mpg50285.html
-Huawei;Honor 5X - 5.5" - 16GB - Golden;Golden;23,000;21,899;https://www.daraz.pk/huawei-honor-5x-5.5-16gb-golden-6482099.html
-Huawei;Honor 8 - 32GB - With 3D Fingerprint Sensor - Sapphire Blue - 4G LTE;Blue;48,499;45,000;https://www.daraz.pk/honor-8-32gb-with-3d-fingerprint-sensor-sapphire-blue-huawei-mpg49614.html
-HTC;One X9 - 5.5" - 32GB ROM - 3GB RAM - 13MP - Carbon Grey;Grey;39,999;34,699;https://www.daraz.pk/one-x9-5.5-32gb-rom-3gb-ram-13mp-carbon-grey-htc-mpg50310.html
-Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - Dual Sim - 4G - Gold;Golden;28,500;28,300;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-dual-sim-4g-gold-6487019.html
-QMobile;Noir J5 - 2GB RAM - 16GB ROM - 4G LTE – Grey;Grey,Golden;0;12,990;https://www.daraz.pk/qmobile-noir-j5-2gb-ram-16gb-rom-4g-lte-grey-6426713.html
+Apple;iPhone 7 - 32GB - Without Face Time - Gold;Golden;0;85,499;https://www.daraz.pk/iphone-7-32gb-without-face-time-gold-apple-mpg51577.html
+Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Moca Brown - 4G LTE;Golden,Black,Grey;64,999;62,399;https://www.daraz.pk/mate-9-64gb-rom-4gb-ram-20mp-camera-android-moca-brown-4g-lte-huawei-mpg56260.html
+Huawei;Nova Plus - 5.5" - 3GB RAM - 32GB - 16MP - Prestige Gold - 4G LTE;Golden;31,999;30,719;https://www.daraz.pk/nova-plus-5.5-3gb-32gb-prestige-gold-huawei-mpg51790.html
+QMobile;Z12 Pro - 32GB - Golden;Golden;0;17,500;https://www.daraz.pk/qmobile-z12-pro-5.5-32gb-3gb-ram-13mp-camera-gold-qmobile-mpg50265.html
+Microsoft;RM-1090 - Lumia 535 - 8GB - Green;Green;14,500;7,499;https://www.daraz.pk/rm-1090-lumia-535-dual-sim-5.0-8-gb-1-gb-ram-1.2-ghz-quad-core-5-mp-camera-green-brand-warranty-microsoft-mpg4834.html
+Samsung;Galaxy J1 Ace - J110H - 4GB - Black;Black;11,990;11,199;https://www.daraz.pk/j1-ace-j110h-4.3-4gb-hdd-768mb-ram-5mp-camera-black-brand-warranty-samsung-mpg8328.html
+Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Champagne Gold;Golden,Black,Grey;69,899;67,106;https://www.daraz.pk/huawei-mate-9-64gb-rom-4gb-ram-20mp-camera-android-champagne-gold-6449721.html
+Lenovo;B A2016 - 8GB - White - 4G LTE;White;9,500;8,575;https://www.daraz.pk/b-a2016-8gb-white-lenovo-mpg51501.html
+Samsung;Galaxy J5 - J510F - 16GB ROM - 2GB RAM - 13MP Camera - Android - Gold - 4G LTE;Golden;29,000;20,999;https://www.daraz.pk/j510f-galaxy-j5-2016-edition-5.2-16gb-hdd-2gb-ram-gold-samsung-mpg44617.html
+QMobile;Noir i6i - 4GB - Gold;;0;7,850;https://www.daraz.pk/noir-i6i-5-4gb-hdd-768mb-ram-5mp-camera-black-brand-warranty-qmobile-mpg5407.html
+Samsung;Galaxy J5 - J510F - 16GB ROM - 2GB RAM - 13MP Camera - White - 4G LTE;White;29,000;20,999;https://www.daraz.pk/j510f-galaxy-j5-2016-edition-5.2-16gb-hdd-2gb-ram-white-samsung-mpg44616.html
+Huawei;Honor 5X - 16GB - Golden - 4G LTE;Golden;23,000;17,278;https://www.daraz.pk/honor-5x-16gb-gold-huawei-mpg38895.html
+Samsung;Galaxy J5 Prime - 1.4 GHz - 5.0" - 2 GB - 16 GB - 13 MP - Black;Black;24,999;23,599;https://www.daraz.pk/galaxy-j5-prime-1.4-ghz-5.0-2-gb-16-gb-13-mp-black-samsung-mpg50285.html
+Lenovo;K5 Note - A7020 - 5.5"- 3GB - 32GB - Silver - 4G LTE;;29,000;19,799;https://www.daraz.pk/k5-note-a7020-5.5-3gb-32gb-silver-lenovo-mpg53958.html
+Huawei;Honor 6x - 5.5" - 32GB - 3GB - 4G LTE - Golden;Golden;27,500;26,399;https://www.daraz.pk/honor-6x-5.5-32gb-3gb-4g-lte-golden-huawei-mpg54401.html
+Huawei;Y3II - 8 GB - Gold;Golden;9,799;9,390;https://www.daraz.pk/y3ii-8-gb-gold-huawei-mpg45025.html
+Huawei;P8 Lite - 16GB - Black;Black,Golden;19,000;18,235;https://www.daraz.pk/p8-lite-5.0-16-gb-2-gb-ram-13-mp-camera-black-brand-warranty-huawei-mpg932.html
+Lenovo;Vibe Z2 - 32 GB - Titanium - 4G LTE;Black|Silver;52,000;24,000;https://www.daraz.pk/vibe-z2-5.5-32-gb-hdd-2-gb-ram-13-mp-camera-titanium-brand-warranty-lenovo-mpg4284.html
+Lenovo;P1M - Vibe - 16 GB - White;White;18,900;14,599;https://www.daraz.pk/vibe-p1m-16gb-white-lenovo-mpg38127.html
+Huawei;Ascend Y3II - 4.5 inches - 8GB HDD - 1GB RAM - 5MP Camera - White;White;9,799;9,395;https://www.daraz.pk/y3ii-8-gb-white-huawei-mpg45026.html
+Lenovo;P1M - Vibe - 16GB - Black;Black;0;18,000;https://www.daraz.pk/vibe-p1m-5-16-gb-2-gb-ram-1-ghz-quad-core-8-mp-camera-black-brand-warranty-lenovo-mpg35931.html
+Samsung;J500H - Galaxy J5 - 8GB - 1.5GB RAM - 13MP Camera - White;White;0;23,000;https://www.daraz.pk/j500h-galaxy-j5-8gb-white-samsung-mpg42473.html
+Huawei;Y6II LTE - 5.5" - 16GB - 2GB RAM - 8MP Camera - Gold;Golden;0;19,899;https://www.daraz.pk/y6ii-lte-5.5-16gb-2gb-ram-8mp-camera-gold-huawei-mpg48086.html
+HTC;Desire 620G - 5" - 1GB RAM - 8GB - 8MP - Grey;Grey;14,500;12,850;https://www.daraz.pk/desire-620g-8gb-grey-htc-mpg49860.html
+Huawei;Y6 Pro - 16GB - Golden;Golden;18,000;16,309;https://www.daraz.pk/y6-pro-2gb-16gb-gold-huawei-mpg43023.html
+Microsoft;RM-1031 - Lumia 532 - 8GB - White;White;0;12,050;https://www.daraz.pk/rm-1031-lumia-532-4.0-8-gb-1-gb-ram-5-mp-camera-white-brand-warranty-microsoft-mpg4580.html
+Microsoft;Lumia 630 - 8 GB - White;White;0;13,950;https://www.daraz.pk/rm-978-lumia-630-dual-sim-4.5-8-gb-hdd-512-mb-ram-5-mp-camera-white-brand-warranty-microsoft-mpg81.html
+Huawei;Honor 4C - 8GB - Black ;Black;20,999;16,270;https://www.daraz.pk/honor-4c-dual-sim-5.0-8-gb-hdd-2-gb-ram-13-mp-camera-black-brand-warranty-huawei-mpg821.html
+Lenovo;A2010 - 8GB - 4G - Black;Black;0;9,000;https://www.daraz.pk/a2010-8gb-4g-black-lenovo-mpg55752.html
+Samsung;Galaxy J700H - 16GB - Gold - 4G LTE;Golden;27,500;25,987;https://www.daraz.pk/j700h-galaxy-j7-5.5-16-gb-1.4-ghz-quad-core-gold-samsung-mpg38826.html
+HTC;Desire 526G+ - 4.7" - 16GB - Dual Sim - Lacquer Black;Black;0;13,999;https://www.daraz.pk/desire-526g-16gb-lacqure-black-htc-mpg45491.html
+Huawei;Y6 Pro - 5.0" - 2GB ROM - 16GB RAM - 13MP Camera - Black;Black;24,500;16,309;https://www.daraz.pk/y6-pro-2gb-16gb-grey-huawei-mpg43024.html
+HTC;Desire 620G - 5" - 1GB RAM - 8GB - 8MP - White;White;0;14,500;https://www.daraz.pk/desire-620g-8gb-white-htc-mpg49861.html
+Lenovo;A5000 - 5" - 8GB ROM - 1GB RAM - 8MP Camera - Black;Black;0;12,850;https://www.daraz.pk/a5000-5-8-gb-1-gb-ram-8-mp-camera-black-brand-warranty-lenovo-mpg967.html
+Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Space Grey - 4G LTE;Grey,Golden,Black;64,999;62,399;https://www.daraz.pk/mate-9-64gb-rom-4gb-ram-20mp-camera-android-space-grey-4g-lte-huawei-mpg56262.html
+Samsung;Galaxy A5 - 5.2" - 3GB - 32GB - 16MP - Black;;47,000;37,199;https://www.daraz.pk/galaxy-a5-5.2-3gb-32gb-16mp-black-samsung-mpg56185.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB - 1.5GB RAM - 8MP Camera - Black;Black,Silver,Golden;16,000;14,799;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-1.5gb-ram-8mp-camera-black-6486078.html
+Samsung;J7 Prime - 5.5" - 16GB ROM - 3GB RAM - Gold;Golden;34,999;27,399;https://www.daraz.pk/j7-prime-5.5-32gb-rom-3gb-ram-gold-samsung-mpg50022.html
+Samsung;Galaxy A5 - 5.2" - 3GB - 32GB - 16MP - Gold;;47,000;37,199;https://www.daraz.pk/galaxy-a5-5.2-3gb-32gb-16mp-gold-samsung-mpg60077.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB - 1.5GB RAM - 8MP Camera - Silver;Silver,Black,Golden;16,000;14,799;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-1.5gb-ram-8mp-camera-silver-6486072.html
+Samsung;Galaxy J7 Prime - 16GB - Golden;Golden;35,000;27,399;https://www.daraz.pk/galaxy-j7-prime-16gb-golden-samsung-mpg50643.html
+QMobile;Noir E1 - 4G LTE - 3GB RAM - 16GB ROM - Gold - Brand Warranty;;0;13,500;https://www.daraz.pk/qmobile-noir-e1-4g-lte-3gb-ram-16gb-rom-gold-brand-warranty-6494401.html
+QMobile;S6 Plus - 16GB - Gold;Golden;0;11,999;https://www.daraz.pk/qmobile-s6-plus-16gb-gold-6433890.html
+Samsung;Galaxy J7 J710F - 16GB - Golden - 4G LTE;Golden;33,000;25,399;https://www.daraz.pk/j710f-galaxy-j7-2gb-ram-gold-samsung-mpg45697.html
+Samsung;J5 Prime - 5.0" - 16GB ROM - 2GB RAM - 13MP - Black;Black;27,000;23,399;https://www.daraz.pk/samsung-j5-prime-5.0-16gb-rom-2gb-ram-13mp-black-6446022.html
+Samsung;Galaxy A5 - 5.2" - 3GB - 32GB - 16MP - Blue;;47,000;37,199;https://www.daraz.pk/galaxy-a5-5.2-3gb-32gb-16mp-blue-samsung-mpg57676.html
+Samsung;Galaxy A3 - 4.7" - 2GB - 16GB - 13MP - Gold;;37,500;31,399;https://www.daraz.pk/samsung-galaxy-a3-4.7-2gb-16gb-13mp-gold-samsung-mpg55898.html
+Samsung;Galaxy J1 Mini Prime - 8GB - Gold;Golden;10,000;9,570;https://www.daraz.pk/samsung-galaxy-j1-mini-prime-8gb-gold-6501737.html
+Huawei;Honor 6X - Dual Sim 5.5" - 32GB - 3GB - 12MP Camera - 4G LTE - Grey;Grey;28,500;26,397;https://www.daraz.pk/huawei-honor-6x-dual-sim-5.5-32gb-3gb-12mp-camera-4g-lte-grey-6485754.html
+Huawei;P9 Lite - 16 GB - Black - 4G LTE;Black;21,999;21,115;https://www.daraz.pk/p9-lite-16-gb-black-huawei-mpg45017.html
+Huawei;Y5II - 5.0" - 8GB - Golden;Golden;14,000;11,520;https://www.daraz.pk/y5ii-5.0-8gb-golden-huawei-mpg53908.html
+Huawei;Honor 8 - 5.2" - 32GB - 4GB - 12MP - Midnight Black - With 3D Fingerprint Sensor - 4G LTE;Black;41,999;40,319;https://www.daraz.pk/honor-8-5.2-32gb-4gb-12mp-midnight-black-with-3d-fingerprint-sensor-huawei-mpg49863.html
+Huawei;Honor 8 - 32GB - With 3D Fingerprint Sensor - Sapphire Blue - 4G LTE;Blue;41,999;40,319;https://www.daraz.pk/honor-8-32gb-with-3d-fingerprint-sensor-sapphire-blue-huawei-mpg49614.html
+Samsung;Galaxy J1 Mini Prime - 8GB - White;White;10,000;9,570;https://www.daraz.pk/samsung-galaxy-j1-mini-prime-8gb-white-6501958.html
+Samsung;Galaxy J1 Mini Prime - 8GB - Black;Black;10,000;9,570;https://www.daraz.pk/samsung-galaxy-j1-mini-prime-8gb-black-6501757.html
+Samsung;Galaxy A7 - 5.7" - 3GB - 32GB - 16MP - Gold;;55,000;46,999;https://www.daraz.pk/galaxy-a7-5.7-3gb-32gb-16mp-gold-samsung-mpg56187.html
+OMK;Dummy 2;;0;1,000;https://www.daraz.pk/omk-dummy-2-5407974.html
+Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Champagne Gold - 4G LTE;Golden;64,999;62,399;https://www.daraz.pk/mate-9-64gb-rom-4gb-ram-20mp-camera-android-champagne-gold-4g-lte-huawei-mpg54677.html
+Huawei;GR3 - 5.0" - 16GB - 2GB RAM - 13MP - Silver;Silver;28,000;15,358;https://www.daraz.pk/huawei-gr3-5.0-16gb-2gb-ram-13mp-silver-6429751.html
+Samsung;Galaxy J5 Prime - 16 GB - Black;Black;29,400;23,890;https://www.daraz.pk/samsung-galaxy-j5-prime-16-gb-black-6408787.html
+Huawei;P9 Lite - 16GB - White - 4G LTE;White;21,999;21,115;https://www.daraz.pk/p9-lite-16-gb-white-huawei-mpg45019.html
+Samsung;Galaxy J5 Prime - 16 GB - Gold;Golden;27,000;23,399;https://www.daraz.pk/samsung-galaxy-j5-prime-16-gb-gold-6419817.html
+Sony;Xperia M2 Aqua - 4.8" - 8GB - 1GB - 8MP Camera - White;White;27,500;13,999;https://www.daraz.pk/sony-xperia-m2-aqua-4.8-8gb-1gb-8mp-camera-white-6501926.html
 Sony;Xperia M2 Aqua - D2403 - 4.8" - 8GB - 1GB RAM - 8MP - Black ;Black;27,500;13,999;https://www.daraz.pk/m2-aqua-d2403-4.8-inches-4g-8gb-android-black-brand-warranty-sony-mpg6956.html
-Samsung;J320F - Galaxy J3 - 8GB - With Free Kingston 16 GB Micro SD Card - Gold;Golden;23,000;18,200;https://www.daraz.pk/samsung-j320f-galaxy-j3-8gb-with-free-kingston-16-gb-micro-sd-card-gold-6343321.html
-Samsung;J510F - Galaxy J5 - 16GB - With Free 16 GB Memory Card - White;White;31,000;23,900;https://www.daraz.pk/samsung-j510f-galaxy-j5-16gb-with-free-16-gb-memory-card-white-6343305.html
-Lenovo;K5 Plus - 5" - 16GB - 2GB RAM - 13 MP Camera - Silver - 4G LTE;Silver;19,499;16,899;https://www.daraz.pk/vibe-k5-plus-16gb-silver-mobilink-free-6gb-bundle-offer-lenovo-mpg43293.html
-Apple;iPhone 7 - 128GB - Without Face Time - Rose Gold - 4G LTE;Pink|Golden;0;98,389;https://www.daraz.pk/iphone-7-128gb-without-face-time-rose-gold-apple-mpg51574.html
-Huawei;Y6II LTE - Dual Sim - 5.5" - 16GB ROM - 2GB RAM - 8MP Camera - Gold;Golden;0;19,899;https://www.daraz.pk/huawei-y6ii-lte-dual-sim-5.5-16gb-rom-2gb-ram-8mp-camera-gold-6426878.html
-QMobile;i6 Metal HD - 16GB - Grey;Grey;0;8,850;https://www.daraz.pk/i6-metal-hd-16gb-grey-qmobile-mpg45560.html
-Huawei;Y3II - 4.5" - 8GB - 1GB RAM - 5MP Camera - Gold;Golden;9,799;9,500;https://www.daraz.pk/huawei-y3ii-4.5-8gb-1gb-ram-5mp-camera-gold-6407658.html
-Samsung;J320F - Galaxy J3 - 8GB - With Free Kingston 16 GB Micro SD Card - White;White;23,000;18,200;https://www.daraz.pk/samsung-j320f-galaxy-j3-8gb-with-free-kingston-16-gb-micro-sd-card-white-6343327.html
-HTC;Desire 626 - 5.0" - 16GB ROM - 2GB RAM - 13MP Camera - White;White;23,499;17,499;https://www.daraz.pk/desire-626-4g-lte-16gb-white-htc-mpg44987.html
-Samsung;J510F - Galaxy J5 - 16GB - With Free 16 GB Memory Card - Gold;Golden;29,800;23,900;https://www.daraz.pk/samsung-j510f-galaxy-j5-16gb-with-free-16-gb-memory-card-gold-6343307.html
-Samsung;J710F - Galaxy J7 - 16GB - Black With Free 16 GB Memory Card;Black;33,000;29,100;https://www.daraz.pk/samsung-j710f-galaxy-j7-16gb-black-with-free-16-gb-memory-card-6343301.html
-Huawei;Ascend Mate 8 - 64GB - Golden;Golden;63,999;61,440;https://www.daraz.pk/ascend-mate-8-4g-lte-6.0-32-gb-gold-huawei-mpg38894.html
-Samsung;J320F - Galaxy J3 - 8GB - With Free Kingston 16 GB Micro SD Card - Black;Black;23,000;18,200;https://www.daraz.pk/samsung-j320f-galaxy-j3-8gb-with-free-kingston-16-gb-micro-sd-card-black-6343324.html
-Symphony;P6 Pro Xplorer - 16GB ROM - 3 GB RAM - Golden;Golden;0;19,999;https://www.daraz.pk/symphony-p6-pro-xplorer-16gb-rom-3-gb-ram-golden-6308825.html
-Samsung;Galaxy J700H - 16GB - Black;Black;28,000;25,543;https://www.daraz.pk/galaxy-j7-j700h-5.5-16-gb-1.5-gb-ram-1.4-ghz-quad-core-13-mp-camera-black-brand-warranty-samsung-mpg6203.html
-Lenovo;C2 Power - 16GB - White;White;16,600;14,099;https://www.daraz.pk/c2-power-5-2gb-ram-16gb-rom-white-lenovo-mpg50312.html
-HTC;Desire 728 - 16GB - Black - 4G LTE;Black;25,499;20,899;https://www.daraz.pk/desire-728-5.5-16-gb-2gb-ram-13mp-camera-dual-sim-purple-myst-htc-mpg44988.html
-HTC;Desire 526G+ - 4.7" - 16GB ROM - 1GB RAM - 8MP Camera - Dual Sim - Glacier Blue;Blue;14,500;10,850;https://www.daraz.pk/desire-526g-16gb-glacier-blue-htc-mpg45747.html
-Samsung;J700F Galaxy J7 - 16 GB - Golden;Golden;28,600;25,600;https://www.daraz.pk/samsung-j700f-galaxy-j7-16-gb-golden-6310020.html
-Apple;iPhone 7 - 32GB - Without Face Time - Rose Gold - 4G LTE;Pink|Golden;85,489;85,475;https://www.daraz.pk/iphone-7-32gb-without-face-time-rose-gold-apple-mpg51578.html
-Lenovo;A328 - 4.5" - 4GB - 1GB RAM - 5MP Camera - Black;Black;0;11,900;https://www.daraz.pk/a328-4.5-4-gb-1-gb-ram-1.3-ghz-quad-core-5-mp-camera-dark-blue-brand-warranty-lenovo-mpg4146.html
-HTC;Desire 628 - 32GB - Cobalt White;White;23,999;21,999;https://www.daraz.pk/desire-628-32gb-cobalt-white-htc-mpg48000.html
-Samsung;Galaxy J1 J120F - 4.5" - 8GB - 1GB RAM - 5MP Camera - Gold;Golden;16,900;13,500;https://www.daraz.pk/j120f-galaxy-j1-2016-edition-4.5-8gb-hdd-1-gb-ram-gold-samsung-mpg44651.html
-HTC;Desire 526G+ - 4.7" - 16GB - 1GB RAM - 8 MP - Black;Black;14,000;13,399;https://www.daraz.pk/htc-desire-526g-4.7-16gb-1gb-ram-8-mp-black-6487054.html
-Lenovo;Vibe P1 - 5.5" - 32GB - 2GB RAM - 13MP Camera - Golden;Golden;34,000;26,999;https://www.daraz.pk/vibe-p1-5.5-32gb-gold-2.4x-charging-speed-lenovo-mpg44609.html
-Huawei;Y5II - 8GB - Golden;Golden;13,499;12,286;https://www.daraz.pk/y5ii-8-gb-gold-huawei-mpg45027.html
-Huawei;Y5II - 5.0" - 8GB - Black;Black;13,499;12,288;https://www.daraz.pk/huawei-y5ii-5.0-8gb-black-6437463.html
-Huawei;Y5II - 8 GB - White;White;13,499;12,286;https://www.daraz.pk/y5ii-8-gb-white-huawei-mpg45028.html
+Huawei;Y6 ii LTE - 5.5" - 2GB - 16GB - Golden;Golden;17,999;17,280;https://www.daraz.pk/y6-ii-lte-5.5-2gb-16gb-golden-huawei-mpg56265.html
+HTC;One X9 - 5.5" - 32GB ROM - 3GB RAM - 13MP - Carbon Grey;Grey;0;39,999;https://www.daraz.pk/one-x9-5.5-32gb-rom-3gb-ram-13mp-carbon-grey-htc-mpg50310.html
+Samsung;Galaxy A7 - 5.7" - 3GB - 32GB - 16MP - Blue;;55,000;46,999;https://www.daraz.pk/galaxy-a7-5.7-3gb-32gb-16mp-blue-samsung-mpg57677.html
+QMobile;Qmobile LT650 - 16GB - 1GB - Black;Black;0;9,999;https://www.daraz.pk/qmobile-qmobile-lt650-16gb-1gb-black-6395545.html
+Samsung;J710F - Galaxy J7 - 16GB - Gold With Free 16 GB Memory Card;Golden;0;33,000;https://www.daraz.pk/samsung-j710f-galaxy-j7-16gb-gold-with-free-16-gb-memory-card-6343302.html
+Huawei;Honor 6X - 5.5" - 32GB - 3GB RAM - 12MP Camera - 4G LTE - Gold;Golden;28,500;26,397;https://www.daraz.pk/honor-6x-5.5-32gb-3gb-ram-12mp-camera-4g-lte-gold-huawei-mpg56408.html
+Samsung;Galaxy A7 - 5.7" - 3GB - 32GB - 16MP - Black;;55,000;46,999;https://www.daraz.pk/galaxy-a7-5.7-3gb-32gb-16mp-black-samsung-mpg56186.html
+HTC;Desire 728 - 16GB - Black - 4G LTE;Black;25,499;20,750;https://www.daraz.pk/desire-728-5.5-16-gb-2gb-ram-13mp-camera-dual-sim-purple-myst-htc-mpg44988.html
+Lenovo;C2 Power - 5" - 16GB ROM - 2GB RAM - Black - 4G LTE;Black;16,600;14,090;https://www.daraz.pk/c2-power-5-16gb-rom-2gb-ram-black-lenovo-mpg51210.html
+Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Moca Gold;Golden;69,899;67,106;https://www.daraz.pk/huawei-mate-9-64gb-rom-4gb-ram-20mp-camera-android-moca-gold-6449723.html
+Samsung;J5 Prime - 5.0" - 16GB ROM - 2GB RAM - 13MP - Gold - 4G LTE;Golden;25,000;23,625;https://www.daraz.pk/j5-prime-5.0-16gb-rom-2gb-ram-13mp-gold-4g-lte-samsung-mpg56277.html
+Lenovo;B A2016 - 8GB - Black - 4G LTE;Black;9,500;8,575;https://www.daraz.pk/b-a2016-8gb-black-lenovo-mpg51500.html
 Lenovo;K5 Note - A7020 - 5.5" - 32GB - 3GB RAM - 13MP Camera - Silver;Silver;31,500;29,812;https://www.daraz.pk/k5-note-a7020-5.5-32gb-3gb-ram-13mp-camera-silver-lenovo-mpg50187.html
-Alcatel;X1 4G - 16GB - White - 7053D;White;23,500;20,000;https://www.daraz.pk/x1-4g-16gb-white-7053d-alcatel-mpg46895.html
+Huawei;Y3II - 4.5" - 8GB - 1GB - Golden;Golden;9,800;9,399;https://www.daraz.pk/huawei-y3ii-4.5-8gb-1gb-golden-6482094.html
+Microsoft;Lumia 650 - 16 GB - White;White;0;23,000;https://www.daraz.pk/lumia-650-16-gb-white-microsoft-mpg43656.html
+Huawei;Y5II - 8GB - Golden;Golden;11,999;11,499;https://www.daraz.pk/y5ii-8-gb-gold-huawei-mpg45027.html
+Samsung;Galaxy J2 - 4.7" - 8GB - 1GB RAM - 5MP - Gold;Golden;16,500;14,450;https://www.daraz.pk/galaxy-j2-8gb-gold-samsung-mpg42472.html
+Samsung;J7 Prime - 5.5" - 16GB ROM - 3GB RAM - 13MP - Black - 4G LTE;Black;34,999;27,560;https://www.daraz.pk/j7-prime-5.5-16gb-rom-3gb-ram-13mp-black-4g-lte-samsung-mpg56278.html
+Huawei;P8 Lite - 5.0" - 16GB - 2GB RAM - 13MP Camera - White - 4G LTE;White;18,999;18,239;https://www.daraz.pk/p8-lite-5.0-16-gb-2-gb-ram-13-mp-camera-white-brand-warranty-huawei-mpg933.html
 Symphony;V45 Xplorer - 4GB ROM - 512MB RAM - Grey;Grey;0;5,999;https://www.daraz.pk/symphony-v45-xplorer-4gb-rom-512mb-ram-grey-6308830.html
-Samsung;Galaxy J3 - J320F - 5" - 8GB ROM - 1.5GB RAM - 8MP - Black;Black;23,000;17,715;https://www.daraz.pk/j320f-galaxy-j3-8gb-black-samsung-mpg44096.html
-Huawei;Y5II - 8 GB - Black;Black;13,499;12,286;https://www.daraz.pk/huawei-y5ii-8-gb-black-huawei-mpg45030.html
-Huawei;Honor 5X - 16GB - Silver - 4G LTE;Silver;24,999;22,065;https://www.daraz.pk/honor-5x-16-gb-silver-huawei-mpg44165.html
-HTC;Desire 626G+ - 8GB - Blue Lagoon;Blue;18,899;16,499;https://www.daraz.pk/desire-626g-8gb-blue-lagoon-htc-mpg45748.html
-Huawei;Y5II - 5.0" - 8 GB - 1GB RAM - 8MP Camera - Gold;Golden;12,800;12,300;https://www.daraz.pk/huawei-y5ii-5.0-8-gb-1gb-ram-8mp-camera-gold-6407561.html
-Huawei;P9 Lite - 5.2" - 2 GB RAM - 16 GB - 13 MP - White;White;28,500;24,865;https://www.daraz.pk/p9-lite-5.2-2-gb-ram-16-gb-13-mp-white-huawei-mpg51912.html
-Microsoft;Lumia 630 - RM-978 - 8 GB - Orange;Orange,White;0;13,950;https://www.daraz.pk/rm-978-lumia-630-dual-sim-4.5-8-gb-hdd-512-mb-ram-5-mp-camera-orange-brand-warranty-microsoft-mpg164.html
-Lenovo;K5 Plus - 5.0" - 16GB - 2GB RAM - 13MP Camera - Grey;Grey;19,500;18,312;https://www.daraz.pk/lenovo-k5-plus-5.0-16gb-2gb-ram-13mp-camera-grey-6407528.html
-Huawei;Y6II LTE - 16GB - 2GB RAM - 13 MP - 5.5" - Golden;Golden;19,899;19,103;https://www.daraz.pk/y6ii-lte-16gb-golden-huawei-mpg51920.html
-HTC;Desire 630 - 2GB RAM - Sprinkle White - With Free Snap Case Cover;White;0;23,999;https://www.daraz.pk/htc-desire-630-2gb-ram-sprinkle-white-with-free-snap-case-cover-6334875.html
-Huawei;P8 - 16GB - Titanium Grey - GRA-UL00;Grey;49,999;47,999;https://www.daraz.pk/gra-ul00-p8-5.2-16-gb-hdd-3-gb-ram-13-mp-camera-titanium-grey-brand-warranty-huawei-mpg952.html
-Huawei;P9 - 32GB - Titanium Grey;Grey;0;53,999;https://www.daraz.pk/p9-5.2-3-gb-ram-12mp-camera-titanium-gray-huawei-mpg43594.html
-Huawei;Honor 8 - 5.2" - 32GB - 4GB - 12MP - Midnight Black - With 3D Fingerprint Sensor - 4G LTE;Black;48,499;45,000;https://www.daraz.pk/honor-8-5.2-32gb-4gb-12mp-midnight-black-with-3d-fingerprint-sensor-huawei-mpg49863.html
-Lenovo;B A2016 - 8GB  - Black;Black;10,750;8,580;https://www.daraz.pk/b-a2016-8gb-black-lenovo-mpg51500.html
-Symphony;V45 Xplorer - 4GB ROM - 512MB RAM - White;White;0;5,999;https://www.daraz.pk/symphony-v45-xplorer-4gb-rom-512mb-ram-white-6308831.html
-Huawei;Y3II - 8 GB - Black;Black;9,799;9,408;https://www.daraz.pk/y3ii-8-gb-black-huawei-mpg45024.html
-Huawei;Honor 4C - 8GB - Black;Black;20,999;16,270;https://www.daraz.pk/honor-4c-dual-sim-5.0-8-gb-hdd-2-gb-ram-13-mp-camera-black-brand-warranty-huawei-mpg821.html
-HTC;Desire 630 - 5" - 16GB HDD - 2GB RAM - 13MP Camera - White;White;23,499;21,799;https://www.daraz.pk/desire-630-5-16gb-hdd-2gb-ram-13mp-camera-white-htc-mpg53947.html
-HTC;Desire 630 - 2GB RAM - Free Snap Case Cover - GOLDEN GRAPHITE;Grey;0;23,499;https://www.daraz.pk/htc-desire-630-2gb-ram-free-snap-case-cover-golden-graphite-6335060.html
-Huawei;Ascend G700 - 8GB - White;White;0;25,999;https://www.daraz.pk/g700-ascend-dual-sim-8-gb-2-gb-ram-8-mp-camera-white-brand-warranty-huawei-mpg3803.html
-Huawei;Y511 - 5.0" - 8GB - 1GB RAM - 8MP Camera - Black;Black;12,800;12,300;https://www.daraz.pk/huawei-y511-5.0-8gb-1gb-ram-8mp-camera-black-6407557.html
-Samsung;J710F - Galaxy J7 - 16GB - White with Free 16 GB Memory Card;White;33,000;29,100;https://www.daraz.pk/samsung-j710f-galaxy-j7-16gb-white-with-free-16-gb-memory-card-6343300.html
-HTC;Desire 830 - 5.5" - 32GB - 3GB - 13 MP - Cobolt White;White;30,999;28,799;https://www.daraz.pk/desire-830-5.5-32gb-3gb-13-mp-cobolt-white-htc-mpg49612.html
-Lenovo;K6 - 5.0" - 16GB - 2GB - 13MP - Golden - 4G LTE;White;22,400;21,190;https://www.daraz.pk/k6-5.0-16gb-2gb-13mp-golden-lte-lenovo-mpg53959.html
-Huawei;Y6II LTE - 5.5" - 16GB - 2GB RAM - 13MP Camera - Black;Black;19,300;18,300;https://www.daraz.pk/y6ii-lte-5.5-16gb-2gb-ram-8mp-camera-black-huawei-mpg48085.html
-HTC;Desire 628 - 32GB - Sunset Blue;Blue,White;23,999;22,120;https://www.daraz.pk/desire-628-32gb-sunset-blue-htc-mpg48063.html
-Huawei;Ascend Y511 - 8GB - Golden;Golden;19,000;12,860;https://www.daraz.pk/ascend-y511-4gb-golden-huawei-mpg47518.html
-Haier;Esteem i40 - 5" - 8GB - 1GB RAM - Black;Black;0;11,322;https://www.daraz.pk/i40-esteem-dual-sim-5-8-gb-1-gb-ram-1.3-ghz-dual-core-8-mp-camera-black-brand-warranty-haier-mpg12103.html
-Huawei;P9 - 32 GB - Mystic Silver;Silver;0;53,999;https://www.daraz.pk/p9-5.2-3gb-ram-12-mp-camera-mystic-silver-huawei-mpg43595.html
-Lenovo;C2 Power - 5" - 16GB - Black;Black;16,600;14,099;https://www.daraz.pk/lenovo-c2-power-5-16gb-black-6434301.html
-Samsung;Galaxy J5 Prime - 16 GB - Gold + Free Bluetooth;Golden;0;25,350;https://www.daraz.pk/samsung-galaxy-j5-prime-16-gb-gold-free-bluetooth-6461611.html
-Samsung;Galaxy J5 Prime - 16 GB - Black + Free Bluetooth N/A;Black;0;25,350;https://www.daraz.pk/samsung-galaxy-j5-prime-16-gb-black-free-bluetooth-na-6461577.html
-Huawei;Y5II - 5.0" - 8GB - White;White;14,000;12,288;https://www.daraz.pk/huawei-y5ii-5.0-8gb-white-6437467.html
-Huawei;GR3 - 5.0" - 16GB - 2GB RAM - 13MP - Grey;Grey;28,000;20,160;https://www.daraz.pk/huawei-gr3-5.0-16gb-2gb-ram-13mp-grey-6429755.html
-Huawei;GR3 - 5.0" - 16GB - 2GB RAM - 13MP - Silver;Silver;28,000;20,160;https://www.daraz.pk/huawei-gr3-5.0-16gb-2gb-ram-13mp-silver-6429751.html
-HTC;Desire 626G+ - 8GB - Golden;Golden;18,899;16,499;https://www.daraz.pk/desire-626g-8gb-white-htc-mpg45749.html
-HTC;One A9 - 5.0" - 32GB - 3GB RAM - 13MP Camera - Silver - 4G LTE;Silver;55,250;49,999;https://www.daraz.pk/one-a9-32gb-silver-htc-mpg45751.html
-HTC;One A9 - 32GB - Grey - 4G LTE;Grey;58,000;49,999;https://www.daraz.pk/one-a9-32gb-grey-htc-mpg45750.html
-Huawei;Y6 - Quad-Core, 5.0" - 1GB - 8GB - 8MP - Black (Brand Warranty);Black;0;14,899;https://www.daraz.pk/y6-quad-core-5.0-1gb-8gb-8mp-black-brand-warranty-huawei-mpg34343.html
-Samsung;Galaxy J710F - 5.5" - 16GB - 2GB RAM - 13MP Camera - Black - 4G LTE;Black;33,000;27,899;https://www.daraz.pk/j710f-galaxy-j7-2gb-ram-black-samsung-mpg45696.html
-Huawei;Y6 - 5.0" - 8GB - 1 GB RAM - 8 MP - White;White;0;14,899;https://www.daraz.pk/y6-5.0-8-gb-1-gb-ram-1.1-ghz-quad-core-8-mp-camera-white-brand-warranty-huawei-mpg34342.html
-Haier;Pursuit G30 - 4GB - Black;Black;0;8,999;https://www.daraz.pk/g30-pursuit-4.5-4gb-hdd-512mb-ram-5mp-camera-black-brand-warranty-haier-mpg632.html
-Huawei;Y5II - 5.0" - 8GB - Golden;Golden;14,000;12,288;https://www.daraz.pk/y5ii-5.0-8gb-golden-huawei-mpg53908.html
-Huawei;GR3 - 16GB - Silver;Silver;0;20,999;https://www.daraz.pk/huawei-gr3-16gb-silver-6437153.html
-Lenovo;BA2016 - 8GB - 4.5" - 5MP Camera - Black;Black;0;10,750;https://www.daraz.pk/lenovo-ba2016-8gb-4.5-5mp-camera-black-6435409.html
-HTC;One X9 - 5.5" - 3GB RAM - 32GB - 13MP - Grey;Grey;39,000;33,999;https://www.daraz.pk/htc-one-x9-5.5-3gb-ram-32gb-13mp-grey-6429725.html
-Huawei;Ascend Y511 - 4.5" - 4GB - 512MB RAM - 3.15MP - White;White;0;12,999;https://www.daraz.pk/y511-ascend-dual-sim-4.5-4-gb-512-mb-ram-3.15-mp-camera-white-brand-warranty-huawei-mpg3863.html
-Huawei;Ascend Y511 - 4.5" - 4GB - 512MB RAM - 3.15MP - Black;Black;12,999;12,499;https://www.daraz.pk/y511-ascend-dual-sim-4.5-4-gb-512-mb-ram-3.15-mp-camera-black-brand-warranty-huawei-mpg3862.html
-HTC;Desire 630 - 16GB - 2GB RAM - Black;Black;23,500;21,199;https://www.daraz.pk/htc-desire-630-16gb-2gb-ram-black-6423033.html
-Samsung;Galaxy J5 Prime - 16 GB - Gold;Golden;27,000;24,320;https://www.daraz.pk/samsung-galaxy-j5-prime-16-gb-gold-6419817.html
-HTC;Desire 630 - 5.0" - 16GB - 2GB RAM - White;White;23,500;21,199;https://www.daraz.pk/htc-desire-630-5.0-16gb-2gb-ram-white-6414879.html
-Samsung;Galaxy J5 Prime - 16 GB - Black;Black;29,400;24,999;https://www.daraz.pk/samsung-galaxy-j5-prime-16-gb-black-6408787.html
+Samsung;J3 - J320F - 5.0" - 8GB ROM - 1.5GB RAM - 8MP - Gold - 4G LTE;Golden;19,000;17,694;https://www.daraz.pk/j320f-galaxy-j3-5-1.5-gb-ram-8-mp-camera-gold-samsung-mpg44095.html
 Lenovo;A7000 Plus - 5.5" - 16 GB - 2 GB RAM - 16MP Camera - Black;Black;19,900;18,800;https://www.daraz.pk/lenovo-a7000-plus-5.5-16-gb-2-gb-ram-16mp-camera-black-6407538.html
+Lenovo;K6 - 5.0" - 16GB - 2GB - 13MP - Golden - 4G LTE;;22,400;16,900;https://www.daraz.pk/k6-5.0-16gb-2gb-13mp-golden-lte-lenovo-mpg53959.html
+Huawei;GR3 - 16GB - Silver;Silver;15,999;15,359;https://www.daraz.pk/huawei-gr3-16gb-silver-6437153.html
+Samsung;Galaxy J5 Prime - 16 GB - Gold + Free Bluetooth;Golden;0;25,000;https://www.daraz.pk/samsung-galaxy-j5-prime-16-gb-gold-free-bluetooth-6461611.html
+Sony;D2302 - Xperia M2 Dual - 4.8" - 8GB HDD - 1GB RAM - 8 MP - Purple;;0;27,000;https://www.daraz.pk/sony-d2302-xperia-m2-dual-4.8-8gb-hdd-1gb-ram-8-mp-purple-6470609.html
+Samsung;Galaxy A3 - 4.7" - 2GB - 16GB - 13MP - Blue Mist;;37,500;31,399;https://www.daraz.pk/galaxy-a3-4.7-2gb-16gb-13mp-blue-mist-samsung-mpg57675.html
+HTC;Desire 628 - 32GB - Sunset Blue;Blue,White;0;23,999;https://www.daraz.pk/desire-628-32gb-sunset-blue-htc-mpg48063.html
+Huawei;P8 - 16GB - Titanium Grey - GRA-UL00;Grey;49,999;47,999;https://www.daraz.pk/gra-ul00-p8-5.2-16-gb-hdd-3-gb-ram-13-mp-camera-titanium-grey-brand-warranty-huawei-mpg952.html
+Symphony;V45 Xplorer - 4GB ROM - 512MB RAM - White;White;0;5,999;https://www.daraz.pk/symphony-v45-xplorer-4gb-rom-512mb-ram-white-6308831.html
+HTC;One A9 - 32GB - Grey - 4G LTE;Grey;55,250;49,998;https://www.daraz.pk/one-a9-32gb-grey-htc-mpg45750.html
+Symphony;H250 Xplorer - 16GB ROM - 2GB RAM - Sapphire Blue;Blue;0;18,999;https://www.daraz.pk/symphony-h250-xplorer-16gb-rom-2gb-ram-sapphire-blue-6308826.html
+Huawei;Y5II - 5.0" - 8GB - 1GB - Golden;Golden;0;11,999;https://www.daraz.pk/y5ii-5.0-8gb-1gb-golden-huawei-mpg54402.html
+Huawei;Y5II - 5.0" - 8GB - Black;Black;13,499;11,520;https://www.daraz.pk/huawei-y5ii-5.0-8gb-black-6437463.html
+Huawei;Y5 ii - 5" - RAM 1GB - ROM 8GB - 8MP - Gold;Golden;0;12,899;https://www.daraz.pk/huawei-y5-ii-5-ram-1gb-rom-8gb-8mp-gold-6401406.html
+HTC;Desire 626 - 5.0" - 16GB ROM - 2GB RAM - 13MP Camera - White;White;0;23,499;https://www.daraz.pk/desire-626-4g-lte-16gb-white-htc-mpg44987.html
+HTC;Desire 630 - 2GB RAM - Sprinkle White - With Free Snap Case Cover;White;0;23,999;https://www.daraz.pk/htc-desire-630-2gb-ram-sprinkle-white-with-free-snap-case-cover-6334875.html
+HTC;Desire 630 - 5" - 16GB HDD - 2GB RAM - 13MP Camera - Golden Graphite - 4G LTE;;23,490;21,140;https://www.daraz.pk/desire-630-5-16gb-hdd-2gb-ram-13mp-camera-golden-graphite-htc-mpg53946.html
+Symphony;P6 Pro Xplorer - 16GB ROM - 3 GB RAM - Golden;Golden;19,999;17,500;https://www.daraz.pk/symphony-p6-pro-xplorer-16gb-rom-3-gb-ram-golden-6308825.html
+Huawei;Y5II LTE - 8 GB - Black - 4G LTE;Black;15,499;14,879;https://www.daraz.pk/y5ii-lte-8-gb-1.3-ghz-8-mp-black-huawei-mpg48084.html
+Samsung;Galaxy J710F - 16GB - 4G LTE - Black;Black;33,000;25,399;https://www.daraz.pk/j710f-galaxy-j7-2gb-ram-black-samsung-mpg45696.html
+Lenovo;C2 Power - 5" - 2GB RAM - 16GB ROM - White - 4G LTE;White;16,600;14,090;https://www.daraz.pk/c2-power-5-2gb-ram-16gb-rom-white-lenovo-mpg50312.html
+Samsung;Galaxy J1 J120F - 4.5" - 8GB - 1GB RAM - 5MP Camera - White;White;0;14,275;https://www.daraz.pk/j120f-galaxy-j1-2016-edition-4.5-8gb-hdd-1gb-ram-white-samsung-mpg44693.html
+Alcatel;X1 4G - 16GB - Black & Silver - 7053D;Black|Silver;0;23,500;https://www.daraz.pk/alcatel-x1-4g-16gb-black-silver-7053d-alcatel-mpg50129.html
+HTC;Desire 626G+ - 8GB - Golden;Golden;0;18,899;https://www.daraz.pk/desire-626g-8gb-white-htc-mpg45749.html
+Lenovo;Vibe S1 - 5" - 32GB HDD - 3GB RAM - 13MP - Pearl White;White;0;36,500;https://www.daraz.pk/vibe-s1-32gb-white-lenovo-mpg37587.html
+Haier;Esteem i40 - 5" - 8GB - 1GB RAM - Black;Black;0;11,322;https://www.daraz.pk/i40-esteem-dual-sim-5-8-gb-1-gb-ram-1.3-ghz-dual-core-8-mp-camera-black-brand-warranty-haier-mpg12103.html
+Huawei;Honor 8 - 5.2" - 32GB - 4GB - 12MP - Gold - With 3D Fingerprint Sensor - 4G LTE;Golden;41,999;40,319;https://www.daraz.pk/honor-8-5.2-32gb-4gb-12mp-gold-with-3d-fingerprint-sensor-huawei-mpg49862.html
+HTC;Desire 830 - 5.5" - 32GB - 3GB - 13 MP - Cobolt White;White;0;30,999;https://www.daraz.pk/desire-830-5.5-32gb-3gb-13-mp-cobolt-white-htc-mpg49612.html
+Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP - Silver;Silver;0;28,500;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-silver-6487026.html
+HTC;Desire 628 - 32GB - Black & Red;Black|Red;23,999;21,399;https://www.daraz.pk/htc-desire-628-32gb-black-red-6423023.html
+Huawei;Honor 5X - 5.5" - 16GB - Golden;Golden;21,999;21,499;https://www.daraz.pk/huawei-honor-5x-5.5-16gb-golden-6482099.html
+Microsoft;Lumia 1320 Phablet - RM-994 - 6" - 8GB - 1GB RAM - 5MP - Yellow;Yellow;0;31,500;https://www.daraz.pk/rm-994-lumia-1320-phablet-4g-6.0-8-gb-1-gb-ram-5-mp-camera-yellow-brand-warranty-microsoft-mpg35996.html
+HTC;Desire 628 - 32GB - Cobalt White;White;23,999;21,650;https://www.daraz.pk/desire-628-32gb-cobalt-white-htc-mpg48000.html
+HTC;Desire 626G+ - 8GB - Blue Lagoon;Blue;18,899;16,499;https://www.daraz.pk/desire-626g-8gb-blue-lagoon-htc-mpg45748.html
+Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - Dual Sim - 4G - Gold;Golden;0;28,500;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-dual-sim-4g-gold-6487019.html
+Lenovo;C2 Power - 5" - 16GB - Black;Black;16,600;14,099;https://www.daraz.pk/lenovo-c2-power-5-16gb-black-6434301.html
+Huawei;P9 Lite - 5.2" - 2 GB RAM - 16 GB - 13 MP - White;White;25,900;24,864;https://www.daraz.pk/p9-lite-5.2-2-gb-ram-16-gb-13-mp-white-huawei-mpg51912.html
+Samsung;J710F - Galaxy J7 - 16GB - Black With Free 16 GB Memory Card;Black;33,000;29,100;https://www.daraz.pk/samsung-j710f-galaxy-j7-16gb-black-with-free-16-gb-memory-card-6343301.html
+Samsung;J5 Prime - 5.0" - 16GB ROM - 2GB RAM - 13MP - Black - 4G LTE;Black;25,000;23,625;https://www.daraz.pk/j5-prime-5.0-16gb-rom-2gb-ram-13mp-black-4g-lte-samsung-mpg56276.html
+Haier;Pursuit G30 - Dual Sim - 4GB RAM - 512MB ROM - 5MP Camera - White;White;0;7,248;https://www.daraz.pk/g30-pursuit-dual-sim-4.5-4-gb-512-mb-ram-5-mp-camera-white-brand-warranty-haier-mpg3327.html
+Samsung;J700F Galaxy J7 - 16 GB - Golden;Golden;28,600;25,600;https://www.daraz.pk/samsung-j700f-galaxy-j7-16-gb-golden-6310020.html
+Samsung;Galaxy A3 - A310F - 16GB - Midnight Black;Black;36,000;29,199;https://www.daraz.pk/a300f-galaxy-a3-4.5-16-gb-1-gb-ram-1.2-ghz-quad-core-8-mp-camera-midnight-black-brand-warranty-samsung-mpg5899.html
+Samsung;Galaxy A3 - 4.7" - 2GB - 16GB - 13MP - Black;;37,500;31,399;https://www.daraz.pk/galaxy-a3-4.7-2gb-16gb-13mp-black-samsung-mpg56184.html
+Samsung;Galaxy J5 Prime - 16 GB - Black + Free Bluetooth N/A;Black;0;25,000;https://www.daraz.pk/samsung-galaxy-j5-prime-16-gb-black-free-bluetooth-na-6461577.html
+HTC;One X9 - 5.5" - 3GB RAM - 32GB - 13MP - Grey;Grey;39,000;33,899;https://www.daraz.pk/htc-one-x9-5.5-3gb-ram-32gb-13mp-grey-6429725.html
+HTC;Desire 830 - 5.5" - 3GB RAM - 32GB - 13MP - White & Blue;White|Blue;31,000;25,599;https://www.daraz.pk/htc-desire-830-5.5-3gb-ram-32gb-13mp-white-blue-6429710.html
+HTC;Desire 630 - 16GB - 2GB RAM - Black;Black;23,500;21,199;https://www.daraz.pk/htc-desire-630-16gb-2gb-ram-black-6423033.html
+Samsung;J120F - Galaxy J1 - 4.5" - 8GB - 1GB RAM - 5MP Camera - Black;Black;19,900;13,250;https://www.daraz.pk/j120f-galaxy-j1-2016-edition-4.5-8gb-hdd-1gb-ram-black-samsung-mpg44692.html
+HTC;Desire 526G+ - 4.7" - 16GB - 1GB RAM - 8 MP - Black;Black;14,000;13,399;https://www.daraz.pk/htc-desire-526g-4.7-16gb-1gb-ram-8-mp-black-6487054.html
+HTC;Desire 526G+ - 4.7" - 16GB ROM - 1GB RAM - 8MP Camera - Dual Sim - Glacier Blue;Blue;0;13,998;https://www.daraz.pk/desire-526g-16gb-glacier-blue-htc-mpg45747.html
+Huawei;Y5II - 5.0" - 8GB - White;White;14,000;11,520;https://www.daraz.pk/huawei-y5ii-5.0-8gb-white-6437467.html
+Huawei;GR3 - 5.0" - 16GB - 2GB RAM - 13MP - Grey;Grey;28,000;15,358;https://www.daraz.pk/huawei-gr3-5.0-16gb-2gb-ram-13mp-grey-6429755.html
+HTC;Desire 630 - 5.0" - 16GB - 2GB RAM - White;White;23,500;21,199;https://www.daraz.pk/htc-desire-630-5.0-16gb-2gb-ram-white-6414879.html
+Huawei;Y6 ii LTE - 2GB RAM - 16GB ROM - White;White;19,900;17,279;https://www.daraz.pk/huawei-y6-ii-lte-2gb-ram-16gb-rom-white-6400663.html
+Lenovo;K5 Plus - 16GB - Grey - 4G LTE;;0;19,499;https://www.daraz.pk/lenovo-k5-plus-16gb-grey-4g-lte-6384460.html
+Samsung;J510F - Galaxy J5 With Free 16 GB Memory Card - White;White;0;25,000;https://www.daraz.pk/samsung-j510f-galaxy-j5-with-free-16-gb-memory-card-white-6369379.html
+Alcatel;Idol 4 - 6055K - 5.2" - 32 GB - 3GB - 4G LTE - Grey;;0;28,750;https://www.daraz.pk/idol-4-6055k-5.2-32-gb-3gb-grey-alcatel-mpg50128.html
+Samsung;J120F - Galaxy J1 - 8GB - With Free Kingston 16 GB Micro SD Card - White;White;16,900;15,000;https://www.daraz.pk/samsung-j120f-galaxy-j1-8gb-with-free-kingston-16-gb-micro-sd-card-white-6343316.html
+Samsung;J510F - Galaxy J5 - 16GB - With Free 16 GB Memory Card - White;White;31,000;23,900;https://www.daraz.pk/samsung-j510f-galaxy-j5-16gb-with-free-16-gb-memory-card-white-6343305.html
+Samsung;J710F - Galaxy J7 - 16GB - White with Free 16 GB Memory Card;White;0;33,000;https://www.daraz.pk/samsung-j710f-galaxy-j7-16gb-white-with-free-16-gb-memory-card-6343300.html
+Alcatel;Pop Up - 16GB - 4G LTE - 6044D - Black;Black;17,950;17,250;https://www.daraz.pk/pop-up-16gb-black-6044d-alcatel-mpg46893.html
+Alcatel;Pop Up - 16GB - 4G LTE - 6044D - White;White;17,920;17,250;https://www.daraz.pk/pop-up-16gb-white-6044d-alcatel-mpg46894.html
+Alcatel;X1 4G - 16GB - 4G LTE - 7053D - White;White;0;23,100;https://www.daraz.pk/x1-4g-16gb-white-7053d-alcatel-mpg46895.html
+HTC;Desire 630 - 2GB RAM - Free Snap Case Cover - GOLDEN GRAPHITE;Grey;0;23,499;https://www.daraz.pk/htc-desire-630-2gb-ram-free-snap-case-cover-golden-graphite-6335060.html
+Symphony;H250 Xplorer - 16GB ROM - 2 GB RAM - Light Grey;Grey;18,999;16,500;https://www.daraz.pk/symphony-h250-xplorer-16gb-rom-2-gb-ram-light-grey-6308827.html
+Huawei;Y5II - 8 GB - Black;Black;11,999;11,499;https://www.daraz.pk/huawei-y5ii-8-gb-black-huawei-mpg45030.html
+Huawei;Honor 5X - 16GB - Silver - 4G LTE;Silver;17,999;17,279;https://www.daraz.pk/honor-5x-16-gb-silver-huawei-mpg44165.html
+Lenovo;Vibe S1 Lite - 5.0" -16GB - 2GB RAM - 8MP Camera - White - 4G LTE;White;0;26,000;https://www.daraz.pk/vibe-s1-lite-5-16gb-white-lenovo-mpg44610.html
+Samsung;Galaxy J5 - J500H - 8GB - Black;Black;23,000;20,499;https://www.daraz.pk/j500h-galaxy-j5-5.0-8-gb-1.5-gb-ram-1.2-ghz-quad-core-13-mp-camera-black-brand-warranty-samsung-mpg6202.html
+Huawei;GR3 - 16GB - Silver - 4G LTE;Silver;21,000;15,357;https://www.daraz.pk/gr3-5-2gb-ram-16gb-rom-silver-huawei-mpg43593.html
+HTC;Desire 630 - 5" - 16GB HDD - 2GB RAM - 13MP Camera - White;White;23,499;21,799;https://www.daraz.pk/desire-630-5-16gb-hdd-2gb-ram-13mp-camera-white-htc-mpg53947.html
+Sony;D2302 - Xperia M2 - 4.8" - 8GB HDD - 1GB RAM - 8 MP - White;;27,000;13,999;https://www.daraz.pk/sony-d2302-xperia-m2-4.8-8gb-hdd-1gb-ram-8-mp-white-6470608.html
+Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Space Grey;Grey;69,899;67,106;https://www.daraz.pk/huawei-mate-9-64gb-rom-4gb-ram-20mp-camera-android-space-grey-6449724.html
+Huawei;Y6II LTE - 16GB - 2GB RAM - 13 MP - 5.5" - Golden;Golden;17,999;17,280;https://www.daraz.pk/y6ii-lte-16gb-golden-huawei-mpg51920.html
+Huawei;Ascend Mate 8 - 64GB - Golden;Golden;63,999;61,440;https://www.daraz.pk/ascend-mate-8-4g-lte-6.0-32-gb-gold-huawei-mpg38894.html
+Huawei;GR3 - 16GB - Grey;Grey;15,999;15,359;https://www.daraz.pk/gr3-16gb-grey-huawei-mpg46669.html
 HTC;Desire 630 - 5.0" - 16GB - 2GB RAM - 13MP Camera - Golden Graphite;Grey;23,500;21,995;https://www.daraz.pk/htc-desire-630-5.0-16gb-2gb-ram-13mp-camera-golden-graphite-6407513.html
 Lenovo;K5 Note A7020 - 5.5" - 32GB - 3GB RAM - 13MP Camera - Gold;Golden;31,500;29,812;https://www.daraz.pk/lenovo-k5-note-a7020-5.5-32gb-3gb-ram-13mp-camera-gold-6407492.html
-HTC;One X9 - 5.5" - 32GB ROM - 3GB RAM - Gold;Golden;39,999;34,699;https://www.daraz.pk/one-x9-5.5-32gb-rom-3gb-ram-gold-htc-mpg50311.html
-Huawei;Ascend Y330 - 4GB - Black & White;White;0;15,000;https://www.daraz.pk/y330-ascend-4-4-gb-512-mb-ram-3.15-mp-camera-white-brand-warranty-huawei-mpg3861.html
-HTC;Desire 630 - 5" - 16GB - 2GB RAM - 13MP - Black;Black;0;23,500;https://www.daraz.pk/htc-desire-630-5-16gb-2gb-ram-13mp-black-6373347.html
-Samsung;J510F - Galaxy J5 With Free 16 GB Memory Card - White;White;0;25,000;https://www.daraz.pk/samsung-j510f-galaxy-j5-with-free-16-gb-memory-card-white-6369379.html
-Alcatel;Idol 4s - 6070D - 32 GB - 3GB - Free VR Goggles & JBL Handsfree - 4G LTE - Dark Grey;White;0;49,250;https://www.daraz.pk/idol-4s-6070d-32-gb-3gb-free-vr-goggles-jbl-handsfree-dark-grey-alcatel-mpg51764.html
-Alcatel;Idol 4 - 6055K - 5.2" - 32 GB - 3GB - 4G LTE - Grey;White;0;28,750;https://www.daraz.pk/idol-4-6055k-5.2-32-gb-3gb-grey-alcatel-mpg50128.html
-Samsung;J120F - Galaxy J1 - 8GB - With Free Kingston 16 GB Micro SD Card - Black;Black;16,900;15,000;https://www.daraz.pk/samsung-j120f-galaxy-j1-8gb-with-free-kingston-16-gb-micro-sd-card-black-6343318.html
-Samsung;J120F - Galaxy J1 - 8GB - With Free Kingston 16 GB Micro SD Card - White;White;16,900;15,000;https://www.daraz.pk/samsung-j120f-galaxy-j1-8gb-with-free-kingston-16-gb-micro-sd-card-white-6343316.html
-Alcatel;X1 4G - 16GB - Black & Silver - 7053D;Black|Silver;23,500;20,000;https://www.daraz.pk/alcatel-x1-4g-16gb-black-silver-7053d-alcatel-mpg50129.html
-Alcatel;Pop Up - 16GB - Black - 6044D;Black;17,950;15,999;https://www.daraz.pk/pop-up-16gb-black-6044d-alcatel-mpg46893.html
-Alcatel;Pop Up - 16GB - White - 6044D;White;17,950;15,999;https://www.daraz.pk/pop-up-16gb-white-6044d-alcatel-mpg46894.html
-Samsung;Galaxy J1 J120F - 4.5" - 8GB - 1GB RAM - 5MP Camera - White;White;16,900;13,500;https://www.daraz.pk/j120f-galaxy-j1-2016-edition-4.5-8gb-hdd-1gb-ram-white-samsung-mpg44693.html
-Samsung;J120F - Galaxy J1 - 4.5" - 8GB - 1GB RAM - 5MP Camera - Black;Black;16,900;13,500;https://www.daraz.pk/j120f-galaxy-j1-2016-edition-4.5-8gb-hdd-1gb-ram-black-samsung-mpg44692.html
-Symphony;H250 Xplorer - 16GB ROM - 2 GB RAM - Light Grey;Grey;0;18,999;https://www.daraz.pk/symphony-h250-xplorer-16gb-rom-2-gb-ram-light-grey-6308827.html
-Symphony;H250 Xplorer - 16GB ROM - 2GB RAM - Sapphire Blue;Blue;0;18,999;https://www.daraz.pk/symphony-h250-xplorer-16gb-rom-2gb-ram-sapphire-blue-6308826.html
+Huawei;Y5 ii LTE - 5" - RAM 1GB - ROM 8GB - 8MP - Gold;Golden;0;15,500;https://www.daraz.pk/huawei-y5-ii-lte-5-ram-1gb-rom-8gb-8mp-gold-6402211.html
+QMobile;M350 - 8GB - 1GB - Gold;Golden;0;12,500;https://www.daraz.pk/qmobile-m350-8gb-1gb-gold-6395562.html
+HTC;One X9 - 5.5" - 32GB ROM - 3GB RAM - Gold;Golden;0;39,999;https://www.daraz.pk/one-x9-5.5-32gb-rom-3gb-ram-gold-htc-mpg50311.html
+Huawei;Y5II LTE - 8GB - Gold - 4G LTE;Golden;15,499;14,879;https://www.daraz.pk/y5ii-lte-8gb-gold-huawei-mpg49616.html
+Huawei;Y5II LTE - 8 GB - White - 4G LTE;;15,499;14,879;https://www.daraz.pk/y5ii-lte-8-gb-white-huawei-mpg49615.html
+Samsung;J320F - Galaxy J3 - 8GB - With Free Kingston 16 GB Micro SD Card - White;White;23,000;18,200;https://www.daraz.pk/samsung-j320f-galaxy-j3-8gb-with-free-kingston-16-gb-micro-sd-card-white-6343327.html
+Samsung;J510F - Galaxy J5 - 16GB - With Free 16 GB Memory Card - Gold;Golden;29,800;23,900;https://www.daraz.pk/samsung-j510f-galaxy-j5-16gb-with-free-16-gb-memory-card-gold-6343307.html
+Alcatel;Pop 4 - 8GB - 4G LTE - 5051D - Dark Grey;Grey;0;13,700;https://www.daraz.pk/alcatel-pop-4-8gb-4g-lte-5051d-dark-grey-6343164.html
+Alcatel;Pop 4 Plus - 16GB - White - 5056D;White;0;15,350;https://www.daraz.pk/alcatel-pop-4-plus-16gb-white-5056d-6328929.html
 Alcatel;Pop Star - 1GB - 4G LTE - White;White;16,750;16,200;https://www.daraz.pk/pop-star-5-8gb-1gb-4g-white-alcatel-mpg44734.html
-Alcatel;Pop Star - 8GB - White;White;0;12,999;https://www.daraz.pk/pop-star-5-8gb-3g-white-alcatel-mpg44735.html
-Lenovo;Vibe S1 - 5" - 32GB HDD - 3GB RAM - 13MP - Pearl White;White;0;36,500;https://www.daraz.pk/vibe-s1-32gb-white-lenovo-mpg37587.html
+Alcatel;Pop Star - 8GB - White;White;12,999;12,600;https://www.daraz.pk/pop-star-5-8gb-3g-white-alcatel-mpg44735.html
+Huawei;Y5II - 8 GB - White;White;11,999;11,499;https://www.daraz.pk/y5ii-8-gb-white-huawei-mpg45028.html
+Huawei;Y3II - 8 GB - Black;Black;9,799;9,390;https://www.daraz.pk/y3ii-8-gb-black-huawei-mpg45024.html
 Samsung;Galaxy J5 - J500H - 5" - 3G - 8GB - 1.5GB RAM - 13MP Camera - White (Brand Warranty);White;0;22,412;https://www.daraz.pk/galaxy-j5-j500h-5-8gb-hdd-1.5gb-ram-13mp-camera-white-brand-warranty-samsung-mpg8768.html
+Huawei;Y625 - 4GB - White;White;12,999;11,520;https://www.daraz.pk/y625-5-4gb-hdd-1gb-ram-8mp-camera-white-brand-warranty-huawei-mpg935.html
+Huawei;Y625 - 4GB - Black;Black;12,999;11,520;https://www.daraz.pk/y625-5-4gb-hdd-1gb-ram-8mp-camera-black-brand-warranty-huawei-mpg783.html
+Samsung;Galaxy J5 - J510F - 5.2" - 16GB ROM - 2GB RAM - 1.2 GHz Qualcomm - Black;Black;29,000;20,999;https://www.daraz.pk/j510f-galaxy-j5-2016-edition-5.2-16gb-hdd-2gb-ram-black-samsung-mpg44615.html
+Alcatel;Idol 4s - 6070D - 32 GB - 3GB - Free VR Goggles & JBL Handsfree - 4G LTE - Dark Grey;;0;49,250;https://www.daraz.pk/idol-4s-6070d-32-gb-3gb-free-vr-goggles-jbl-handsfree-dark-grey-alcatel-mpg51764.html
+Samsung;Galaxy J3 - J320F - 5" - 8GB ROM - 1.5GB RAM - 8MP - Android - White;White;22,000;17,740;https://www.daraz.pk/j320f-galaxy-j3-1.5gb-ram-8mp-camera-white-samsung-mpg44614.html
 Samsung;Galaxy S4 Zoom - SM-C1010 - 8GB - Black;Black;0;49,999;https://www.daraz.pk/c1010-galaxy-s4-zoom-4.3-8-gb-1.5-gb-ram-16-mp-black-brand-warranty-samsung-mpg5964.html
 Huawei;Ascend Y600 - 4GB - White;White;0;12,099;https://www.daraz.pk/y600-ascend-5.0-4-gb-512-mb-ram-5-mp-camera-white-brand-warranty-huawei-mpg3877.html
 Huawei;Ascend Y600 - 4 GB - 3G -  Black (Brand Warranty);Black;0;12,099;https://www.daraz.pk/y600-ascend-5.0-4-gb-512-mb-ram-5-mp-camera-black-brand-warranty-huawei-mpg3876.html
-Huawei;Honor 4C - 8GB - White;White;20,999;16,800;https://www.daraz.pk/honor-4c-dual-sim-5.0-8-gb-hdd-2-gb-ram-13-mp-camera-white-brand-warranty-huawei-mpg820.html
-Huawei;Y6II LTE - Dual Sim - 5.5" - 16GB ROM - 2GB RAM - 13MP Camera - White;White;0;19,900;https://www.daraz.pk/huawei-y6ii-lte-dual-sim-5.5-16gb-rom-2gb-ram-13mp-camera-white-6438918.html
-Huawei;Nova Plus - 5.5" - 3GB - 32GB - Titanium Grey - 4G LTE;Grey;0;38,900;https://www.daraz.pk/nova-plus-5.5-3gb-32gb-titanium-grey-huawei-mpg51791.html
-HTC;Desire 830 - 5.5" - 3GB RAM - 32GB - 13MP - White & Blue;White|Blue;31,000;27,999;https://www.daraz.pk/htc-desire-830-5.5-3gb-ram-32gb-13mp-white-blue-6429710.html
-Huawei;Huawei Y6II LTE - Dual Sim - 5.5" - 16GB ROM - 2GB RAM - 8MP Camera - Black;Black;0;19,899;https://www.daraz.pk/huawei-huawei-y6ii-lte-dual-sim-5.5-16gb-rom-2gb-ram-8mp-camera-black-6426877.html
-Huawei;GR3 - 5.0" - 16GB - 2GB RAM - 13MP Camera - Grey;Grey;21,000;18,870;https://www.daraz.pk/huawei-gr3-5.0-16gb-2gb-ram-13mp-camera-grey-6407503.html
-Huawei;GR3 - 5.0" - 16GB - 2GB RAM - 13MP Camera - Silver;Silver;21,000;18,870;https://www.daraz.pk/gr3-5-2gb-ram-16gb-rom-silver-huawei-mpg43593.html
-Samsung;Galaxy J5 - J500H - 8GB - Black;Black;21,500;20,677;https://www.daraz.pk/j500h-galaxy-j5-5.0-8-gb-1.5-gb-ram-1.2-ghz-quad-core-13-mp-camera-black-brand-warranty-samsung-mpg6202.html
-Huawei;Honor 8 - 5.2" - 32GB - 4GB - 12MP - Gold - With 3D Fingerprint Sensor - 4G LTE;Golden;48,499;45,009;https://www.daraz.pk/honor-8-5.2-32gb-4gb-12mp-gold-with-3d-fingerprint-sensor-huawei-mpg49862.html
-Huawei;Y5 ii LTE - 5" - RAM 1GB - ROM 8GB - 8MP - Gold;Golden;0;15,500;https://www.daraz.pk/huawei-y5-ii-lte-5-ram-1gb-rom-8gb-8mp-gold-6402211.html
-Huawei;Y5 ii - 5" - RAM 1GB - ROM 8GB - 8MP - Gold;Golden;0;12,899;https://www.daraz.pk/huawei-y5-ii-5-ram-1gb-rom-8gb-8mp-gold-6401406.html
-Huawei;Y6 ii LTE - 2GB RAM - 16GB ROM - White;White;19,900;19,199;https://www.daraz.pk/huawei-y6-ii-lte-2gb-ram-16gb-rom-white-6400663.html
-Haier;G30 Voyage - 4.5 inches - 4GB - 3G - 512MB RAM - 5MP Camera - Black;Black;0;16,300;https://www.daraz.pk/voyage-g30-4gb-3g-black-1-year-brand-warranty-haier-mpg776.html
-Lenovo;K5 Plus - 16GB - Grey - 4G LTE;Black;19,499;16,899;https://www.daraz.pk/lenovo-k5-plus-16gb-grey-4g-lte-6384460.html
-Huawei;P7-L00 Ascend - 5.0'' - 16 GB ROM - 2 GB RAM - 13 MP - Black;Black;55,000;52,000;https://www.daraz.pk/p7-l00-ascend-p7-5-16-gb-hdd-2-gb-ram-13-mp-camera-black-brand-warranty-huawei-mpg3821.html
-HTC;Desire 630 - 5" - 16GB HDD - 2GB RAM - 13MP Camera - Golden Graphite - 4G LTE;Black;23,490;21,140;https://www.daraz.pk/desire-630-5-16gb-hdd-2gb-ram-13mp-camera-golden-graphite-htc-mpg53946.html
-Lenovo;K5 Note A7020 - 32GB - Gold - 4G LTE;Golden;31,500;27,845;https://www.daraz.pk/k5-note-a7020-32gb-gold-lenovo-mpg47527.html
-Lenovo;K5 Note - A7020 - 5.5"- 3GB - 32GB - Silver - 4G LTE;Golden;31,500;27,845;https://www.daraz.pk/k5-note-a7020-5.5-3gb-32gb-silver-lenovo-mpg53958.html
-Samsung;J120F - Galaxy J1 - 8GB - Golden With Free Kingston 16 GB Micro Card;Golden;16,900;15,000;https://www.daraz.pk/samsung-j120f-galaxy-j1-8gb-golden-with-free-kingston-16-gb-micro-card-6343314.html
-Alcatel;Pop 4 - 8GB - 4G LTE - 5051D - Dark Grey;Grey;0;13,700;https://www.daraz.pk/alcatel-pop-4-8gb-4g-lte-5051d-dark-grey-6343164.html
-Alcatel;Pop 4 Plus - 16GB - White - 5056D;White;0;15,350;https://www.daraz.pk/alcatel-pop-4-plus-16gb-white-5056d-6328929.html
-Samsung;Galaxy J3 - J320F - 5" - 8GB ROM - 1.5GB RAM - 8MP - Android - White;White;22,000;17,750;https://www.daraz.pk/j320f-galaxy-j3-1.5gb-ram-8mp-camera-white-samsung-mpg44614.html
-Huawei;GR3 - 16GB - Grey - 4G LTE;Grey;25,000;18,914;https://www.daraz.pk/gr3-16gb-grey-huawei-mpg46669.html
-Symphony;V45 Xplorer - 4GB ROM - 512MB RAM - Dark Blue;Blue;0;5,999;https://www.daraz.pk/symphony-v45-xplorer-4gb-rom-512mb-ram-dark-blue-6308829.html
-Symphony;V45 Xplorer - 4GB ROM - 512MB RAM - Golden;Golden;0;5,999;https://www.daraz.pk/symphony-v45-xplorer-4gb-rom-512mb-ram-golden-6308828.html
-Lenovo;Vibe S1 Lite - 5.0" -16GB - 2GB RAM - 8MP Camera - White - 4G LTE;White;26,000;24,000;https://www.daraz.pk/vibe-s1-lite-5-16gb-white-lenovo-mpg44610.html
-Microsoft;Lumia 1320 Phablet - RM-994 - 6" - 8GB - 1GB RAM - 5MP - Yellow;Yellow;0;31,500;https://www.daraz.pk/rm-994-lumia-1320-phablet-4g-6.0-8-gb-1-gb-ram-5-mp-camera-yellow-brand-warranty-microsoft-mpg35996.html
-Lenovo;K5 Plus - 5.0” - 16GB - 2GB RAM - 13MP Camera - Black;Black;25,500;23,000;https://www.daraz.pk/k5-plus-16gb-black-mobilink-free-6gb-bundle-offer-lenovo-mpg43645.html
-Lenovo;A7000 - 5.5" - 8GB - 2GB RAM - 8MP Camera - Black;Black;0;22,000;https://www.daraz.pk/a7000-5.5-8gb-hdd-2gb-ram-8mp-camera-black-brand-warranty-lenovo-mpg8189.html
-Haier;Pursuit G30 - Dual Sim - 4GB RAM - 512MB ROM - 5MP Camera - White;White;0;7,248;https://www.daraz.pk/g30-pursuit-dual-sim-4.5-4-gb-512-mb-ram-5-mp-camera-white-brand-warranty-haier-mpg3327.html
-Huawei;Y625 - 4GB - White;White;12,999;11,520;https://www.daraz.pk/y625-5-4gb-hdd-1gb-ram-8mp-camera-white-brand-warranty-huawei-mpg935.html
-Huawei;Y625 - 4GB - Black;Black;12,999;11,520;https://www.daraz.pk/y625-5-4gb-hdd-1gb-ram-8mp-camera-black-brand-warranty-huawei-mpg783.html
-Microsoft;Lumia 630 - 8 GB - White;White,Orange;0;13,950;https://www.daraz.pk/rm-978-lumia-630-dual-sim-4.5-8-gb-hdd-512-mb-ram-5-mp-camera-white-brand-warranty-microsoft-mpg81.html
-Lenovo;Vibe C - A2020 - 8GB - Black - 4G LTE;Black;11,900;9,490;https://www.daraz.pk/vibe-c-16-gb-black-a2020-lenovo-mpg45494.html
-QMobile;Noir J5 - 2GB RAM - 16GB ROM - 4G LTE - Gold;Golden,Grey;0;12,990;https://www.daraz.pk/qmobile-noir-j5-2gb-ram-16gb-rom-4g-lte-gold-6425870.html
-QMobile;Noir X32 - 4" Screen - 1GB RAM - 8GB ROM - Black;Black;0;5,500;https://www.daraz.pk/qmobile-noir-x32-4-screen-1gb-ram-8gb-rom-black-6414363.html
-Huawei;GR3 - 16GB - Gold - 4G LTE;Golden;25,500;19,658;https://www.daraz.pk/gr3-5-2gb-ram-16gb-rom-gold-huawei-mpg43592.html
-Huawei;Honor 6x - 5.5" - 32GB - 3GB RAM - 12MP Camera - 4G LTE - Gold;Golden;28,500;26,299;https://www.daraz.pk/honor-6x-5.5-32gb-3gb-ram-12mp-camera-4g-lte-gold-huawei-mpg56408.html
-Huawei;P9 Lite - 5.2" - 16GB - 2GB RAM - 13MP Camera - 4G LTE - Golden;Golden;28,499;23,999;https://www.daraz.pk/p9-lite-16-gb-golden-huawei-mpg45018.html
-Huawei;Honor 4x - 2GB RAM - 8GB ROM - 4G - Gold;Golden;24,499;17,000;https://www.daraz.pk/huawei-honor-4x-2gb-ram-8gb-rom-4g-gold-6513543.html
-Microsoft;Lumia 550 - 4.7" - 8GB - 1GB RAM - 5 MP - Black;Black;14,500;8,499;https://www.daraz.pk/lumia-550-4g-lte-single-sim-4.7-8-gb-1-gb-ram-5-mp-camera-black-brand-warranty-microsoft-mpg37536.html
-Samsung;G935-F - Galaxy S7 Edge - 5.5" - 32GB - 4GB - 12MP Camera - With VR Gear & Battery Pack - Blue;Black;80,000;77,999;https://www.daraz.pk/samsung-g935-f-galaxy-s7-edge-5.5-32gb-4gb-12mp-camera-with-vr-gear-battery-pack-blue-6506164.html
-Microsoft;RM-941- Lumia 625 - 4.7" - 8 GB HDD - 512 MB RAM - 5 MP Camera - White;White;22,500;6,100;https://www.daraz.pk/rm-941-lumia-625-4.7-8-gb-hdd-512-mb-ram-1.2-ghz-dual-core-5-mp-camera-white-brand-warranty-microsoft-mpg4790.html
-Alcatel;4034F - 8GB - Metal Silver;White;7,850;5,999;https://www.daraz.pk/alcatel-4034f-8gb-metal-silver-6503879.html
-Huawei;Honor 4x - 2GB RAM - 8GB ROM - 4G - Black;Black;24,499;17,000;https://www.daraz.pk/huawei-honor-4x-2gb-ram-8gb-rom-4g-black-6513546.html
-QmobileJazzX;JS7 - Black;Black;7,999;6,500;https://www.daraz.pk/qmobile-jazz-x-js7-black-6512983.html
-Gfive;Gpower 5 - 5" - 16GB - 2GB - 5MP - Rose Gold With VR Box;Pink;8,990;7,799;https://www.daraz.pk/gfive-gpower-5-5-16gb-2gb-5mp-rose-gold-with-vr-box-6522021.html
-Microsoft;Lumia 550 - 4.7" - 8GB - 1GB RAM - 5 MP - White;White;14,500;8,499;https://www.daraz.pk/lumia-550-4g-lte-single-sim-4.7-8-gb-1-gb-ram-5-mp-camera-white-brand-warranty-microsoft-mpg44086.html
-Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - White;White;24,900;23,890;https://www.daraz.pk/honor-8-lite-16gb-3gb-fingerprint-sensor-white-huawei-mpg57098.html
-Microsoft;RM-941- Lumia 625 - 4.7" - 8 GB HDD - 512 MB RAM - 5 MP Camera - Yellow;Yellow;22,500;6,100;https://www.daraz.pk/rm-941-lumia-625-4.7-8-gb-hdd-512-mb-ram-1.2-ghz-dual-core-5-mp-camera-yellow-brand-warranty-microsoft-mpg4791.html
-Moto;M-XT1663 - 5.5" - 3GB - 32GB - 16MP - Gold;Yellow;0;29,990;https://www.daraz.pk/m-xt1663-5.5-3gb-32gb-16mp-gold-motorola-mpg55961.html
-Gfive;706+ G-Pad - 8GB - 1GB RAM - Rose Gold;Yellow;8,999;6,850;https://www.daraz.pk/gfive-706-g-pad-8gb-1gb-ram-rose-gold-6519132.html
-Huawei;Honor 7 - 5.2" - 16GB ROM - 3GB RAM - 20MP CameraSilver;Silver;39,999;33,540;https://www.daraz.pk/honor-7-5.2-4g-16-gb-3-gb-ram-octa-core-2.2-ghz-20-mp-camera-silver-brand-warranty-huawei-mpg35691.html
-QMobile;i2 Power - 1GB RAM - 8GB ROM - Gold ;Silver;0;7,250;https://www.daraz.pk/qmobile-i2-power-1gb-ram-8gb-rom-gold-6503914.html
-QMobile;King Kong Max - 32GB - 3GB - Gold;Silver;0;18,500;https://www.daraz.pk/qmobile-king-kong-max-32gb-3gb-gold-6522183.html
-Huawei;Honor 6X - Dual Sim - 5.5" - 32GB HDD - 3GB RAM - 12MP Camera - Grey;Grey;27,360;27,349;https://www.daraz.pk/huawei-honor-6x-dual-sim-5.5-32gb-hdd-3gb-ram-12mp-camera-grey-6512981.html
-Alcatel;4034F - 8GB - Rose Gold;Grey;7,850;5,999;https://www.daraz.pk/alcatel-4034f-8gb-rose-gold-6513981.html
-Huawei;Y6 Pro 3G - 5" - 2GB RAM - 16GB - 13MP - Gold;Golden;16,899;15,600;https://www.daraz.pk/y6-pro-3g-5-2gb-ram-16gb-13mp-gold-huawei-mpg56263.html
-QMobile;X2 Lite - 256 MB RAM - 512 MB ROM - Black Green;Golden;0;3,750;https://www.daraz.pk/qmobile-x2-lite-256-mb-ram-512-mb-rom-black-green-6506484.html
-Huawei;Y6 ii LTE - 5.5" - 2GB - 16GB - Golden;Golden;19,299;18,275;https://www.daraz.pk/y6-ii-lte-5.5-2gb-16gb-golden-huawei-mpg56265.html
-Lenovo;K6 Note - 5.5" - 3GB RAM - 32GB - 16 MP - Dark Grey - 4G LTE;Grey;25,900;24,111;https://www.daraz.pk/k6-note-5.5-3gb-ram-32gb-16-mp-dark-grey-4g-lte-lenovo-mpg56269.html
-Huawei;Nova Plus - 5.5" - 3GB RAM - 32GB - 16MP - Prestige Gold - 4G LTE;Golden;38,900;36,500;https://www.daraz.pk/nova-plus-5.5-3gb-32gb-prestige-gold-huawei-mpg51790.html
-QMobile;Energy X2 - 2GB RAM - 16GB ROM - Metal Gold;Golden;0;12,250;https://www.daraz.pk/qmobile-energy-x2-2gb-ram-16gb-rom-metal-gold-6506270.html
-Microsoft;RM-1031 - Lumia 532 - 8GB - White;White;8,900;5,399;https://www.daraz.pk/rm-1031-lumia-532-4.0-8-gb-1-gb-ram-5-mp-camera-white-brand-warranty-microsoft-mpg4580.html
-Huawei;Honor 8 - 5.2" - 32GB ROM - 4GB RAM - 12MP Camera - Gold;Golden;48,500;45,600;https://www.daraz.pk/huawei-honor-8-5.2-32gb-rom-4gb-ram-12mp-camera-gold-6506754.html
-Lenovo;A7020 - 3GB - 32 GB - Silver;Golden;31,500;29,610;https://www.daraz.pk/lenovo-a7020-3gb-32-gb-silver-6510461.html
-Huawei;Honor 8 Lite 2017 - 16GB - 3GB - Fingerprint Sensor - Gold;Golden;24,900;23,904;https://www.daraz.pk/honor-8-lite-2017-16gb-3gb-fingerprint-sensor-gold-huawei-mpg56964.html
-Samsung;Galaxy J7 J710F - 16GB - White - 4G LTE;Golden;33,000;27,899;https://www.daraz.pk/samsung-galaxy-j7-j710f-16gb-white-4g-lte-6531313.html
-QMobile;Energy X1 - 1GB RAM - 8GB ROM - Grey;Golden;0;10,750;https://www.daraz.pk/qmobile-energy-x1-1gb-ram-8gb-rom-grey-6506226.html
-Zovor;JKR – 212B Bluetooth FM Radio Headset Headphones  –  BLACK;Black;5,000;2,999;https://www.daraz.pk/zovor-jkr-212b-bluetooth-fm-radio-headset-headphones-black-6532444.html
-Huawei;Honor 6x - 5.5" - 32GB - 3GB - 4G LTE - Golden;Golden;28,500;27,348;https://www.daraz.pk/honor-6x-5.5-32gb-3gb-4g-lte-golden-huawei-mpg54401.html
-Lenovo;K6 Note - 32GB - 4G LTE - Dark Grey;Grey;25,900;23,899;https://www.daraz.pk/lenovo-k6-note-32gb-4g-lte-dark-grey-6504741.html
-Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - Dual Sim - Silver;Grey;28,500;27,299;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-dual-sim-silver-6504471.html
-Motorola;M-XT1663 - 32GB - 4G LTE - Gold;Golden;0;29,999;https://www.daraz.pk/motorola-m-xt1663-32gb-4g-lte-gold-6520780.html
-Huawei;Honor 7 - 5.2" - 16GB ROM - 3 GB RAM - 20MP Camera - Grey;Grey;39,999;33,540;https://www.daraz.pk/honor-7-5.2-16-gb-3-gb-ram-octa-core-2.2-ghz-20-mp-camera-4g-black-brand-warranty-huawei-mpg35690.html
-Lenovo;K6 - 16GB - LTE - Grey;Grey;22,400;21,399;https://www.daraz.pk/lenovo-k6-16gb-lte-grey-6504727.html
-Samsung;Galaxy A7 2017 - 32GB - Gold Sand;Golden;0;55,000;https://www.daraz.pk/samsung-galaxy-a7-2017-32gb-gold-sand-6503989.html
-QMobile;JS2 - Jazz X - 8GB - Gray;Golden;0;6,999;https://www.daraz.pk/qmobile-js2-jazz-x-8gb-gray-6503966.html
-Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - Dual Sim - Grey;Grey;28,500;26,899;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-dual-sim-grey-6490949.html
-Samsung;J3 - J320F - 5.0" - 8GB ROM - 1.5GB RAM - 8MP - Gold - 4G LTE;Golden;19,000;17,715;https://www.daraz.pk/j320f-galaxy-j3-5-1.5-gb-ram-8-mp-camera-gold-samsung-mpg44095.html
-Lenovo;B A2016 - 8GB ROM - Black;Black;10,750;8,889;https://www.daraz.pk/lenovo-b-a2016-8gb-rom-black-6512986.html
-Lenovo;K6 - 16GB - Golden;Golden;22,400;21,799;https://www.daraz.pk/k6-16gb-golden-lenovo-mpg56268.html
-Huawei;Honor 8 - 5.2" - 32GB HDD - 4GB RAM - 12MP - Midnight Black;Black;48,500;44,900;https://www.daraz.pk/huawei-honor-8-5.2-32gb-hdd-4gb-ram-12mp-midnight-black-6512984.html
-Huawei;Mate 9 - 64GB ROM - Moca Gold - 4G LTE;Golden;69,899;66,899;https://www.daraz.pk/huawei-mate-9-64gb-rom-moca-gold-4g-lte-6512982.html
-Huawei;Y5 ii LTE - 8GB ROM - Gold;Golden;15,500;14,420;https://www.daraz.pk/huawei-y5-ii-lte-8gb-rom-gold-6512979.html
-Lenovo;K6 Note - 5.5" - 32GB HDD - 3GB RAM - 16MP - Dark Grey ;Grey;25,000;24,299;https://www.daraz.pk/lenovo-k6-note-5.5-32gb-hdd-3gb-ram-16mp-dark-grey-6512974.html
-Samsung;Galaxy J700H - 16GB - Gold - 4G LTE;Golden;27,500;25,987;https://www.daraz.pk/j700h-galaxy-j7-5.5-16-gb-1.4-ghz-quad-core-gold-samsung-mpg38826.html
-Samsung;J5 Prime - 5.0" - 16GB ROM - 2GB RAM - 13MP - Black - 4G LTE;Black;27,000;24,595;https://www.daraz.pk/j5-prime-5.0-16gb-rom-2gb-ram-13mp-black-4g-lte-samsung-mpg56276.html
-Samsung;J5 Prime - 5.0" - 16GB ROM - 2GB RAM - 13MP - Gold - 4G LTE;Golden;26,999;24,595;https://www.daraz.pk/j5-prime-5.0-16gb-rom-2gb-ram-13mp-gold-4g-lte-samsung-mpg56277.html
-Samsung;J7 Prime - 5.5" - 16GB ROM - 3GB RAM - 13MP - Black - 4G LTE;Black;33,999;31,490;https://www.daraz.pk/j7-prime-5.5-16gb-rom-3gb-ram-13mp-black-4g-lte-samsung-mpg56278.html
-Lenovo;Vibe C - A2020 - 16GB - Black - 4G LTE;Black;11,900;11,371;https://www.daraz.pk/lenovo-vibe-c-a2020-16gb-black-4g-lte-6512524.html
-Huawei;Y5II LTE - 8 GB - White - 4G LTE;White;15,499;14,535;https://www.daraz.pk/y5ii-lte-8-gb-white-huawei-mpg49615.html
-Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Champagne Gold - 4G LTE;Golden;69,899;66,400;https://www.daraz.pk/mate-9-64gb-rom-4gb-ram-20mp-camera-android-champagne-gold-4g-lte-huawei-mpg54677.html
-Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Matte Black - 4G LTE;Black;69,899;66,400;https://www.daraz.pk/huawei-mate-9-64gb-rom-4gb-ram-20mp-camera-android-matte-black-4g-lte-6511278.html
-Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Space Grey - 4G LTE;Grey;69,899;66,400;https://www.daraz.pk/mate-9-64gb-rom-4gb-ram-20mp-camera-android-space-grey-4g-lte-huawei-mpg56262.html
-Huawei;Mate 9 - 64GB ROM - 4GB RAM - 20MP Camera - Android - Moca Brown - 4G LTE;Brown;69,899;66,400;https://www.daraz.pk/mate-9-64gb-rom-4gb-ram-20mp-camera-android-moca-brown-4g-lte-huawei-mpg56260.html
-Huawei;P9 Lite - 16GB - White - 4G LTE;White;25,900;24,700;https://www.daraz.pk/p9-lite-16-gb-white-huawei-mpg45019.html
-Huawei;Y5II LTE - 8GB - Gold - 4G LTE;Golden;15,499;14,535;https://www.daraz.pk/y5ii-lte-8gb-gold-huawei-mpg49616.html
-Huawei;Y5II LTE - 8 GB - Black - 4G LTE;Black;15,500;14,535;https://www.daraz.pk/y5ii-lte-8-gb-1.3-ghz-8-mp-black-huawei-mpg48084.html
-Lenovo;Vibe C A2020 - 1 GB - 8 GB – Black;Black;12,000;11,280;https://www.daraz.pk/lenovo-vibe-c-a2020-1-gb-8-gb-black-6510444.html
-Lenovo;Vibe C A2020 - 1 GB - 8 GB White;Black;12,000;11,280;https://www.daraz.pk/lenovo-vibe-c-a2020-1-gb-8-gb-white-6510439.html
-Samsung;Galaxy A320 - 16GB - Blue Mist;Blue;37,500;37,250;https://www.daraz.pk/samsung-galaxy-a320-16gb-blue-mist-6508137.html
-Lenovo;A-369 - 512MB - 4GB - Black;Blue;6,200;5,828;https://www.daraz.pk/lenovo-a-369-512mb-4gb-black-6510466.html
-Lenovo;A7020 - 3GB - 32 GB - Gold;Blue;31,500;29,610;https://www.daraz.pk/lenovo-a7020-3gb-32-gb-gold-6510429.html
-Lenovo;B - A2016 - 1GB RAM - 8GB ROM - Red;Blue;9,500;8,930;https://www.daraz.pk/lenovo-b-a2016-1gb-ram-8gb-rom-red-6510405.html
-Lenovo;A-369 - 512MB - 4GB - White;Blue;6,200;5,828;https://www.daraz.pk/lenovo-a-369-512mb-4gb-white-6510404.html
-Lenovo;B A2016 - 8GB - Gold;Golden;10,750;8,975;https://www.daraz.pk/lenovo-b-a2016-8gb-gold-6503437.html
-Mrkhan;Handsfree For Smartphones - Black;Black;600;300;https://www.daraz.pk/mr-khan-handsfree-for-smartphones-black-6506573.html
-Huawei;Mate 9 - 64GB - Black;Black;69,899;67,149;https://www.daraz.pk/huawei-mate-9-64gb-black-6506989.html
-Lenovo;S650 3G - 4.7" - 8GB - 1GB RAM - Silver;Silver;14,500;13,630;https://www.daraz.pk/s650-4.7-8-gb-hdd-1-gb-ram-8-mp-camera-silver-brand-warranty-lenovo-mpg637.html
-Lenovo;P1M - Vibe - 16 GB - White;White;18,000;16,920;https://www.daraz.pk/vibe-p1m-16gb-white-lenovo-mpg38127.html
-Huawei;Honor 8 - 5.2" - 32GB ROM - 4GB RAM - 12MP Camera - Midnight Black;Black;48,500;45,600;https://www.daraz.pk/huawei-honor-8-5.2-32gb-rom-4gb-ram-12mp-camera-midnight-black-6506757.html
-Huawei;Honor 8 - 5.2" - 32GB ROM - 4GB RAM - 12MP Camera - Sapphire Blue;Blue;48,500;45,600;https://www.daraz.pk/huawei-honor-8-5.2-32gb-rom-4gb-ram-12mp-camera-sapphire-blue-6506756.html
-Huawei;P9 Lite - 5.2" - 16 GB - 2 GB - 13 MP - Golden;Golden;28,499;24,792;https://www.daraz.pk/huawei-p9-lite-5.2-16-gb-2-gb-13-mp-golden-6504379.html
-Lenovo;K6 - 16GB - LTE - Golden;Golden;22,400;21,399;https://www.daraz.pk/lenovo-k6-16gb-lte-golden-6504732.html
-Huawei;P9 Lite - 5.2" - 16 GB - 2 GB - 13 MP - White;White;0;28,499;https://www.daraz.pk/huawei-p9-lite-5.2-16-gb-2-gb-13-mp-white-6504387.html
-Huawei;Nexus 6P - 5.7" - 64 GB - 3 GB RAM - 2.0 - 12.3 MP - Aluminium Silver;Silver;71,999;63,540;https://www.daraz.pk/huawei-nexus-6p-5.7-64-gb-3-gb-ram-2.0-12.3-mp-aluminium-silver-6504373.html
-Huawei;Nexus 6P - 5.7" - 64 GB - 3 GB RAM - 2.0 - 12.3 MP - Graphite Grey;Grey;71,999;63,540;https://www.daraz.pk/huawei-nexus-6p-5.7-64-gb-3-gb-ram-2.0-12.3-mp-graphite-grey-6504367.html
-QMobile;Noir W40 - 4GB ROM - 512MB RAM - White;Grey;0;7,250;https://www.daraz.pk/qmobile-noir-w40-4gb-rom-512mb-ram-white-6503985.html
-Lenovo;A328 - 1GB - 4GB - Black;Grey;11,900;8,000;https://www.daraz.pk/lenovo-a328-1gb-4gb-black-6503581.html
-Apple;iPhone 7 Plus - 256GB - Jet Black - Without Face Time - 4G LTE;Black;0;126,799;https://www.daraz.pk/apple-iphone-7-plus-256gb-jet-black-without-face-time-4g-lte-6463326.html
-Lenovo;Vibe C - A2020 - 16GB - 1GB RAM - 8MP - Black - 4G LTE;Black;0;11,900;https://www.daraz.pk/lenovo-vibe-c-a2020-16gb-1gb-ram-8mp-black-4g-lte-6497671.html
-Apple;iPhone 7 Plus - 32GB - Without Face Time - Gold - 4G LTE;Golden;0;100,899;https://www.daraz.pk/apple-iphone-7-plus-32gb-without-face-time-gold-4g-lte-6467735.html
-Apple;iPhone 6S Plus - 16GB - Rose Gold - Without Face Time;Golden,Grey,Silver;0;87,550;https://www.daraz.pk/apple-iphone-6s-plus-16gb-rose-gold-without-face-time-5401255.html
-QMobile;Noir Z14 - 4GB RAM - Gold - 4G LTE;Golden;25,099;24,100;https://www.daraz.pk/noir-z14-4gb-ram-gold-qmobile-mpg49686.html
-Apple;iPhone 6 - 128GB - Without Face Time - Space Grey;Grey;96,499;71,999;https://www.daraz.pk/apple-iphone-6-128gb-without-face-time-space-grey-3716840.html
-QMobile;Noir X700 Pro II - 2GB RAM - 16GB ROM - Black;Black;0;9,199;https://www.daraz.pk/qmobile-noir-x700-pro-ii-2gb-ram-16gb-rom-black-6461432.html
-Huawei;H30-U10 - Honor 3C Dual Sim  - 5" - 8 GB - 2 GB RAM  - 1.3 Ghz - 8 MP Camera - White (Brand Warranty);White;17,900;12,499;https://www.daraz.pk/h30-u10-honor-3c-5-8-gb-hdd-2-gb-ram-8-mp-camera-white-brand-warranty-huawei-mpg154.html
-Huawei;Honor 3C Lite - Dual Sim - 5.0” - 16 GB - 1 GB RAM - 8 MP Camera - Black (Brand Warranty);Black;14,301;11,299;https://www.daraz.pk/honor-3c-lite-dual-sim-5.0-16-gb-1-gb-ram-8-mp-camera-black-brand-warranty-huawei-mpg3848.html
-QMobile;Noir S6 - 2GB - 16GB - Gold;Golden;0;12,750;https://www.daraz.pk/qmobile-noir-s6-2gb-16gb-gold-6414385.html
-Microsoft;RM-1090 - Lumia 535 - 5" - 8GB - Orange;Orange;14,500;9,300;https://www.daraz.pk/rm-1090-lumia-535-dual-sim-5.0-8-gb-1-gb-ram-1.2-ghz-quad-core-5-mp-camera-orange-brand-warranty-microsoft-mpg4835.html
-Huawei;Ascend G6 - 4.5" - 4 GB - 1 GB RAM - 8 MP Camera - Black (Brand Warranty);Black;22,999;11,499;https://www.daraz.pk/ascend-g6-4.5-4-gb-1-gb-ram-8-mp-camera-black-brand-warranty-huawei-mpg3800.html
-Microsoft;Lumia 535 - 8GB - 1GB RAM - 5MP Camera - Cyan;Blue;14,500;7,999;https://www.daraz.pk/rm-1090-lumia-535-dual-sim-5.0-8-gb-1-gb-ram-1.2-ghz-quad-core-5-mp-camera-cyan-brand-warranty-microsoft-mpg4832.html
-QMobile;Noir LT750 - 16GB HDD - White & Gold;White|Golden;0;16,000;https://www.daraz.pk/qmobile-noir-lt750-16gb-hdd-white-gold-6409350.html
-QMobile;i2 Pro - 4.5" - 8GB ROM - 1GB RAM - 5 MP Camera - Black Grey;White|Golden;0;6,990;https://www.daraz.pk/qmobile-i2-pro-4.5-8gb-rom-1gb-ram-5-mp-camera-black-grey-6445164.html
-QMobile;S1 Pro - 8GB ROM - 1GB RAM - Grey;Grey;0;8,500;https://www.daraz.pk/qmobile-s1-pro-8gb-rom-1gb-ram-grey-6395565.html
-Samsung;Galaxy J5 Prime - 1.4 GHz - 5.0" - 2 GB - 16 GB - 13 MP - Gold;Golden;29,000;24,999;https://www.daraz.pk/samsung-galaxy-j5-prime-1.4-ghz-5.0-2-gb-16-gb-13-mp-gold-6464761.html
-Samsung;Galaxy Grand Prime Plus - Dual Sim - 5.0" - 8GB ROM - 1.5GB RAM - 8MP Camera - Black;Black;0;16,000;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-dual-sim-5.0-8gb-rom-1.5gb-ram-8mp-camera-black-6461470.html
-Samsung;Galaxy Grand Prime Plus - Dual Sim - 5.0" - 8GB ROM - 1.5GB RAM - 8MP Camera - Golden ;Golden;0;16,000;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-dual-sim-5.0-8gb-rom-1.5gb-ram-8mp-camera-golden-6461469.html
-Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB ROM - 1.5GB RAM - 8MP Camera - Black;Black;17,000;15,350;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-rom-1.5gb-ram-8mp-camera-black-6460291.html
-Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB ROM - 1.5GB RAM - 8MP - Gold;Golden;17,000;15,350;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-rom-1.5gb-ram-8mp-gold-6460287.html
-Samsung;Grand Prime Plus - Dual Sim - 8GB - LTE - Gold - 4G LTE;Golden;15,999;15,699;https://www.daraz.pk/samsung-grand-prime-plus-dual-sim-8gb-lte-gold-4g-lte-6458571.html
-HTC;Desire 630 - 5.0" - 16GB - 2GB RAM - 13MP Camera - White;White;23,490;21,995;https://www.daraz.pk/htc-desire-630-5.0-16gb-2gb-ram-13mp-camera-white-6407524.html
-HTC;Desire 628 - 32GB - 3GB RAM - 13MP Camera - Cobalt White;White;23,999;22,480;https://www.daraz.pk/htc-desire-628-32gb-3gb-ram-13mp-camera-cobalt-white-6407505.html
-Alcatel;Pop 4 - 8GB - Dark Gray - 5051D;Grey;0;13,700;https://www.daraz.pk/alcatel-pop-4-8gb-dark-gray-5051d-6330776.html
-Alcatel;Pixi 4 - 4GB - Metal Silver - 4034F;White;7,850;6,999;https://www.daraz.pk/alcatel-pixi-4-4gb-metal-silver-4034f-6329717.html
-Apple;iPhone 6s Plus - 16GB - Space Grey - Without Face Time;Grey,Golden,Silver;0;87,550;https://www.daraz.pk/apple-iphone-6s-plus-16gb-space-grey-without-face-time-5401246.html
-Apple;iPhone 7 - 256GB - Without Face Time - Silver;Silver;0;111,299;https://www.daraz.pk/apple-iphone-7-256gb-without-face-time-silver-6423065.html
+Samsung;Galaxy J3 - J320F - 5" - 8GB ROM - 1.5GB RAM - 8MP - Black;Black;23,000;17,715;https://www.daraz.pk/j320f-galaxy-j3-8gb-black-samsung-mpg44096.html
+HTC;One A9 - 5.0" - 32GB - 3GB RAM - 13MP Camera - Silver - 4G LTE;Silver;55,250;49,998;https://www.daraz.pk/one-a9-32gb-silver-htc-mpg45751.html
+Lenovo;Vibe P1 - 5.5" - 32GB - 2GB RAM - 13MP Camera - Golden;Golden;34,000;26,999;https://www.daraz.pk/vibe-p1-5.5-32gb-gold-2.4x-charging-speed-lenovo-mpg44609.html
+HTC;626 LTE Desire - 16GB - Blue Lagoon;Blue;23,499;14,499;https://www.daraz.pk/626-lte-desire-16gb-blue-lagoon-htc-mpg45746.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB ROM - 1.5GB RAM - 8MP - Gold;Golden;17,000;14,845;https://www.daraz.pk/galaxy-grand-prime-plus-5.0-8gb-rom-1.5gb-ram-8mp-gold-samsung-mpg57284.html
+Lenovo;Vibe C - A2020 - 8GB - Black - 4G LTE;Black;11,900;11,650;https://www.daraz.pk/vibe-c-16-gb-black-a2020-lenovo-mpg45494.html
+Lenovo;A6010 - 5.0" - 16GB - 2GB RAM - 13MP - Black - 4G LTE;Black;15,000;13,340;https://www.daraz.pk/a6010-16gb-black-mobilink-free-6gb-bundle-offer-lenovo-mpg43289.html
+HTC;Desire 728 - 5.5" - 16GB - 2GB RAM - 13MP - Dual Sim - White Luxury - 4G LTE;White;25,499;20,750;https://www.daraz.pk/desire-728-5.5-16-gb-2gb-ram-13mp-camera-dual-sim-white-luxury-htc-mpg44989.html
+QMobile;Noir J5 - 2GB RAM - 16GB ROM - 4G LTE - Gold;Golden;0;12,990;https://www.daraz.pk/qmobile-noir-j5-2gb-ram-16gb-rom-4g-lte-gold-6425870.html
+Huawei;Y6 Pro - 5.0" - 16GB - 2GB RAM - 13MP Camera - White;White;24,500;16,309;https://www.daraz.pk/y6-pro-16gb-white-huawei-mpg43022.html
+Huawei;GR3 - 16GB - Gold - 4G LTE;Golden;21,000;15,357;https://www.daraz.pk/gr3-5-2gb-ram-16gb-rom-gold-huawei-mpg43592.html
+Huawei;Y6 - 8GB - Black - 4G LTE;Black;13,499;12,959;https://www.daraz.pk/y6-quad-core-5.0-1gb-8gb-8mp-black-brand-warranty-huawei-mpg34343.html
+Samsung;Galaxy J700H - 16GB - White;White;28,000;25,680;https://www.daraz.pk/j700h-galaxy-j7-5.5-16-gb-1.5-gb-ram-13-mp-camera-white-brand-warranty-samsung-mpg6434.html
+HTC;626 LTE Desire - 5.0" - 16GB - 2GB RAM - 13 MP Camera - White Birsch;White;0;21,699;https://www.daraz.pk/626-lte-desire-16gb-white-birsch-htc-mpg45490.html
+Samsung;Galaxy J700H - 16GB - Black;Black;28,000;25,680;https://www.daraz.pk/galaxy-j7-j700h-5.5-16-gb-1.5-gb-ram-1.4-ghz-quad-core-13-mp-camera-black-brand-warranty-samsung-mpg6203.html
+Huawei;Y6 - 5.0" - 8GB - 1 GB RAM - 8 MP - White;White;0;14,899;https://www.daraz.pk/y6-5.0-8-gb-1-gb-ram-1.1-ghz-quad-core-8-mp-camera-white-brand-warranty-huawei-mpg34342.html
+Microsoft;RM-1031 - Lumia 532 - 8GB - Black;Black;12,050;5,399;https://www.daraz.pk/rm-1031-lumia-532-4.0-8-gb-1-gb-ram-5-mp-camera-black-brand-warranty-microsoft-mpg4577.html
+DealsPk;DZ09 - GSM Smart Mobile Watch With Bluetooth Head set - Black;Black;2,800;1,988;https://www.daraz.pk/deals-pk-dz09-gsm-smart-mobile-watch-with-bluetooth-head-set-black-6453449.html
+Microsoft;RM1090 - Lumia 535 - 8GB - 1GB RAM - 5MP Camera - White;White;14,500;8,999;https://www.daraz.pk/rm-1090-lumia-535-dual-sim-5.0-8-gb-hdd-1-gb-ram-5-mp-camera-white-brand-warranty-microsoft-mpg120.html
+Samsung;Galaxy Note 5 - SM-N920 -  32GB - Black;Black;82,000;64,499;https://www.daraz.pk/sm-n920-galaxy-note-5-5.7-32-gb-4-gb-ram-16-mp-camera-1.5-ghz-quad-core-black-sapphire-brand-warranty-samsung-mpg6359.html
+Samar; Samsung Galaxy S7 Edge Tempered Glass Protector ;;0;449;https://www.daraz.pk/samar-samsung-galaxy-s7-edge-tempered-glass-protector-6610434.html
+Samsung;Galaxy J1 J120F - 4.5" - 8GB - 1GB RAM - 5MP Camera - Gold;;16,900;12,899;https://www.daraz.pk/j120f-galaxy-j1-2016-edition-4.5-8gb-hdd-1-gb-ram-gold-samsung-mpg44651.html
+Samar;iPhone 7 Crystal Clear Gel Case ;;0;349;https://www.daraz.pk/samar-iphone-7-crystal-clear-gel-case-6610432.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB - 1.5GB RAM - 8MP Camera - Gold;Golden;16,000;14,750;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-1.5gb-ram-8mp-camera-gold-6619087.html
+Samar;iPhone 7 Tempered Glass Screen Protector;;0;299;https://www.daraz.pk/samar-iphone-7-tempered-glass-screen-protector-6610433.html
+SFCollections;Iring Phone Holder - White;;300;148;https://www.daraz.pk/sf-collections-iring-phone-holder-white-6588489.html
+Samsung;Samsung A7 2017 - 3GB - 32GB - Gold;Golden;55,000;49,800;https://www.daraz.pk/samsung-samsung-a7-2017-3gb-32gb-gold-6582418.html
+Samar;Car Charger Dual USB ;;0;499;https://www.daraz.pk/samar-car-charger-dual-usb-6610430.html
+Samar;iPhone 6/6S Crystal Clear Gel Case ;;0;399;https://www.daraz.pk/samar-iphone-66s-crystal-clear-gel-case-6610429.html
+Huawei;Honor 8 Lite 2017 - 16GB - 3GB - Fingerprint Sensor - White;;24,900;23,999;https://www.daraz.pk/honor-8-lite-2017-16gb-3gb-fingerprint-sensor-white-huawei-mpg58295.html
+Huawei;Huawei P10 - 5.1" - 4GB RAM - 64GB ROM - Dazzling Blue;;60,000;57,999;https://www.daraz.pk/huawei-huawei-p10-5.1-4gb-ram-64gb-rom-dazzling-blue-6606675.html
+Sony;C2005 - Xperia M - 4.0" - 4 GB - 1 GB RAM - 5 MP -;;0;8,000;https://www.daraz.pk/xperia-m-c2005-purple-brand-warranty-sony-mpg6918.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Dazzling Gold;;0;59,999;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-dazzling-gold-6618637.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Dazzling Blue;;0;59,999;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-dazzling-blue-6618633.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Graphite Black;;0;59,999;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-graphite-black-6618631.html
+Samsung;Gear IconX Wireless Earphones - Black;;37,999;29,999;https://www.daraz.pk/samsung-gear-iconx-wireless-earphones-black-6614229.html
+Huawei;Nova Plus - 5.5" - 3GB - 32GB - Titanium Grey - 4G;;0;40,999;https://www.daraz.pk/huawei-nova-plus-5.5-3gb-32gb-titanium-grey-4g-6593719.html
+Huawei;P8 Lite - 5.0" - 16GB - 2GB RAM - 13MP Camera - Go;;0;18,527;https://www.daraz.pk/huawei-p8-lite-5.0-16gb-2gb-ram-13mp-camera-go-6593682.html
+Samsung;Galaxy J5 - J510F - 16GB ROM - 2GB RAM - 13MP Came;;0;25,615;https://www.daraz.pk/samsung-galaxy-j5-j510f-16gb-rom-2gb-ram-13mp-came-6592438.html
+Samsung;Galaxy J5 - J510F - 16GB ROM - 2GB RAM - 13MP Came;;0;24,590;https://www.daraz.pk/samsung-galaxy-j5-j510f-16gb-rom-2gb-ram-13mp-came-6592432.html
+Samsung;Tab A - 7" Screen - 8GB ROM - Wifi - Black;;14,299;12,890;https://www.daraz.pk/samsung-tab-a-7-screen-8gb-rom-wifi-black-6619096.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Dazzling Blue;;0;59,999;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-dazzling-blue-6619891.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Dazzling Gold;;0;59,999;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-dazzling-gold-6619881.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Graphite Black;;0;59,999;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-graphite-black-6619872.html
+HTC;10 Pro - 5.5" - 4GB - 64GB - Stone Black;;0;44,500;https://www.daraz.pk/htc-10-pro-5.5-4gb-64gb-stone-black-6572276.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Dazzling Gold;;59,999;59,000;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-dazzling-gold-6595498.html
+Huawei;Honor 6x - 5.5" - 32GB HDD - 3GB RAM - 12 MP Camera - Golden - 4G LTE;Golden;27,298;26,395;https://www.daraz.pk/huawei-honor-6x-5.5-32gb-hdd-3gb-ram-12-mp-camera-golden-4g-lte-6594225.html
+Huawei;Honor 6x - 5.5" - 32GB HDD - 3GB RAM - 12 MP Camera - Grey - 4G LTE;Grey;27,298;26,395;https://www.daraz.pk/huawei-honor-6x-5.5-32gb-hdd-3gb-ram-12-mp-camera-grey-4g-lte-6594222.html
+Huawei;Honor 6x - 5.5" - 32GB HDD - 3GB RAM - 12 MP Camera - Silver - 4G LTE;Silver;27,298;26,395;https://www.daraz.pk/huawei-honor-6x-5.5-32gb-hdd-3gb-ram-12-mp-camera-silver-4g-lte-6594213.html
+Huawei;P10 - 5.1" - 4GB RAM - 64GB ROM - Dazzling Blue;;59,999;59,000;https://www.daraz.pk/huawei-p10-5.1-4gb-ram-64gb-rom-dazzling-blue-6595238.html
+Samsung;Galaxy A3 2017 - 16GB - Gold Sand;Golden;37,500;35,670;https://www.daraz.pk/samsung-galaxy-a3-2017-16gb-gold-sand-6504055.html
+QMobile;S1 Pro - 8GB ROM - 1GB RAM - Gold;;0;8,500;https://www.daraz.pk/qmobile-s1-pro-8gb-rom-1gb-ram-gold-6589045.html
+QMobile;M6 - 5.5" - 4GB - 64GB - Fingerprint Sensor - Gold;;0;29,500;https://www.daraz.pk/qmobile-m6-5.5-4gb-64gb-fingerprint-sensor-gold-6565016.html
+Samsung;Galaxy J5 Prime - 1.4 GHz - 5.0" - 2 GB - 16 GB - 13 MP - Gold;Golden;0;23,850;https://www.daraz.pk/samsung-galaxy-j5-prime-1.4-ghz-5.0-2-gb-16-gb-13-mp-gold-6586502.html
+Gfive;Gfive U220+ - 1.7" - Dual Sim - Black & Blue;Black|Blue;1,375;1,199;https://www.daraz.pk/gfive-gfive-u220-1.7-dual-sim-black-blue-6549660.html
+Samsung;Galaxy A3 2017 - 16GB - Black Sky;Black;37,500;35,670;https://www.daraz.pk/samsung-galaxy-a3-2017-16gb-black-sky-6504048.html
+Lenovo;K6 Note - 5.5" - 3GB RAM - 32GB - 16 MP - Gold - 4G LTE;Golden;0;25,900;https://www.daraz.pk/lenovo-k6-note-5.5-3gb-ram-32gb-16-mp-gold-4g-lte-6549729.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB ROM - 1.5GB RAM - Black;;15,999;14,999;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-rom-1.5gb-ram-black-6569370.html
+QMobile;X700 Pro Lite - 1GB - 8GB - Grey;;0;7,999;https://www.daraz.pk/qmobile-x700-pro-lite-1gb-8gb-grey-6562752.html
+Samsung;Samsung A7 2017 - 3GB - 32GB - Blue;;55,000;49,800;https://www.daraz.pk/samsung-samsung-a7-2017-3gb-32gb-blue-6582481.html
+Samsung;Grand Prime Plus - 1.5GB - 8GB - Silver;Golden;0;15,500;https://www.daraz.pk/samsung-grand-prime-plus-1.5gb-8gb-silver-6582121.html
+Samsung;Galaxy Note 5 - SM-N920 - 32GB ROM - Gold Platinum;Golden;72,000;64,499;https://www.daraz.pk/sm-n920-galaxy-note-5-32gb-gold-platinum-samsung-mpg38138.html
+Alcatel;4034F - 8GB - Metal Silver;;0;7,850;https://www.daraz.pk/alcatel-4034f-8gb-metal-silver-6503879.html
+Samsung;Grand Prime Plus - 1.5GB - 8GB - Black;;0;15,500;https://www.daraz.pk/samsung-grand-prime-plus-1.5gb-8gb-black-6577283.html
+Samsung;Grand Prime Plus - Dual Sim - 8GB - LTE - Gold - 4G LTE;;15,999;14,798;https://www.daraz.pk/samsung-grand-prime-plus-dual-sim-8gb-lte-gold-4g-lte-6458571.html
+Alcatel;Pixi 4 Power Plus - 5.5" - 5000 mAh - Black;;15,350;12,750;https://www.daraz.pk/alcatel-pixi-4-power-plus-5.5-5000-mah-black-6547410.html
+Samsung;Galaxy A3 7 A320 - 4.7" - 16GB - 2GB RAM - 13MP - Black;Black;32,299;31,575;https://www.daraz.pk/samsung-galaxy-a3-7-a320-4.7-16gb-2gb-ram-13mp-black-6572052.html
+Samsung;Galaxy A7 7 A720 - 5.7" - 32GB -  3GB RAM - 16MP - Black;Black;49,999;47,249;https://www.daraz.pk/samsung-galaxy-a7-7-a720-5.7-32gb-3gb-ram-16mp-black-6571920.html
+Samsung;J510F/DS - Galaxy J5 - Black;;22,499;21,175;https://www.daraz.pk/samsung-j510fds-galaxy-j5-black-6569364.html
+Samsung;J710F/DS - Galaxy J7 -  Gold;;26,999;25,490;https://www.daraz.pk/samsung-j710fds-galaxy-j7-gold-6569360.html
+Samsung;Galaxy J1 Mini Prime - 8GB ROM - 1GB RAM - Black;;0;9,999;https://www.daraz.pk/samsung-galaxy-j1-mini-prime-8gb-rom-1gb-ram-black-6498360.html
+Samsung;G935 - Galaxy J1 Mini Prime - Black;;10,000;9,595;https://www.daraz.pk/samsung-g935-galaxy-j1-mini-prime-black-6569368.html
+Samsung;G570 - Galaxy J5 Prime - Golden;;24,999;23,475;https://www.daraz.pk/samsung-g570-galaxy-j5-prime-golden-6569362.html
+Huawei;Y6 ii LTE - 2GB RAM - 16GB ROM - Black;;17,999;17,280;https://www.daraz.pk/huawei-y6-ii-lte-2gb-ram-16gb-rom-black-6569352.html
+QMobile;M6 LITE - 5" - 16GB - 3GB - 4G LTE - Rose Gold;;0;16,500;https://www.daraz.pk/qmobile-m6-lite-5-16gb-3gb-4g-lte-rose-gold-6565009.html
+Samsung;Galaxy A5 - 5.2" - 3GB - 32GB - 16MP - Gold;Golden;0;47,000;https://www.daraz.pk/samsung-galaxy-a5-5.2-3gb-32gb-16mp-gold-6545129.html
+Alcatel;Pixi 4 Power Plus - 5.5" - 5000 mAh - White;;15,350;12,750;https://www.daraz.pk/alcatel-pixi-4-power-plus-5.5-5000-mah-white-6547422.html
 Apple;iPhone 7 - 256GB - Without Face Time - Rose Gold;Pink|Golden;0;111,299;https://www.daraz.pk/apple-iphone-7-256gb-without-face-time-rose-gold-6423064.html
-Apple;iPhone 7 - 256GB - Without Face Time - Gold;Golden;0;111,299;https://www.daraz.pk/apple-iphone-7-256gb-without-face-time-gold-6423063.html
+Gfive;President Xhero 3 - 8GB - White;;0;8,900;https://www.daraz.pk/gfive-president-xhero-3-8gb-white-6537177.html
+Samsung;Galaxy A3 - 4.7" - 2GB - 16GB - 13MP - Gold;Golden;0;37,500;https://www.daraz.pk/samsung-galaxy-a3-4.7-2gb-16gb-13mp-gold-6545091.html
+QmobileJazzX;JS7 - Black;Black;7,999;6,400;https://www.daraz.pk/qmobile-jazz-x-js7-black-6512983.html
+Microsoft;Lumia 535 - 8GB - 1GB RAM - 5MP Camera - Cyan;Blue;14,500;7,499;https://www.daraz.pk/rm-1090-lumia-535-dual-sim-5.0-8-gb-1-gb-ram-1.2-ghz-quad-core-5-mp-camera-cyan-brand-warranty-microsoft-mpg4832.html
+Huawei;Honor 8 Lite 2017 - 16GB - 3GB - Fingerprint Sensor - Black;;24,900;23,999;https://www.daraz.pk/honor-8-lite-2017-16gb-3gb-fingerprint-sensor-black-huawei-mpg57449.html
+Apple;iPhone 7 Plus - 256GB - Without Face Time - Rose Gold - 4G LTE;Pink|Golden;0;126,799;https://www.daraz.pk/apple-iphone-7-plus-256gb-without-face-time-rose-gold-4g-lte-6423076.html
+Apple;iPhone 7 Plus - 256GB - Without Face Time - Gold - 4G LTE;Golden;0;126,799;https://www.daraz.pk/apple-iphone-7-plus-256gb-without-face-time-gold-4g-lte-6423070.html
+Apple;iPhone 7 Plus - 256GB - Without Face Time - Black;;0;126,799;https://www.daraz.pk/apple-iphone-7-plus-256gb-without-face-time-black-6423067.html
+Samsung;Galaxy J7 J710F - 16GB - White - 4G LTE;;33,000;25,399;https://www.daraz.pk/samsung-galaxy-j7-j710f-16gb-white-4g-lte-6531313.html
+Apple;iPhone 7 Plus - 128GB - Without Face Time - Black;Black;0;113,799;https://www.daraz.pk/apple-iphone-7-plus-128gb-without-face-time-black-6423068.html
+Apple;iPhone 6S Plus - 5.5" - 16GB - 2GB RAM - 12MP Camera - Silver - Without Face Time;Silver,Grey,Golden;0;69,999;https://www.daraz.pk/iphone-6s-plus-16gb-silver-without-face-time-apple-mpg45414.html
+Huawei;Honor 8 Lite - 16GB - 3GB - Fingerprint Sensor - White;;24,900;23,799;https://www.daraz.pk/honor-8-lite-16gb-3gb-fingerprint-sensor-white-huawei-mpg57098.html
+Huawei;Honor 8 Lite 2017 - 5.2" - 16GB - 3GB - 12MP - Gold;Golden;0;24,900;https://www.daraz.pk/huawei-honor-8-lite-2017-5.2-16gb-3gb-12mp-gold-6531291.html
+Moto;M-XT1663 - 5.5" - 3GB - 32GB - 16MP - Gold;;0;29,990;https://www.daraz.pk/m-xt1663-5.5-3gb-32gb-16mp-gold-motorola-mpg55961.html
+Apple;iPhone 6s Plus - 16GB - Space Grey - Without Face Time;Grey,Silver,Golden;0;69,999;https://www.daraz.pk/apple-iphone-6s-plus-16gb-space-grey-without-face-time-5401246.html
+Microsoft;RM1090 - Lumia 535 - 8GB - 1GB RAM - 5MP - Black;Black;14,500;7,499;https://www.daraz.pk/rm-1090-lumia-535-dual-sim-5.0-8-gb-1-gb-ram-1.2-ghz-quad-core-5-mp-camera-black-brand-warranty-microsoft-mpg4831.html
+Apple;iPhone 6 - 128GB - Without Face Time - Space Grey;Grey,Silver;0;69,999;https://www.daraz.pk/apple-iphone-6-128gb-without-face-time-space-grey-3716840.html
+Huawei;Nexus 6P - 5.7" - 64 GB - 3 GB RAM - 2.0 - 12.3 MP - Graphite Grey;Grey;71,999;63,540;https://www.daraz.pk/huawei-nexus-6p-5.7-64-gb-3-gb-ram-2.0-12.3-mp-graphite-grey-6504367.html
+Samsung;J320F - Galaxy J3 - 8GB - Golden;;18,999;17,675;https://www.daraz.pk/samsung-j320f-galaxy-j3-8gb-golden-6554054.html
+Gfive;Gpower 5 - 16GB - Rose Gold;Golden;0;8,999;https://www.daraz.pk/gfive-gpower-5-16gb-rose-gold-6385512.html
+Lenovo;Vibe C - A2020 - 16GB - Black - 4G LTE;Black;11,900;11,371;https://www.daraz.pk/lenovo-vibe-c-a2020-16gb-black-4g-lte-6512524.html
+Samsung;Galaxy A7 2017 - 32GB - Gold Sand;Golden;55,000;52,470;https://www.daraz.pk/samsung-galaxy-a7-2017-32gb-gold-sand-6503989.html
+QMobile;Noir S6 - 2GB - 16GB - Gold;Golden;0;12,750;https://www.daraz.pk/qmobile-noir-s6-2gb-16gb-gold-6414385.html
+Samsung;Galaxy A7 - 5.7" - 3GB - 32GB - 16MP - Gold;Golden;0;55,000;https://www.daraz.pk/samsung-galaxy-a7-5.7-3gb-32gb-16mp-gold-6545205.html
+Samsung;Samsung Grand Prime SM-G531H - 8 GB - Grey;Grey;18,500;13,355;https://www.daraz.pk/sm-g530h-grand-prime-5.0-8-gb-1-gb-ram-1.2-ghz-quad-core-8-mp-camera-grey-brand-warranty-samsung-mpg6027.html
+Huawei;Honor 8 Lite 2017 - 15.2" - 16GB - 3GB - 12MP - Black;Black;0;24,900;https://www.daraz.pk/huawei-honor-8-lite-2017-15.2-16gb-3gb-12mp-black-6531312.html
+Huawei;Nexus 6P - 5.7" - 64 GB - 3 GB RAM - 2.0 - 12.3 MP - Aluminium Silver;Silver;71,999;63,540;https://www.daraz.pk/huawei-nexus-6p-5.7-64-gb-3-gb-ram-2.0-12.3-mp-aluminium-silver-6504373.html
+QMobile;i2 Power - 1GB RAM - 8GB ROM - Gold ;;0;7,250;https://www.daraz.pk/i2-power-1gb-ram-8gb-rom-gold-qmobile-mpg57590.html
+QMobile;JS2 - Jazz X - 8GB - Gray;;0;6,999;https://www.daraz.pk/qmobile-js2-jazz-x-8gb-gray-6503966.html
+QMobile;Energy X1 - 1GB RAM - 8GB ROM - Grey;;0;9,999;https://www.daraz.pk/qmobile-energy-x1-1gb-ram-8gb-rom-grey-6506226.html
+Lenovo;K6 - 5.0" - 16GB - 2GB - 13MP - Dark Grey - LTE - 4G LTE;Grey;22,600;16,900;https://www.daraz.pk/lenovo-k6-5.0-16gb-2gb-13mp-dark-grey-lte-4g-lte-6429614.html
+Samsung;Galaxy J1 Mini Prime - 8GB ROM - 1GB RAM - 5 MP - Gold;;0;9,999;https://www.daraz.pk/samsung-galaxy-j1-mini-prime-8gb-rom-1gb-ram-5-mp-gold-6498359.html
+Samsung;Grand Prime Plus - Dual Sim - 8GB - LTE - Silver - 4G LTE;;15,999;14,798;https://www.daraz.pk/samsung-grand-prime-plus-dual-sim-8gb-lte-silver-4g-lte-6458563.html
+Samsung;Galaxy Grand Prime Plus - Dual Sim - 5.0" - 8GB ROM - 1.5GB RAM - 8MP Camera - Golden ;Golden;0;15,620;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-dual-sim-5.0-8gb-rom-1.5gb-ram-8mp-camera-golden-6461469.html
+Huawei;Y5II - 3G - 8 GB - Gold;Golden;11,999;11,518;https://www.daraz.pk/huawei-y5ii-8-gb-gold-huawei-mpg45799.html
+Mrkhan;Handsfree For Smartphones - Black;Black;600;300;https://www.daraz.pk/mr-khan-handsfree-for-smartphones-black-6506573.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB ROM - 1.5GB RAM - 8MP - silver;White;0;16,000;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-rom-1.5gb-ram-8mp-silver-6460289.html
+Samsung;J7 Prime - 4G - 3 GB RAM - 16GB - 5.5" - 13 MP - Black;Golden;34,000;28,800;https://www.daraz.pk/samsung-j7-prime-4g-3-gb-ram-16gb-5.5-13-mp-black-6539252.html
+Samsung;J5 Prime - 4G - 2GB RAM - 16GB - 5.0" - 13MP - Golden;Golden;27,000;24,800;https://www.daraz.pk/samsung-j5-prime-4g-2gb-ram-16gb-5.0-13mp-golden-6539199.html
+Samsung;J5 Prime - 4G - 2GB RAM - 16GB - 5.0" - 13MP - Black;Black;27,000;24,800;https://www.daraz.pk/samsung-j5-prime-4g-2gb-ram-16gb-5.0-13mp-black-6539195.html
+Samsung;A5 - 3GB - 32GB - 5.2" - Blue;Blue;47,000;39,800;https://www.daraz.pk/samsung-a5-3gb-32gb-5.2-blue-6539053.html
+Samsung;Galaxy A320 - 16GB - Blue Mist;Blue;0;37,500;https://www.daraz.pk/samsung-galaxy-a320-16gb-blue-mist-6508137.html
+Huawei;Honor 8 Lite 2017 - 16GB - 3GB - Fingerprint Sensor - Gold;;24,900;23,999;https://www.daraz.pk/honor-8-lite-2017-16gb-3gb-fingerprint-sensor-gold-huawei-mpg56964.html
+Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - 4G - Grey;Grey;27,500;26,399;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-4g-grey-6504357.html
+Alcatel;Pixi 4 - 4GB - Metal Silver - 4034F;White;0;7,850;https://www.daraz.pk/alcatel-pixi-4-4gb-metal-silver-4034f-6329717.html
+QMobile;Noir LT750 - 16GB HDD - White & Gold;White|Golden;0;16,000;https://www.daraz.pk/qmobile-noir-lt750-16gb-hdd-white-gold-6409350.html
+Huawei;Honor 7 - 5.2" - 16GB ROM - 3GB RAM - 20MP CameraSilver;Silver;39,999;33,540;https://www.daraz.pk/honor-7-5.2-4g-16-gb-3-gb-ram-octa-core-2.2-ghz-20-mp-camera-silver-brand-warranty-huawei-mpg35691.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB - 1.5GB RAM - 8MP Camera -pink gold;White;16,000;14,799;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-1.5gb-ram-8mp-camera-pink-gold-6486073.html
+Zovor;JKR – 212B Bluetooth FM Radio Headset Headphones  –  BLACK;Black;5,000;2,499;https://www.daraz.pk/zovor-jkr-212b-bluetooth-fm-radio-headset-headphones-black-6532444.html
+Giftsshop;DZ09 - GSM Smart Mobile Watch - Black & Silver;;0;1,499;https://www.daraz.pk/giftsshop-dz09-gsm-smart-mobile-watch-black-silver-6509945.html
+Samsung;Galaxy A7 2017 - 32GB ROM - Black Sky;Black;55,000;52,470;https://www.daraz.pk/samsung-galaxy-a7-2017-32gb-rom-black-sky-6501948.html
+Huawei;Honor 6X - 5.5" - 32GB - 3GB RAM - 12MP Camera - 4G LTE - Silver;Silver;28,500;26,397;https://www.daraz.pk/huawei-honor-6x-5.5-32gb-3gb-ram-12mp-camera-4g-lte-silver-6486066.html
+QMobile;S1 Pro - 8GB ROM - 1GB RAM - Grey;Grey;0;8,500;https://www.daraz.pk/qmobile-s1-pro-8gb-rom-1gb-ram-grey-6395565.html
+QMobile;Energy X1 - 1GB RAM - 8GB ROM - Metal Gold;;0;9,999;https://www.daraz.pk/qmobile-energy-x1-1gb-ram-8gb-rom-metal-gold-6506211.html
+Samsung;Galaxy Grand Prime Plus - Dual Sim - 8GB ROM - Silver;Silver;0;15,620;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-dual-sim-8gb-rom-silver-6461787.html
+Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - Dual Sim - Silver;;27,500;26,400;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-dual-sim-silver-6504471.html
+Huawei;Honor 6x - 5.5" - 32 GB HDD - 3 GB RAM - 12 MP Camera - Dual Sim - Grey;Grey;0;27,500;https://www.daraz.pk/huawei-honor-6x-5.5-32-gb-hdd-3-gb-ram-12-mp-camera-dual-sim-grey-6490949.html
+Huawei;Honor 7 - 5.2" - 16GB ROM - 3 GB RAM - 20MP Camera - Grey;Grey;39,999;33,540;https://www.daraz.pk/honor-7-5.2-16-gb-3-gb-ram-octa-core-2.2-ghz-20-mp-camera-4g-black-brand-warranty-huawei-mpg35690.html
+Samsung;Galaxy Grand Prime Plus - Dual Sim - 5.0" - 8GB ROM - 1.5GB RAM - 8MP Camera - Black;Black;0;15,620;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-dual-sim-5.0-8gb-rom-1.5gb-ram-8mp-camera-black-6461470.html
+Huawei;Honor 6X - Dual Sim - 5.5" - 32GB HDD - 3GB RAM - 12MP Camera - Grey;Grey;27,500;26,400;https://www.daraz.pk/huawei-honor-6x-dual-sim-5.5-32gb-hdd-3gb-ram-12mp-camera-grey-6512981.html
+Huawei;Mate 9 - 64GB - Black;Black;64,999;62,399;https://www.daraz.pk/huawei-mate-9-64gb-black-6506989.html
+Huawei;Honor 8 - 5.2" - 32GB ROM - 4GB RAM - 12MP Camera - Midnight Black;Black;41,999;40,319;https://www.daraz.pk/huawei-honor-8-5.2-32gb-rom-4gb-ram-12mp-camera-midnight-black-6506757.html
+Huawei;Honor 8 - 5.2" - 32GB ROM - 4GB RAM - 12MP Camera - Sapphire Blue;Blue;41,999;40,319;https://www.daraz.pk/huawei-honor-8-5.2-32gb-rom-4gb-ram-12mp-camera-sapphire-blue-6506756.html
+Huawei;Honor 8 - 5.2" - 32GB ROM - 4GB RAM - 12MP Camera - Gold;Golden;41,999;40,319;https://www.daraz.pk/huawei-honor-8-5.2-32gb-rom-4gb-ram-12mp-camera-gold-6506754.html
+Huawei;P9 Lite - 5.2" - 16 GB - 2 GB - 13 MP - Golden;Golden;21,999;21,119;https://www.daraz.pk/huawei-p9-lite-5.2-16-gb-2-gb-13-mp-golden-6504379.html
+Lenovo;A328 - 1GB - 4GB - Black;;11,900;7,500;https://www.daraz.pk/lenovo-a328-1gb-4gb-black-6503581.html
+QMobile;Noir W40 - 4GB ROM - 512MB RAM - White;;0;7,250;https://www.daraz.pk/qmobile-noir-w40-4gb-rom-512mb-ram-white-6503985.html
+Alcatel;Pop 4 - 8GB - Dark Gray - 5051D;Grey;0;13,700;https://www.daraz.pk/alcatel-pop-4-8gb-dark-gray-5051d-6330776.html
+Gfive;President Xhero 3 - 8GB - Black;Black;0;8,900;https://www.daraz.pk/gfive-president-xhero-3-8gb-black-6463947.html
+Microsoft;RM-1090 - Lumia 535 - 5" - 8GB - Orange;Orange;0;14,500;https://www.daraz.pk/rm-1090-lumia-535-dual-sim-5.0-8-gb-1-gb-ram-1.2-ghz-quad-core-5-mp-camera-orange-brand-warranty-microsoft-mpg4835.html
+Apple;iPhone 7 Plus - 32GB - Without Face Time - Rose Gold - 4G LTE;Golden;0;100,899;https://www.daraz.pk/apple-iphone-7-plus-32gb-without-face-time-rose-gold-4g-lte-6423075.html
+Apple;iPhone 7 Plus - 256GB - Without Face Time - Silver - 4G LTE;Golden;0;126,799;https://www.daraz.pk/apple-iphone-7-plus-256gb-without-face-time-silver-4g-lte-6423074.html
+Apple;iPhone 7 Plus - 32GB - Without Face Time - Gold;Golden;0;100,899;https://www.daraz.pk/apple-iphone-7-plus-32gb-without-face-time-gold-6423073.html
+Apple;iPhone 7 Plus - 128GB - Without Face Time - Gold - 4G LTE;Golden;0;113,799;https://www.daraz.pk/apple-iphone-7-plus-128gb-without-face-time-gold-4g-lte-6423071.html
+Apple;iPhone 7 Plus - 32GB - Without Face Time - Black;Black;0;100,899;https://www.daraz.pk/apple-iphone-7-plus-32gb-without-face-time-black-6423069.html
+Apple;iPhone 7 Plus - 128GB - Without Face Time - Jet Black;Black;0;113,799;https://www.daraz.pk/apple-iphone-7-plus-128gb-without-face-time-jet-black-6423066.html
+Apple;iPhone 7 Plus - 256GB - Without Face Time - Jet Black;Black;0;126,799;https://www.daraz.pk/apple-iphone-7-plus-256gb-without-face-time-jet-black-6423060.html
+Apple;iPhone 7 Plus - 128GB - Without Face Time - Rose Gold - 4G LTE;Pink|Golden;0;113,799;https://www.daraz.pk/apple-iphone-7-plus-128gb-without-face-time-rose-gold-4g-lte-6423004.html
+Huawei;Y3II - 8 GB - Gold;Golden;9,799;9,400;https://www.daraz.pk/huawei-y3ii-8-gb-gold-6315766.html
+Samsung;Galaxy Grand Prime Plus - 5.0" - 8GB ROM - 1.5GB RAM - 8MP Camera - Black;Black;17,000;14,845;https://www.daraz.pk/samsung-galaxy-grand-prime-plus-5.0-8gb-rom-1.5gb-ram-8mp-camera-black-6460291.html
+HTC;Desire 630 - 5.0" - 16GB - 2GB RAM - 13MP Camera - White;White;23,490;21,995;https://www.daraz.pk/htc-desire-630-5.0-16gb-2gb-ram-13mp-camera-white-6407524.html
+Apple;iPhone 6S Plus - 16GB - Rose Gold - Without Face Time;Golden,Silver,Grey;0;69,999;https://www.daraz.pk/apple-iphone-6s-plus-16gb-rose-gold-without-face-time-5401255.html
+Apple;iPhone 6 - 128GB - Without Face Time - Silver;Silver,Grey;0;69,999;https://www.daraz.pk/iphone-6-128gb-without-face-time-silver-apple-mpg45716.html
+HTC;Desire 628 - 32GB - 3GB RAM - 13MP Camera - Sunset Blue;Blue;23,999;22,480;https://www.daraz.pk/htc-desire-628-32gb-3gb-ram-13mp-camera-sunset-blue-6407509.html
+HTC;Desire 628 - 32GB - 3GB RAM - 13MP Camera - Cobalt White;White;23,999;22,480;https://www.daraz.pk/htc-desire-628-32gb-3gb-ram-13mp-camera-cobalt-white-6407505.html
+Infinix;Note 3 Pro - X601 - 16GB - 3GB - Champagne Gold - 4G LTE;Golden,Grey;20,599;14,999;https://www.daraz.pk/infinix-note-3-pro-x601-16gb-3gb-champagne-gold-4g-lte-6382110.html
+Infinix;Note 3 Pro - X601 - 16GB - 3GB - Crystal Grey - 4G LTE;Grey,Golden;20,599;14,999;https://www.daraz.pk/infinix-note-3-pro-x601-16gb-3gb-crystal-grey-4g-lte-6382113.html
+Infinix;Note 3 Pro - X601 - 16GB -3GB - Silver - 4G LTE;,Golden,Grey;20,599;14,999;https://www.daraz.pk/infinix-note-3-pro-x601-16gb-3gb-silver-4g-lte-6382112.html
+Microsoft;RM-1069 - Lumia 435 - 4" -  8 GB - 1 GB RAM - 2 MP - Green;Green;0;10,300;https://www.daraz.pk/rm-1069-lumia-435-4-8-gb-hdd-1-gb-ram-2-mp-camera-green-brand-warranty-microsoft-mpg805.html

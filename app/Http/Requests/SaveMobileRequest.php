@@ -19,6 +19,16 @@ class SaveMobileRequest extends FormRequest
             return false;
     }
 
+
+
+    public function messages()
+    {
+        return [
+            'current_price.discount' => 'Discount value should be less than the old value.'
+        ];
+    }
+
+
     /**
      * Get the validation rules that apply to the request.
      *
@@ -26,13 +36,14 @@ class SaveMobileRequest extends FormRequest
      */
     public function rules()
     {
+        //this is discounted price
         $currentPrice = $this->input('current_price');
+
         return [
             "title" => "required|min:3|max:255",
             'stock' => 'required|digits_between:0,500',
-            'current_price' => 'required|integer',
-            'discount_price' => 'discount:'.$currentPrice,
-            'product_image' => 'required|image',
+            'old_price' => 'required|integer',
+            'current_price' => 'discount:'.$currentPrice,
             'brands' => 'required'
         ];
     }

@@ -1,228 +1,40 @@
-Dell;Dell Inspiron 3567 Core i5;;;53,999;http://www.mega.pk/laptop_products/15966/Dell-Inspiron-3567-Core-i5.html
-Lenovo;Lenovo IdeaPad 310 7th Generation;;;47,999;http://www.mega.pk/laptop_products/15355/Lenovo-IdeaPad-310-7th-Generation.html
-HP;HP 15-AY009ne;;;52,999;http://www.mega.pk/laptop_products/14959/HP-15-AY009ne.html
-HP;HP Notebook 15-AY102TU;;;54,999;http://www.mega.pk/laptop_products/15564/HP-Notebook-15-AY102TU.html
-HP;HP 15-AY120TX;;;57,499;http://www.mega.pk/laptop_products/15565/HP-15-AY120TX.html
-HP;HP 15-AY101TU;;;47,999;http://www.mega.pk/laptop_products/15560/HP-15-AY101TU.html
-Acer;Acer ES1-571;;;34,999;http://www.mega.pk/laptop_products/15312/Acer-ES1-571.html
-HP;HP 15-AY122TX;;;81,999;http://www.mega.pk/laptop_products/15583/HP-15-AY122TX.html
-HP;HP 15-AY122TX;;;77,999;http://www.mega.pk/laptop_products/15566/HP-15-AY122TX.html
-HP;HP Notebook 15-ay083nia;;;38,999;http://www.mega.pk/laptop_products/15310/HP-Notebook-15-ay083nia.html
-Dell;Dell Inspiron 5559;;69,999 - PKR;52,999;http://www.mega.pk/laptop_products/13548/Dell-Inspiron-5559.html
-HP;HP NoteBook 15-AC149NE;;;58,999;http://www.mega.pk/laptop_products/13960/HP-NoteBook-15-AC149NE.html
-Dell;Dell Vostro 3559;;;52,499;http://www.mega.pk/laptop_products/15255/Dell-Vostro-3559.html
-Lenovo;Lenovo IdeaPad  Y700;;;89,499;http://www.mega.pk/laptop_products/15254/Lenovo-IdeaPad--Y700.html
-Dell;Dell Latitude E7250;;;97,999;http://www.mega.pk/laptop_products/15249/Dell-Latitude-E7250.html
-Dell;Dell Latitude E7470;;;144,499;http://www.mega.pk/laptop_products/15243/Dell-Latitude-E7470.html
-Dell;Dell Latitude E5470;;;119,499;http://www.mega.pk/laptop_products/15230/Dell-Latitude-E5470.html
-Dell;Dell Latitude E7470;;;116,499;http://www.mega.pk/laptop_products/15228/Dell-Latitude-E7470.html
-Dell;Dell Latitude E5470;;;89,499;http://www.mega.pk/laptop_products/15205/Dell-Latitude-E5470.html
-Dell;Dell Latitude E5570;;;90,499;http://www.mega.pk/laptop_products/15204/Dell-Latitude-E5570.html
-Dell;Dell Latitude E3450;;;60,499;http://www.mega.pk/laptop_products/15187/Dell-Latitude-E3450.html
-Dell;Dell Latitude E3470;;;60,499;http://www.mega.pk/laptop_products/15186/Dell-Latitude-E3470.html
-Dell;Dell Latitude E3570;;;60,499;http://www.mega.pk/laptop_products/15178/Dell-Latitude-E3570.html
 Lenovo;Lenovo Ideapad 110;;;37,999;http://www.mega.pk/laptop_products/15350/Lenovo-Ideapad-110.html
-Dell;Dell Alienware 17 R3;;;174,999;http://www.mega.pk/laptop_products/14817/Dell-Alienware-17-R3.html
-Lenovo;Lenovo Thinkpad Yoga 14;;;N/A;http://www.mega.pk/laptop_products/14740/Lenovo-Thinkpad-Yoga-14.html
-Microsoft;Microsoft Surface Pro 4;;;89,499;http://www.mega.pk/laptop_products/14580/Microsoft-Surface-Pro-4.html
-Asus;Asus GL522VW-CN457T 128GB;;;143,999;http://www.mega.pk/laptop_products/14517/Asus-GL522VW-CN457T-128GB.html
-Asus;Asus GL522VW-CN458T 256GB;;;144,899;http://www.mega.pk/laptop_products/14514/Asus-GL522VW-CN458T-256GB.html
-ASUS;ASUS ROG G752VT-GC131T;;;209,499;http://www.mega.pk/laptop_products/14511/ASUS-ROG-G752VT-GC131T.html
-Lenovo;Lenovo IdeaPad 310;;;48,499;http://www.mega.pk/laptop_products/14372/Lenovo-IdeaPad-310.html
-Razer;Razer Blade;;;N/A;http://www.mega.pk/laptop_products/14299/Razer-Blade.html
-Asus;Asus GL752VW ROG;;;135,499;http://www.mega.pk/laptop_products/14298/Asus-GL752VW-ROG.html
-Asus;Asus ZenBook UX303UA;;;97,999;http://www.mega.pk/laptop_products/14296/Asus-ZenBook-UX303UA.html
-Asus;Asus NoteBook X556UF;;;78,999;http://www.mega.pk/laptop_products/14295/Asus-NoteBook-X556UF.html
-ASUS;ASUS X556UJ;;;62,999;http://www.mega.pk/laptop_products/14291/ASUS-X556UJ.html
-Asus;Asus X555UA;;;49,990;http://www.mega.pk/laptop_products/14290/Asus-X555UA.html
-ACER;ACER Predator G9-591-72LV;;185,999 - PKR;157,499;http://www.mega.pk/laptop_products/14282/ACER-Predator-G9-591-72LV.html
-Dell;Dell Inspiron  3558;;46,999 - PKR;37,499;http://www.mega.pk/laptop_products/14281/Dell-Inspiron--3558.html
-ASUS;ASUS ROG Strix GL502VT;;;183,999;http://www.mega.pk/laptop_products/14277/ASUS-ROG-Strix-GL502VT.html
-Apple;Apple Macbook MMGL2;;;133,999;http://www.mega.pk/laptop_products/14269/Apple-Macbook-MMGL2.html
-Apple;Apple Macbook Air MMGG2;;;116,999;http://www.mega.pk/laptop_products/14268/Apple-Macbook-Air-MMGG2.html
-Apple;Apple Macbook Air MMGF2;;104,999 - PKR;96,999;http://www.mega.pk/laptop_products/14266/Apple-Macbook-Air-MMGF2.html
-ASUS;ASUS ROG G752VL-UH71T;;;209,999;http://www.mega.pk/laptop_products/14233/ASUS-ROG-G752VL-UH71T.html
-Dell;Dell Inspiron  7568 Ci7;;105,999 - PKR;81,999;http://www.mega.pk/laptop_products/14231/Dell-Inspiron--7568-Ci7.html
-HP;HP Spectre 13 V011dx;;169,999 - PKR;129,999;http://www.mega.pk/laptop_products/14199/HP-Spectre-13-V011dx.html
-Dell;Dell Inspiron  3558;;45,000 - PKR;40,999;http://www.mega.pk/laptop_products/14195/Dell-Inspiron--3558.html
-Lenovo;Lenovo ThinkPad T460s;;;N/A;http://www.mega.pk/laptop_products/14053/Lenovo-ThinkPad-T460s.html
-Dell;Dell Latitude E3570;;;60,499;http://www.mega.pk/laptop_products/14037/Dell-Latitude-E3570.html
-HP;HP Spectre X360 Convertible PC 13 4139;;;N/A;http://www.mega.pk/laptop_products/14003/HP-Spectre-X360-Convertible-PC-13-4139.html
-Dell;Dell Inspiron 5559 Ci3;;;40,499;http://www.mega.pk/laptop_products/13961/Dell-Inspiron-5559-Ci3.html
-Dell;Dell Inspiron 7559 4GB Dedicated;;;111,499;http://www.mega.pk/laptop_products/13951/Dell-Inspiron-7559-4GB-Dedicated.html
-Dell;Dell Alienware 17 R3 256GB;;;249,999;http://www.mega.pk/laptop_products/13950/Dell-Alienware-17-R3-256GB.html
-Dell;Dell Alienware 15 R2 256GB;;;194,999;http://www.mega.pk/laptop_products/13949/Dell-Alienware-15-R2-256GB.html
-Dell;Dell Inspiron 7559;;;129,999;http://www.mega.pk/laptop_products/13938/Dell-Inspiron-7559.html
-Dell;Dell Inspiron 7559 Touch;;;117,499;http://www.mega.pk/laptop_products/13937/Dell-Inspiron-7559-Touch.html
-Dell;Dell Inspiron 7559 Ci7;;;105,000;http://www.mega.pk/laptop_products/13936/Dell-Inspiron-7559-Ci7.html
-Dell;Dell Inspiron 7559 Ci5;;;94,499;http://www.mega.pk/laptop_products/13935/Dell-Inspiron-7559-Ci5.html
-Dell;Dell Alienware 15 R2;;;185,999;http://www.mega.pk/laptop_products/13927/Dell-Alienware-15-R2.html
-Dell;Dell Alienware 17 R3;;;299,599;http://www.mega.pk/laptop_products/13926/Dell-Alienware-17-R3.html
-HP;HP ProBook 450 G3;;73,999 - PKR;62,999;http://www.mega.pk/laptop_products/13880/HP-ProBook-450-G3.html
-Lenovo;Lenovo Thinkpad E460;;;83,499;http://www.mega.pk/laptop_products/13831/Lenovo-Thinkpad-E460.html
-Lenovo;Lenovo Thinkpad E460;;;95,999;http://www.mega.pk/laptop_products/13830/Lenovo-Thinkpad-E460.html
-ASUS;ASUS ROG G752VL-BHI7N32;;;153,999;http://www.mega.pk/laptop_products/13816/ASUS-ROG-G752VL-BHI7N32.html
-ASUS;ASUS ROG G752VT-DH72;;;182,999;http://www.mega.pk/laptop_products/13815/ASUS-ROG-G752VT-DH72.html
-ASUS;ASUS ROG GT752VY-DH72;;;275,999;http://www.mega.pk/laptop_products/13814/ASUS-ROG-GT752VY-DH72.html
-Dell;Dell Inspiron 5559 Touch;;;73,200;http://www.mega.pk/laptop_products/13809/Dell-Inspiron-5559-Touch.html
-HP;HP ENVY 15-C011DX X2;;;47,499;http://www.mega.pk/laptop_products/13736/HP-ENVY-15-C011DX-X2.html
-Lenovo;Lenovo IdeaPad Yoga 900;;170,000 - PKR;136,499;http://www.mega.pk/laptop_products/13704/Lenovo-IdeaPad-Yoga-900.html
-Dell;Dell Inspiron 5559 4GB Dedicated;;;68,499;http://www.mega.pk/laptop_products/13648/Dell-Inspiron-5559-4GB-Dedicated.html
-HP;HP Pavilion Gaming Notebook 15-AK021TX;;130,000 - PKR;114,499;http://www.mega.pk/laptop_products/13643/HP-Pavilion-Gaming-Notebook-15-AK021TX.html
-HP;HP Pavilion 15-AB206TU;;;59,499;http://www.mega.pk/laptop_products/13642/HP-Pavilion-15-AB206TU.html
-HP;HP 15-AC187TU;;;53,999;http://www.mega.pk/laptop_products/13637/HP-15-AC187TU.html
-HP;HP 15-AC186TU;;;41,499;http://www.mega.pk/laptop_products/13636/HP-15-AC186TU.html
-HP;HP ProBook 440 G3 Ci3;;;53,999;http://www.mega.pk/laptop_products/13632/HP-ProBook-440-G3-Ci3.html
-HP;HP ProBook 440 G3 Ci5;;;65,499;http://www.mega.pk/laptop_products/13631/HP-ProBook-440-G3-Ci5.html
-HP;HP ProBook 440 G3 Ci5-2GB Dedicated;;;69,999;http://www.mega.pk/laptop_products/13630/HP-ProBook-440-G3-Ci5-2GB-Dedicated.html
-HP;HP ProBook 440 G3 Ci7;;;81,999;http://www.mega.pk/laptop_products/13629/HP-ProBook-440-G3-Ci7.html
-HP;HP ProBook 440 G3 Ci7-2GB Dedicated;;;84,999;http://www.mega.pk/laptop_products/13628/HP-ProBook-440-G3-Ci7-2GB-Dedicated.html
-HP;HP ProBook 450 G3 Ci3;;;49,999;http://www.mega.pk/laptop_products/13627/HP-ProBook-450-G3-Ci3.html
-HP;HP ProBook 450 G3 Ci5-2GB Dedicated;;;67,999;http://www.mega.pk/laptop_products/13626/HP-ProBook-450-G3-Ci5-2GB-Dedicated.html
-HP;HP ProBook 450 G3 Ci5;;;65,999;http://www.mega.pk/laptop_products/13625/HP-ProBook-450-G3-Ci5.html
-HP;HP ProBook 450 G3 Ci7;;;83,999;http://www.mega.pk/laptop_products/13623/HP-ProBook-450-G3-Ci7.html
-HP;HP EliteBook 820 G3;;;83,499;http://www.mega.pk/laptop_products/13571/HP-EliteBook-820-G3.html
-HP;HP EliteBook 840 G3;;;83,999;http://www.mega.pk/laptop_products/13569/HP-EliteBook-840-G3.html
-HP;HP EliteBook 840 G3;;;99,999;http://www.mega.pk/laptop_products/13568/HP-EliteBook-840-G3.html
-HP;HP EliteBook 850 G3;;95,999 - PKR;84,999;http://www.mega.pk/laptop_products/13565/HP-EliteBook-850-G3.html
-HP;HP EliteBook 850 G3;;115,999 - PKR;99,999;http://www.mega.pk/laptop_products/13563/HP-EliteBook-850-G3.html
-Dell;Dell Alienware 15 6th Generation;;;229,499;http://www.mega.pk/laptop_products/13528/Dell-Alienware-15-6th-Generation.html
-HP;HP Pavilion X360 Convertible 11-k118tu;;;57,990;http://www.mega.pk/laptop_products/13481/HP-Pavilion-X360-Convertible-11-k118tu.html
-HP;HP Pavilion 15-ab204TU;;;57,999;http://www.mega.pk/laptop_products/13477/HP-Pavilion-15-ab204TU.html
-Dell;Dell Latitude E3540 Ci3;;;52,990;http://www.mega.pk/laptop_products/13401/Dell-Latitude-E3540-Ci3.html
-Dell;Dell Latitude E3550 ci3;;;57,990;http://www.mega.pk/laptop_products/13250/Dell-Latitude-E3550-ci3.html
-Dell;Dell Latitude E3550 Ci7;;;99,999;http://www.mega.pk/laptop_products/13137/Dell-Latitude-E3550-Ci7.html
-Apple;Apple MacBook Pro with Retina Display MJLU2;;;268,000;http://www.mega.pk/laptop_products/12891/Apple-MacBook-Pro-with-Retina-Display-MJLU2.html
-Apple;Apple MacBook Pro with Retina Display MJLT2;;;234,999;http://www.mega.pk/laptop_products/12890/Apple-MacBook-Pro-with-Retina-Display-MJLT2.html
-Apple;Apple MacBook Pro with Retina Display MJLQ2;;199,999 - PKR;189,999;http://www.mega.pk/laptop_products/12880/Apple-MacBook-Pro-with-Retina-Display-MJLQ2.html
-Dell;Dell Latitude E3450;;;69,999;http://www.mega.pk/laptop_products/12873/Dell-Latitude-E3450.html
-Dell;Dell Inspiron 7547;;;53,499;http://www.mega.pk/laptop_products/12686/Dell-Inspiron-7547.html
-Apple;Apple MacBook Air Z0RJ0001W;;;199,999;http://www.mega.pk/laptop_products/12623/Apple-MacBook-Air-Z0RJ0001W.html
-Apple;Apple MacBook Retina Display MK4N2;;;123,999;http://www.mega.pk/laptop_products/12436/Apple-MacBook-Retina-Display-MK4N2.html
-Apple;Apple MacBook Retina Display MJY42;;;148,999;http://www.mega.pk/laptop_products/12435/Apple-MacBook-Retina-Display-MJY42.html
-Apple;Apple MacBook Retina Display MF865;;;155,999;http://www.mega.pk/laptop_products/12434/Apple-MacBook-Retina-Display-MF865.html
-Apple;Apple MacBook Retina Display MK4M2;;;112,490;http://www.mega.pk/laptop_products/12433/Apple-MacBook-Retina-Display-MK4M2.html
-Apple;Apple MacBook Retina Display MJY32;;;114,999;http://www.mega.pk/laptop_products/12432/Apple-MacBook-Retina-Display-MJY32.html
-Apple;Apple MacBook Retina Display MF855;;;118,499;http://www.mega.pk/laptop_products/12431/Apple-MacBook-Retina-Display-MF855.html
-Apple;Apple MacBook Pro  Retina MF841;;;165,999;http://www.mega.pk/laptop_products/12274/Apple-MacBook-Pro--Retina-MF841.html
-Apple;Apple MacBook Pro  Retina MF840;;;136,499;http://www.mega.pk/laptop_products/12273/Apple-MacBook-Pro--Retina-MF840.html
-Apple;Apple MacBook Pro  Retina MF839;;149,999 - PKR;130,990;http://www.mega.pk/laptop_products/12272/Apple-MacBook-Pro--Retina-MF839.html
-Apple;Apple MacBook Air MJVE2;;;91,999;http://www.mega.pk/laptop_products/12271/Apple-MacBook-Air-MJVE2.html
-Apple;Apple MacBook Air MJVG2;;;115,999;http://www.mega.pk/laptop_products/12268/Apple-MacBook-Air-MJVG2.html
-HP;HP Pavilion 15 - P089TX 2GB Dedicated;;;55,499;http://www.mega.pk/laptop_products/12021/HP-Pavilion-15---P089TX-2GB-Dedicated.html
-HP;HP Pavilion 15-N258TX 2GB Dedicated;;;53,499;http://www.mega.pk/laptop_products/12020/HP-Pavilion-15-N258TX-2GB-Dedicated.html
-HP;HP ProBook 430 G3 Ci7;;;83,999;http://www.mega.pk/laptop_products/16141/HP-ProBook-430-G3-Ci7.html
-Dell;Dell Inspiron 3567;;;52,999;http://www.mega.pk/laptop_products/16129/Dell-Inspiron-3567.html
-HP;HP  15-AY105ne;;;61,499;http://www.mega.pk/laptop_products/16126/HP--15-AY105ne.html
-Samsung;Samsung  Galaxy Book;;;N/A;http://www.mega.pk/laptop_products/16101/Samsung--Galaxy-Book.html
-HP;HP Envy M6-AQ105Dx Ci7;;;81,999;http://www.mega.pk/laptop_products/16086/HP-Envy-M6-AQ105Dx-Ci7.html
-HP;HP Envy M6-AQ103Dx Ci5;;;71,499;http://www.mega.pk/laptop_products/16085/HP-Envy-M6-AQ103Dx-Ci5.html
-HP;HP  15-AY169nr;;;54,499;http://www.mega.pk/laptop_products/16083/HP--15-AY169nr.html
-Dell;Dell Inspiron  7568 256GB;;;77,499;http://www.mega.pk/laptop_products/16079/Dell-Inspiron--7568-256GB.html
-HP;HP Envy  17-R012TX;;;113,999;http://www.mega.pk/laptop_products/16078/HP-Envy--17-R012TX.html
-HP;HP  15-AY540;;;44,999;http://www.mega.pk/laptop_products/16077/HP--15-AY540.html
-Dell;Dell Inspiron 5568  ci3;;;50,999;http://www.mega.pk/laptop_products/16072/Dell-Inspiron-5568--ci3.html
-Dell;Dell Inspiron 5567;;;68,499;http://www.mega.pk/laptop_products/16071/Dell-Inspiron-5567.html
-HP;HP 15-AY191nia;;;72,499;http://www.mega.pk/laptop_products/16070/HP-15-AY191nia.html
-Dell;Dell Inspiron 3567 Core i3;;;42,999;http://www.mega.pk/laptop_products/16069/Dell-Inspiron-3567-Core-i3.html
-HP;HP Spectre x360  Convertible 15-BL075nr;;;189,999;http://www.mega.pk/laptop_products/16067/HP-Spectre-x360--Convertible-15-BL075nr.html
-HP;HP 15-AY190nia Core i5;;;54,999;http://www.mega.pk/laptop_products/15988/HP-15-AY190nia-Core-i5.html
-Lenovo;Lenovo Yoga 910 Core i7;;;N/A;http://www.mega.pk/laptop_products/15981/Lenovo-Yoga-910-Core-i7.html
-Dell;Dell XPS 13-9360 Core i5;;;134,999;http://www.mega.pk/laptop_products/15980/Dell-XPS-13-9360-Core-i5.html
-Dell;Dell Inspiron 7566 Core i7 With 128GB SSD;;;119,499;http://www.mega.pk/laptop_products/15971/Dell-Inspiron-7566-Core-i7-With-128GB-SSD.html
-Dell;Dell Inspiron 7566 Core i7;;;139,999;http://www.mega.pk/laptop_products/15968/Dell-Inspiron-7566-Core-i7.html
-Dell;Dell Inspiron 7566 Core i5;;;95,999;http://www.mega.pk/laptop_products/15967/Dell-Inspiron-7566-Core-i5.html
-Dell;Dell XPS 13-9360 Core i7;;;197,499;http://www.mega.pk/laptop_products/15961/Dell-XPS-13-9360-Core-i7.html
-HP;HP Omen 15T (Gaming Series);;;152,999;http://www.mega.pk/laptop_products/15951/HP-Omen-15T-(Gaming-Series).html
-Lenovo;Lenovo V310 Core i7;;;66,499;http://www.mega.pk/laptop_products/15936/Lenovo-V310-Core-i7.html
-HP;HP ENVY x360 - m6-aq005dx;;;74,999;http://www.mega.pk/laptop_products/15935/HP-ENVY-x360---m6-aq005dx.html
-Asus;Asus Zenbook UX303UB-DH74T;;;164,999;http://www.mega.pk/laptop_products/15926/Asus-Zenbook-UX303UB-DH74T.html
-HP;HP 15-AY191ms Core i3;;;45,499;http://www.mega.pk/laptop_products/15918/HP-15-AY191ms-Core-i3.html
-Dell;Dell Inspiron 5578 Core i5;;;71,499;http://www.mega.pk/laptop_products/15916/Dell-Inspiron-5578-Core-i5.html
-Dell;Dell Inspiron 7579 Core i5;;;77,499;http://www.mega.pk/laptop_products/15914/Dell-Inspiron-7579-Core-i5.html
-Dell;Dell Inspiron 7579 Core i7 ;;;99,999;http://www.mega.pk/laptop_products/15913/Dell-Inspiron-7579-Core-i7-.html
-Dell;Dell Inspiron 3567 Core i7;;;71,499;http://www.mega.pk/laptop_products/15912/Dell-Inspiron-3567-Core-i7.html
-Acer;Acer Aspire E5-475 Core i3;;;39,500;http://www.mega.pk/laptop_products/15911/Acer-Aspire-E5-475-Core-i3.html
-Lenovo;Lenovo Ideapad 310;;;61,499;http://www.mega.pk/laptop_products/15910/Lenovo-Ideapad-310.html
-Lenovo;Lenovo Ideapad 110;;;48,999;http://www.mega.pk/laptop_products/15909/Lenovo-Ideapad-110.html
 Lenovo;Lenovo IdeaPad 310 Ci5 7th Generation ;;49,999 - PKR;47,999;http://www.mega.pk/laptop_products/15908/Lenovo-IdeaPad-310-Ci5-7th-Generation-.html
-HP;HP ProBook 450 G4 Core i7;;;84,999;http://www.mega.pk/laptop_products/15899/HP-ProBook-450-G4-Core-i7.html
-HP;HP ProBook 450 G4 Core i7-2GB Graphics;;;89,999;http://www.mega.pk/laptop_products/15898/HP-ProBook-450-G4-Core-i7-2GB-Graphics.html
-HP;HP ProBook 450 G4 Core i5-2GB Graphics;;;71,499;http://www.mega.pk/laptop_products/15897/HP-ProBook-450-G4-Core-i5-2GB-Graphics.html
-HP;HP ProBook 450 G4 Core i5;;;68,499;http://www.mega.pk/laptop_products/15896/HP-ProBook-450-G4-Core-i5.html
-HP;HP ProBook 450 G4 Core i3;;;57,499;http://www.mega.pk/laptop_products/15895/HP-ProBook-450-G4-Core-i3.html
-HP;HP ProBook 440 G4 Core i7- 2GB Graphics;;;89,999;http://www.mega.pk/laptop_products/15894/HP-ProBook-440-G4-Core-i7--2GB-Graphics.html
-HP;HP ProBook 440 G4 Core i7;;;84,999;http://www.mega.pk/laptop_products/15893/HP-ProBook-440-G4-Core-i7.html
-HP;HP ProBook 440 G4 Core i5;;;68,999;http://www.mega.pk/laptop_products/15892/HP-ProBook-440-G4-Core-i5.html
-HP;HP ProBook 440 G4 Core i3;;;56,999;http://www.mega.pk/laptop_products/15891/HP-ProBook-440-G4-Core-i3.html
+Lenovo;Lenovo Ideapad 310;;;61,499;http://www.mega.pk/laptop_products/15910/Lenovo-Ideapad-310.html
+HP;HP  15-AY540;;;39,999;http://www.mega.pk/laptop_products/16077/HP--15-AY540.html
+HP;HP 250 G4;;;42,299;http://www.mega.pk/laptop_products/15275/HP-250-G4.html
+HP;HP  15-AY105ne;;;55,999;http://www.mega.pk/laptop_products/16126/HP--15-AY105ne.html
+HP;HP 15-AY067ne;;;43,999;http://www.mega.pk/laptop_products/16246/HP-15-AY067ne.html
+HP;HP 15-AY120TX;;;58,999;http://www.mega.pk/laptop_products/15565/HP-15-AY120TX.html
+HP;HP Envy M6-AQ103Dx Ci5;;;64,499;http://www.mega.pk/laptop_products/16085/HP-Envy-M6-AQ103Dx-Ci5.html
+Dell;Dell Inspiron 3567 Core i3;;;39,999;http://www.mega.pk/laptop_products/16069/Dell-Inspiron-3567-Core-i3.html
+Dell;Dell Inspiron 3567 Core i5;;;53,999;http://www.mega.pk/laptop_products/15966/Dell-Inspiron-3567-Core-i5.html
+Dell;Dell Inspiron 3567 Core i7;;;71,499;http://www.mega.pk/laptop_products/15912/Dell-Inspiron-3567-Core-i7.html
+Asus;Asus X555UA;;;49,990;http://www.mega.pk/laptop_products/14290/Asus-X555UA.html
+Acer;Acer ES1-572;;;41,999;http://www.mega.pk/laptop_products/15313/Acer-ES1-572.html
+Apple;Apple Macbook Pro MLH12 Touch Bar ;;;189,499;http://www.mega.pk/laptop_products/15502/Apple-Macbook-Pro-MLH12-Touch-Bar-.html
+Microsoft;Microsoft Surface Pro 4;;;89,499;http://www.mega.pk/laptop_products/14580/Microsoft-Surface-Pro-4.html
+Razer;Razer Blade;;;N/A;http://www.mega.pk/laptop_products/14299/Razer-Blade.html
+Samsung;Samsung  Galaxy Book;;;N/A;http://www.mega.pk/laptop_products/16101/Samsung--Galaxy-Book.html
+HP;HP Spectre 13-V100NE;;;N/A;http://www.mega.pk/laptop_products/16324/HP-Spectre-13-V100NE.html
+HP;HP Omen 15-ax222TX;;;177,999;http://www.mega.pk/laptop_products/16302/HP-Omen-15-ax222TX.html
+HP;HP Spectre 13-X360 AC028TU;;;174,999;http://www.mega.pk/laptop_products/16299/HP-Spectre-13-X360-AC028TU.html
+Apple;Apple Macbook Pro MLH32;;;237,999;http://www.mega.pk/laptop_products/16247/Apple-Macbook-Pro-MLH32.html
+Dell;Dell XPS 13-9360 Core i7  8GB;;;202,499;http://www.mega.pk/laptop_products/16240/Dell-XPS-13-9360-Core-i7--8GB.html
+HP;HP Spectre x360  Convertible 15-BL075nr;;;189,999;http://www.mega.pk/laptop_products/16067/HP-Spectre-x360--Convertible-15-BL075nr.html
+Dell;Dell Inspiron 7566 Core i7 With 128GB SSD;;;118,999;http://www.mega.pk/laptop_products/15971/Dell-Inspiron-7566-Core-i7-With-128GB-SSD.html
+Lenovo;Lenovo V310 Core i7;;;66,499;http://www.mega.pk/laptop_products/15936/Lenovo-V310-Core-i7.html
+HP;HP ProBook 450 G4 Core i7;;;79,999;http://www.mega.pk/laptop_products/15899/HP-ProBook-450-G4-Core-i7.html
+HP;HP ProBook 450 G4 Core i5-2GB Graphics;;;68,999;http://www.mega.pk/laptop_products/15897/HP-ProBook-450-G4-Core-i5-2GB-Graphics.html
 Dell;Dell Inspiron 5567;;;83,999;http://www.mega.pk/laptop_products/15805/Dell-Inspiron-5567.html
-Microsoft;Microsoft surface 2YN-00001;;;354,999;http://www.mega.pk/laptop_products/15785/Microsoft-surface-2YN-00001.html
-Microsoft;Microsoft surface CR7-00001;;;243,999;http://www.mega.pk/laptop_products/15783/Microsoft-surface-CR7-00001.html
-Microsoft;Microsoft surface TP4-00001;;;197,499;http://www.mega.pk/laptop_products/15781/Microsoft-surface-TP4-00001.html
-HP;HP Notebook 15 AY009dx;;;49,499;http://www.mega.pk/laptop_products/15698/HP-Notebook-15-AY009dx.html
-Lenovo;Lenovo IdeaPad 700;;;102,999;http://www.mega.pk/laptop_products/15696/Lenovo-IdeaPad-700.html
-HP;HP Spectre x360  13-w007tu;;;167,499;http://www.mega.pk/laptop_products/15622/HP-Spectre-x360--13-w007tu.html
+HP;HP Spectre x360  13-w007tu;;;166,999;http://www.mega.pk/laptop_products/15622/HP-Spectre-x360--13-w007tu.html
 HP;HP Spectre x360  13-w006tu;;;154,999;http://www.mega.pk/laptop_products/15621/HP-Spectre-x360--13-w006tu.html
-HP;HP ENVY 15-as107TU;;;119,999;http://www.mega.pk/laptop_products/15619/HP-ENVY-15-as107TU.html
-HP;HP ENVY 13-ab003TU;;;129,999;http://www.mega.pk/laptop_products/15615/HP-ENVY-13-ab003TU.html
-HP;HP ENVY Notebook 13-ab010TU;;;107,999;http://www.mega.pk/laptop_products/15612/HP-ENVY-Notebook-13-ab010TU.html
-Dell;Dell Inspiron 7779;;;119,499;http://www.mega.pk/laptop_products/15596/Dell-Inspiron-7779.html
-Dell;Dell Inspiron 7378;;;82,899;http://www.mega.pk/laptop_products/15595/Dell-Inspiron-7378.html
-HP;HP Envy x360 15-U493CL;;;72,999;http://www.mega.pk/laptop_products/15589/HP-Envy-x360-15-U493CL.html
-Lenovo;Lenovo IdeaPad 310  2GB;;;51,999;http://www.mega.pk/laptop_products/15586/Lenovo-IdeaPad-310--2GB.html
-HP;HP PAVILION 15-au170TX;;;63,499;http://www.mega.pk/laptop_products/15584/HP-PAVILION-15-au170TX.html
-HP;HP 15-ay103tu;;;45,999;http://www.mega.pk/laptop_products/15581/HP-15-ay103tu.html
-HP;HP Spectre 13-V114tu;;;175,999;http://www.mega.pk/laptop_products/15579/HP-Spectre-13-V114tu.html
-HP;HP Spectre 13-V113TU;;;149,999;http://www.mega.pk/laptop_products/15578/HP-Spectre-13-V113TU.html
-HP;HP PAVILION 13-U108TU X360;;;81,999;http://www.mega.pk/laptop_products/15577/HP-PAVILION-13-U108TU-X360.html
-HP;HP PAVILION 13-U103TU X360;;;71,999;http://www.mega.pk/laptop_products/15571/HP-PAVILION-13-U103TU-X360.html
-HP;HP ENVY 15-AS105tu;;;112,999;http://www.mega.pk/laptop_products/15570/HP-ENVY-15-AS105tu.html
-HP;HP ENVY 15-AS104TU;;;93,999;http://www.mega.pk/laptop_products/15569/HP-ENVY-15-AS104TU.html
+HP;HP ENVY 15-as107TU;;;126,999;http://www.mega.pk/laptop_products/15619/HP-ENVY-15-as107TU.html
+HP;HP Spectre 13-V114tu;;;176,999;http://www.mega.pk/laptop_products/15579/HP-Spectre-13-V114tu.html
+HP;HP PAVILION 13-U108TU X360;;;90,000;http://www.mega.pk/laptop_products/15577/HP-PAVILION-13-U108TU-X360.html
 HP;HP PAVILION 15-AU172TX;;;83,999;http://www.mega.pk/laptop_products/15568/HP-PAVILION-15-AU172TX.html
-HP;HP PAVILION 15-AU171TX;;;69,999;http://www.mega.pk/laptop_products/15567/HP-PAVILION-15-AU171TX.html
-Dell;Dell Inspiron 5567;;;47,999;http://www.mega.pk/laptop_products/15549/Dell-Inspiron-5567.html
-Dell;Dell Inspiron 5567;;;64,999;http://www.mega.pk/laptop_products/15546/Dell-Inspiron-5567.html
-Apple;Apple Macbook Pro  MMGM2LL/A;;;153,999;http://www.mega.pk/laptop_products/15514/Apple-Macbook-Pro--MMGM2LL-A.html
-Apple;Apple Macbook Pro MLW82 Touch Bar ;;;273,999;http://www.mega.pk/laptop_products/15505/Apple-Macbook-Pro-MLW82-Touch-Bar-.html
-Apple;Apple Macbook Pro  MLW72 Touch Bar;;;248,999;http://www.mega.pk/laptop_products/15504/Apple-Macbook-Pro--MLW72-Touch-Bar.html
-Apple;Apple Macbook Pro MLH12 Touch Bar ;;;194,999;http://www.mega.pk/laptop_products/15502/Apple-Macbook-Pro-MLH12-Touch-Bar-.html
-HP;HP Envy 13D-012TU;;;91,999;http://www.mega.pk/laptop_products/15440/HP-Envy-13D-012TU.html
-Dell;Dell Inspiron 5368 256GB;;;77,999;http://www.mega.pk/laptop_products/15361/Dell-Inspiron-5368-256GB.html
-Dell;Dell Inspiron 5368;;;75,999;http://www.mega.pk/laptop_products/15360/Dell-Inspiron-5368.html
-Dell;Dell Inspiron 5568;;;81,999;http://www.mega.pk/laptop_products/15359/Dell-Inspiron-5568.html
-HP;HP 15-AY015dx;;;34,499;http://www.mega.pk/laptop_products/15358/HP-15-AY015dx.html
-HP;HP 15-AY019ne;;;41,999;http://www.mega.pk/laptop_products/15357/HP-15-AY019ne.html
-HP;HP Spectre Notebook 13-V002TU;;;149,999;http://www.mega.pk/laptop_products/15354/HP-Spectre-Notebook-13-V002TU.html
-HP;HP 15-AY120ne;;;71,999;http://www.mega.pk/laptop_products/15353/HP-15-AY120ne.html
-HP;HP 15-AY108ne;;;54,999;http://www.mega.pk/laptop_products/15352/HP-15-AY108ne.html
+HP;HP PAVILION 15-AU171TX;;;71,999;http://www.mega.pk/laptop_products/15567/HP-PAVILION-15-AU171TX.html
+Apple;Apple Macbook Pro MLW82 Touch Bar ;;313,999 - PKR;283,499;http://www.mega.pk/laptop_products/15505/Apple-Macbook-Pro-MLW82-Touch-Bar-.html
 Apple;Apple MacBook Pro MLL42 (2016);;;146,499;http://www.mega.pk/laptop_products/15337/Apple-MacBook-Pro-MLL42-(2016).html
-HP;HP  15-AY013ne;;;66,999;http://www.mega.pk/laptop_products/15336/HP--15-AY013ne.html
-HP;HP  15-AY002ne;;;44,499;http://www.mega.pk/laptop_products/15333/HP--15-AY002ne.html
-HP;HP  14-AM000ne;;;28,999;http://www.mega.pk/laptop_products/15330/HP--14-AM000ne.html
-HP;HP  17-R012TX;;;112,999;http://www.mega.pk/laptop_products/15328/HP--17-R012TX.html
-Hp;Hp pavilion 15-AB273;;;65,999;http://www.mega.pk/laptop_products/15327/Hp-pavilion-15-AB273.html
-Lenovo;Lenovo IdeaPad 310;;;48,499;http://www.mega.pk/laptop_products/15320/Lenovo-IdeaPad-310.html
-Lenovo;Lenovo IP 110 celeron;;;25,799;http://www.mega.pk/laptop_products/15317/Lenovo-IP-110-celeron.html
-HP;HP NoteBook 15-AY076nia;;;69,999;http://www.mega.pk/laptop_products/15315/HP-NoteBook-15-AY076nia.html
-HP;HP NoteBook 15-AY075nia;;;66,799;http://www.mega.pk/laptop_products/15314/HP-NoteBook-15-AY075nia.html
-Acer;Acer ES1-572;;;42,299;http://www.mega.pk/laptop_products/15313/Acer-ES1-572.html
-HP;HP Notebook 15-ac189ne;;;29,999;http://www.mega.pk/laptop_products/15308/HP-Notebook-15-ac189ne.html
-HP;HP Pavilion  M1-U001dx;;;39,999;http://www.mega.pk/laptop_products/15307/HP-Pavilion--M1-U001dx.html
-Dell;Dell Inspiron 5378;;;98,999;http://www.mega.pk/laptop_products/15295/Dell-Inspiron-5378.html
-Dell;Dell Inspiron 5567;;;71,999;http://www.mega.pk/laptop_products/15294/Dell-Inspiron-5567.html
-HP;HP Notebook 15-ay084nia;;;38,999;http://www.mega.pk/laptop_products/15293/HP-Notebook-15-ay084nia.html
-Dell;Dell Inspiron 5559;;59,999 - PKR;52,990;http://www.mega.pk/laptop_products/15283/Dell-Inspiron-5559.html
-Dell;Dell Inspiron 5558;;55,899 - PKR;52,499;http://www.mega.pk/laptop_products/15282/Dell-Inspiron-5558.html
-HP;HP 15 AY013TU;;;39,999;http://www.mega.pk/laptop_products/15280/HP-15-AY013TU.html
-HP;HP Specture 13-4129Tu;;;109,499;http://www.mega.pk/laptop_products/15279/HP-Specture-13-4129Tu.html
-HP;HP Envy 13D-061SA;;;69,999;http://www.mega.pk/laptop_products/15278/HP-Envy-13D-061SA.html
-Dell;Dell Inspiron 5559;;;56,999;http://www.mega.pk/laptop_products/15277/Dell-Inspiron-5559.html
-HP;HP 250 G4;;;41,999;http://www.mega.pk/laptop_products/15275/HP-250-G4.html
-Dell;Dell Vostro 3560;;;41,999;http://www.mega.pk/laptop_products/15274/Dell-Vostro-3560.html
-Dell;Dell Inspiron 5559 2GB Dedicated;;76,999 - PKR;69,999;http://www.mega.pk/laptop_products/15270/Dell-Inspiron-5559-2GB-Dedicated.html
-Dell;Dell Vostro 2420;;;46,999;http://www.mega.pk/laptop_products/15269/Dell-Vostro-2420.html
-Dell;Dell Inspiron  7569;;;94,999;http://www.mega.pk/laptop_products/15266/Dell-Inspiron--7569.html
-ASUS;ASUS X555LA;;;36,499;http://www.mega.pk/laptop_products/14288/ASUS-X555LA.html
-HP;HP ProBook 430 G3 Ci5;;;79,999;http://www.mega.pk/laptop_products/13992/HP-ProBook-430-G3-Ci5.html
-Lenovo;Lenovo  Yoga 900-13ISK2;;;119,990;http://www.mega.pk/laptop_products/13634/Lenovo--Yoga-900-13ISK2.html
-HP;HP EliteBook 820 G3;;106,500 - PKR;97,999;http://www.mega.pk/laptop_products/13570/HP-EliteBook-820-G3.html
+Dell;Dell Inspiron 7559 Touch;;;117,499;http://www.mega.pk/laptop_products/13937/Dell-Inspiron-7559-Touch.html
+HP;HP Pavilion X360 Convertible 11-k118tu;;;53,999;http://www.mega.pk/laptop_products/13481/HP-Pavilion-X360-Convertible-11-k118tu.html

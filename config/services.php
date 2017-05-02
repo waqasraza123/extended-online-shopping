@@ -15,8 +15,8 @@ return [
     */
 
     'mailgun' => [
-        'domain' => env('MAILGUN_DOMAIN'),
-        'secret' => env('MAILGUN_SECRET'),
+        'domain' => 'sandbox04bd8d44559e41c3a815b5e62da3c9cc.mailgun.org',
+        'secret' => 'key-733e93726f4bba4f63504c7e361745c3',
     ],
 
     'ses' => [
@@ -26,7 +26,7 @@ return [
     ],
 
     'sparkpost' => [
-        'secret' => env('SPARKPOST_SECRET'),
+        'secret' => '0a641e98cd258c9e275d1224f33fa038c4ba42a8',
     ],
 
     'stripe' => [
@@ -34,5 +34,15 @@ return [
         'key' => env('STRIPE_KEY'),
         'secret' => env('STRIPE_SECRET'),
     ],
+    'smtp' => [
+        'driver' => env('MAIL_DRIVER', 'smtp'),
+        'host' =>env('MAIL_HOST', 'smtp.gmail.com'),
+        'port' =>env('MAIL_PORT', 587),
+        'from' => ['address' =>'youremail@mail.com', 'name' => 'Email_Subject'],
+        'encryption' => env('MAIL_ENCRYPTION', 'tls'),
+        'username' =>env('MAIL_USERNAME','yourusername@mail.com'),
+        'password' =>env('MAIL_PASSWORD','youremailpassword'),
+        'sendmail' =>'/usr/sbin/sendmail -bs',
+    ]
 
 ];

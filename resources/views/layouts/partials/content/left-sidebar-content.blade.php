@@ -4,8 +4,8 @@
         <img src="/theme/images/user.png" width="48" height="48" alt="User" />
     </div>
     <div class="info-container">
-        <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">John Doe</div>
-        <div class="email">john.doe@example.com</div>
+        <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{Auth::user()->name}}</div>
+        <div class="email">{{Auth::user()->email_phone}}</div>
         <div class="btn-group user-helper-dropdown">
             <i class="material-icons" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">keyboard_arrow_down</i>
             <ul class="dropdown-menu pull-right">
@@ -23,63 +23,34 @@
 <!-- #User Info -->
 <!-- Menu -->
 <div class="menu">
-    @if(Route::is('home'))
-        <ul class="list">
-            <li class="header">Mobile Brands</li>
-            @foreach($brands as $brand)
-                @if($brand->type == 'mobile')
-                    <li>
-                        <a href="{{route('brands', ['id' => $brand->id, 'name' => $brand->name])}}">
-                            <i class="material-icons">home</i>
-                            <span>{{$brand->name}}</span>
-                        </a>
-                    </li>
-                @endif
-            @endforeach
+    <ul class="list">
+        <li class="header">MAIN NAVIGATION</li>
+        <li class="active">
+            <a href="/">
+                <i class="material-icons">home</i>
+                <span>Home</span>
+            </a>
+        </li>
+        <li>
+            <a href="javascript:void(0);" class="menu-toggle">
+                <i class="material-icons">settings_cell</i>
+                <span>Mobiles</span>
+            </a>
 
-            <li class="header">Laptops Brands</li>
-            @foreach($brands as $brand)
-                @if($brand->type == 'laptop')
-                    <li>
-                        <a href="{{route('brands', ['id' => $brand->id, 'name' => $brand->name])}}">
-                            <i class="material-icons">home</i>
-                            <span>{{$brand->name}}</span>
-                        </a>
-                    </li>
-                @endif
-            @endforeach
-
-        </ul>
-    @else
-        <ul class="list">
-            <li class="header">MAIN NAVIGATION</li>
-            <li class="active">
-                <a href="/">
-                    <i class="material-icons">home</i>
-                    <span>Home</span>
-                </a>
-            </li>
-            <li>
-                <a href="javascript:void(0);" class="menu-toggle">
-                    <i class="material-icons">settings_cell</i>
-                    <span>Mobiles</span>
-                </a>
-
-                {{--submenu for mobile--}}
-                <ul class="ml-menu">
-                    <li>
-                        <a href="/products/mobile">All Mobiles</a>
-                    </li>
-                    <li>
-                        <a href="/products/mobile/create">Add Mobile</a>
-                    </li>
-                    <li>
-                        <a href="/products/mobile/create">Categories/Brands</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    @endif
+            {{--submenu for mobile--}}
+            <ul class="ml-menu">
+                <li>
+                    <a href="/products/mobile">All Mobiles</a>
+                </li>
+                <li>
+                    <a href="/products/mobile/create">Add Mobile</a>
+                </li>
+                <li>
+                    <a href="/products/mobile/create">Categories/Brands</a>
+                </li>
+            </ul>
+        </li>
+    </ul>
 </div>
 <!-- #Menu -->
 <!-- Footer -->

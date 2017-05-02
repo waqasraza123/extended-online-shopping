@@ -7,32 +7,56 @@ $(document).ready(function () {
      * ****************************************************************************/
     var shop_register_form = $("#shop_register_form");
     var user_register_form = $("#user_register_form");
-    var signCard = $(".signup-box .card")
+    var signCard = $(".card")
     var signInForm = $("#login_form");
     var loginButton = $("#login_button");
     var navBarContainer = $(".navbar .container-fluid")
     var addMobileForm = $("#add_mobile_form")
     var submitButton = $(".submit")
     var priceField = $(".price")
+    var shopLoginForm = $("#shop_login_form")
+    var selectShopForm = $("#select_shop_form")
+    var emailVerificationForm = $("#email_verification_form")
     var loader = $('<header>'
         +'<div aria-busy="true" aria-label="Loading, please wait." role="progressbar"></div>'
         +'</header>')
     /*stop the preloader*/
     $("#perloader").hide()
     setInterval(hideAlert, 1000)
+    var storage = $(".storage")
     /*****************************************************************************
      *
      *  global functions
      *
      * ****************************************************************************/
+
+    function spinningPreloader(){
+        return '<div class="preloader">'+
+                    '<div class="spinner-layer pl-blue">'+
+                        '<div class="circle-clipper left">'+
+                            '<div class="circle"></div>'+
+                            '</div>'+
+                        '<div class="circle-clipper right">'+
+                            '<div class="circle"></div>'+
+                        '</div>'+
+                    '</div>'+
+                '</div>';
+    }
+
     function showErrors(error) {
         $('div.alert-danger').attr('style', 'display: block !important')
         $("div.alert-danger ul").html('')
-        $.each(error.responseJSON, function (index, value) {
-            $("div.alert-danger ul").append('<li>'+value+'</li>')
-        });
+        if(typeof error == 'string'){
+            $("div.alert-danger ul").append('<li>'+error+'</li>')
+        }
+
+        else{
+            $.each(error.responseJSON, function (index, value) {
+                $("div.alert-danger ul").append('<li>'+value+'</li>')
+            });
+        }
         $(loader).hide()
-        submitButton.prop('disabled', false)
+        submitButton.removeAttr('disabled')
     }
 
     function hideAlert() {
@@ -56,33 +80,92 @@ $(document).ready(function () {
             data: user_register_form.serialize(),
             type: 'post',
             url: '/register',
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
             success: function (data) {
+                console.log(data)
                 user_register_form.addClass('animated bounceOutRight')
                 user_register_form.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
                     function () {
                         //hide the user form
                         user_register_form.hide()
 
-                        //slide in the shop registration form
-                        shop_register_form.slideDown()
-                        shop_register_form.addClass('animated bounceInLeft')
-                        shop_register_form
+                        //slide in the email verification form
+                        emailVerificationForm.slideDown()
+                        $("#token_verifiation_email").val(data)
+                        emailVerificationForm.addClass('animated bounceInLeft')
+                        emailVerificationForm
                             .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
                                 function () {
-                                    shop_register_form.removeClass('bounceInLeft')
+                                    emailVerificationForm.removeClass('bounceInLeft')
                                     signCard.removeClass('jello')
                                     signCard.addClass('jello')
 
                                 });
                     })
-                submitButton.prop('disabled', false)
+                submitButton.removeAttr('disabled')
                 loader.hide()
             },
             error: function (error) {
+                console.log(error)
                 showErrors(error)
             }
         })
     }
+
+    /*****************************************************************************
+     *
+     *  email verification ajax request
+     *
+     * ****************************************************************************/
+    $("#email_verification_button").click(function (e) {
+        e.preventDefault()
+        console.log("clicked")
+        //send the ajax request
+        console.log("sending ajax request")
+        $.ajax({
+            url: '/register/users/email-verification',
+            data: $("#email_verification_form").serialize(),
+            type: 'POST',
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            success: function (data) {
+                console.log("inside success")
+                console.log(data)
+                if(data == 'success'){
+
+                    //redirect the user to login page
+                    window.location = '/login'
+
+                    //hide the token verification form
+                    emailVerificationForm.addClass('animated bounceOutRight')
+                    emailVerificationForm.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                        function () {
+                            emailVerificationForm.hide()
+
+                            //slide in the shop registration form
+                            shop_register_form.slideDown()
+                            shop_register_form.addClass('animated bounceInLeft')
+                            shop_register_form
+                                .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                                    function () {
+                                        shop_register_form.removeClass('bounceInLeft')
+                                        signCard.removeClass('jello')
+                                        signCard.addClass('jello')
+
+                                    });
+                        })
+                }
+                else if (data == 'error'){
+                    showErrors("Token Does no match.")
+                }
+            },
+            error: function (error) {
+                console.log("inside errors")
+                console.log(error)
+                showErrors(error)
+            }
+        })
+    })
+
 
     /*****************************************************************************
      *
@@ -98,7 +181,7 @@ $(document).ready(function () {
             url: '/register-shop',
             success: function (data) {
                 $(loader).hide()
-                window.location = '/home'
+                window.location = '/login'
             },
             error: function (error) {
                 showErrors(error)
@@ -139,13 +222,12 @@ $(document).ready(function () {
             type: 'post',
             url: url,
             success: function (data) {
-                submitButton.prop('disabled', false)
+                submitButton.removeAttr('disabled')
                 $(loader).hide()
-                alert("hola")
                 window.location = redirectUrl
             },
             error: function (error) {
-                submitButton.prop('disabled', false)
+                submitButton.removeAttr('disabled')
                 $(loader).hide()
                 showErrors(error)
             }
@@ -227,10 +309,6 @@ $(document).ready(function () {
             unhighlight: function (input) {
                 $(input).parents('.form-line').removeClass('error');
             },
-            submitHandler: function (form) {
-                sendAjax('/login', form, "/home")
-                return false; // required to block normal submit since you used ajax
-            },
             errorPlacement: function (error, element) {
                 $(element).parents('.input-group').append(error);
             }
@@ -242,10 +320,10 @@ $(document).ready(function () {
      */
     $("#add_mobile_btn").click(function(e){
         addMobileForm.append('<select name="colors_text[]" type="hidden" id="colors_text"></select>')
-        $('#colors :selected').each(function() {
-            $("#colors_text").append('<option value="'+$(this).text()+'" type="hidden">'+$(this).text()+'</option>')   // using text() here, because the
+        $('.colors :selected').each(function() {
+            $(".colors_text").append('<option value="'+$(this).text()+'" type="hidden">'+$(this).text()+'</option>')   // using text() here, because the
         });
-        $("#colors_text").hide()
+        $(".colors_text").hide()
     })
     if(addMobileForm.length){
         addMobileForm.validate({
@@ -279,56 +357,8 @@ $(document).ready(function () {
         });
     }
 
-    /**
-     * custom/extra work
-     */
-    var colors = $("#colors")
-    var existsVar = false;
-    try{
-        colors.select2({
-            tags: true,
-            createTag: function (params) {
-                var term = $.trim(params.term);
-                var count = 0
-                $('#colors option').each(function(){
-                    if ($(this).text().toUpperCase() == term.toUpperCase()) {
-                        existsVar = true
-                        return false;
-                    }else{
-                        existsVar = false
-                    }
-                });
-                if(existsVar){
-                    return null;
-                }
-
-                return {
-                    id: params.term,
-                    text: params.term,
-                    newTag: true
-                }
-            },
-            maximumInputLength: 20, // only allow terms up to 20 characters long
-            closeOnSelect: true
-        })
-        $('#brands').select2()
-        $('#storage').select2()
-    }
-    catch (err){
-        console.log(err + " select 2 error")
-    }
-
-    //show popup before deleting the item
-    $(".confirm_delete").click(function (e) {
-        showConfirmMessage(e, $(this))
-        $(this).unbind('submit').submit()
-    })
-    $(".local-store").click(function (e) {
-        showShopInfo(e)
-    })
-
     //convert colors text into actual color backgrounds
-    /*$("#colors_text_box span").each(function(){
+    /*$(".colors_text_box span").each(function(){
         $(this).css({'background-color' : $(this).text(), 'width' : '15px', 'height': '15px', 'border-radius': '2px',
         'display': 'block', 'float': 'left', 'margin-left': '2px', 'margin-top': '5px'})
         $(this).prop('data-toggle', 'tooltip')
@@ -354,6 +384,388 @@ $(document).ready(function () {
                 e.preventDefault()
         });
     }
+    var title = $(".title")
+    function getTitles(brandId) {
+        $.ajax({
+            url: '/mobiles/get-titles',
+            type: 'POST',
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            data: {'brand-id': brandId},
+            success: function (data) {
+                var arr = [];
+                arr.push({id: 0, text: 'Select Mobile'})
+                $.each(data, function (index, value) {
+                    arr.push({
+                        id: index,
+                        text: value
+                    })
+                })
+                title.empty()
+                title.select2({
+                    data: arr
+                })
+            },
+            error: function () {
+                console.log("error in titles ajax")
+            }
+        })
+    }
+
+
+    /**
+     * get colors function
+     * @param e
+     */
+    function getColors(mobileId) {
+        $.ajax({
+            url: '/mobiles/get-colors',
+            type: 'POST',
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            data: {'mobile-id': mobileId},
+            success: function (data) {
+                var arr = []
+                $.each(data, function (index, value) {
+                    arr.push({
+                        id: index,
+                        text: value
+                    })
+                })
+                colors.empty()
+                colors.select2({
+                    data: arr
+                })
+            },
+            error: function () {
+                console.log("error in colors ajax")
+            }
+        })
+    }
+
+    /**
+     * get storages function
+     * @param mobileId
+     */
+
+    function getStorages(mobileId) {
+        $.ajax({
+            url: '/mobiles/get-storages',
+            type: 'POST',
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            data: {'mobile-id': mobileId},
+            success: function (data) {
+                var arr = [];
+                $.each(data, function (index, value) {
+                    arr.push({
+                        id: index,
+                        text: value
+                    })
+                })
+                storage.empty()
+                storage.select2({
+                    data: arr
+                })
+            },
+            error: function () {
+                console.log("error in storages ajax")
+            }
+        })
+    }
+
+    function getBulkData(brandId){
+        if($(".bulk-data-row").length){
+            $(".bulk-data-row").slideUp()
+        }
+        $(".preloader.circle").css('display', 'inline-block')
+        $.ajax({
+            url: '/mobiles/get-bulk',
+            type: 'POST',
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            data: {'brand-id': brandId},
+            success: function (data) {
+                $.each(data, function (index, value) {
+                    //console.log(data)
+
+
+                    /*$.each(value.colors, function (index, value) {
+                        colorsArr.push({'id': index, 'text': value})
+                    })
+
+                    $.each(value.storages, function (index, value) {
+                        storagesArr.push({'id': index, 'text': value})
+                    })*/
+                    $('<div class="row clearfix bulk-data-row">'+
+                    '<div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">'+
+                    '   <div class="form-group">'+
+                    '       <div class="form-line">'+
+                    '           <input type="hidden" value="'+value.id+'" name="mobile_id[]">'+
+                    '           <input type="text" readonly name="title[]" class="form-control" required value="'+value.title+'">'+
+                    '       </div>'+
+                    '   </div>'+
+                    '</div>'+
+                    /*'<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">'+
+                    '   <div class="form-group">'+
+                    '       <div class="form-line">'+
+                    '           <input type="file" id="product_image" name="product_image" class="form-control" required>'+
+                    '       </div>'+
+                    '   </div>'+
+                    '</div>'+*/
+                    '<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">'+
+                    '    <div class="form-group">'+
+                    '       <div class="form-line">'+
+                    '          <input type="text" required id="current_price" name="current_price[]" class="form-control" placeholder="Price">'+
+                    '    </div>'+
+                    '</div>'+
+                    '</div>'+
+                    '<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">'+
+                    '   <div class="form-group">'+
+                    '      <div class="form-line">'+
+                    '           <input type="text" required id="stock" name="stock[]" class="form-control" placeholder="Quantity">' +
+                    '      </div>'+
+                    '   </div>'+
+                    '</div>'+
+                    '<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6">'+
+                    '    <div class="form-group">'+
+                    '       <div class="colors_storage_outer">'+
+                                '<select data-id="'+value.id+'" data-color-storage-name="colors" name="colors '+value.title+'[]" multiple class="form-control colors_storage bulk-colors" data-placeholder="Colors">' +
+
+                                '</select>'+
+                    '       </div>'+
+                    '   </div>'+
+                    '</div>'+
+                    '<div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 col-xs-7">'+
+                    '   <div class="form-group">'+
+                    '      <div class="colors_storage_outer">'+
+                                '<select data-id="'+value.id+'" data-color-storage-name="storage" name="storage '+value.title+'[]" multiple class="form-control colors_storage bulk-storages" data-placeholder="Storage">' +
+
+                                '</select>'+
+                    '      </div>'+
+                    '   </div>'+
+                    '</div>'+
+                    '<div class="col-lg-1 col-md-1 col-sm-6 col-xs-6 col-xs-7">'+
+                    '   <div class="form-group">'+
+                    '       <input id="'+value.id+'" value="'+value.id+'" type="checkbox" name="checkbox_mobile_add[]" class="filled-in chk-col-blue checkbox_mobile_add">'+
+                    '       <label for="'+value.id+'"></label>'+
+                    '   </div>'+
+                    '</div>'+
+                    '</div>').insertAfter($("#bulk-data-area .row:first-child"))
+                })
+                $(".bulk-colors").select2()
+                $(".bulk-storages").select2()
+                $(".preloader.circle").css('display', 'none')
+            }
+            ,error: function () {
+
+            }
+        })
+    }
+
+    /**
+     *save the bulk data
+     */
+    $("#add_bulk_mobile_btn").click(function (e) {
+        e.preventDefault()
+
+        data = $("#bulk-data-form").serializeArray()
+
+        /* Because serializeArray() ignores unset checkboxes and radio buttons: */
+        /*data = data.concat(
+            jQuery('#bulk-data-form input[type=checkbox]:not(:checked)').map(
+                function() {
+                    return {"name": this.name, "value": "off"}
+                }).get()
+        );*/
+        data = data.concat(
+            jQuery('#bulk-data-form select:not(:selected)').map(
+                function() {
+                    return {"name": this.name, "value": this.value}
+                }).get()
+        );
+        console.log(data)
+        submitButton.prop('disabled', 'true')
+        $.ajax({
+            url: '/mobiles/save/bulk-data',
+            type: 'POST',
+            data: data,
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            success: function (data) {
+                console.log(data)
+                submitButton.removeAttr('disabled')
+            },
+            error: function (error) {
+                showErrors(error)
+            }
+        })
+    })
+
+    /**
+     * made the mobile form dynamic
+     * by changing the options by selected brand
+     */
+    var hideFields = $('.hide-field')
+    var selectedBrand = $(".brands-class option:selected")
+    if(selectedBrand.val() == '') {
+        //hide the fields
+        hideFields.hide()
+        console.log("null")
+    }
+
+
+    /**
+     * load the titles based on brand
+     */
+    $(".brands-class").on('change', function () {
+
+        //default option was selected
+        //no need to fetch the data
+        if($(this).val() == '') {
+            hideFields.hide()
+            console.log("null")
+        }
+        else {
+
+            //get the brand id
+            var brandId = $(this).val()
+
+            //send the ajax request to get the
+            //titles of the mobiles
+            //for the selected brand
+
+            $(".hide-field.title-field").show()
+            getTitles(brandId)
+        }
+    })
+
+    /**
+     * show remaining fields once title is selected
+     */
+    var titleValue = $(".title option:selected").val()
+    if(titleValue == 0 || titleValue == undefined){
+        console.log($(".title option:selected").val())
+        hideFields.not("hide-fields.title-field").hide()
+    }
+    else{
+        hideFields.show()
+    }
+    title.on('change', function () {
+        if($(this).val() != 0){
+            hideFields.show()
+            /**
+             * load the colors for the mobile
+             */
+            $("#single_mobile_id").val($(this).val())
+            getColors($(this).val())
+            getStorages($(this).val())
+        }
+        else{
+            hideFields.not('.title-field').hide()
+        }
+    })
+
+
+    /**
+     * bulk select data 
+     */
+    $("#bulk-brands").on("change", function () {
+        var brandId = $(this).val()
+        getBulkData(brandId)
+    })
+
+    /*$.ajax({
+        url: 'http://localhost:8000/python-data/daraz/mobiles/KH3423K4HPQEQN2342091313K23WDQKDJDDQWJD9804H',
+        type: 'POST',
+        data: {1: {
+            "url": "https://www.daraz.pk/hp-notebook-15-ay015nx-core-i3-5005u-red-6509413.html",
+            "color": "Red",
+            "image_url": "https://static.daraz.pk/p/hp-6695-3149056-1-catalog_grid_3.jpg",
+            "brand": "HP",
+            "title_alt": "Notebook - 15-ay015nx - Core-i3-5005U - Red",
+            "currency": "Rs.",
+            "current_price": "39,700",
+            "old_price": "45,000",
+            "discount_percent": "12%",
+            "rating_percent": 0,
+            "total_ratings": "14",
+            "stock": "In Stock"
+        },
+            2: {
+                "url": "https://www.daraz.pk/hp-notebook-15-ay015nx-core-i3-5005u-red-6509413.html",
+                "color": "Red",
+                "image_url": "https://static.daraz.pk/p/hp-6695-3149056-1-catalog_grid_3.jpg",
+                "brand": "HP",
+                "title_alt": "Notebook - 15-ay015nx - Core-i3-5005U - Red",
+                "currency": "Rs.",
+                "current_price": "39,700",
+                "old_price": "45,000",
+                "discount_percent": "12%",
+                "rating_percent": 0,
+                "total_ratings": "14",
+                "stock": "In Stock"
+            }
+        },
+        success: function(data){
+            console.log(data)
+        },
+        error: function(err){
+            console.log(err)
+        }
+    })*/
+
+    /**
+     * custom/extra work
+     */
+    /**
+     * add the ability for the user to add
+     * colors or storages if not there already
+     * @type {any}
+     */
+    var colors = $(".colors, .colors_storage")
+    console.log(colors)
+    var existsVar = false;
+    try{
+        colors.select2({
+            tags: true,
+            createTag: function (params) {
+                var term = $.trim(params.term);
+                var count = 0
+                $('.colors option, .colors_storage option').each(function(){
+                    if ($(this).text().toUpperCase() == term.toUpperCase()) {
+                        existsVar = true
+                        return false;
+                    }else{
+                        existsVar = false
+                    }
+                });
+                if(existsVar){
+                    return null;
+                }
+                return {
+                    id: params.term,
+                    text: params.term,
+                    newTag: true
+                }
+            },
+            maximumInputLength: 20, // only allow terms up to 20 characters long
+            closeOnSelect: true
+        })
+        $('.brands-class').select2()
+        $('.storage').select2()
+        $("#bulk-brands").select2()
+        storage.select2()
+        colors.select2()
+        $("#bulk-title").select2()
+    }
+    catch (err){
+        console.log(err + " select 2 error")
+    }
+
+    //show popup before deleting the item
+    $(".confirm_delete").click(function (e) {
+        showConfirmMessage(e, $(this))
+        $(this).unbind('submit').submit()
+    })
+    $(".local-store").click(function (e) {
+        showShopInfo(e)
+    })
 
     function showShopInfo(e) {
         swal({
@@ -424,49 +836,173 @@ $(document).ready(function () {
 
     //call lazy load function
     $('img').unveil()
+
+    //skip shop registration and redirect to home
     $("#skip_shop_reg").click(function () {
         window.location = '/home'
     })
 
 
-    /*$.ajax({
-        url: 'http://localhost:8000/python-data/daraz/mobiles/KH3423K4HPQEQN2342091313K23WDQKDJDDQWJD9804H',
-        type: 'POST',
-        data: {1: {
-            "url": "https://www.daraz.pk/hp-notebook-15-ay015nx-core-i3-5005u-red-6509413.html",
-            "color": "Red",
-            "image_url": "https://static.daraz.pk/p/hp-6695-3149056-1-catalog_grid_3.jpg",
-            "brand": "HP",
-            "title_alt": "Notebook - 15-ay015nx - Core-i3-5005U - Red",
-            "currency": "Rs.",
-            "current_price": "39,700",
-            "old_price": "45,000",
-            "discount_percent": "12%",
-            "rating_percent": 0,
-            "total_ratings": "14",
-            "stock": "In Stock"
-        },
-            2: {
-                "url": "https://www.daraz.pk/hp-notebook-15-ay015nx-core-i3-5005u-red-6509413.html",
-                "color": "Red",
-                "image_url": "https://static.daraz.pk/p/hp-6695-3149056-1-catalog_grid_3.jpg",
-                "brand": "HP",
-                "title_alt": "Notebook - 15-ay015nx - Core-i3-5005U - Red",
-                "currency": "Rs.",
-                "current_price": "39,700",
-                "old_price": "45,000",
-                "discount_percent": "12%",
-                "rating_percent": 0,
-                "total_ratings": "14",
-                "stock": "In Stock"
-            }
-        },
-        success: function(data){
-            console.log(data)
-        },
-        error: function(err){
-            console.log(err)
-        }
-    })*/
+    /**
+     * show hide the forms based on the buttons
+     * in the mobile adding page
+     */
+    var addOneMobileButton = $('.add-one')
+    var importExcelFileButton = $('.excel-add')
+    var bulkAddButton = $('.bulk-add')
+    addOneMobileButton.click(function () {
+        $('.add-one-form').slideToggle()
+    })
+    importExcelFileButton.click(function () {
+        $('.excel-add-form').slideToggle()
+    })
+    bulkAddButton.click(function () {
+        $('.bulk-add-form').slideToggle()
+    })
+    $("body").on('click', ".colors_storage_outer input", function (event) {
+        var parent = $(this).closest('.colors_storage_outer').find('> select')
+        var mobileId = parent.attr('data-id')
+        var colorOrStorage = parent.attr('data-color-storage-name')
+        var className = '.' + (parent.attr('class')).split(' ').join('.')
 
+        var exists = true;
+        if($($(this).closest('.colors_storage_outer').find('> select option')).length == 0){
+            exists = false;
+        }
+        console.log("options does not exist" + exists)
+        if(colorOrStorage.includes('storage') && exists == false){
+            console.log('getting storages')
+            $.ajax({
+                url: '/mobiles/get-storages',
+                type: 'POST',
+                headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+                data: {'mobile-id': mobileId},
+                success: function (data) {
+                    console.log('storages data')
+                    console.log(data)
+                    var arr = []
+                    $.each(data, function (index, value) {
+                        arr.push({
+                            id: index,
+                            text: value
+                        })
+                    })
+                    $(parent).select2({data: arr})
+                },
+                error: function () {
+                    console.log("error in colors ajax")
+                }
+            })
+        }
+        console.log(colorOrStorage + " " + exists)
+        if(colorOrStorage.includes('colors') && exists == false){
+            console.log("getting colors data")
+            $.ajax({
+                url: '/mobiles/get-colors',
+                type: 'POST',
+                headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+                data: {'mobile-id': mobileId},
+                success: function (data) {
+                    console.log('colors data')
+                    console.log(data)
+                    var arr = []
+                    $.each(data, function (index, value) {
+                        arr.push({
+                            id: index,
+                            text: value
+                        })
+                    })
+                    $(parent).select2({data: arr})
+                },
+                error: function () {
+                    console.log("error in colors ajax")
+                }
+            })
+
+        }
+    })
+
+    //show selected items count instead of showing all the items
+    $('#bulk-data-area').on('select2:close', 'select.colors_storage', function (evt) {
+        var uldiv = $(this).siblings('span.select2').find('ul')
+        var count = $(this).select2('data').length
+        if(count==0){
+            uldiv.html("")
+        }
+        else{
+            uldiv.html("<li>"+count+" items selected</li>")
+        }
+    });
+
+    //send the ajax request for shop login
+    $("#shop_login_button").click(function (e) {
+        e.preventDefault()
+        loader.show()
+        submitButton.prop('disabled', true)
+        $.ajax({
+            url: '/login/shop',
+            type: 'POST',
+            data: $("#shop_login_form").serialize(),
+            dataType: 'json',
+            success: function (data) {
+                if(data.errors){
+                    showErrors(data.errors)
+                }
+                if(data.shops || data.shop){
+                    var arr = []
+                    if(data.shops){
+                        $.each(data.shops, function (index, value) {
+                            arr.push({
+                                id: value.id,
+                                text: value.shop_name
+                            })
+                        })
+                    }
+                    else if (data.shop){
+                        arr.push({
+                            id: data.shop.id,
+                            text: data.shop.shop_name
+                        })
+                    }
+                    shopLoginForm.addClass('animated bounceOutRight')
+                    shopLoginForm.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                        function () {
+                            //hide the user form
+                            shopLoginForm.hide()
+                            loader.hide()
+                            //slide in the shop registration form
+                            selectShopForm.slideDown()
+                            selectShopForm.addClass('animated bounceInLeft')
+                            selectShopForm
+                                .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                                    function () {
+                                        selectShopForm.removeClass('bounceInLeft')
+                                        signCard.removeClass('jello')
+                                        signCard.addClass('jello')
+                                        $("#shop_id_selector").select2({data: arr})
+                                    });
+                        })
+                    submitButton.removeAttr('disabled')
+                }
+            },
+            error: function (error) {
+                console.log(error)
+                showErrors(error)
+            }
+        })
+    })
+    if($("#market_location").length){
+        function init() {
+            var input = document.getElementById('market_location');
+            var autocomplete = new google.maps.places.Autocomplete(input);
+
+            google.maps.event.addListener(autocomplete, 'place_changed', function () {
+                var place = autocomplete.getPlace();
+                //document.getElementById('city2').value = place.name;
+                document.getElementById('lat').value = place.geometry.location.lat();
+                document.getElementById('long').value = place.geometry.location.lng();
+            });
+        }
+        google.maps.event.addDomListener(window, 'load', init);
+    }
 })//document ready ends here

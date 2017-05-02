@@ -1,15 +1,9 @@
 @extends('layouts.frontend')
 @section('head')
     <link href="/theme/plugins/sweetalert/sweetalert.css" rel="stylesheet" />
-    <!-- Range Slider Css -->
-    <link href="/theme/plugins/ion-rangeslider/css/ion.rangeSlider.css" rel="stylesheet" />
-    <link href="/theme/plugins/ion-rangeslider/css/ion.rangeSlider.skinFlat.css" rel="stylesheet" />
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfUZQtcEqdyFVUf9VWvhqNd89Xtse6tbA&libraries=places"
-            async defer>
-    </script>
 @endsection
 @section('content')
-    @include('frontend.search-bar')
+    {{--@include('frontend.search-bar')--}}
     <div class="row clearfix" style="margin-top: 20px">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="body">
@@ -73,7 +67,7 @@
                                             {{--@if($d->old_price != '0')<strike><small class="small-font">Rs {{$d->old_price}}</small></strike>, @endif --}}<h3 class="col-red">Rs {{$d->current_price}}</h3>
                                         </td>
                                         <td class="col-teal" valign="middle"><h3>
-                                            @if($d->current_price == '0' || $d->old_price == '0')
+                                            @if($d->current_price == '0' || $d->old_price == '0' || $d->old_price == '' || $d->current_price == '')
                                                 0% Off
                                             @else
                                                 {{number_format(((int)(str_replace(",", "", $d->old_price) - (int)str_replace(",", "", $d->current_price))/(int)str_replace(",", "", $d->old_price)) * 100, 2) .'% Off'}}
@@ -100,21 +94,4 @@
 @endsection
 @section('footer')
     <script src="/theme/plugins/sweetalert/sweetalert.min.js"></script>
-    <script>
-        function init() {
-            var input = document.getElementById('current-location');
-            var autocomplete = new google.maps.places.Autocomplete(input);
-        }
-        google.maps.event.addDomListener(window, 'load', init);
-    </script>
-    <!-- RangeSlider Plugin Js -->
-    <script src="/theme/plugins/ion-rangeslider/js/ion.rangeSlider.js"></script>
-    <script>
-        $("#price_slider").ionRangeSlider({
-            min: 1000,
-            max: 200000,
-            prefix: "Rs"
-        });
-        $("#radius_slider").ionRangeSlider();
-    </script>
 @endsection

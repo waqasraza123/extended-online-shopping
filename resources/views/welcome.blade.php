@@ -1,14 +1,6 @@
 @extends('layouts.frontend')
-@section('head')
-    <!-- Range Slider Css -->
-    <link href="/theme/plugins/ion-rangeslider/css/ion.rangeSlider.css" rel="stylesheet" />
-    <link href="/theme/plugins/ion-rangeslider/css/ion.rangeSlider.skinFlat.css" rel="stylesheet" />
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAfUZQtcEqdyFVUf9VWvhqNd89Xtse6tbA&libraries=places"
-            async defer>
-    </script>
-@endsection
 @section('content')
-    @include('frontend.search-bar')
+    {{--@include('frontend.search-bar')--}}
     <div class="row clearfix">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-20">
             <div>
@@ -31,15 +23,15 @@
                                                 <div class="caption product-data">
                                                     <p class="text-left">{{$mobile['mobile']->brand->name}}</p>
                                                     <b class="margin-0">{{$mobile['mobile']->title}}</b><br>
-                                                    <span class="margin-0">Rs - {{$mobile['price'] == 999999999999 ? 'N/A' : $mobile['price']}}</span><br>
-                                                    <b class="margin-0">Nearby: min 40km</b>
+                                                    <span class="margin-0">{{$mobile['price'] == 999999999999 ? 'Not Available' : 'Rs - ' . $mobile['price']}}</span><br>
+                                                    {{--<b class="margin-0">{{$mobile['location']}}</b>--}}
                                                     {{--<p>
                                                         @if($mobile->old_price != '0' && $mobile->old_price != null)<strike><small class="small-font">Rs {{$mobile->old_price}}</small></strike>, @endif Rs {{$mobile->current_price}}
                                                     </p>--}}
-                                                    {{--<p>
-                                                        <button class="btn bg-blue btn-xs waves-effect "{{$mobile->local_online == 'l' ? "" : "disabled"}}>Local</button>
-                                                        <button class="btn bg-pink btn-xs waves-effect "{{$mobile->local_online == 'o' ? "" : "disabled"}}>Online</button>
-                                                    </p>--}}
+                                                    <p>
+                                                        <button data-toggle="tooltip" data-placement="top" title="{{$mobile['location']}}" class="btn bg-blue btn-xs waves-effect "{{$mobile['location'] == null ? "disabled" : ""}}>Local</button>
+                                                        <button data-toggle="tooltip" data-placement="top" title="Available on Online Vendors" class="btn bg-pink btn-xs waves-effect "{{($mobile['location'] == null && $mobile['price'] == 999999999999) ? "disabled" : ""}}>Online</button>
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -57,21 +49,5 @@
     </div>
 @endsection
 @section('footer')
-    <script>
-        function init() {
-            var input = document.getElementById('current-location');
-            var autocomplete = new google.maps.places.Autocomplete(input);
-        }
-        google.maps.event.addDomListener(window, 'load', init);
-    </script>
-    <!-- RangeSlider Plugin Js -->
-    <script src="/theme/plugins/ion-rangeslider/js/ion.rangeSlider.js"></script>
-    <script>
-        $("#price_slider").ionRangeSlider({
-            min: 1000,
-            max: 200000,
-            prefix: "Rs"
-        });
-        $("#radius_slider").ionRangeSlider();
-    </script>
+    <script src="/theme/js/pages/ui/tooltips-popovers.js"></script>
 @endsection

@@ -32,8 +32,8 @@ class Controller extends BaseController
 
             //only if user has setup a shop
             if(Auth::user()->shops()->first()){
-                if(Session::get('shop_id')){
-                    $this->shopId = Session::get('shop_id');
+                if(session('shop_id')){
+                    $this->shopId = session('shop_id');
                     $this->currentShop = Shop::find($this->shopId);
                 }
                 else{
@@ -192,5 +192,9 @@ class Controller extends BaseController
     public function createDirectory($shopName, $category){
         if(!file_exists(public_path().'/uploads/products/'.$category.'/'.$shopName))
             File::makeDirectory(public_path().'/uploads/products/'.$category.'/'.$shopName, 0777, true);
+    }
+
+    public function getPaginationData(){
+
     }
 }

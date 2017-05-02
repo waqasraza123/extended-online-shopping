@@ -2,6 +2,7 @@
 
 namespace App\Http\Middleware;
 
+use App\User;
 use Closure;
 use App\Http\Controllers\Controller;
 class ShopOwner
@@ -16,9 +17,14 @@ class ShopOwner
     public function handle($request, Closure $next)
     {
         $controller = new Controller();
+        $user = User::where('email_phone', $request->input('email_phone'))->first();
+
+
+        //user has not registered a shop
         if(!$controller->shopId){
-            return redirect(route('home'));
+            return redirect()->route('register-shop');
         }
+
         return $next($request);
     }
 }

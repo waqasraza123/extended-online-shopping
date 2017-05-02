@@ -34,7 +34,7 @@ class StoreShopCredentialsRequest extends FormRequest
             'location.required' => 'Please enter location of shop.',
             'shop_phone.required' => 'Please enter Mobile number.',
             'shop_phone.unique' => 'There phone belongs to another shop, please use correct one.',
-            'shop_phone.phone' => 'Incorrect Mobile number, Please follow 0300-1234567',
+            'shop_phone.phone' => 'Please follow the format 0300-1234567 or 051-1234567',
             'shop_phone.max' => 'Please enter correct Mobile number.',
         ];
     }
