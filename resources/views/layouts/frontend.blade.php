@@ -4,34 +4,23 @@
     @include('layouts.partials.header')
     @yield('head')
 </head>
-<body class="theme-blue">
-<!-- Overlay For Sidebars -->
-<div class="overlay"></div>
-<!-- #END# Overlay For Sidebars -->
-<!-- Search Bar -->
-<div class="search-bar">
-    <div class="search-icon">
-        <i class="material-icons">search</i>
-    </div>
-    <input type="text" placeholder="START TYPING...">
-    <div class="close-search">
-        <i class="material-icons">close</i>
-    </div>
-</div>
-<!-- #END# Search Bar -->
-<!-- Top Bar -->
-@include('layouts.partials.nav')
-<!-- #Top Bar -->
-
-<div class="container">
-    <div class="row">
-        <div class="col-md-8 col-md-offset-1 content frontend-content" style="margin-top:100px">
+<body class="hold-transition skin-green sidebar-mini">
+<div class="wrapper">
+    <header class="main-header">
+        @include('layouts.partials.nav')
+    </header>
+    <aside class="main-sidebar">
+        @include('layouts.partials.frontend-sidebar')
+    </aside>
+    <div class="content-wrapper container-fluid">
+        @include('partials.preloader')
+        <div class="content">
             @yield('content')
         </div>
-        <div class="col-md-2 right_sidebar">
-            @include('layouts.partials.right-sidebar')
-        </div>
     </div>
+    <footer class="main-footer">
+        @include('layouts.partials.footer')
+    </footer>
 </div>
 @include('layouts.partials.footer-scripts')
 </body>

@@ -64,11 +64,10 @@ class HomeController extends Controller
     public function getShopData(Request $request){
 
         $shopId = $this->getShopId($request);
-
         $offset = $request->input('page');
         $offset = 10*($offset - 1);
-        $products = Auth::user()->shops()->first()->products()->offset($offset)->limit(10)->get();
-        $count = Auth::user()->shops()->first()->products()->count();
+        $products = Auth::user()->shops()->where('shops.id', $shopId)->first()->products()->offset($offset)->limit(10)->get();
+        $count = Auth::user()->shops()->where('shops.id', $shopId)->first()->products()->count();
 
         $data = array();
         foreach ($products as $index => $p){
@@ -78,7 +77,8 @@ class HomeController extends Controller
             $data[$index]['discount'] = $p->discount;
             $data[$index]['title'] = Mobile::where('id', $p->mobile_id)->first()->title;
             $data[$index]['image'] = Mobile::where('id', $p->mobile_id)->first()->image;
-            $data[$index]['id'] = $p->mobile_id;
+            $data[$index]['mobile_id'] = $p->mobile_id;
+            $data[$index]['product_id'] = $p->id;
         }
         //Get current page form url e.g. &page=6
         $currentPage = LengthAwarePaginator::resolveCurrentPage();
@@ -120,6 +120,10 @@ class HomeController extends Controller
         if(!$shopId){
             $shopId = session('shop_id');
         }
+
+        $controller = new Controller();
+        $shopId = $shopId == null ? $controller->shopId : $shopId;
+
         return $shopId;
     }
 

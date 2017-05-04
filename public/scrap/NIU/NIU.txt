@@ -1,0 +1,30 @@
+Andy C5.5E2I;4 GB;Blue, Gun Metal;512 MB RAM;5.5
+Andy 3.5E2I;4 GB;Black, White, Blue, Green, Orange;512 MB RAM;3.5
+Andy 4E2I;4 GB;Black, White, Red, Blue, Yellow;512 MB RAM;4.0
+Andy 5EI;4 GB;Black, White, Red, Blue, Green;512 MB RAM;5.0
+Andy 5T;4 GB;White, Black, Blue, Red;1 GB RAM;5.0
+C21A;4 GB;Black, White, Blue, Green, Purple, Red, Fuchsia;ram;1.8
+F10;4 GB;Black, Blue, Red, White;ram;2.2
+Z10;4 GB;Black, White, Blue;ram;2.0
+Tek 5D;4 GB;Black;512 MB RAM;5.0
+Tek 4D2;4 GB;Black, Gray, White, Blue, Orange;512 MB RAM;4.0
+Niutek 3.5D2;2 GB;Black, White, Blue, Green, Red;256 MB RAM;3.5
+GO 21;2 GB;Black, Orange, Gray, Red, Green, Blue;ram;1.8
+Niutek 4.5D;512 MB;Black;256 MB RAM;4.5
+Niutek 4.0D;512 MB;Black, Blue, Green, White, Yellow;256 MB RAM;4.0
+Niutek 3.5D;512 MB;Black, Blue, Green, White, Yellow;256 MB RAM;3.5
+GO 20;512 MB;Black, White, Silver, Purple, Blue, Red;ram;1.8
+Niutek 3.5B;512 MB;Black, White;256 MB RAM;3.5
+LIV 10;512 MB;Black, White, Blue, red;ram;1.8
+GO 50;512 MB;Blue, Black, White, Red, Silver, Dark Grey;ram;2.0
+Niutek 3G 3.5 N209;256 MB;Black, White;512 MB RAM;3.5
+Niutek 3G 4.0 N309;512 MB;Black, White;512 MB RAM;4.0
+Pana 3G TV N206;512 MB;Blue, Red, Silver, White;ram;2.0
+GO 80;512 MB;Black, White;ram;1.8
+Domo N102;512 MB;Black, White;ram;2.0
+Bingo N103;512 MB;Blue, Purple, Red, Silver, White;ram;1.8
+Lotto N104;512 MB;Blue, Purple, Red, Silver, White;ram;2.0
+Pana N105;512 MB;Blue, Red, Silver, White;ram;2.2
+Pana TV N106;512 MB;Blue, Red, Silver, White;ram;2.0
+NiutekQ N108;256 MB;Black, White;128 MB RAM;2.3
+Niutek N109;256 MB;Black, White;128 MB RAM;2.8

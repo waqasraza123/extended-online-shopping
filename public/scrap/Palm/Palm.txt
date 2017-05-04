@@ -1,0 +1,16 @@
+Pre 2;16 GB;Black;512 MB RAM;3.1
+Pre 2 CDMA;16 GB;Black;512 MB RAM;3.1
+Pixi Plus;16 GB;Black;ram;2.63
+Pre Plus;16 GB;Black;512 MB RAM;3.1
+Pixi;16 GB;Black;ram;2.63
+Pre;8 GB;Black;256 MB RAM;3.1
+Treo Pro;100 MB;Obsidian ;128 MB RAM;2.5
+Centro;100 MB;Obsidian, Glacier, Midnight, Cobalt, Onyx, Electric Blue, Rose, Olive;ram;2.25
+Treo 500v;100 MB;Black, White;ram;2.4
+Treo 750;100 MB;Black;ram;2.5
+Treo 680;100 MB;Graphite, Crimson, Arctic, Copper;ram;2.5
+Treo 750v;100 MB;Black;ram;2.5
+Treo 650;100 MB;;ram;2.4
+Treo 600;100 MB;2 - Silver, Carbon;ram;2.5
+Treo 270;100 MB;Steel Grey;ram;
+Treo 180;100 MB;Steel Blue;ram;

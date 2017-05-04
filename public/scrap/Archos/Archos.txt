@@ -1,0 +1,31 @@
+50 Saphir;16 GB;Black;2 GB RAM;5.0
+55 Graphite;16 GB;Black;2 GB RAM;5.5
+50 Graphite;16 GB;Black;1 GB RAM;5.0
+55b Cobalt;16/32 GB;Gray;1/2 GB RAM;5.5
+50b Cobalt;16/32 GB;Gray;1/2 GB RAM;5.0
+Diamond 2 Plus;64 GB;Black;4 GB RAM;5.5
+55 Cobalt Plus;16 GB;Blue/Gray;2 GB RAM;5.5
+50 Cobalt;8 GB;Blue/Gray;1 GB RAM;5.0
+Diamond Plus;16 GB;Silver;2 GB RAM;5.5
+Diamond S;16 GB;Black;2 GB RAM;5.0
+50d Helium 4G;8 GB;Dark blue, Black;1 GB RAM;5.0
+50b Helium 4G;8 GB;Black;1 GB RAM;5.0
+50 Diamond;16 GB;Black, Electric yellow;2 GB RAM;5.0
+40 Cesium;4 GB;Black; Yellow and Blue (included);512 MB RAM;4.0
+45c Platinum;4 GB;Black; Metallic Blue and Spicy Pink (included);512 MB RAM;4.5
+40c Titanium;4 GB;Black/White;512 MB RAM;4.0
+50b Platinum;4 GB;Black;512 MB RAM;5.0
+80 Helium 4G;8 GB;White/Silver;1 GB RAM;8.0
+64 Xenon;4 GB;Black;1 GB RAM;6.4
+50c Oxygen;8 GB;Black;1 GB RAM;5.0
+40b Titanium;4 GB;Black/White;512 MB RAM;4.0
+50 Helium 4G;8 GB;Black;1 GB RAM;5.0
+45 Helium 4G;4 GB;Black;1 GB RAM;4.5
+50 Oxygen;16 GB;Black;1 GB RAM;5.0
+53 Platinum;4 GB;Black;1 GB RAM;5.3
+50 Platinum;4 GB;Black;1 GB RAM;5.0
+45 Platinum;4 GB;Black;1 GB RAM;4.5
+53 Titanium;4 GB;Black;512 MB RAM;5.3
+50 Titanium;4 GB;Black;512 MB RAM;5.0
+45 Titanium;4 GB;Black;512 MB RAM;4.5
+40 Titanium;4 GB;Black;512 MB RAM;4.0

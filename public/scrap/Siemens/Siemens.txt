@@ -1,0 +1,94 @@
+AL21;10 dialed;Red Temptation, Black Magic;ram;
+A31;10 dialed;Anthracite, Ruby Red;ram;
+AF51;10 dialed;Panther Black, Dolphin Grey;10 received;
+ME75;10 dialed;Amazon Green, Atlas Grey;ram;
+AP75;10 dialed;Cosmic Grey;ram;
+AX72;10 dialed;Basalt Black;ram;
+SG75;10 dialed;Metallic White;ram;2.0
+SFG75;10 dialed;Silver Black;ram;2.0
+CC75;10 dialed;Aluminium Silver;ram;
+CF110;10 dialed;Moonlight Silver, Midnight Blue;ram;
+C72;100 received;Liquid Silver;100 dialed and 100 missed calls;
+S75;100 received;Piano Black, Zirconia;ram;1.9
+SL75;100 received;Pure Silver, Polar White, Onyx Black;ram;
+C75;100 received;Palladium and Light Silver;ram;
+SP65;100 dialed;Steel black, Bordeaux;100 received;2.1
+SXG75;100 dialed;Metallic White, Metallic Black;ram;2.2
+M75;100 dialed;Safari Green, Volcano Black;ram;1.9
+CX75;100 dialed;Titan grey, Sand silver;ram;1.9
+CF75;100 dialed;Ocean blue, Pearl black;ram;
+CL75;100 dialed;Silk Flower Red,  Pin Striped Black;ram;
+AX75;100 dialed;2 - Ice Blue, Cream Stone;ram;
+A75;100 dialed;2 - Atlantic Blue, Polar Silver;ram;
+A70;10 dialed;2 - Pebble, Palladium;10 received;
+SF65;10 dialed;2 - Polar white, Onyx black;ram;
+CX70 Emoty;10 dialed;Bluewater;ram;
+CX70;10 dialed;;ram;
+SX66;10 dialed;Silver;ram;3.5
+SK65;10 dialed;Black Silver;ram;
+A65;10 dialed;Sparkling Silver and Mystery Silver;ram;
+A62;10 dialed;Denim Blue and Mystic Purple;10 received;
+A51;10 dialed;Urban Grey;10 received;
+SL65;10 dialed;2 - Ivory, Ebony;ram;1.8
+CFX65;10 dialed;2 - Chameleon, Blue Pearl;ram;
+S65;10 dialed;Steel Black;ram;2.1
+M65;10 dialed;Cool Gray;ram;
+C65;10 dialed;Blue Shadow;ram;
+CXT65;10 dialed;Cool Silver;ram;
+CX65;10 dialed;Cool Silver;ram;2.1
+CF62;10 dialed;2 - Cool Grey, Cool Cashmere;ram;
+A57;10 dialed;Cassis, Pebble;ram;
+PenPhone;10 dialed;;ram;
+ST60;10 dialed;;ram;
+CL55;10 dialed;3 - Silver, Red, Blue;10 received;
+Xelibri 8;10 dialed;Diamond pink and Silver glam;ram;
+Xelibri 7;10 dialed;Copper Polished and Midnight Blue;ram;
+Xelibri 6;10 dialed;Platinum Blush and Sheer Bronze;ram;
+Xelibri 5;10 dialed;Ultra Blue and Mercury;ram;
+U15;10 dialed;;ram;
+C62;10 dialed;3 -  Eagle White, Pidgeon Blue and Cherry Red;ram;
+A60;10 dialed;Stone;ram;
+SX1;10 dialed;Ice blue;ram;2.2
+ST55;10 dialed;;ram;
+MC60;10 dialed;3 - Aquamarine, Titanium and Grenadine;ram;
+C60;10 dialed;3 - Sky, Petrol and Grey;ram;
+Xelibri 1;10 dialed;;ram;
+Xelibri 2;10 dialed;;ram;
+Xelibri 3;10 dialed;;ram;
+Xelibri 4;10 dialed;;ram;
+U10;10 dialed;Titanium;ram;
+A52;10 dialed;Beige, Black;10 received;
+M55;10 dialed;;ram;
+A55;10 dialed;4;ram;
+SL55;10 dialed;;ram;
+S55;10 dialed;;ram;
+CL50;10 dialed;2 - Champagne, Pearl white;10 received;
+C55;10 dialed;3 - aqua, champagne, bordeaux;10 received;
+A50;10 dialed;2 blueberry, vanilla;10 received;
+M50;10 dialed;2 - chromium blue, chromium orange;10 received;
+S45i;10 dialed;2 - Titan Silver and Royal Champagne;10 received;
+SX45;10 dialed;;ram;
+SL45i;10 dialed;;ram;1.5
+SL42;10 dialed;;ram;1.5
+ME45;10 dialed;2 - Pebble Grey and Safari Grey;ram;
+S45;10 dialed;2 - diamond silver, sapphire blue;10 received;
+C45;10 dialed;2 - Oriental Blue and African Grey;10 received;
+SL45;10 dialed;;ram;1.5
+S40;10 dialed;Silver only;ram;
+S35i;10 dialed;3 - Emerald/Black, Titanium/Black, Titanium/Silver;10 received;
+M35i;10 dialed;3 - Hurricane Yellow, Half Pipe Blue, Summit Grey;10 received;
+C35i;10 dialed;7 -  Anthracite, Steel Grey, Classic blue ...;10 received;
+C35;10 dialed;7 -  Anthracite, Steel Grey, Classic blue ...;10 received;
+A40;10 dialed;7 - Royal Blue, Anthracite, Raspberry Red...;0 received;
+A36;10 dialed;;0 received;
+A35;10 dialed;7 - caribic blue, pineapple, magma red, moon white, anthracite, oriental blue, aubergine;ram;
+S25;10 dialed;Mid-Silver Grey (Titanium) / Blue Metallic / Dark Grey / Green Metallic;10 received;
+M30;10 dialed;;10 received;
+C28;10 dialed;;10 received;
+C25;10 dialed;5 - Classic Green, Blue, Anthracite, Bright Blue, Yellow;10 received;
+SL10;10 dialed;Anthracite;10 received;
+S10 active;10 dialed;3 - Green, Grey, Red;10 received;
+S10;10 dialed;Anthracite;10 received;
+S11;10 dialed;Anthracite;10 received;
+C10;5 dialed;3 - blue, red, grey;4 received;
+C11;5 dialed;3 - blue, red, grey;4 received;

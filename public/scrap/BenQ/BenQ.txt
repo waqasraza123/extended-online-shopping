@@ -1,0 +1,35 @@
+F52;16 GB;Glam Pink, Chic Gray;2 GB RAM;5.2
+B502;16 GB;Black, White;2 GB RAM;5.0
+T3;4 GB;Black, White, Green;1 GB RAM;4.5
+F5;16 GB;Black, White;2 GB RAM;5.0
+F3;4 GB;White, Red;1 GB RAM;4.5
+A3;4 GB;Black, White;1 GB RAM;4.5
+E55;4 GB;Red, Brown;ram;2.0
+C36;10 dialed;Lustrous Blue;10 received;2.0
+E53;10 dialed;Black;ram;2.0
+T60;10 dialed;Sleek black;ram;2.2
+M7;10 dialed;Charcoal with crimson trim;ram;2.0
+E72;128 MB;Bright red;64 MB RAM;2.0
+C30;10 dialed;Vibrant grey;10 received;1.8
+T51;10 dialed;Burnished graphite, Peach essence;ram;1.8
+T33;10 dialed;Black Rock;ram;1.8
+EL71;10 dialed;Vibrant grey;ram;2.0
+M580;10 dialed;Mercury Silver, Ebony Black, Pearl White;ram;1.8
+U700;10 dialed;;10 received;
+Z2;10 dialed;Vanilla White, Berry Blue, Wasabi Green, Bubblegum Pink;ram;1.5
+M315;10 dialed;Express Silver;ram;1.5
+M220;10 dialed;Cool Silver, Stark White, Crystal Black;ram;1.5
+S80;10 dialed;Red, Black;ram;2.0
+A520;10 dialed;Black, White;ram;1.5
+M350;10 dialed;Black, White;10 received;1.5
+A500;10 dialed;3 - Electric Blue, Cool Pink, Funky Gold;ram;1.9
+S680C;10 dialed;;10 received;1.5
+P50;10 dialed;;ram;2.8
+P31;10 dialed;;ram;
+P30;10 dialed;;ram;2.6
+S700;10 dialed;3 - Mysterious Black, Classic Silver, Progressive Blue;ram;1.8
+M300;10 dialed;Arctic White;10 received;1.5
+M100;30 received;White, Dark blue, Claret, Gray;dialed and missed calls;1.5
+S670C;30 received;2 - Genie silver, Party blue;ram;1.5
+S660C;10 dialed;3 - Light White, Sky Silver, Horizon Purple;10 received;1.5
+M775C;10 dialed;;10 received;

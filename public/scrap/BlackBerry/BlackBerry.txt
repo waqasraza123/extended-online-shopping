@@ -1,0 +1,87 @@
+Aurora;32 GB;Black, Silver, Gold;4 GB RAM;5.5
+Keyone;32 GB;Black;3 GB RAM;4.5
+DTEK60;32 GB;Black;4 GB RAM;5.5
+DTEK50;16 GB;Black;3 GB RAM;5.2
+Priv;32 GB;Black;3 GB RAM;5.4
+Leap;16 GB;Black, White;2 GB RAM;5.0
+Classic Non Camera;16 GB;Black;2 GB RAM;3.5
+Porsche Design P'9983;64 GB;Black;2 GB RAM;3.1
+Passport;32 GB;Black, White, Red, Black&Gold, Silver;3 GB RAM;4.5
+Classic;16 GB;Black, White, Blue, Bronze, Cobalt blue;2 GB RAM;3.5
+Z3;8 GB;Black;1.5 GB RAM;5.0
+Porsche Design P'9982;64 GB;Silver;2 GB RAM;4.2
+Z30;16 GB;Black;2 GB RAM;5.0
+9720;512 MB ROM;Black, White, Purple, Blue, Pure Pink;512 MB RAM;2.8
+Q5;8 GB;Black, White, Red, Gray, Pink;2 GB RAM;3.1
+Z10;16 GB;Black, White;2 GB RAM;4.2
+Q10;16 GB;Black, White;2 GB RAM;3.1
+4G LTE Playbook;32 GB;Black;1 GB RAM;7.0
+Curve 9320;512 MB ROM;Black, White;512 MB RAM;2.44
+Curve 9220;512 MB ROM;Black, Fuchsia Pink, Pure White, Teal Blue;512 MB RAM;2.44
+Curve 9380;512 MB;Black;512 MB RAM;3.2
+Bold 9790;8 GB;Black, White;768 MB RAM;2.45
+Porsche Design P'9981;8 GB;Gray, Black;768 MB RAM;2.8
+Curve 9370;1 GB;Black;512 MB RAM;2.44
+Curve 9360;512 MB;Black, Purple, Pink;512 MB RAM;2.44
+Curve 9350;512 MB ROM;Black, Violet;512 MB RAM;2.44
+Torch 9810;8 GB;Black, Gray;768 MB RAM;3.2
+Torch 9860;4 GB;Black;768 MB RAM;3.7
+Torch 9850;4 GB;Black;768 MB RAM;3.7
+Bold Touch 9900;8 GB;Black, White;768 MB RAM;2.8
+Bold Touch 9930;8 GB;Black;768 MB RAM;2.8
+4G Playbook HSPA+;16/32/64 GB;Black;1 GB RAM;7.0
+Playbook Wimax;16/32/64 GB;Black;1 GB RAM;7.0
+Playbook;16/32/64 GB;Black;1 GB RAM;7.0
+Bold 9780;256 MB;Black, White;512 MB RAM;2.44
+Style 9670;256 MB;Steel Grey, Royal Purple;ram;
+Curve 3G 9330;512 MB RAM;Black, Red, Pink;512 MB ROM;2.46
+Curve 3G 9300;256 MB RAM;Black, Red;256 MB ROM;2.46
+Torch 9800;4 GB;Black, White, Dark Orange;512 MB RAM;3.2
+Pearl 3G 9105;4 GB;Piano Black, Opal Pink, Royal Purple, Flash White, Red Gradient;ram;2.25
+Pearl 3G 9100;4 GB;Piano Black, Opal Pink, Royal Purple, Flash White, Red Gradient;ram;2.25
+Bold 9650;4 GB;Black;ram;2.44
+Bold 9700;256 MB;Black, White;256 MB RAM;2.44
+Storm2 9520;256 MB;Black;ram;3.25
+Storm2 9550;256 MB;Black;ram;3.25
+Curve 8530;256 MB;Black, Purple;ram;2.46
+Curve 8520;256 MB;Black;ram;2.46
+Tour 9630;256 MB;Black;ram;2.4
+Curve 8980;256 MB;Black;ram;2.4
+Curve 8900;256 MB;Black;ram;2.4
+Storm3;8 GB;Black;512 MB RAM;3.7
+Storm 9500;1 GB;Black;128 MB RAM;3.25
+Storm 9530;1 GB;Black;128 MB RAM;3.25
+Pearl Flip 8230;128 MB RAM;Black, Red, Pink;128 MB ROM;2.6
+Pearl Flip 8220;128 MB RAM;Black;ram;2.6
+Bold 9000;1 GB;Black, White;128 MB RAM;2.6
+Volt;4 GB;Black;768 MB RAM;3.7
+Pearl 8130;32 MB RAM;Black, White;64 MB ROM;2.2
+Pearl 8110;32 MB RAM;Black, Blue;64 MB ROM;2.2
+Pearl 8120;32 MB RAM;Titanium, Blue, Sunset;64 MB ROM;2.2
+Curve 8330;32 MB ROM;Titanium, Pink, Black;96 MB ROM;2.5
+Curve 8320;32 MB ROM;Titanium, Pale Gold;ram;2.5
+Curve 8310;32 MB ROM;Silver;ram;2.5
+Curve 8300;32 MB ROM;Black;ram;2.5
+8820;64 MB;Silver;16 MB RAM;2.5
+8830 World Edition;64 MB;Black;16 MB RAM;2.5
+8800;64 MB;Silver;16 MB RAM;2.5
+Pearl 8100;64 MB;Black, White, Red;ram;2.2
+7130g;64 MB;;16 MB RAM;2.4
+7130c;64 MB;;16 MB RAM;2.4
+7130v;64 MB;;16 MB RAM;2.4
+8707v;64 MB;Silver;16 MB RAM;2.6
+8700c;64 MB;;16 MB RAM;2.6
+7100x;64 MB;;ram;2.2
+7100t;32 MB;;4 MB RAM;2.36
+7100v;32 MB;;ram;2.37
+7290;32 MB;Cosmos Black, Satin Blue, Steel Blue;4 MB RAM;2.6
+7730;16 MB;;2 MB RAM;3.0
+7230;16 MB;;1 MB RAM;2.6
+6720;16 MB;;1 MB RAM;3.0
+6230;16 MB;;1 MB RAM;2.6
+Curve Touch;1 GB ROM;Black;512 MB RAM;3.25
+A10;16 GB;Black;2 GB RAM;5.0
+Curve Touch CDMA;1 GB ROM;Black;512 MB RAM;3.25
+Playbook 2012;1 GB ROM;Black;ram;7.0
+Porsche Design P'9531;8 GB;Black;768 MB RAM;2.8
+Z20;16 GB;Black, White;2 GB RAM;5.0

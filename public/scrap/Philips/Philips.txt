@@ -1,0 +1,227 @@
+S337;8 GB;Black;1 GB RAM;5.0
+S309;8 GB;Black, Red;1 GB RAM;4.0
+V377;8 GB;Black;1 GB RAM;5.0
+V787;16 GB;Black;2 GB RAM;5.0
+S616;16 GB;Black;2 GB RAM;5.5
+I928;16 GB;Black, White;2 GB RAM;6.0
+V526;8 GB;Black;1 GB RAM;5.0
+I908;16 GB;Black, White;2 GB RAM;5.0
+S396;8 GB;Black;1 GB RAM;5.0
+S388;microSD;Black;up to 32 GB (dedicated slot);4.5
+S308;4 GB;Black, Black/Red, Black/White, Black/Yellow, Black/Gray;512 MB RAM;4.0
+W6610;4 GB;Black;1 GB RAM;5.0
+W8578;512 MB;Black;256 MB RAM;3.5
+W3500;512 MB;Black;ram;5.0
+W8555;16 GB;Black;2 GB RAM;5.0
+W7555;4 GB;Black/Red;1 GB RAM;4.5
+W9588;4 GB;Black;1 GB RAM;3.5
+W8568;4 GB;Black;1 GB RAM;4.0
+W8500;4 GB;Silver;ram;4.3
+W6500;4 GB;Yellow;ram;4.3
+W3568;4 GB;Black/Gray;512 MB RAM;4.0
+T3566;4 GB;Black;ram;4.0
+W7376;4 GB;Black/Silver;ram;4.3
+X1560;4 GB;Black;ram;2.4
+X2560;4 GB;Black;ram;2.4
+X2301;4 GB;Gray;ram;2.4
+X2300;4 GB;Dark gray;ram;2.4
+X1510;4 GB;Black;ram;2.0
+E1500;4 GB;Black;ram;1.77
+D833;4 GB;Black/Gray;ram;4.3
+W8560;32 GB;Black;2 GB RAM;5.0
+W8510;32 GB;Gray;ram;4.7
+T939;4 GB;Black;512 MB RAM;3.2
+W6360;microSD;Dark gray;up to 32 GB (dedicated slot);4.3
+W5510;microSD;Dark gray;up to 32 GB (dedicated slot);3.5
+W8355;4 GB;Black;512 MB RAM;5.3
+W832;4 GB;Grey;ram;4.5
+W737;4 GB;Black;ram;4.3
+W736;4 GB;Grey;ram;4.0
+W6350;4 GB;Black, White;ram;4.0
+W536;4 GB;Grey;ram;4.0
+W337;4 GB;Black;ram;3.2
+T539;4 GB;Black/Gold;ram;4.3
+E133;4 GB;Black;ram;2.2
+W732;4 GB;Gray;ram;4.3
+X333;4 GB;Champion Black/Grey;ram;2.4
+W930;4 GB;Black/Gold;ram;3.2
+X130;4 GB;Silver;ram;2.0
+X332;4 GB;Black/Silver;ram;2.4
+X331;4 GB;Black;ram;2.8
+D633;4 GB;White;ram;4.0
+W632;4 GB;Gray;ram;3.8
+W635;4 GB;Gray;ram;4.0
+X528;4 GB;Black;ram;2.6
+T129;4 GB;Black;ram;2.4
+W820;4 GB;Black;ram;3.2
+D822;4 GB;Black;ram;3.5
+W727;4 GB;Gray;ram;3.2
+X125;4 GB;Black;ram;1.44
+W626;4 GB;Black;ram;3.5
+X623;4 GB;Black, Silver;ram;2.4
+W920;180 MB;Black/Gold;512 MB RAM;4.3
+V726;180 MB;Black/Gray;ram;3.2
+X622;180 MB;Black;ram;3.2
+W625;180 MB;Black/Silver;ram;3.0
+X223;180 MB;Black;ram;2.4
+X525;180 MB;Silver;ram;3.0
+D813;180 MB;Silver;ram;3.2
+W725;180 MB;Black;ram;3.2
+W715;180 MB;Black;ram;2.4
+X526;180 MB;Silver/Black;ram;2.8
+D613;180 MB;Black;ram;2.4
+Xenium X519;180 MB;Black;ram;2.4
+F322;180 MB;Pink;ram;2.4
+X128;180 MB;Black;ram;2.0
+D612;180 MB;Black;ram;2.4
+Xenium X523;180 MB;Red/Black;ram;2.4
+X516;180 MB;Black;ram;2.6
+F515;180 MB;Violet;ram;2.4
+X815;180 MB;Black;ram;3.2
+X518;180 MB;Black;ram;2.8
+D812;180 MB;Black;ram;3.2
+X216;180 MB;Black;ram;1.8
+Xenium X713;180 MB;Brown;ram;3.2
+V816;180 MB;Black;ram;3.2
+T910;180 MB;White;ram;3.5
+X116;180 MB;Gray;ram;2.0
+F718;180 MB;Gray;ram;2.6
+Xenium X513;180 MB;Gray;ram;2.2
+Xenium F511;180 MB;Black, White;ram;2.4
+D900;180 MB;Black;ram;2.8
+F610;180 MB;Black;ram;2.6
+X712;180 MB;Black, White, Brown;ram;2.8
+X703;180 MB;Gray;ram;3.0
+X809;180 MB;Black;ram;3.0
+Xenium X503;180 MB;Black;ram;2.4
+Xenium K600;180 MB;Silver, Black;ram;2.8
+X606;180 MB;Pink;ram;2.8
+X510;180 MB;Black;ram;2.4
+X605;180 MB;Black;ram;2.8
+V900;180 MB;Black;ram;3.5
+X100;30 received;Black;dialed and missed calls;1.8
+C702;30 received;Black;ram;2.8
+X603;30 received;Black;ram;2.4
+D908;128 MB RAM;Titanium Gray;256 MB ROM;3.2
+Xenium X806;128 MB RAM;Black;ram;3.0
+X312;128 MB RAM;Grey;ram;2.2
+X320;128 MB RAM;Grey;ram;2.2
+X650;128 MB RAM;Black;ram;2.4
+Xenium X501;128 MB RAM;Black;ram;2.2
+Xenium K700;128 MB RAM;Natural White, White Antarctic;ram;2.8
+V808;128 MB RAM;Black;ram;3.2
+X550;30 received;Black;dialed and missed calls;
+E102;30 received;Black;dialed and missed calls;1.4
+Xenium X830;30 received;Black;ram;3.0
+C700;30 received;Black;ram;2.8
+TM700;30 received;Black;ram;2.2
+X630;30 received;Black;ram;2.4
+C600;30 received;Black;ram;2.4
+W186;30 received;Black;ram;2.0
+X810;64 MB;Black;512 MB RAM;2.8
+Xenium X520;30 received;Silver, Black, Red;dialed and missed calls;
+Xenium X600;30 received;Phantom Black;ram;2.2
+E210;30 received;Black, Gray;ram;1.8
+Xenium X700;30 received;Phantom Black, Red;ram;2.4
+Xenium X530;30 received;Phantom Black, Red;ram;2.2
+X710;30 received;Black;ram;2.4
+X620;30 received;Black;ram;2.4
+193;30 received;Black;dialed and missed calls;1.47
+E100;30 received;Black;ram;1.8
+X500;30 received;Black on gray;ram;1.8
+M200;30 received;Black;ram;1.8
+Xenium X300;30 received;Black;ram;1.75
+Xenium 9@9q;30 received;Phantom Black;ram;2.0
+298;30 received;Gray;ram;1.8
+X800;47 MB;Black;64 MB RAM;2.8
+M600;30 received;Black;dialed and missed calls;2.0
+Xenium 9@9v;30 received;Black Perfection;dialed and missed calls;1.75
+192;30 received;Black;dialed and missed calls;1.47
+191;30 received;Black;dialed and missed calls;1.25
+Xenium 9@9j;30 received;Silver/Black;dialed and missed calls;
+392;30 received;Black;ram;2.4
+Xenium 9@9u;30 received;Midnight Black;ram;2.0
+692;30 received;Black;ram;2.4
+699 Dual SIM;30 received;Black;ram;2.6
+892;30 received;Black;ram;2.6
+399;30 received;Matt Black, High Glossy Black, Red;ram;2.6
+390;30 received;Black;ram;2.0
+Xenium 9@9k;30 received;Majestic Black;ram;1.8
+Xenium 9@9z;30 received;White;dialed and missed calls;1.46
+Xenium 9@9w;30 received;Titan Black, Titan Coco;ram;1.93
+Xenium 9@9m;30 received;Executive silver, Rusted brown;ram;2.5
+Xenium 9@9r;30 received;Black;ram;
+Xenium 9@9h;30 received;Gray;ram;1.8
+292;30 received;Black;ram;2.0
+290;30 received;Black;ram;1.8
+Xenium 9@9g;30 received;Black;ram;1.8
+Xenium 9@9f;30 received;Black;dialed and missed calls;1.5
+580;30 received;Black;ram;
+S890;30 received;Black, Gray;ram;1.72
+S660;30 received;Black;ram;1.5
+180;20 received;Black;dialed and missed calls;
+Xenium 9@9s;20 received;Chrome Black, Silver Chrome;ram;
+680;20 received;Black, Orange, Red;ram;
+S900;20 received;Silver;ram;2.2
+S880;20 received;Silver Soul, Black Beat , Hot Pink;ram;1.7
+598;20 received;Black Glamour;ram;1.8
+588;20 received;Elegant Purple, Reflective White, Mystery Black;ram;
+Xenium 9@9t;20 received;Silver touch, Classic black;ram;
+Xenium 9@9d;20 received;Dazzling Silver, Luminous Black;ram;
+Xenium 9@9a;20 received;Silver, Black;ram;1.5
+S800;20 received;Silver Soul, Black , Red Rythm;ram;1.7
+S220;30 received;Black, Silver;dialed and missed calls;
+S200;30 received;Black;dialed and missed calls;
+768;30 received;Silver Pebble;ram;1.9
+960;30 received;3 - Silver Sound, Titanium Tune, White Wide;ram;
+Xenium 9@9e;30 received;Executive black, Elegant silver;ram;
+160;30 received;2 - Smooth Blue, Soft Grey;ram;
+968;30 received;Titanium Tempo, Black Bass;ram;
+362;30 received;;ram;
+868;30 received;;ram;
+766;30 received;Brushed Titanium, Reflection White;ram;
+760;30 received;2 - Swing Blue, Twist Grey;ram;
+568;30 received;Deep Black and Arrow Silver;ram;
+655;30 received;3 - Silver Ball, Black Sphere, Red Ballon;ram;
+Xenium 9@9i;30 received;Executive Silver, Superior Titanium, Royal Blue;ram;
+Xenium 9@98;30 received;Superior Silver, Power Silver;ram;
+162;30 received;4 - Silver Crystal, Red Ruby, Silver Quartz and Black Onyx;ram;
+650;30 received;3 - Executive Grey, Discerning Blue, White Bond;ram;
+859;30 received;;ram;
+855;30 received;4 - Harmony Silver, Relaxing Blue, Sensorial Black and Natural White;ram;
+759;30 received;Aero Silver, Orange Spray and Red Touch;ram;
+755;30 received;Silver Alloy, Bright Aluminum and Red Metal;ram;
+550;30 received;Brown Suede and Silver Silk;ram;
+659;30 received;Blue Zone, Silver Wing;ram;
+639;30 received;3 - Magical Pearl, Surprising Green and Fantastic Grey;ram;
+636;30 received;Blue Pacific, Red Temptation, Silver Knight;ram;
+535;30 received;4 - Silver Digit, Red Lens, Blue Focus, and Black Motion;ram;
+355;30 received;Turquoise Ocean, White Antarctic, Black Forrest, Blue Gloss;ram;
+350;30 received;4 - Red,  Silver, Black and Blue;ram;
+530;30 received;5 - Pop Orange, Star White, Techno Green, Jazzy Blue and Soul Black;ram;
+Xenium 9@9 ++;30 received;Graphite and Silver;ram;
+630;- 100 messages;3 - Red, Silver, Pasific blue;can be password protected;
+330;- 100 messages;4 - Sparkling Blue, Lacquer White, Brilliant Silver and Shining Red;ram;
+Fisio 825;- 100 messages;4 - Ceramic white, Diamond black, Steel blue and Sterling silver;ram;
+Fisio 625;- 100 messages;;ram;
+Fisio 820;- 100 messages;3;ram;
+Fisio 620;- 100 messages;;ram;
+Fisio 121;10 dialed;3 - Storm Black, Whale blue, Opal white;10 received;
+Fisio 120;10 dialed;3 - Storm Black, Whale blue, Opal white;10 received;
+Fisio 610;10 dialed;;10 received;
+Xenium 9@9;10 dialed;4;10 received;
+Xenium;10 dialed;3 models, 3 colors each;10 received;
+Azalis 268;10 dialed;;10 received;
+Azalis 238;10 dialed;;10 received;
+Ozeo 8@8;10 dialed;4;10 received;
+Ozeo;10 dialed;4;10 received;
+Savvy DB;10 dialed;3 - Galaxy Black, Azur Nuit, Lune Galet;10 received;
+Savvy Vogue;10 dialed;4 - Light Blue, Aqua Green, Navy Blue, Coral Bronze;10 received;
+Genie 2000;10 dialed;3;10 received;
+Genie db;10 dialed;3;10 received;
+Genie Sport;10 dialed;3;10 received;
+Genie;10 dialed;Several;10 received;
+Savvy;10 dialed;Yellow, Golf Green, Black;ram;
+Diga;5 dialed;;0 received;
+Spark;5 dialed;;ram;
+Fizz;5 dialed;;ram;

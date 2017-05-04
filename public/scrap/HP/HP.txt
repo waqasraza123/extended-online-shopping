@@ -1,0 +1,41 @@
+Elite x3;64 GB;Black;4 GB RAM;5.96
+Slate 17;32 GB;Snow White, Sweet Yellow;2 GB RAM;17.3
+Pro Slate 12;32 GB;Silver;2 GB RAM;12.3
+Pro Slate 10 EE G1;16/32 GB;Black;1/2 GB RAM;10.1
+Pro Slate 8;16/32 GB;Gray;2 GB RAM;7.86
+Slate6 VoiceTab II;16 GB;Silver;1 GB RAM;6.0
+10 Plus;16 GB;Black/Silver;2 GB RAM;10.1
+7 VoiceTab;8 GB;Black/White;1 GB RAM;6.95
+7 Plus;8 GB;Silver;1 GB RAM;7.0
+8;16 GB;Silver;1 GB RAM;7.85
+Slate7 VoiceTab Ultra;16 GB;Champagne;2 GB RAM;7.0
+Slate7 VoiceTab;16 GB;Black/White;1 GB RAM;7.0
+Slate6 VoiceTab;16 GB;Black;1 GB RAM;6.0
+Slate8 Pro;16 GB;Black/White;1 GB RAM;8.0
+Slate10 HD;16 GB;Black/Silver;1 GB RAM;10.0
+Slate7 Extreme;16 GB;Black/Silver;1 GB RAM;7.0
+Slate7 Plus;8 GB;Black/Silver;1 GB RAM;7.0
+Slate 7;8 GB;Black/Silver, Red;1 GB RAM;7.0
+TouchPad 4G;32 GB;Black;1 GB RAM;9.7
+Veer 4G;32 GB;White, black;ram;2.6
+Veer;32 GB;Black;ram;2.6
+Pre 3 CDMA;8/16 GB;Black;512 MB RAM;3.58
+Pre 3;8 GB;Black;512 MB RAM;3.58
+TouchPad;16/32 GB;Black;1 GB RAM;9.7
+iPAQ Glisten;256 MB RAM;Black;512 MB ROM;2.5
+iPAQ Voice Messenger;128 MB RAM;Blue;256 MB ROM;2.4
+iPAQ Data Messenger;128 MB RAM;Blue;256 MB ROM;2.81
+iPAQ 910c;128 MB RAM;Black;256 MB ROM;2.46
+iPAQ 610c;128 MB RAM;Black;256 MB ROM;2.8
+iPAQ 514;64 MB RAM;Black;128 MB ROM;2.0
+iPAQ rw6815;64 MB RAM;Silver;128 MB ROM;2.7
+iPAQ rw6828;64 MB RAM;Silver;128 MB ROM;2.7
+iPAQ rw6818;64 MB RAM;Silver;128 MB ROM;2.7
+iPAQ hw6915;64 MB RAM;Silver;45 MB ROM;
+iPAQ hw6910;64 MB RAM;Silver;45 MB ROM;
+iPAQ hw6515;64 MB RAM;Silver;64 MB ROM;3.0
+iPAQ hw6510;64 MB RAM;Silver;64 MB ROM;3.0
+iPAQ h6325;64 MB RAM;Silver;64 MB ROM;3.5
+iPAQ h6320;64 MB RAM;Silver;64 MB ROM;3.5
+iPAQ h6315;64 MB RAM;Silver;64 MB ROM;3.5
+iPAQ h6310;64 MB RAM;Silver;64 MB ROM;3.5

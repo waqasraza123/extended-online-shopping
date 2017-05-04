@@ -1,0 +1,79 @@
+Noir Z12 Pro;32 GB;Mocha Gold, Latte Gold;3 GB RAM;5.5
+Noir Z14;32 GB;Gold, Silver, Rose Gold;4 GB RAM;5.5
+Noir LT680;16 GB;Black, Gold;2 GB RAM;5.0
+Noir LT700 Pro;16 GB;Pearl White, Grey;3 GB RAM;5.0
+Noir S4;16 GB;Gold;2 GB RAM;5.0
+Noir LT750;16 GB;White/Gold;3 GB RAM;5.0
+Noir i6 Metal HD;16 GB;Gold, Rose Gold, Silver Black;1 GB RAM;5.0
+Noir A6;32 GB;Black, White;3 GB RAM;5.0
+Noir S9;8 GB;White, Black;2 GB RAM;5.0
+Noir Z9 Plus;16 GB;White, Gold, Dark Blue;2 GB RAM;5.5
+Noir Z12;32 GB;Gold;3 GB RAM;5.5
+Noir Z10;16 GB;Black, White;3 GB RAM;5.2
+Noir S2;8 GB;Black;1 GB RAM;5.0
+Noir E8;64 GB;Black, Gold;3 GB RAM;6.0
+Noir S5;8 GB;Black/White;1 GB RAM;4.8
+Linq L15;8 GB;Black;1 GB RAM;5.0
+Noir Z9;16 GB;Black;2 GB RAM;4.8
+A1;8 GB;Black;1 GB RAM;4.5
+Noir S1;8 GB;Black;1 GB RAM;5.0
+Power3;32 MB;Black;32 MB RAM;2.4
+T50 Bolt;4 GB;Black;512 MB RAM;4.0
+T200 Bolt;4 GB;Black;512 MB RAM;4.0
+Noir X950;16 GB;Black;2 GB RAM;5.0
+QTab V10;8 GB;Black;1 GB RAM;7.85
+Explorer 3G;128 MB;Black;64 MB RAM;2.8
+Noir i8;8 GB;Black;1 GB RAM;4.7
+Noir X450;8 GB;Black;1 GB RAM;5.0
+Noir Z8 Plus;16 GB;Black;2 GB RAM;5.5
+Noir X350;8 GB;Black;1 GB RAM;4.5
+Noir LT600;8 GB;Black;1 GB RAM;5.0
+Noir M300;8 GB;Black;1 GB RAM;5.0
+W1;4 GB;Black;512 MB RAM;4.0
+Noir Z8;16 GB;Black;2 GB RAM;5.0
+Noir A750;16 GB;Black;1 GB RAM;5.0
+Linq X70;8 GB;Black;1 GB RAM;4.0
+Noir Z7;16 GB;Black;1 GB RAM;4.8
+Linq L10;8 GB;Black;1 GB RAM;5.0
+Noir LT250;4 GB;Black;1 GB RAM;4.7
+Noir LT150;8 GB;Black;1 GB RAM;4.7
+Noir X600;16 GB;Black;2 GB RAM;5.0
+Noir X700;8 GB;Black;1 GB RAM;5.0
+Noir X900;16 GB;Black;2 GB RAM;5.0
+Noir X60;4 GB;Black;512 MB RAM;4.0
+Noir X80;4 GB;Black;512 MB RAM;4.0
+Noir X90;8 GB;Black;1 GB RAM;5.0
+Noir X550;8 GB;Black;1 GB RAM;4.7
+Linq X300;8 GB;Black;1 GB RAM;4.5
+Linq X100;8 GB;Black;1 GB RAM;4.5
+Noir X35;4 GB;Black;512 MB RAM;4.0
+Noir X400;8 GB;Black;1 GB RAM;4.5
+Noir X500;8 GB;Black;1 GB RAM;4.7
+M800;64 MB;Black;64 MB RAM;2.4
+Noir i7;8 GB;Black;1 GB RAM;4.5
+Noir M90;8 GB;Black;1 GB RAM;5.0
+Noir X800;16 GB;Black;2 GB RAM;4.7
+B100TV;32 MB;Black;8 MB RAM;2.4
+Noir A115 ATV;512 MB;Black;512 MB RAM;3.97
+Noir i10;8 GB;Black;1 GB RAM;5.0
+B800;128 MB;Black;64 MB RAM;3.2
+Noir A8i;4 GB;Black;512 MB RAM;4.0
+Noir Z5;16 GB;Black;2 GB RAM;5.5
+Noir i12;16 GB;Black;2 GB RAM;5.0
+Noir Z6;16 GB;Black;2 GB RAM;5.0
+QTab X50;16 GB;Black, White;1 GB RAM;8.0
+Noir A120;4 GB;Black, Blue, Pink, White;512 MB RAM;4.0
+E990 Sirocco Edition;64 MB;Black, Golden;128 MB RAM;2.6
+Noir A110;512 MB;Black, Blue, Pink, White;512 MB RAM;3.5
+Noir i9;4 GB;Black;1 GB RAM;5.0
+Noir i6;8 GB;Black;1 GB RAM;4.5
+Noir A75;4 GB;Black;512 MB RAM;4.5
+Noir i5i;4 GB;Black;1 GB RAM;4.5
+Noir i5;4 GB;Black;512 MB RAM;4.7
+Noir A550;4 GB;Black;1 GB RAM;4.5
+Noir V4;16 GB;Black;1 GB RAM;5.7
+Noir Z4;32 GB;Black;2 GB RAM;5.0
+Noir Z3;16 GB;Black;1 GB RAM;4.8
+Noir A15 3D;4 GB;Black;512 MB RAM;5.0
+Noir A950;4 GB;Black;1 GB RAM;4.65
+Noir A500;4 GB;Black;512 MB RAM;4.5

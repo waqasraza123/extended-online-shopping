@@ -1,0 +1,229 @@
+A403;4 GB;Black, Light Blue, Red, Yellow;512 MB RAM;4.0
+Campus Prime;4 GB;White, Black, Gold, Silver, Brown, Blue;512 MB RAM;4.5
+Millennia Everest;8 GB;Black, White, Blue;1 GB RAM;5.5
+Millennia Hero;8 GB;Black, White/Gold, White/Silver, Black/Gold;1 GB RAM;4.0
+Millennia Xplore;8 GB;Black/White;1 GB RAM;5.0
+Q455L;8 GB;Black, Red, Yellow;1 GB RAM;4.5
+2GB Xpress;16 GB;Black;2 GB RAM;4.5
+A35k Remote;512 MB;White, Black, Blue;256 MB RAM;3.5
+Q3K Power;8 GB;White, black, gold;512 MB RAM;4.0
+Q5K Power;4 GB;White, Blue, Silver, Black;512 MB RAM;5.0
+Q452;8 GB;White, Silver, Black, Brown, Green;512 MB RAM;4.5
+A402;4 GB;White, Black, Blue, Silver;512 MB RAM;4.0
+Q54+;8 GB;Blue, Brown, White, Silver;1 GB RAM;5.0
+Q519;4 GB;Black, White, Light Blue, Dark Blue, Green, Red;512 MB RAM;5.0
+Q450;4 GB;Gold, White;512 MB RAM;4.5
+Q405;4 GB;Black, White, Gold, Blue;512 MB RAM;4.0
+A518;4 GB;Blue, White;512 MB RAM;5.0
+A407;512 MB;Silver, White, Light Blue, Dark Blue, Gold;256 MB RAM;4.0
+A359;512 MB;Black, Red+Black, Light Blue, Dark Blue, Brown, Silver;256 MB RAM;3.5
+A355;512 MB;Light Blue, Dart Blue, Red, Yellow, White;256 MB RAM;3.5
+Campus Buddy A404;4 GB;Black, White;512 MB RAM;4.0
+Millennia OCTA510;8 GB;White;1 GB RAM;5.0
+Win 400;4 GB;Black;512 MB RAM;4.0
+Campus Whizz Q42;4 GB;Black;512 MB RAM;4.0
+Millennia Epic Q550;16 GB;Black, White;1 GB RAM;5.5
+Xion s CT695;8 GB;Black;1 GB RAM;6.95
+Campus Colt A401;4 GB;Black, White, Blue;512 MB RAM;4.0
+Campus Crown Q40;4 GB;Silver, Grey;512 MB RAM;4.0
+Glory Q5;8 GB;White, Silver, Grey;1 GB RAM;5.0
+Campus One A354C;8 GB;White, Blue, Red, Yellow, Dark Blue, Green;ram;3.5
+Campus Nova A352E;8 GB;Black, White;ram;3.5
+A43;4 GB;Blue, Black, Grey;1 GB RAM;4.0
+A42;4 GB;Yellow, Blue, White;512 MB RAM;4.0
+Q500 Millennium Ultra;16 GB;White;2 GB RAM;5.0
+Q44;8 GB;Silver, Gold, Grey;1 GB RAM;4.0
+A500;8 GB;Black, White;1 GB RAM;5.0
+A21;512 MB;Black, Blue, Red;256 MB RAM;4.0
+A115;4 GB;Black, White;512 MB RAM;5.0
+Q455;16 GB;White, Black, Blue;1 GB RAM;4.5
+Q470;16 GB;White;1 GB RAM;4.7
+Q3000;4 GB;White;1 GB RAM;5.0
+A35k;512 MB/ 2 GB;White, Blue;256 MB RAM;3.5
+A125;4 GB;White, Black;512 MB RAM;4.5
+C7010;4 GB;Black;ram;2.8
+C5055;4 GB;Black;ram;2.8
+C9 Jumbo;4 GB;Black/Red, Black/Blue, White/Red;ram;2.4
+C7 Jumbo;4 GB;Black;ram;,
+C6 Star;4 GB;Black;ram;2.4
+C44 Duos;4 GB;Gold/Black, Gold/Red;ram;2.4
+C366;4 GB;Black/Red, Black/Blue, White/Red;ram;1.8
+C619;4 GB;Black/Red, Black/White;ram;1.8
+C51;4 GB;Brown, Champagne, Black;ram;2.4
+C340;4 GB;Black;ram;1.8
+C348+;4 GB;Black;ram;1.8
+C349+;4 GB;Black;ram;1.8
+C779;4 GB;Black;ram;2.4
+C66+;4 GB;Black;ram;2.4
+C44+;4 GB;Black;ram;2.4
+A64;512 MB;White, Black;256 MB RAM;4.0
+A66;4 GB;White, Black;512 MB RAM;4.5
+A9 Dual;512 MB;White, Black;256 MB RAM;3.5
+A 107+;4 GB;White;512 MB RAM;5.0
+C4040;4 GB;Black;ram;2.4
+ARR35;4 GB;Black, White;ram;3.5
+CT 7;8 GB;Black, White;1 GB RAM;7.0
+CT-888;4 GB;Black, White;512 MB RAM;7.0
+C820;4 GB;Black, Silver;512 MB RAM;8.0
+C720;4 GB;White;512 MB RAM;7.0
+S1;16 GB;Black;1 GB RAM;5.0
+A40;4 GB;White, Yellow, Blue;512 MB RAM;4.0
+AR50;4 GB;White;512 MB RAM;5.0
+AR40;4 GB;Yellow;512 MB RAM;4.0
+AR45;4 GB;White;512 MB RAM;4.5
+A15;512 MB;White;256 MB RAM;3.5
+C7045;512 MB;Black;ram;3.5
+C605;512 MB;Black;ram;1.8
+C399;512 MB;Black;ram;2.4
+C76;512 MB;Black;ram;2.8
+C64;512 MB;Black;ram;2.6
+C63;512 MB;Black;ram;2.6
+Monalisa 5;4 GB;Black, White;1 GB RAM;4.5
+A112;4 GB;Black/White;512 MB RAM;5.0
+A63;512 MB;Black;256 MB RAM;4.0
+A60;512 MB;White;256 MB RAM;4.5
+A20;256 MB;Black;512 MB RAM;4.0
+A10;256 MB;Black;512 MB RAM;3.5
+C5050 Star;256 MB;Black;ram;2.8
+C7030;256 MB;Black;ram;3.2
+A105;512 MB;Black, White;512 MB RAM;5.0
+C349i;512 MB;Black;ram;1.8
+C297;512 MB;Black;ram;2.4
+C69;512 MB;Black;ram;2.4
+C67+;512 MB;Black;ram;2.4
+C74;512 MB;Black;ram;2.8
+CT-910+;microSD;Gray;up to 64 GB (dedicated slot);7.0
+A118;4 GB;White;1 GB RAM;5.0
+A107;512 MB;Black, White;512 MB RAM;5.0
+A9+;512 MB;Black, White;256 MB RAM;3.5
+A119Q Signature HD;4 GB (1.45 GB user available);Black, White;1 GB RAM;5.0
+A119 Signature HD;4 GB (1.45 GB user available);Black, White;1 GB RAM;5.0
+CT-910;4 GB;Gray;512 MB RAM;7.0
+A87;512 MB;Black, White;512 MB RAM;4.0
+A86;512 MB;Black, White;512 MB RAM;3.5
+A69;512 MB;Black, White;512 MB RAM;4.0
+A67;512 MB;Black, White;512 MB RAM;3.2
+A98;microSD;Black;up to 32 GB (dedicated slot);4.0
+A225;microSD;Black;up to 32 GB (dedicated slot);4.7
+C7050;microSD;Black;ram;4.0
+C7070;microSD;Black;ram;3.5
+C44 Star;microSD;Black;ram;2.4
+C54;microSD;Black;ram;2.4
+GC10;microSD;Black;ram;2.6
+C3333;microSD;Black/Red, Gray;ram;2.6
+C356;microSD;Black/Red, Black/Yellow, White;ram;1.8
+C355;microSD;Black/Red, Black/Yellow, Black/Silver;ram;1.77
+A75;microSD;Black, White;up to 32 GB (dedicated slot);3.5
+A59;microSD;Black, White;up to 32 GB (dedicated slot);4.0
+A220;microSD;Black, Gray;up to 32 GB (dedicated slot);4.63
+A27;microSD;Blue, Black, White;up to 32 GB (dedicated slot);4.63
+A79;microSD;Black;up to 16 GB (dedicated slot);3.5
+A83;microSD;White, Black;up to 32 GB (dedicated slot);3.2
+A77;microSD;White, Black;up to 32 GB (dedicated slot);3.5
+CT 9;microSD;White/Black;up to 32 GB (dedicated slot);9.0
+A200;microSD;Black, White;up to 32 GB (dedicated slot);4.3
+C19;microSD;Black/Gray, White/Red;ram;2.4
+A900;microSD;Black;up to 32 GB (dedicated slot);5.0
+A85;512 MB;White;256 MB RAM;3.5
+A22;microSD;White;up to 32 GB (dedicated slot);4.5
+CT 2;microSD;Black;up to 32 GB (dedicated slot);7.0
+C52;microSD;White/Red;ram;2.4
+C9 Star;microSD;Black/Red, Black/Green;ram;2.4
+A89;microSD;Black;up to 16 GB (dedicated slot);3.5
+CT 1;microSD;Black, Red;up to 32 GB (dedicated slot);7.0
+C24;microSD;Black;ram;2.4
+C3000;20 dialed;Black, White/green;20 received;2.4
+A97i;microSD;Black, White;up to 32 GB (dedicated slot);4.0
+A19;microSD;Black;up to 32 GB (dedicated slot);4.0
+C607;20 dialed;Black/Red;20 received;1.8
+C262;20 dialed;Black/Red;20 received;2.6
+C360;20 dialed;Black/Red;20 received;2.6
+C359;20 dialed;Black/Red;20 received;1.8
+C350;20 dialed;Black/Red;20 received;1.8
+A97;microSD;Black;up to 32 GB (dedicated slot);4.0
+A95;microSD;Black;up to 32 GB (dedicated slot);3.2
+A90;microSD;Black;up to 32 GB (dedicated slot);4.0
+A99+;microSD;Black;up to 32 GB (dedicated slot);4.3
+C770N;20 dialed;Black/Red;20 received;2.4
+C705;20 dialed;Black/Orange;20 received;2.4
+C606;20 dialed;Black/Red;20 received;2.4
+C570;20 dialed;Black;20 received;2.4
+C504;20 dialed;Black/Blue;20 received;2.6
+C206;20 dialed;Black/Green;20 received;1.8
+C203;20 dialed;Black/Red;20 received;1.8
+C17;20 dialed;Black;20 received;2.4
+C75;20 dialed;Black;20 received;3.2
+i4;20 dialed;Black/Silver;20 received;3.5
+A7;20 dialed;Black;20 received;3.2
+A88;microSD;Black/Golden;up to 32 GB (dedicated slot);3.5
+C770 Dj;microSD;Black/Red;ram;2.4
+C769;microSD;Black/Red;ram;2.6
+C349;microSD;Black;ram;1.8
+C337;microSD;Black, Black/Red;ram;2.0
+C260;microSD;Black;ram;2.6
+C70;microSD;Silver;ram;2.2
+C55;20 dialed;Black/Gray;20 received;2.2
+A9;20 dialed;Black;20 received;3.5
+A99;microSD;Black;up to 32 GB (dedicated slot);4.0
+C3030;microSD;Black, Red;ram;2.6
+C90;20 dialed;Black/Red, White/Red;20 received;2.4
+C909;20 dialed;Black, Black/Red;ram;2.4
+C60;20 dialed;Black, White;20 received;2.0
+C305;20 dialed;Black/Red;20 received;1.8
+C220;20 dialed;Black/Silver;20 received;2.2
+C303;20 dialed;Black/Orange;20 received;2.0
+C201;20 dialed;Black, Orange;20 received;1.8
+C202;20 dialed;Black/Red;20 received;2.2
+C404;20 dialed;Black/Blue, Black/Red;20 received;2.4
+C5050;20 dialed;Black/Red;ram;2.8
+C227;20 dialed;Black;20 received;2.8
+i9;20 dialed;Black, White;20 received;2.4
+C2010;20 dialed;Black/Silver;ram;2.8
+C207;20 dialed;Black/Red, Black/Orange;20 received;1.8
+A1;microSD;Black;up to 32 GB (dedicated slot);3.2
+C609;microSD;Black/Blue, Black/Red;ram;2.0
+C102;20 dialed;Black/Orange;20 received;1.8
+C77;20 dialed;Gray;20 received;2.8
+C100;20 dialed;Black/Red, Black/Blue;20 received;1.8
+C555;20 dialed;Yellow, Black;ram;3.2
+C205;20 dialed;Black/Red;20 received;1.8
+C44;20 dialed;Black/Red, Black/Orange;20 received;2.4
+C101;20 dialed;Black/Orange;20 received;1.8
+C33;20 dialed;Black/Yellow, Black/Silver;20 received;2.0
+C550;20 dialed;Black/Silver;ram;2.4
+C66;20 dialed;Black/Red;20 received;2.4
+C339;20 dialed;Black/Red;ram;1.8
+C10;20 dialed;Black/Red;20 received;1.8
+C770;20 dialed;Black/Red, Black/Silver;ram;2.4
+C20;20 dialed;Black/Orange;20 received;1.8
+C369;20 dialed;Gray/Silver, Black/Silver;20 received;2.2
+C88;20 dialed;Black;20 received;3.2
+C2000;20 dialed;Black;ram;2.8
+C007;20 dialed;Black/Red;20 received;2.2
+C999;20 dialed;Black;ram;2.4
+C777;20 dialed;Black, Gray;ram;2.4
+C1;20 dialed;Black/Yellow, Black/Red;20 received;2.0
+C444;20 dialed;Black/Silver;20 received;1.8
+C2;20 dialed;Black, White, Gray;20 received;1.8
+C225;20 dialed;Black/Silver;20 received;2.2
+C111;20 dialed;White/Red, Black/Silver;20 received;2.2
+C99;20 dialed;Black/Red;20 received;2.8
+C3;20 dialed;Black/White;20 received;2.2
+C669;20 dialed;Black/Red;20 received;2.4
+C9;20 dialed;Black, White;ram;2.4
+C11;20 dialed;Gray, White;ram;1.5
+C333;20 dialed;Black/Red;20 received;1.8
+C6;20 dialed;Black;20 received;2.0
+C509;20 dialed;Black/Red;20 received;1.8
+C5;20 dialed;Black;20 received;2.0
+C7;20 dialed;Black, Red;20 received;2.0
+C22;20 dialed;Black/Red;20 received;1.8
+C347;20 dialed;Black/Red;20 received;1.8
+C357;20 dialed;Black/Blue;20 received;1.8
+C367;20 dialed;Black;20 received;1.8
+C409;20 dialed;Black/Red;20 received;1.8
+C449;20 dialed;Black/Silver, White/Silver;20 received;1.8
+C517;20 dialed;Black;20 received;1.8
+C567;20 dialed;Black;20 received;2.0
+C747;20 dialed;Black/Gray;20 received;2.2
+C867;20 dialed;Black;20 received;2.0

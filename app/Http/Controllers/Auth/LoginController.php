@@ -6,6 +6,7 @@ use App\Http\Controllers\Controller;
 use App\Http\Controllers\ShopController;
 use App\User;
 use Illuminate\Foundation\Auth\AuthenticatesUsers;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
 class LoginController extends Controller
@@ -22,6 +23,7 @@ class LoginController extends Controller
     */
 
     use AuthenticatesUsers;
+    protected $rememberToken = false;
 
     /**
      * Where to redirect users after login.
@@ -36,9 +38,11 @@ class LoginController extends Controller
      *
      * LoginController constructor.
      *
+     * @param Request $request
      */
-    public function __construct()
+    public function __construct(Request $request)
     {
+        $this->rememberToken = $request->input('rememberme') == 'on' ? true : false;
         $this->middleware('guest', ['except' => 'logout']);
         $this->middleware('verified', ['only' => 'login']);
         $this->middleware('has-shop', ['only' => 'login']);
@@ -64,8 +68,7 @@ class LoginController extends Controller
     public function authenticate($email)
     {
         $user = User::where('email_phone', $email)->where('verified', 1)->first();
-
-        Auth::login($user, true);
+        Auth::login($user, $this->rememberToken);
 
         $count = (new ShopController())->getShops($user);
 

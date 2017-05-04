@@ -1,0 +1,118 @@
+Xperia L1;16 GB;Black, White, Pink;2 GB RAM;5.5
+Xperia XZs;32 GB;Black, Warm Silver, Ice Blue;4 GB RAM - G8231;5.2
+Xperia XZ Premium;64 GB;Luminous Chrome, Deepsea Black;4 GB RAM;5.46
+Xperia XA1 Ultra;32 GB;White, Black, Gold, Pink;4 GB RAM - G3221;6.0
+Xperia XA1;32 GB;White, Black, Gold, Pink;3 GB RAM;5.0
+Xperia X Compact;32 GB;White, Universe black, Mist blue;3 GB RAM;4.6
+Xperia XZ;32/64 GB;Mineral black, Platinum, Forest blue, Deep pink;3 GB RAM;5.2
+Xperia E5;16 GB;Graphite Black, White;1.5 GB RAM;5.0
+Xperia XA Ultra;16 GB;White, Graphite Black, Lime Gold;3 GB RAM;6.0
+Xperia X Performance;32 GB;White, Graphite Black, Lime Gold, Rose Gold;3 GB RAM - single SIM;5.0
+Xperia X;32/64 GB;White, Graphite Black, Lime Gold, Rose Gold;3 GB RAM;5.0
+Xperia XA Dual;16 GB;White, Graphite Black, Lime Gold, Rose Gold;2 GB RAM;5.0
+Xperia XA;16 GB;White, Graphite Black, Lime Gold, Rose Gold;2 GB RAM;5.0
+Xperia Z5 Premium Dual;32 GB;Chrome, Black, Gold;3 GB RAM;5.5
+Xperia Z5 Premium;32 GB;Chrome, Black, Gold, Pink;3 GB RAM;5.5
+Xperia Z5 Dual;32 GB;White, Graphite Black, Gold, Green;3 GB RAM;5.2
+Xperia Z5;32 GB;White, Graphite Black, Gold, Green, Pink;3 GB RAM;5.2
+Xperia Z5 Compact;32 GB;White, Graphite Black, Yellow, Coral;2 GB RAM;4.6
+Xperia M5 Dual;16 GB;Black, White, Gold;3 GB RAM;5.0
+Xperia M5;16 GB;Black, White, Gold;3 GB RAM;5.0
+Xperia C5 Ultra Dual;16 GB;Black, White, Mint;2 GB RAM;6.0
+Xperia C5 Ultra;16 GB;Black, White, Mint;2 GB RAM;6.0
+Xperia Z4v;32 GB;White, black;3 GB RAM;5.2
+Xperia Z3+ dual;32 GB;White, black, copper, aqua green;3 GB RAM;5.2
+Xperia Z3+;32 GB;White, black, copper, aqua green;3 GB RAM;5.2
+Xperia C4 Dual;16 GB;Black, White, Mint;2 GB RAM;5.5
+Xperia C4;16 GB;Black, White, Mint;2 GB RAM;5.5
+Xperia M4 Aqua Dual;8 GB;Black, White, Coral, Silver;2 GB RAM/ 16 GB (E2333;5.0
+Xperia M4 Aqua;8 GB;Black, White, Coral, Silver;2 GB RAM/ 16 GB (E2306);5.0
+Xperia Z4 Tablet WiFi;32 GB;Black, White;3 GB RAM;10.1
+Xperia Z4 Tablet LTE;32 GB;Black, White;3 GB RAM;10.1
+Xperia E4g;8 GB;Black, White;1 GB RAM;4.7
+Xperia E4g Dual;8 GB;Black, White;1 GB RAM;4.7
+Xperia E4 Dual;8 GB;Black, White;1 GB RAM;5.0
+Xperia E4;8 GB;Black, White;1 GB RAM;5.0
+Xperia E3 Dual;4 GB;Black, White, Yellow, Copper;1 GB RAM;4.5
+Xperia E3;4 GB;Black, White, Yellow, Copper;1 GB RAM;4.5
+Xperia Z3 Tablet Compact;16 GB;Black, White;3 GB RAM;8.0
+Xperia Z3 Dual;16/32 GB;Black, White, Copper, Silver Green;3 GB RAM;5.2
+Xperia Z3v;32 GB;Black, White;3 GB RAM;5.2
+Xperia Z3;16/32 GB;Black, White, Copper, Silver Green, Purple;3 GB RAM;5.2
+Xperia M2 Aqua;8 GB;Black, White, Copper;1 GB RAM;4.8
+Xperia Z3 Compact;16 GB;Black, White, Green, Orange;2 GB RAM;4.6
+Xperia C3 Dual;8 GB;Black, White, Mint;1 GB RAM;5.5
+Xperia C3;8 GB;Black, White, Mint;1 GB RAM;5.5
+Xperia Z2a;16 GB;Black, White, Turquoise;3 GB RAM;5.0
+Xperia T3;8 GB;Black, White, Purple;1 GB RAM;5.3
+Xperia M2;8 GB;Black, White, Purple;1 GB RAM;4.8
+Xperia M2 dual;8 GB;Black, White, Purple;1 GB RAM;4.8
+Xperia Z2 Tablet LTE;16 GB;Black, White (SGP521) / Black (SGP541, SGP551);3 GB RAM;10.1
+Xperia Z2 Tablet Wi-Fi;16/32 GB;Black, White;3 GB RAM;10.1
+Xperia Z2;16 GB;Black, White, Purple (D6502, D6503) / Black, White (D6543);3 GB RAM;5.2
+Xperia E1 dual;4 GB;Black, Purple, White;512 MB RAM;4.0
+Xperia E1;4 GB;Black, Purple, White;512 MB RAM;4.0
+Xperia T2 Ultra dual;8 GB;Black, White, Purple;1 GB RAM;6.0
+Xperia T2 Ultra;8 GB;Black, White, Purple;1 GB RAM;6.0
+Xperia Z1s;32 GB;Black;2 GB RAM;5.0
+Xperia Z1 Compact;16 GB;Black, White, Pink, Lime;2 GB RAM;4.3
+Xperia Z1;16 GB;Black, White, Purple;2 GB RAM;5.0
+Xperia Z Ultra;16 GB;Black, White, Purple;2 GB RAM;6.4
+Xperia C;4 GB;Black, White, Purple;1 GB RAM;5.0
+Xperia M;4 GB;Black, White, Purple, Yellow (single sim model only);1 GB RAM;4.0
+Xperia ZR;8 GB;Black, White, Pink, Mint;2 GB RAM;4.55
+Xperia L;8 GB (5.8 GB user available);Black, White, Red;1 GB RAM;4.3
+Xperia SP;8 GB (5.8 GB user available);Black, White, Red;1 GB RAM;4.6
+Xperia Tablet Z LTE;16 GB;Black, White;2 GB RAM;10.1
+Xperia Tablet Z Wi-Fi;16/32 GB;Black, White;2 GB RAM;10.1
+Xperia Z;16 GB;Black, White, Purple;2 GB RAM;5.0
+Xperia ZL;16 GB;Black, White, Red;2 GB RAM;5.0
+Xperia E dual;4 GB (2 GB user available);Black, Gold;512 MB RAM;3.5
+Xperia E;4 GB (2 GB user available);Black, Pink, White;512 MB RAM;3.5
+Xperia T LTE;16 GB;Black, White, Silver;1 GB RAM;4.55
+Xperia Tablet S 3G;16/32/64 GB;Black/Silver;1 GB RAM;9.4
+Xperia Tablet S;16/32/64 GB;Black/Silver;1 GB RAM;9.4
+Xperia V;8 GB;Black, White, Pink;1 GB RAM;4.3
+Xperia J;4 GB (2 GB user available);Black, White, Gold, Pink;512 MB RAM;4.0
+Xperia TX;16 GB;Black, White, Pink;1 GB RAM;4.55
+Xperia T;16 GB;Black, White, Silver;1 GB RAM;4.55
+Xperia SL;32 GB;Black, White, Silver, Pink;1 GB RAM;4.3
+Xperia tipo dual;2.9 GB (2.5 GB user available);Serene black, Classic silver;512 MB RAM;3.2
+Xperia tipo;2.9 GB (2.5 GB user available);Classic Black, Classic White, Deep Red, Navy Blue;512 MB RAM;3.2
+Xperia miro;4 GB (2.2 GB user available);Black, Pink, White with silver, White with gold;512 MB RAM;3.5
+Xperia go;8 GB (4 GB user available);White, Black, Yellow;512 MB RAM;3.5
+Xperia acro S;16 GB (11 GB user available);White, Black, Pink;1 GB RAM;4.3
+Xperia SX SO-05D;4 GB;Black, White, Pink, Orange;1 GB RAM;3.7
+Xperia GX SO-04D;16 GB;Black, White;1 GB RAM;4.6
+Xperia acro HD SO-03D;11 GB;Black, Aqua, Sakura, Ceramic;1 GB RAM;4.3
+Xperia acro HD SOI12;11 GB;White, Black, Rouge;1 GB RAM;4.3
+Xperia neo L;1 GB (300 MB user available);Black, White;512 MB RAM;4.0
+Xperia sola;8 GB (5 GB user available);Black, White, Red;512 MB RAM;3.7
+Xperia U;8 GB (4 GB user available);Black, White/ exchangeable bottom caps in white, black, pink, yellow;512 MB RAM;3.5
+Xperia P;16 GB (13 GB user available);Silver, Black, Red;1 GB RAM;4.0
+Xperia S;32 GB;White, Black, Silver;1 GB RAM;4.3
+Xperia ion HSPA;13.2 GB (12.9 GB user available);Black, Red;1 GB RAM;4.55
+Xperia ion LTE;16 GB;Black, White;1 GB RAM;4.55
+Tablet P;4 GB;Silver/Black;1 GB RAM;5.5
+Tablet P 3G;4 GB;Silver/Black;1 GB RAM;5.5
+Tablet S 3G;16/32 GB;Black;1 GB RAM;9.4
+Tablet S;16/32 GB;Black;1 GB RAM;9.4
+CMD Z7;16/32 GB;;ram;
+CMD J70;16/32 GB;;ram;
+Xperia LT29i Hayabusa;16/32 GB;Black;ram;4.6
+CMD J7;16/32 GB;;ram;
+CMD MZ5;16/32 GB;;ram;
+CMD J6;16/32 GB;;ram;
+CMD J5;16/32 GB;Silver;ram;
+CMD Z5;16/32 GB;3 (Silver, Metallic Blue and Metallic Black);ram;
+CMD CD5;16/32 GB;3 (Silver, Metallic Blue and Metallic Black);ram;
+CMD C1;5 dialed;Several;5 received;
+CMD Z1 plus;5 dialed;;ram;
+CMD Z1;5 dialed;;ram;
+CM-DX 2000;5 dialed;;ram;
+CM-DX 1000;5 dialed;;ram;
+Xperia Z4 Compact;16/32 GB;Black, White;3 GB RAM;4.7
+D 2403;8/16 GB;Black;1 GB RAM;4.4
+Xperia C670X;32 GB;Black, White;2 GB RAM;4.8
+Xperia E1 II;8 GB;Black, Purple, White;1 GB RAM;4.0
+Xperia M Ultra;32 GB;Black, White, Gold;3 GB RAM;6.0

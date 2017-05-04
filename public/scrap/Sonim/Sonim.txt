@@ -1,0 +1,13 @@
+XP7;16 GB;Black, Yellow;1 GB RAM;4.0
+XP6;8 GB;Black;1 GB RAM;2.63
+XP3400 Armor;8 GB;Black, Black/Yellow;ram;2.0
+XP5300 Force 3G;8 GB;Black, Black/Yellow;ram;2.0
+XP3340 Sentinel;microSD;Black, Black/Yellow;up to 16 GB (dedicated slot);2.0
+XP3300 Force;microSD;Black, Black/Yellow;up to 16 GB (dedicated slot);2.0
+XP1300 Core;microSD;Black, Black/Yellow;up to 8 GB (dedicated slot);2.0
+XP3 Sentinel;microSD;Black;ram;
+XP2.10 Spirit;microSD;Black;ram;2.0
+XP3.20 Quest Pro;microSD;Black;ram;1.77
+XP3.20 Quest;microSD;Black, Yellow;ram;1.77
+XP3 Enduro;microSD;Black, Yellow;ram;1.77
+XP1;microSD;Black, Yellow & Black;ram;1.77

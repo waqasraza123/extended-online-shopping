@@ -1,0 +1,41 @@
+Nitro 55M;8 GB;White, black;1 GB RAM;5.5
+Nitro 55 LTE;8 GB;Dark Blue, White, Gold;1 GB RAM;5.5
+Nitro 5M;8 GB;Black, BLue, Gold, Red;1 GB RAM;5.0
+Astro 5s;8 GB;White, Black, Pink Red;1 GB RAM;5.0
+Gravity 5 LTE;8 GB;Black/Silver/Gold;1 GB RAM;5.0
+Astro X4;4 GB;White, Black, Blue, Gold, Pink;512 MB RAM;4.0
+Astro X55;8 GB;Gold/White;1 GB RAM;5.5
+Vice;64 MB;Black, Red, Silver;64 MB RAM;2.4
+Gravity 5.5 LTE;8 GB;Black, Gold, Silver;1 GB RAM;5.5
+Gravity 5;8 GB;White/Black/Blue/Red;1 GB RAM;5.0
+Astro 6;8 GB;White, Black, Blue, Red;1 GB RAM;6.0
+Astro X5;4 GB;White, Black, Blue, Rose Red;512 MB RAM;5.0
+Astro 3.5;512 MB;White, Black, Pink, Blue, Gold;256 MB RAM;3.5
+Blade;8 MB;White, Black, Red, Blue;8 MB RAM;2.4
+Nitro 5;4 GB;Silver, Black, Gray;512 MB RAM;5.0
+Astro 4.5;4 GB;White, Black, Gold, Gray, Blue;512 MB RAM;4.5
+Nitro Phablet 71;4 GB;White, Black, Blue, Dark Blue, Golden, Gray, Pink, Red;512 MB RAM;7.0
+Nitro 5.5;4 GB;White, Black, Blue, Pink, Yellow;512 MB RAM;5.5
+Astro 5;4 GB;White, Black, Blue, Rose Red;512 MB RAM;5.0
+MX-110;4 GB;White, Black, Red, Baby blue, Dark Blue, Hot pink, Yellow;ram;1.8
+Astro 4;4 GB;White/Black;512 MB RAM;4.0
+Astro JR;4 GB;Black, White, Blue, Red;ram;3.5
+Virtue Z5;4 GB;Black, White, Blue, Pink;1 GB RAM;5.0
+Gravity 5.5;4 GB;White/Black/Blue/Rose Red/Yellow;1 GB RAM;5.5
+Gravity 6;4 GB;Black, White, Red;1 GB RAM;6.0
+Orbit 330G;4 GB;Black, White, Red, Blue;ram;3.5
+Orbit 6200T;4 GB;Black, White;512 MB RAM;6.0
+Android 330;512 MB;Black, White, Blue, Red;256 MB RAM;3.5
+Tab Phone 72DC;8 GB;Black/White;1 GB RAM;7.0
+MX-210TV;8 GB;Black, Red, Blue;ram;2.0
+Android 320;512 MB;White;256 MB RAM;3.5
+Orbit 6200;4 GB;Black, White;512 MB RAM;6.0
+Orbit 5400T;4 GB;Black, White, Red;512 MB RAM;5.0
+Orbit 4400;4 GB;Black, White;512 MB RAM;4.0
+Orbit 3000;4 GB;Black, White, Pink;512 MB RAM;3.5
+Orbit X50;4 GB;Black, White;512 MB RAM;5.0
+Orbit Z50;4 GB;Black, White, Pink;1 GB RAM;5.0
+Orbit 5400;4 GB;Black, Black/Red, White;512 MB RAM;5.0
+Orbit 4600;4 GB;Black, Black/Blue, Black/Red, White;512 MB RAM;4.7
+MX-200TV;4 GB;Black/Blue, Black/Pink, White;ram;2.0
+MX-100;4 GB;Black, White, Red, Blue;ram;1.8

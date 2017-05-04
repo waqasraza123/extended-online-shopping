@@ -1,0 +1,45 @@
+XDA Serra;288 MB RAM;Black;512 MB ROM;2.8
+XDA Guide;256 MB RAM;Grey;512 MB ROM;2.8
+XDA Zest;128 MB RAM;Black;256 MB ROM;2.8
+XDA Ignito;4 GB;Black;192 MB RAM;2.8
+XDA Stellar;128 MB RAM;Silver;256 MB ROM;2.8
+XDA Orbit II;128 MB RAM;Black;256 MB ROM;2.8
+XDA Comet;64 MB RAM;Silver;1 GB ROM;2.7
+XDA Nova;128 MB RAM;Soft Black, Wasabi Green;256 MB ROM;2.8
+XDA Terra;64 MB RAM;Black;128 MB ROM;2.7
+XDA Argon;128 MB RAM;Silver;256 MB ROM;3.5
+XDA Star;96 MB RAM;Black;128 MB ROM;2.6
+Cocoon;96 MB RAM;White;ram;2.28
+XDA Flame;128 MB RAM;Silver;2 GB ROM;3.6
+XDA Atom Life;64 MB RAM;Silver;1 GB ROM;2.7
+XDA Zinc;64 MB RAM;Silver;128 MB ROM;2.8
+XDA Graphite;64 MB RAM;;128 MB ROM;2.2
+XDA Orbit;64 MB RAM;Silver, Black;128 MB ROM;2.8
+Cosmo;64 MB RAM;;128 MB ROM;2.4
+XDA Stealth;64 MB RAM;Silver;192 MB ROM;2.4
+Jet;64 MB RAM;Black;ram;2.0
+Ice;64 MB RAM;White;ram;2.0
+XDA Atom Exec;64 MB RAM;Silver;192 MB ROM;2.7
+XDA Trion;64 MB RAM;Silver;128 MB ROM;2.8
+XDA Neo;64 MB RAM;Stylish black;128 MB ROM;2.8
+XDA Atom;64 MB RAM;Silver;128 MB ROM;2.7
+XDA Orion;64 MB RAM;;64 MB ROM;2.2
+XDA Exec;64 MB RAM;Stylish black;128 MB ROM;3.6
+XDA mini S;64 MB RAM;Silver;128 MB ROM;2.8
+X2i;64 MB RAM;Black;ram;
+X7;64 MB RAM;Blue;ram;
+XDA phone;64 MB RAM;Silver;64 MB ROM;2.2
+Xphone IIm;64 MB RAM;Stylish black and silver;ram;2.2
+X1b;64 MB RAM;;ram;
+XM;64 MB RAM;;ram;
+X4;64 MB RAM;;ram;
+XDA II mini;64 MB RAM;Stylish black, silver;64 MB ROM;2.8
+XDA IIs;64 MB RAM;;ram;3.5
+XDA IIi;64 MB RAM;;ram;3.5
+Xphone II;64 MB RAM;;ram;2.2
+X3;64 MB RAM;Silver;ram;
+X2;64 MB RAM;Silver;ram;
+X1i;64 MB RAM;Silver;ram;
+XDA II;128 MB RAM;;64 MB ROM;3.5
+Xphone;64 MB RAM;;32 MB ROM;2.2
+XDA;64 MB RAM;;32 MB ROM;3.5

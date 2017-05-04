@@ -1,0 +1,119 @@
+s4513 Luna II;4 GB;Black, Blue;512 MB RAM;4.5
+SL5560 Maverick Pro;16 GB;Blue, Gray;1 GB RAM;5.5
+s5021 Wave Pro;4 GB;Black, White, Blue;512 MB RAM;5.0
+s5019 Wave;4 GB;Black, White, Blue, Brown, Dark Blue;512 MB RAM;5.0
+s4008 Leo V;4 GB;Black, Blue;512 MB RAM;4.0
+Sl5200 Eclipse;16 GB;Black;2 GB RAM;5.2
+sl5050 Phantom;16 GB;Dark Blue, Gold;1 GB RAM;5.0
+s6004 Cyprus Jr.;8 GB;Gray;1 GB RAM;6.0
+s5524 Maverick III Jr.;8 GB;Black;1 GB RAM;5.5
+s5525 Maverick III;8 GB;Black;1 GB RAM;5.5
+Kolorpad LTE TL8010;8 GB;Black/Gray;1 GB RAM;8.0
+s4007 Leo IV;4 GB;White, Black;512 MB RAM;4.0
+s6005 Cyprus II;8 GB;Gray;1 GB RAM;6.0
+s5530 Maverick II;8 GB;Gray;1 GB RAM;5.5
+s5030 Helix II;8 GB;Various;1 GB RAM;5.0
+SL5011 Spark LTE;16 GB;Black/Silver, White/Gold;1 GB RAM;5.0
+SL6010 Cyprus LTE;16 GB;Black, White;1 GB RAM;6.0
+s5025 Helix;8 GB;Various;1 GB RAM;5.0
+s5020 Giant;8 GB;Various;1 GB RAM;5.0
+s5001 Lotus;4 GB;Various;512 MB RAM;5.0
+SL4502 Fusion II;8 GB;Black, White;1 GB RAM;4.5
+SL5550 Maverick LTE;16 GB;Black, White;1 GB RAM;5.5
+s5518Q Maverick;8 GB;Black, White/Gold;1 GB RAM;5.5
+s5017Q Dorado;8 GB;Black, Gold;1 GB RAM;5.0
+sl5009 Jet;8 GB;Black, Blue;1 GB RAM;5.0
+R28 Denali;8 GB;Black;ram;2.4
+T7440 Kolorpad II;8 GB;Black, White;512 MB RAM;7.0
+s5017 Dorado;8 GB;Black, Gold;1 GB RAM;5.0
+s3504 Mystic II;4 GB;Black;512 MB RAM;3.5
+s5518 Maverick;8 GB;Black, White/Gold, Gold;1 GB RAM;5.5
+s5012 Orbit;4 GB;Blue, Red;512 MB RAM;5.0
+SL4500 Fusion;8 GB;Black, Blue, White;1 GB RAM;4.5
+i330 Sunray;128 MB;Blue, Red;32 MB RAM;2.4
+s4510 Luna;4 GB;Black, Blue, Yellow;512 MB RAM;4.5
+s5014 Atlas;8 GB;Black, Blue, White;1 GB RAM;5.0
+s6001 Cyprus;8 GB;Black, Blue, White;1 GB RAM;6.0
+s5015 Spark II;8 GB;Black, Blue;1 GB RAM;5.0
+s4010 Gazelle;4 GB;White, Blue, Grey;512 MB RAM;4.0
+s4002 Leo;512 MB;Black, White, Yellow, Blue;256 MB RAM;4.0
+s3501 Lynx;512 MB;Yellow, Blue;256 MB RAM;3.5
+R27;128 MB ROM;Black;32 MB RAM;2.2
+s5511 Juno Quatro;4 GB;Yellow, Blue;1 GB RAM;5.5
+s5510 Juno;4 GB;Yellow, Blue;512 MB RAM;5.5
+s354;4 GB;Black/Blue, Fuchsia, Yellow;512 MB RAM;3.5
+SL5000 Quantum;4 GB;White;1 GB RAM;5.0
+s401;4 GB;Various;512 MB RAM;4.0
+s352;4 GB;Various;512 MB;3.5
+s351;512 MB;Various;512 MB RAM;3.5
+i129;512 MB;Various;ram;1.77
+s505;4 GB;Black, White;1 GB RAM;5.0
+s450;4 GB;Black;512 MB RAM;4.5
+T742;4 GB;Black;512 MB RAM;7.0
+s353;4 GB;Various;512 MB RAM;3.5
+R80L Granite II;4 GB;Black;ram;2.4
+i240;4 MB ROM;Various;4 MB RAM;2.4
+i603;4 MB ROM;Various;ram;2.0
+i128;4 MB ROM;Blue, Red, Pink;ram;1.77
+i133;4 MB ROM;Various;ram;1.8
+s400;4 MB ROM;Black, White, Pink, Blue;ram;4.0
+i127;4 MB ROM;Various;ram;1.77
+s470;4 MB ROM;Black, White;ram;4.7
+i316;4 MB ROM;Black, Blue, Red, Light green;ram;1.8
+RS90;4 MB ROM;Black;ram;4.5
+i126;4 MB ROM;Black, Black/Green, Black/Red, Black/Blue;ram;1.8
+RS75;microSD;Black;up to 32 GB (dedicated slot);3.5
+i607;microSD;Various;ram;2.2
+s732;microSD;Black;up to 32 GB (dedicated slot);3.5
+s758;microSD;Black, White;up to 32 GB (dedicated slot);5.15
+s350;microSD;Black, White;up to 32 GB (dedicated slot);3.5
+R623;microSD;Black;ram;2.3
+i601;microSD;Black, Blue, Red, Lime;ram;2.0
+i121C;microSD;Black, Dark blue, Light blue, Lime, Green, Yellow, Red;ram;1.77
+i121;microSD;Black, Dark blue, Light blue, Lime, Green, Yellow, Red;ram;1.77
+R25;microSD;Black;ram;2.2
+s735;microSD;Black;up to 32 GB (dedicated slot);3.5
+s135;microSD;Various;ram;1.8
+i320;microSD;Black, White, Blue;ram;2.2
+i315N;microSD;Red, Black, Blue;ram;1.44
+s635;microSD;Black/Red, Black/Blue;ram;2.0
+s728;microSD;Black, White;up to 32 GB (dedicated slot);2.8
+i625;microSD;Black/Red, White/Blue;ram;2.3
+i130;microSD;Black, White, White/Green, White/Blue;ram;1.8
+R800;microSD;Black;up to 16 GB (dedicated slot);7.0
+i123;microSD;Green, Blue, Red;ram;1.8
+s757;160 MB;Black;512 MB RAM;5.0
+i675;160 MB;Green, Blue, Red;ram;2.8
+i674;160 MB;Green, Blue, Red;ram;2.8
+i672;160 MB;Black, White;ram;2.4
+R16;160 MB;Black/Orange, Black/Blue;ram;1.8
+s700;160 MB;Black;ram;3.5
+i605;160 MB;Various;ram;2.0
+i604;160 MB;Various;ram;2.0
+i125;160 MB;Black/Red, Black/Blue, Black/Green;ram;1.8
+S815;160 MB;Black;ram;2.4
+R23;160 MB;Black;ram;2.2
+R620;160 MB;Black;ram;2.3
+i285;160 MB;Gray;ram;3.2
+i725;160 MB;Black;ram;3.0
+CD611;160 MB;Black;ram;2.0
+i800;160 MB;Black;ram;2.8
+i720;160 MB;Black;ram;2.8
+i705;160 MB;Black, White;ram;2.0
+R80;160 MB;Black;ram;2.4
+R13;160 MB;Blue, Violet, Green, Orange;ram;1.8
+s810;160 MB;Black;ram;2.4
+i650;160 MB;Black;ram;2.4
+i610;160 MB;Red, white, yellow, green, blue;ram;2.2
+i600;160 MB;Black/gray, Black/red;ram;2.0
+i410;160 MB;Black, Blue, Red;ram;1.8
+i310;160 MB;Black, Blue, Red;ram;2.0
+i315;160 MB;Red, Gray;ram;1.5
+i305;160 MB;Black, Blue, Red;ram;1.8
+i277;160 MB;Black, Blue;ram;3.0
+i280;160 MB;Black;ram;2.8
+i270;160 MB;Black, red;ram;2.4
+i122;160 MB;Black, green, orange;ram;1.8
+i119;160 MB;Black, red, blue, green;ram;1.8
+i117;160 MB;Red, Green;ram;1.5
+i115;160 MB;Red, Green;ram;1.5

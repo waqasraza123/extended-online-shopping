@@ -1,0 +1,102 @@
+Z25;32 GB;Champagne Gold, Gray;4 GB RAM;5.5
+Z10;16 GB;Gold;2 GB RAM;5.0
+X28 Plus;8 GB;Black/Gold;1 GB RAM;5.5
+A73;8 GB;Dark Gray;1 GB RAM;5.0
+X19;8 GB;White/Gold, Gray;2 GB RAM;5.0
+A55;8 GB;Black + Silver;1 GB RAM;4.0
+A50;8 GB;Black + Silver;512 MB RAM;4.0
+X50 Plus;32 GB;Blue;2 GB RAM;5.5
+X41 Plus;32 GB;Black, Gold;2 GB RAM;5.0
+A51;8 GB;Gray, Black, Gold;512 MB RAM;4.5
+A76+;8 GB;Black, White;1 GB RAM;4.5
+A97;8 GB;Black, Gold, Gray;1 GB RAM;5.0
+X28;8 GB;Black/Gold;1 GB RAM;5.5
+P7+;8 GB;White/Gold, Gray;1 GB RAM;5.0
+A48;8 GB;White, Champagne, Blue;512 MB RAM;4.0
+X38;8 GB;Black;1 GB RAM;5.0
+A32;512 MB;Black, White;256 MB RAM;4.0
+A68;8 GB;Black, Gold, Silver;1 GB RAM;4.5
+X50;8 GB;Blue;2 GB RAM;5.5
+X17;8 GB;Gold, Black/Gold, White/Gold;1 GB RAM;5.0
+X81;16 GB;Space Grey/Gold;3 GB RAM;5.0
+X46;8 GB;Black;2 GB RAM;5.0
+A89;8 GB;Black, White;1 GB RAM;5.0
+A82;8 GB;Black, White;1 GB RAM;5.0
+A79;8 GB;Black, White;1 GB RAM;5.5
+A59;4 GB;Black, White;512 MB RAM;4.5
+A67;4 GB;White, Gold, Gray;512 MB RAM;5.0
+V2 s;8 GB;White, Black;2 GB RAM;5.0
+V2 3GB;16 GB;White, Black;3 GB RAM;5.0
+A76;8 GB;Black, White;1 GB RAM;4.5
+A72;8 GB;Dark blue;1 GB RAM;5.0
+X11;8 GB;White;2 GB RAM;5.0
+A88;4 GB;Black, White;512 MB RAM;5.0
+Iris Fuel F2;8 GB;Black, White;512 MB RAM;5.0
+A71;8 GB;Dark blue;1 GB RAM;5.0
+P7;8 GB;Blue Black, Pearl white, Champagne Gold;1 GB RAM;5.0
+V5;16 GB;White;3 GB RAM;5.5
+X3;8 GB;White/Silver, Blue/Black, White/Gold;2 GB RAM;5.0
+Iris Atom 3;8 GB;Black, White;512 MB RAM;5.0
+Iris Atom;8 GB;Black, White;512 MB RAM;4.0
+X10;16 GB;Black, White;3 GB RAM;5.0
+Iris Atom 2X;8 GB;Black, White;1 GB RAM;4.5
+Iris Atom X;512 MB;Black, White;256 MB RAM;4.0
+Fuel F1;8 GB;Black, White;2 GB RAM;5.0
+Iris Fuel F1 Mini;8 GB;Black, White;512 MB RAM;4.0
+Flair E2;512 MB;Black, White;256 MB RAM;3.5
+Pixel V2;16 GB;Icy White, Royal Black;2 GB RAM;5.0
+Iris Atom 2;8 GB;Black, White;512 MB RAM;4.5
+Flair Z1;8 GB;Black, White;1 GB RAM;5.0
+Pixel V1;32 GB;White, Gold;2 GB RAM;5.5
+Flair P1i;512 MB;Black, White;256 MB RAM;4.0
+Iris X1 Atom S;8 GB;Black, White;512 MB RAM;4.0
+Icon;16 GB;Black;2 GB RAM;5.0
+Iris X1 Grand;8 GB;Black-gold, White-silver, White-gold;1 GB RAM;5.0
+Iris X1 mini;4 GB;Ink Black,white-silver, Black-gold;512 MB RAM;4.0
+Iris Alfa;8 GB;Black, White;1 GB RAM;5.0
+Iris X8;8 GB;Black, White;1 GB RAM/ 16 GB;5.0
+Iris 470;4 GB;Black;512 MB RAM;4.5
+Iris 465;4 GB;Black, White;512 MB RAM;4.5
+Iris 401;512 MB;Black, Blue, Red;256 MB RAM;4.0
+Iris 350;512 MB;Black, White;256 MB RAM;3.5
+Iris 348;512 MB;Black, White;256 MB RAM;3.5
+Iris 325 Style;512 MB;Black, White;256 MB RAM;3.5
+Iris Fuel 60;8 GB;Black, White;1 GB RAM;5.0
+Iris Win1;8 GB;Black;1 GB RAM;4.0
+Iris 250;4 GB;Black, White, Purple;512 MB RAM;4.0
+Iris 400s;4 GB;Black, Silver;512 MB RAM;4.0
+Iris 352 Flair;2 GB;Champagne Gold, Rose Gold;256 MB RAM;3.5
+Iris 404 Flair;4 GB;Champagne Gold, Silver, Blue ;512 MB RAM;4.0
+Iris 400Q;4 GB;Black, White;512 MB RAM;4.0
+Iris 410;4 GB;Black;512 MB RAM;4.0
+Iris Fuel 50;8 GB;Black;1 GB RAM;5.0
+Iris 310 Style;2 GB;Brown, Black, White, Blue;256 MB RAM;3.5
+Iris 360 Music;4 GB;White, Black, Grey;512 MB RAM;3.5
+Iris 460;8 GB;Black, Grey;1 GB RAM;4.5
+Iris X5;8 GB;Black, White, Grey;1 GB RAM;5.0
+Iris Pro 30+;16 GB;Grey/Black;1 GB RAM;4.7
+Iris 402e;512 MB;Pink, Blue, Gray;512 MB RAM;4.0
+Iris 350m;512 MB;Grey, Midnight Black;512 MB RAM;3.5
+3G 412;512 MB;Dark grey;512 MB RAM;4.0
+Iris X1;8 GB;Black, White;1 GB RAM;4.5
+3G 415;4 GB;Black, Grey;512 MB RAM;4.0
+3G 354;2 GB;Dark Blue & White;256 MB RAM;3.5
+Iris 504q+;8 GB;Grey, White;1 GB RAM;5.0
+Iris 356;512 MB;Crystal White, Black, Grey;256 MB RAM;3.5
+Iris 450 Colour;4 GB;Blue, Tan Brown, Raspberry Pink, Ivory White, Pro Black;512 MB RAM;4.5
+Iris 406Q;4 GB;Black, White;1 GB RAM;4.0
+Iris 550Q;4 GB;Black, White;1 GB RAM;5.5
+Iris Pro 20;4 GB;Dark Blue;1 GB RAM;4.7
+Iris Pro 30;4 GB;Grey/Black;1 GB RAM;4.7
+Iris 401e;512 MB;Grey/Blue;256 MB RAM;4.0
+Iris 349S;512 MB;Brown/cool gold;256 MB RAM;3.5
+Iris 349+;512 MB;Brown/cool gold;256 MB RAM;3.5
+Iris 404e;2 GB;Black/White;256 MB RAM;4.0
+Iris 503e;4 GB;Black;512 MB RAM;5.0
+Iris 506Q;4 GB;Dark Grey;512 MB RAM;5.0
+Iris 505;4 GB;Dark Grey;512 MB RAM;5.0
+Iris 504q;4 GB;Dark Grey;1 GB RAM;5.0
+3G 402+;4 GB;White, Black, Brown;512 MB RAM;4.0
+3G 402;512 MB;Metallic Brown, Metallic Grey, Metallic White;256 MB RAM;4.0
+Iris 405+;4 GB;Black, White;512 MB RAM;4.0
+Iris 503;4 GB;Black;512 MB RAM;5.0

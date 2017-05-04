@@ -1,0 +1,120 @@
+Puma Phone;20 dialed;Black;20 received;2.8
+my421z;20 dialed;Black, Silver, Pink;20 received;2.0
+Roland Garros;20 dialed;Black;ram;
+myMobileTV 2;20 dialed;Black;ram;
+my411C Oxbow;20 dialed;;ram;
+my855c;20 dialed;;20 received;2.0
+my810x;30 dialed;Black;30 received;
+my750x;20 dialed;Violet, Green, Red, Blue, Orange;20 received;2.4
+my721x;20 dialed;Black, Silver;20 received;2.0
+my721z;20 dialed;Silver;20 received;2.2
+my519x;20 dialed;Violet, Green, Pink;20 received;2.0
+my521x;20 dialed;Black,Silver;ram;1.9
+my419x;20 dialed;Silver;20 received;1.8
+my421x;20 dialed;Black;20 received;1.8
+my429x;20 dialed;Silver;20 received;1.8
+P9522 Porsche;20 dialed;Black;ram;2.8
+P9521 Porsche;20 dialed;Black;ram;2.2
+my730c;20 dialed;Black;ram;2.0
+my411c;20 dialed;Black, Pink;20 received;1.8
+my312x;20 dialed;Black;20 received;1.8
+my234x;20 dialed;Black;20 received;1.8
+my231x;20 dialed;Black;20 received;1.8
+my230x;20 dialed;;20 received;1.8
+my226x;20 dialed;Black;20 received;,
+my220x;20 dialed;Chrome, Bronze, Red;20 received;1.5
+my901C;20 dialed;Black, Dark Blue, Dark Red;20 received;1.9
+my900C;20 dialed;;20 received;
+my850C;20 dialed;Black;ram;2.0
+my800X;20 dialed;Silver, Black;ram;
+my700X;20 dialed;Silver, Choco, White;ram;
+my600X;20 dialed;White;ram;1.8
+my600V;20 dialed;Black;ram;1.9
+my511X;20 dialed;Black, Blue;ram;1.9
+my501X;20 dialed;Black, Silver, White;ram;1.9
+my501C;20 dialed;Silver, Red;ram;1.8
+my500X;20 dialed;;ram;
+my411X;20 dialed;Black;20 received;
+my405X;20 dialed;Silver, Black;ram;
+my401X;20 dialed;Silver;ram;
+my401Z;20 dialed;Silver;ram;
+my401C;20 dialed;Silver, Red, Blue/White, Red/White;20 received;
+my400V;20 dialed;;20 received;
+my400X;20 dialed;Silver;ram;
+my302X;20 dialed;Silver;ram;1.7
+my301X;20 dialed;;ram;1.7
+my300X;20 dialed;Blue, Silver, Red;ram;1.7
+my300C;20 dialed;Black, Silver, Red;ram;
+my215x;20 dialed;;ram;
+my210x;20 dialed;Black, Blue, White, Green;20 received;
+my200x;20 dialed;;ram;
+my200C;20 dialed;Black, Red, Silver, White & Pink;ram;
+my150X;20 dialed;Silver/Black, Pink/Black;ram;1.8
+my101X;20 dialed;Black, White;ram;
+my100X;20 dialed;;ram;
+VS4;20 dialed;Silver;ram;1.7
+VS3;20 dialed;Silver;ram;
+VS2;20 dialed;Black;ram;
+VS1;20 dialed;Silver;ram;
+MY V-85;20 dialed;Graphite;ram;
+MY V-76;20 dialed;Silver;ram;
+MY V-56;20 dialed;Silver;ram;
+myW-7;20 dialed;Silver;ram;
+myMobileTV;20 dialed;Black;ram;
+MY C2-3;20 dialed;;ram;
+myZ-5;20 dialed;;ram;
+MY C5-3;20 dialed;;ram;
+MY C3-2;20 received;;dialed and missed calls;
+MY Z-55;20 received;;ram;
+MY X6-2;20 received;;ram;2.0
+MY X2-2;20 received;;ram;
+MY C5-2;20 received;;ram;
+MY X1-2;10 dialed;;10 received;
+MY X-8;10 dialed;;ram;2.2
+MY X-4;10 dialed;;ram;
+MY C4-2;20 dialed;Silver , Black;10 received;
+MY C-4;20 dialed;Wine red;ram;
+MY S-7;20 dialed;;ram;2.2
+MY Z-3;20 dialed;;ram;
+MY C2-2;20 dialed;;ram;
+SG 321i;15 dialed;;15 received;
+MY V-55;15 dialed;;ram;
+MY X5-2;15 dialed;;ram;
+MY V-75;15 dialed;;ram;
+MY C-3b;15 dialed;2 - Silver, Red;ram;
+MY C-3s;20 dialed;2 - Silver, Red;10 received;
+MY X3-2;20 dialed;4 - Silver, Light blue, Purple and White;20 received;
+MY X-7;20 dialed;;ram;
+MY V-65;20 dialed;;ram;
+MY C-1;20 received;;dialed and missed calls;
+MY X-1w;10 dialed;;10 received;
+MY C-2;10 dialed;;ram;
+MY C-6;10 dialed;;10 received;
+MY C-5w;10 dialed;;10 received;
+MY X-2;10 dialed;;ram;
+MY X-6;10 dialed;;ram;
+MY G5;10 dialed;;ram;
+MY X-3;10 dialed;;ram;
+MY X-5;10 dialed;;ram;
+MY 3078;10 dialed;;10 received;
+MW 3026;10 dialed;;ram;
+MW 3052;10 dialed;;ram;
+MW 3042;10 dialed;;ram;
+MW 3040;10 dialed;;ram;
+MW X1;10 dialed;;ram;
+WA 3050;10 dialed;;ram;
+MW 3020;10 dialed;;ram;
+MC 3000;10 dialed;;ram;
+MC 939 WAP;10 dialed;;ram;
+MC 936;10 dialed;;ram;
+MC 950;10 dialed;;ram;
+MC 959;10 dialed;;ram;
+MC 940;10 dialed;;ram;
+MC 932;10 dialed;;ram;
+RC 922;10 dialed;;ram;
+MC 912;10 dialed;;ram;
+MC 850;10 dialed;;ram;
+MC 825 FM;10 dialed;;ram;
+MC 820;10 dialed;;ram;
+RC 750;10 dialed;;ram;
+RC 730;10 dialed;;ram;

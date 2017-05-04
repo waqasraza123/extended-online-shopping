@@ -1,0 +1,14 @@
+Aqua Craze;8 GB;Gray, White, Gold;1 GB RAM;5.0
+Aqua GenX;16 GB;White;2 GB RAM;5.5
+Aqua Ace;16 GB;Black, White;3 GB RAM;5.0
+Aqua Trend;16 GB;Champagne, silver, gray, black;2 GB RAM;5.0
+Aqua 4G+;16 GB;White, Black;2 GB RAM;5.0
+Aqua Xtreme II;16 GB;White, Black, Champagne, Silver;2 GB RAM;5.0
+Aqua Y2 Remote;4 GB;Blue, White, Gray;512 MB RAM;4.0
+Aqua Xtreme;32 GB;Black, Gray, Red;2 GB RAM;5.0
+Aqua Star L;8 GB;White, black;1 GB RAM;5.0
+Aqua Star 2;8 GB;White, black, blue, gray;1 GB RAM;5.0
+Aqua Speed;16 GB;White, black, gray, coffee;2 GB RAM;4.5
+Aqua Power;8 GB;White, black, blue, gray;1 GB RAM;5.0
+Aqua Power +;16 GB;Black/champagne, White/champagne, Champagne, Black/silver;2 GB RAM;5.0
+Aqua 4.5E;4 GB;Black, Grey/Black, Black/Blue, White/Champagne;512 MB RAM;4.5

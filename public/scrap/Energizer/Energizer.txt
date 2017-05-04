@@ -1,0 +1,5 @@
+Energy 500;8 GB;Gray;1 GB RAM;5.0
+Energy 400;4 GB;Gray;512 MB RAM;4.0
+Energy 240;128 MB;Gray;32 MB RAM;2.4
+Energy 200;8 MB;Gray;8 MB RAM;2.0
+Energy 100;4 MB;Black;4 MB RAM;2.4

@@ -511,7 +511,6 @@ class MobileController extends Controller
             'excel-data' => 'required|mimes:xls,xlsx,csv'
         ]);
 
-        $shop = $this->currentShop;
         $file = $request->file('excel-data');
         $fileName = $file->getClientOriginalName() . '_' . strtolower(preg_replace('/\\s/', '_', $this->currentShop));
         $destinationPath = public_path() . '/uploads/excel/';
@@ -563,17 +562,20 @@ class MobileController extends Controller
 
             //get the brand name from every line
             $brandName = strtolower($ed[6]);
-
+            $dbMobiles = Brand::where('name', $brandName)->first();
+            if($dbMobiles){
+                $dbMobiles = Brand::find($dbMobiles->id)->mobiles()->where('mobiles.title', '<>', '')->get();
+            }
             //if brand name not already in array
             //then fetch the data
             //since brand has changed
-            if(!(DB::table('temp')->where('brand', $brandName)->where('shop', $shopName)->first())){
+            /*if(!(DB::table('temp')->where('brand', $brandName)->where('shop', $shopName)->first())){
                 $dbMobiles = Brand::where('name', $brandName)->first();
                 if($dbMobiles){
                     $dbMobiles = Brand::find($dbMobiles->id)->mobiles()->where('mobiles.title', '<>', '')->get();
                 }
                 DB::table('temp')->insert(['brand' => $brandName, 'shop' => $shopName]);
-            }
+            }*/
             //if brand name is in the array already
             //then keep on reading the data
             //loop through database mobiles

@@ -1,0 +1,1104 @@
+Galaxy S8;64 GB;Midnight Black, Orchid Gray, Arctic Silver, Coral Blue, Maple Gold;4 GB RAM;5.8
+Galaxy S8+;64 GB;Midnight Black, Orchid Gray, Arctic Silver, Coral Blue, Maple Gold;4 GB RAM;6.2
+Gear S3 classic LTE;4 GB;Silver;768 MB RAM;1.3
+Galaxy C5 Pro;64 GB;Lake Blue, Maple Leaf, Powder Rose;4 GB RAM;5.2
+Galaxy Xcover 4;16 GB;Gray;2 GB RAM;5.0
+Galaxy Tab S3 9.7;32 GB;White, black;4 GB RAM;9.7
+Galaxy J1 mini prime;8 GB;Gold, Black, White;1 GB RAM;4.0
+Galaxy J3 Emerge;16 GB;Gray;1.5 GB RAM;5.0
+Galaxy C7 Pro;64 GB;Gold, Pink Gold, Dark Blue;4 GB RAM;5.7
+Galaxy A7 (2017);32 GB;Black Sky, Gold Sand, Blue Mist and Peach Cloud;3 GB RAM;5.7
+Galaxy A5 (2017);32 GB;Black Sky, Gold Sand, Blue Mist, Peach Cloud;3 GB RAM;5.2
+Galaxy A3 (2017);16 GB;Black Sky, Gold Sand, Blue Mist, Peach Cloud;2 GB RAM;4.7
+Galaxy Grand Prime Plus;8 GB;Black, Gold, Silver;1.5 GB RAM;5.0
+Galaxy J2 Prime;8 GB;Black, Gold, Silver, Pink;1.5 GB RAM;5.0
+Galaxy C9 Pro;64 GB;Gold, Pink Gold, Black;6 GB RAM;6.0
+Galaxy A8 (2016);32 GB;Blue, Pink, Silver, Gold;3 GB RAM;5.7
+Galaxy On8;16 GB;White, Black, Gold;3 GB RAM;5.5
+Galaxy On7 (2016);32 GB;Gold, Rose Gold, Black;3 GB RAM;5.5
+Gear S3 classic;4 GB;Silver;768 MB RAM;1.3
+Gear S3 frontier;4 GB;Silver;768 MB RAM;1.3
+Gear S3 frontier LTE;4 GB;Black;768 MB RAM;1.3
+Galaxy J5 Prime;16 GB;Black, Gold;2 GB RAM;5.0
+Galaxy J7 Prime;16/32 GB;Black, Gold;3 GB RAM;5.5
+Z2;8 GB;Gold, Black, Red;1 GB RAM;4.0
+Galaxy Note7 (USA);64 GB;Blue Coral, Silver Titanium, Black Onyx;4 GB RAM;5.7
+Galaxy Note7;64 GB;Blue Coral, Gold Platinum, Silver Titanium, Black Onyx;4 GB RAM;5.7
+Galaxy On7 Pro;16 GB;White, Black, Gold;2 GB RAM;5.5
+Galaxy On5 Pro;16 GB;White, Black;2 GB RAM;5.0
+Galaxy Tab J;8 GB;White, Gold;1.5 GB RAM;7.0
+Galaxy J Max;8 GB;Black, Gold;1.5 GB RAM;7.0
+Galaxy J2 Pro (2016);16 GB;Silver, Black, Gold;2 GB RAM;5.0
+Galaxy J2 (2016);8 GB;Silver, Black, Gold;1.5 GB RAM;5.0
+Z3 Corporate Edition;8 GB;Black, Silver, Gold;1 GB RAM;5.0
+Galaxy Xcover 3 G389F;8 GB;Gray;1.5 GB RAM;4.5
+Galaxy S7 active;32 GB;Camo Green, Titanium Gray, Sandy Gold;4 GB RAM;5.1
+Galaxy J3 Pro;16 GB;White, Black, Gold;2 GB RAM;5.0
+Galaxy C7;32/64 GB;Gold, Pink Gold, Dark Gray;4 GB RAM;5.7
+Galaxy C5;32/64 GB;Gold, Pink Gold, Dark Gray;4 GB RAM;5.2
+Galaxy A9 Pro (2016);32 GB;White, Black, Gold;4 GB RAM;6.0
+Galaxy J7 (2016);16 GB;White, Black, Gold, Rose Gold;2 GB RAM;5.5
+Galaxy J5 (2016);16 GB;White, Black, Gold, Rose Gold;2 GB RAM;5.2
+Galaxy Tab A 10.1 (2016);16 GB;Pearl White, Metallic Black;2 GB RAM or 32 GB;10.1
+Galaxy Tab A 7.0 (2016);8 GB;Pearl White, Metallic Black;1.5 GB RAM;7.0
+Galaxy S7;32/64 GB;Black, White, Gold, Silver, Pink Gold;4 GB RAM;5.1
+Galaxy S7 edge;32/64/128 GB;Black, White, Gold, Silver, Pink Gold, Black Pearl, Coral Blue;4 GB RAM;5.5
+Galaxy S7 edge (USA);32 GB;Black Onyx, Silver Titanium, Gold Platinum, Coral Blue;4 GB RAM;5.5
+Galaxy S7 (USA);32 GB;Black Onyx, Silver Titanium, Gold Platinum;4 GB RAM;5.1
+Galaxy J1 Nxt;8 GB;White, Gold, Black;1 GB RAM - Galaxy J1 Nxt;4.0
+Gear S2 classic 3G;4 GB;Black, Rose Gold, ceramic bracelet;512 MB RAM;1.2
+Galaxy Tab E 8.0;16 GB;Pearl White, Metallic Black;1.5 GB RAM;8.0
+Galaxy J1 (2016);8 GB;White, Black, Gold;1 GB RAM;4.5
+Galaxy A9 (2016);32 GB;Pearl White, Midnight Black, Champagne Gold, Pink;3 GB RAM;6.0
+Galaxy A7 (2016);16 GB;Black, White, Gold, Pink;3 GB RAM;5.5
+Galaxy A5 (2016);16 GB;Black, White, Gold, Pink;2 GB RAM;5.2
+Galaxy A3 (2016);16 GB;Black, White, Gold, Pink;1.5 GB RAM;4.7
+Galaxy Express Prime;16 GB;Black;ram;5.0
+Galaxy J3 (2016);8/16 GB;White, Black, Gold;1.5 GB RAM;5.0
+Galaxy View;32/64 GB;Black, White;2 GB RAM;18.4
+Galaxy On7;8 GB;White, Black;1.5 GB RAM;5.5
+Galaxy On5;8 GB;White, Black;1.5 GB RAM;5.0
+Z3;8 GB;Black, Silver, Gold;1 GB RAM;5.0
+Galaxy J1 Ace;4 GB;White, Black, Blue;512 MB RAM - J110L;4.3
+Gear S2 classic;4 GB;Black, 18K rose gold, Platinum, ceramic bracelet;512 MB RAM;1.2
+Gear S2;4 GB;Dark Gray, Silver;512 MB RAM;1.2
+Gear S2 3G;4 GB;Dark Gray, Silver;512 MB RAM;1.2
+Galaxy Note5 (USA);32/64 GB;Black Sapphire, White Pearl;4 GB RAM;5.7
+Galaxy Note5;32/64/128 GB;Black Sapphire, Gold Platinum, Silver Titan, White Pearl;4 GB RAM;5.7
+Galaxy Note5 Duos;32/64 GB;Black Sapphire, Gold Platinum, Silver Titan, White Pearl;4 GB RAM;5.7
+Galaxy S6 edge+ (USA);32/64 GB;Black Sapphire, Gold Platinum;4 GB RAM;5.7
+Galaxy S6 edge+;32/64 GB;Black Sapphire, Gold Platinum, Silver Titan, White Pearl, Pink;4 GB RAM;5.7
+Galaxy S6 edge+ Duos;32/64 GB;Black Sapphire, Gold Platinum, Silver Titan, White Pearl;4 GB RAM;5.7
+Galaxy S5 Neo;16 GB;Black, Gray, Gold;2 GB RAM;5.1
+Galaxy S4 mini I9195I;8 GB;White Frost, Black Mist;1.5 GB RAM;4.3
+Galaxy Folder;8 GB;Black, White;1.5 GB RAM;3.8
+Galaxy Tab S2 9.7;32/64 GB;White, black, gold;3 GB RAM;9.7
+Galaxy Tab S2 8.0;32/64 GB;White, black gold;3 GB RAM;8.0
+Galaxy A8 Duos;32 GB;Pearl White, Midnight Black, Champagne Gold;2 GB RAM;5.7
+Galaxy A8;32 GB;Pearl White, Midnight Black, Champagne Gold;2 GB RAM;5.7
+Galaxy V Plus;4 GB;White, Black;512 MB RAM;4.0
+Galaxy J7;16 GB;White, Black, Gold;1.5 GB RAM;5.5
+Galaxy J5;8/16 GB;White, Black, Gold;1.5 GB RAM;5.0
+Galaxy Tab 4 10.1 (2015);16 GB;White, Black;1.5 GB RAM;10.1
+Galaxy Tab E 9.6;8/16 GB;Pearl White, Metallic Black;1.5 GB RAM;9.6
+Guru Plus ;8/16 GB;Black, White, Dark Blue;ram;1.5
+Metro 360;8/16 GB;Black, White, Brown;ram;2.4
+Xcover 550;256 MB;Steel Grey, Dark Silver;128 MB RAM;2.4
+Galaxy S6 active;32/64 GB;White, Gray;3 GB RAM;5.1
+Galaxy Tab 3 V;8 GB;White, Black;1 GB RAM;7.0
+Galaxy Tab A & S Pen;16 GB;Black, White, Gray;2 GB RAM;9.7
+Galaxy Tab A 9.7;16 GB;Smoky Titanium, Smoky Blue, White;1.5 GB RAM (Wi-Fi);9.7
+Galaxy Tab A 8.0;16 GB;Smoky Titanium, Smoky Blue, White;1.5 GB RAM (Wi-Fi);8.0
+Galaxy Xcover 3;8 GB;Gray;1.5 GB RAM;4.5
+Galaxy S6 edge (USA);32/64/128 GB;White Pearl, Black Sapphire, Gold Platinum;3 GB RAM;5.1
+Galaxy S6 (USA);32/64/128 GB;White Pearl, Black Sapphire, Gold Platinum;3 GB RAM;5.1
+Galaxy S6 edge;32/64/128 GB;White Pearl, Black Sapphire, Gold Platinum, Green Emerald;3 GB RAM;5.1
+Galaxy S6 Plus;32 GB;White Pearl, Black Sapphire;4 GB RAM;5.5
+Galaxy S6 Duos;32/64/128 GB;White Pearl, Black Sapphire, Gold Platinum;3 GB RAM;5.1
+Galaxy S6;32/64/128 GB;White Pearl, Black Sapphire, Gold Platinum, Blue Topaz;3 GB RAM;5.1
+Galaxy J1 4G;4 GB;White, Black, Blue;768 MB RAM;4.3
+Galaxy J1;4 GB;White, Black, Blue;512 MB RAM;4.3
+Galaxy J2;8 GB;White, Black, Gold;1 GB RAM;4.7
+Galaxy Tab 3 Lite 7.0 VE;8 GB;White, Black, Green, Pink, Yellow;1 GB RAM;7.0
+Z1;4 GB;White, Black, Wine Red;768 MB RAM;4.0
+Galaxy A7 Duos;16 GB;Pearl White, Midnight Black, Champagne Gold;2 GB RAM;5.5
+Galaxy A7;16 GB;Pearl White, Midnight Black, Champagne Gold;2 GB RAM;5.5
+Galaxy Grand Max;16 GB;Gray, White;1.5 GB RAM;5.25
+Galaxy E7;16 GB;Black, White, Brown, Blue;2 GB RAM;5.5
+Galaxy E5;16 GB;Black, White, Brown;1.5 GB RAM;5.0
+Galaxy Core Prime;8 GB;Black, White, Gray;1 GB RAM;4.5
+Galaxy A5 Duos;16 GB;Pearl White, Midnight Black, Platinum Silver, Soft Pink, Light Blue, Champagne Gold;2 GB RAM;5.0
+Galaxy A5;16 GB;Pearl White, Midnight Black, Platinum Silver, Soft Pink, Light Blue, Champagne Gold;2 GB RAM;5.0
+Galaxy A3 Duos;16 GB;Pearl White, Midnight Black, Platinum Silver, Soft Pink, Light Blue, Champagne Gold;1 GB RAM;4.5
+Galaxy A3;16 GB;Pearl White, Midnight Black, Platinum Silver, Soft Pink, Light Blue, Champagne Gold;1 GB or 1.5 GB RAM;4.5
+Galaxy S5 Plus;16/32 GB;Charcoal Black, Copper Gold, Electric Blue, Shimmery White;2 GB RAM;5.1
+Galaxy Pocket 2;4 GB;White;512 MB RAM;3.3
+Galaxy V;4 GB;White, Black;512 MB RAM;4.0
+Galaxy Grand Prime Duos TV;8 GB;Black, White;1 GB RAM;5.0
+Galaxy Grand Prime;8 GB;White, Gray, Gold;1 GB RAM;5.0
+Galaxy Ace Style LTE G357;8 GB;White, Gray;1 GB RAM;4.3
+Galaxy Note Edge;32/64 GB;Black, White;3 GB RAM;5.6
+Galaxy Note 4 Duos;16 GB;Frosted white, Charcoal black, Bronze Gold, Blossom Pink;3 GB RAM;5.7
+Galaxy Note 4 (USA);32 GB;Frosted white, Charcoal black, Bronze Gold, Blossom Pink;3 GB RAM;5.7
+Galaxy Note 4;32 GB;Frosted white, Charcoal black, Bronze Gold, Blossom Pink;3 GB RAM;5.7
+Galaxy Tab Active LTE;16 GB;Titanium Green;1.5 GB RAM;8.0
+Galaxy Tab Active;16 GB;Titanium Green;1.5 GB RAM;8.0
+Galaxy Mega 2;16 GB;White, Black;1.5 GB RAM;6.0
+Gear S;4 GB;Charcoal Black, Frost White;512 MB RAM;2.0
+Gear 2 Neo;4 GB;Mocha Gray, Wild Orange, Charcoal Black;512 MB RAM;1.63
+Gear Live;4 GB;Black, Wine Red;512 MB RAM;1.63
+Gear 2;4 GB;Charcoal Black, Gold Brown, Wild Orange;512 MB RAM;1.63
+Galaxy Gear;4 GB;Jet Black, Lime Green, Mocha Gray, Oatmeal Beige, Rose Gold, Wild Orange;512 MB RAM;1.63
+Galaxy S5 LTE-A G901F;16/32 GB;Charcoal Black, Shimmering White, Electric Blue, Copper Gold;2 GB RAM;5.1
+Galaxy Alpha (S801);32 GB;Charcoal Black, Sleek Silver, Dazzling White, Frosted Gold, Scuba Blue;2 GB RAM;4.7
+Galaxy Alpha;32 GB;Charcoal Black, Sleek Silver, Dazzling White, Frosted Gold, Scuba Blue;2 GB RAM;4.7
+Galaxy S5 mini Duos;16 GB;Charcoal Black, Shimmery White;1.5 GB RAM;4.5
+Galaxy Avant;16 GB;Black;1.5 GB RAM;4.5
+Galaxy S Duos 3;4 GB;Black, Gray;512 MB RAM;4.0
+Guru Music 2;4 GB;White;ram;2.0
+Metro 312;4 GB;White;ram;2.0
+Galaxy Ace NXT;4 GB;Black;512 MB RAM;4.0
+Galaxy Tab 4 8.0 (2015);16 GB;White, Black;1.5 GB RAM;8.0
+Galaxy Star 2 Plus;4 GB;Black, White;512 MB RAM;4.3
+Galaxy S5 mini;16 GB;Charcoal Black, Shimmery White, Electric Blue and Copper Gold;1.5 GB RAM;4.5
+Galaxy Ace 4 LTE G313;4 GB;Iris Charcoal, Classic White;1 GB RAM;4.0
+Galaxy Ace 4;4 GB;Iris Charcoal, Classic White;512 MB RAM;4.0
+Galaxy Young 2;4 GB;Iris Charcoal, White;512 MB RAM;3.5
+Galaxy Star 2;4 GB;Iris Charcoal, White;512 MB RAM;3.5
+Galaxy Core II;4 GB;White, Black;768 MB RAM;4.5
+Galaxy S5 Sport;16 GB;Electric Blue, Cherry Red;2 GB RAM;5.1
+Galaxy S5 LTE-A G906S;16/32 GB;Charcoal Black, Shimmering White, Electric Blue, Copper Gold, Sweet Pink, Glam Red;3 GB RAM;5.1
+Galaxy Tab S 8.4 LTE;16/32 GB;Dazzling White, Titanium Bronze;3 GB RAM;8.4
+Galaxy Tab S 8.4;16/32 GB;Dazzling White, Titanium Bronze;3 GB RAM;8.4
+Galaxy Tab S 10.5 LTE;16/32 GB;Dazzling White, Titanium Bronze;3 GB RAM;10.5
+Galaxy Tab S 10.5;16/32 GB;Dazzling White, Titanium Bronze;3 GB RAM;10.5
+Galaxy Core Lite LTE;8 GB;White;1 GB RAM;4.7
+I9301I Galaxy S3 Neo;16 GB;White, Blue;1.5 GB RAM;4.8
+Galaxy W;16 GB;Black, white, red;1.5 GB RAM;7.0
+Z;16 GB;Black, Black/brown;2 GB RAM;4.8
+Galaxy S5 Active;16 GB (11.2 GB user available);Camo Green, Titanium Grey, Ruby Red;2 GB RAM;5.1
+Galaxy K zoom;8 GB;Charcoal Black, Electric Blue, Shimmery White;2 GB RAM;4.8
+Galaxy Beam2;microSD;Gray silver;up to 64 GB (dedicated slot);4.66
+I9300I Galaxy S3 Neo;16 GB;Pebble blue, Marble white, Amber brown, Garnet red, Sapphire black, Titanium grey, La Fleur, Pink;1.5 GB RAM;4.8
+Galaxy Ace Style;4 GB;Cream White, Dark Gray;512 MB RAM;4.0
+ATIV SE;16 GB;Gray;2 GB RAM;5.0
+Galaxy Tab 4 7.0;8/16 GB;White, Black;1.5 GB RAM;7.0
+Galaxy Tab 4 7.0 3G;8/16 GB;White, Black;1.5 GB RAM;7.0
+Galaxy Tab 4 7.0 LTE;8/16 GB;White, Black;1.5 GB RAM;7.0
+Galaxy Tab 4 8.0;16 GB;White, Black;1.5 GB RAM;8.0
+Galaxy Tab 4 8.0 3G;16 GB;White, Black;1.5 GB RAM;8.0
+Galaxy Tab 4 8.0 LTE;16 GB;White, Black;1.5 GB RAM;8.0
+Galaxy Tab 4 10.1;16 GB;White, Black;1.5 GB RAM;10.1
+Galaxy Tab 4 10.1 3G;16 GB;White, Black;1.5 GB RAM;10.1
+Galaxy Tab 4 10.1 LTE;16 GB;White, Black;1.5 GB RAM;10.1
+G3812B Galaxy S3 Slim;8 GB;Black, White;1 GB RAM;4.52
+I8200 Galaxy S III mini VE;8/16 GB;White, Blue, Gray, Black;1 GB RAM;4.0
+Galaxy S5 Duos;16 GB;Charcoal Black, Shimmery White, Electric Blue and Copper Gold;2 GB RAM;5.1
+Galaxy S5 (octa-core);16/32 GB;Charcoal Black, Copper Gold, Electric Blue, Shimmery White;2 GB RAM;5.1
+Galaxy S5 (USA);16 GB;Charcoal Black, Shimmery White;2 GB RAM;5.1
+Galaxy S5;16/32 GB;Charcoal Black, Copper Gold, Electric Blue, Shimmery White;2 GB RAM;5.1
+Galaxy Core LTE G386W;16 GB;White, Black;1.5 GB RAM;4.5
+Galaxy Core LTE;8 GB;White, Black;1 GB RAM;4.5
+S5611;8 GB;White, Gray, Dark blue;ram;2.4
+E1272;32 MB;Black, White, Red;64 MB;1.77
+Galaxy Star Trios S5283;4 GB;Black, White;512 MB RAM;3.14
+Galaxy Note 3 Neo Duos;16 GB (11 GB user available);Black, White, Green;2 GB RAM;5.5
+Galaxy Note 3 Neo;16 GB (11 GB user available);Black, White, Green, Pink, Red;2 GB RAM;5.5
+Galaxy Tab 3 Lite 7.0 3G;8 GB;White, Black, Green, Pink, Yellow;1 GB RAM;7.0
+Galaxy Tab 3 Lite 7.0;8 GB;White, Black, Green, Pink, Yellow;1 GB RAM;7.0
+Galaxy Grand Neo;8/16 GB;White, Midnight Black, Orange, Lime Green;1 GB RAM;5.01
+Galaxy Note Pro 12.2 LTE;32/64 GB;Black, White;3 GB RAM;12.2
+Galaxy Note Pro 12.2 3G;32/64 GB;Black, White;3 GB RAM;12.2
+Galaxy Note Pro 12.2;32/64 GB;Black, White;3 GB RAM;12.2
+Galaxy Tab Pro 12.2 LTE;32/64 GB;Black;3 GB RAM;12.2
+Galaxy Tab Pro 12.2 3G;32/64 GB;Black;3 GB RAM;12.2
+Galaxy Tab Pro 12.2;32/64 GB;Black, White;3 GB RAM;12.2
+Galaxy Tab Pro 10.1 LTE;16/32 GB;White, Black;2 GB RAM;10.1
+Galaxy Tab Pro 10.1;16/32 GB;Black, White;2 GB RAM;10.1
+Galaxy Tab Pro 8.4 3G/LTE;16/32 GB;Black, White;2 GB RAM;8.4
+Galaxy Tab Pro 8.4;16/32 GB;Black, White;2 GB RAM;8.4
+Galaxy Camera 2 GC200;8 GB (2.8 GB user available);Black, White;2 GB RAM;4.8
+Galaxy Core Advance;8 GB;Deep Blue, Pearl White;1 GB RAM;4.7
+Galaxy S4 Active LTE-A;16/32 GB;Dive Blue, Pink;2 GB RAM;5.0
+Galaxy J;16 GB;White, Pink;3 GB RAM;5.0
+Galaxy Win Pro G3812;8 GB;Blue, White;1.5 GB RAM;4.5
+Galaxy S Duos 2 S7582;4 GB;White, Black;768 MB RAM;4.0
+Galaxy Grand 2;8 GB;Black, White, Pink;1.5 GB RAM;5.25
+I9230 Galaxy Golden;16 GB;Black and Gold;1.5 GB RAM;3.7
+Galaxy Express 2;8 GB;Blue, White;1.5 GB RAM;4.5
+C3590;8 GB;Black, Silver, Red;ram;2.4
+I9506 Galaxy S4;16/32 GB;White Frost, Black Mist (I9506)/ Arctic Blue, Red Aurora, rose gold white, rose gold black, deep black (SHV-E330S);2 GB RAM;5.0
+Galaxy Light;8 GB;Dark brown;1 GB RAM;4.0
+Galaxy Round G910S;32 GB;Luxury Brown;3 GB RAM;5.7
+Galaxy Fresh S7390;4 GB;Black, White;512 MB RAM;4.0
+Galaxy Core Plus;4 GB;White, Black, Pink;ram;4.3
+Galaxy Fame Lite Duos S6792L;4 GB;Pearl White, Midnight Black;ram;3.5
+Galaxy Fame Lite S6790;4 GB;Pearl White, Midnight Black;ram;3.5
+Galaxy Star Pro S7260;4 GB;Black, White, Green, Orange, Red;512 MB RAM;4.0
+Galaxy Note 10.1 (2014 Edition);16/32/64 GB;Black, White;3 GB RAM;10.1
+Galaxy Note 3;16/32/64 GB;Black, White, Pink, Merlot Red, Rose Gold Black, Rose Gold White;3 GB RAM;5.7
+Ch@t 333;16/32/64 GB;Black, White;ram;2.4
+Galaxy Prevail 2;4 GB;White, Gray;512 MB RAM;4.0
+Gravity Q T289;256 MB ROM;Black;128 MB RAM;3.0
+ATIV S Neo;16 GB;Gray;1 GB RAM;4.77
+Galaxy S4 zoom;8 GB;White, Dynamic Black;1.5 GB RAM;4.3
+Galaxy S II TV;4 GB;Black;1 GB RAM;4.0
+Galaxy Ace 3;4 GB (3G) / 8 GB (LTE);Black, White, Dark Red;1 GB RAM;4.0
+I9190 Galaxy S4 mini;8 GB;White Frost, Black Mist, Blue, Pink, Orange, Purple, Black Edition;1.5 GB RAM;4.3
+I9295 Galaxy S4 Active;16 GB (11.2 GB user available);Urban Grey, Dive Blue, Orange Flare;2 GB RAM;5.0
+Galaxy Tab 3 8.0;16/32 GB;White, Gold;1.5 GB RAM;8.0
+Galaxy Tab 3 10.1 P5220;16/32 GB;White, Gold Brown, Garnet Red, Midnight Black;1 GB RAM;10.1
+Galaxy Tab 3 10.1 P5200;16/32 GB;Black, White;1 GB RAM;10.1
+Galaxy Tab 3 10.1 P5210;16/32 GB;Black, White;1 GB RAM;10.1
+Galaxy Exhibit T599;4 GB;Gray;1 GB RAM;3.8
+Galaxy Core I8260;8 GB (4.5 GB user available);Metallic Blue, Chic White;1 GB RAM;4.3
+Galaxy Tab 3 7.0 WiFi;8/16 GB;White;1 GB RAM;7.0
+Galaxy Tab 3 7.0;8/16 GB;White;1 GB RAM;7.0
+Galaxy Mega 6.3 I9200;8/16 GB;White, Black, Plum Purple;1.5 GB RAM;6.3
+Galaxy Mega 5.8 I9150;8 GB;White, Black, Plum Purple;1.5 GB RAM;5.8
+Galaxy Trend II Duos S7572;microSD;White, Gray;up to 32 GB (dedicated slot);4.0
+Galaxy Win I8550;8 GB;Ceramic White, Titan Gray;1 GB RAM;4.7
+Galaxy Pocket Neo S5310;4 GB;Gray, White, Gray;512 MB RAM;3.0
+Galaxy Star S5280;4 GB;Black, White, Blue;512 MB RAM;3.0
+I9505 Galaxy S4;16/32/64 GB;White Frost, Black Mist, Aurora Red (AT&T only), Arctic Blue, Purple Mirage, Brown Autumn, Pink Twilight, Black Edition;2 GB RAM;5.0
+I9500 Galaxy S4;16/32/64 GB;White Frost, Black Mist, Arctic Blue, Black Edition;2 GB RAM;5.0
+I9502 Galaxy S4;16/32/64 GB;White Frost, Black Mist;2 GB RAM;5.0
+Galaxy S4 CDMA;16 GB;White Frost, Black Mist;2 GB RAM;5.0
+Galaxy Note 8.0;16/32 GB;Black, White/Silver, brown;2 GB RAM;8.0
+Galaxy Note 8.0 Wi-Fi;16/32 GB;Black, White/Silver, brown;2 GB RAM;8.0
+Galaxy Y Plus S5303;16/32 GB;White, Black;ram;2.8
+Rex 90 S5292;16/32 GB;White, Brown;ram;3.5
+Rex 80 S5222R;16/32 GB;White, Gray, Blue, Red;ram;3.0
+Rex 70 S3802;16/32 GB;White, Gray, Blue;ram;3.0
+Rex 60 C3312R;16/32 GB;White, Gray, Blue;ram;2.8
+Metro E2202;16/32 GB;Black, White;ram;1.8
+E1282T;16/32 GB;Black, White, Blue;ram;1.8
+E1207T;16/32 GB;Black;ram;1.52
+Galaxy Young S6310;4 GB (2 GB user available);White;768 MB RAM;3.27
+Galaxy Fame S6810;4 GB;White, Blue;512 MB RAM;3.5
+Galaxy Express I8730;8 GB;White, Gray;1 GB RAM;4.5
+S7710 Galaxy Xcover 2;4 GB;Gray;1 GB RAM;4.0
+I9105 Galaxy S II Plus;8 GB;Chic White, Dark Blue;1 GB RAM;4.3
+Ativ Odyssey I930;8 GB;Gray;1 GB RAM;4.0
+Galaxy Grand I9082;8 GB;Black, White;1 GB RAM;5.0
+Galaxy Grand I9080;8 GB;Black, White;1 GB RAM;5.0
+Star Deluxe Duos S5292;8 GB;Black, White, Brown;ram;3.5
+Galaxy Note LTE 10.1 N8020;16/32/64 GB;Gray, white;2 GB RAM;10.1
+A997 Rugby III;256 MB;Black;128 MB RAM;2.4
+Galaxy Axiom R830;4 GB;Blue;1 GB RAM;4.0
+Galaxy Stratosphere II I415;8 GB;Black;1 GB RAM;4.0
+Galaxy Discover S730M;4 GB (2.7 GB user available);Black;512 MB RAM;3.5
+Galaxy Pop SHV-E220;8/16 GB;White, Orange, Blue;1 GB RAM;4.65
+Galaxy Premier I9260;8/16 GB;White, Titanium Gray;1 GB RAM;4.65
+Google Nexus 10 P8110;16/32 GB;Black;2 GB RAM;10.1
+Ativ Tab P8510;32/64 GB;Black;2 GB RAM;10.1
+Comment 2 R390C;32/64 GB;Black;ram;2.4
+I8190 Galaxy S III mini;8/16 GB;White, Blue, Titan Gray, Amber Brown, Garnet Red, Onyx Black;1 GB RAM;4.0
+Galaxy Music S6010;4 GB;Blue, Orange, Gray;512 MB RAM;3.0
+Galaxy Music Duos S6012;4 GB;Blue, Orange, Gray;512 MB RAM;3.0
+Galaxy Rugby Pro I547;8 GB (5 GB user available);Black;1 GB RAM;4.0
+Galaxy Express I437;8 GB (5 GB user available);Titanium Gray;1 GB RAM;4.5
+Ch@t 357;8 GB (5 GB user available);White, Gray;ram;2.4
+I9305 Galaxy S III;16 GB;Titanium Gray, Sapphire Black;2 GB RAM;4.8
+Galaxy Victory 4G LTE L300;4 GB;Black;1 GB RAM;4.0
+Galaxy S Relay 4G T699;8 GB;Black;1 GB RAM;4.0
+Champ Neo Duos C3262;8 GB;White;ram;2.4
+Galaxy Pocket Duos S5302;8 GB;Black, White;ram;2.8
+Galaxy Note II N7100;16/32/64 GB;Titanium Gray, Marble White, Amber Brown, Ruby Wine, Pink, Blue;2 GB RAM;5.5
+Galaxy Note II CDMA;16 GB;Titanium Gray, Marble White, Amber Brown, Ruby Wine;2 GB RAM;5.5
+Ativ S I8750;16/32 GB;Gray;1 GB RAM;4.8
+Galaxy Camera GC100;4 GB;Black, White, Pink, Orange, Red;1 GB RAM;4.8
+Galaxy Rush M830;2 GB;Black;768 MB RAM;3.5
+Galaxy Stellar 4G I200;4 GB (1.5 GB user available);Black;1 GB RAM;4.0
+Galaxy Reverb M950;4 GB;Black;768 MB RAM;4.0
+Galaxy Tab 2 7.0 I705;8 GB;Black;1 GB RAM;7.0
+Galaxy Note 10.1 N8000;16/32/64 GB;Black, White/Silver;2 GB RAM;10.1
+Galaxy Note 10.1 N8010;16/32/64 GB;Black, White/Silver;2 GB RAM;10.1
+Array M390;40 MB;Black, Black/Silver;128 MB RAM;2.4
+Galaxy S Lightray 4G R940;40 MB;Black;ram;4.3
+Galaxy S Duos S7562;4 GB (1.8 GB user available);White, Black, La Fleur;768 MB RAM;4.0
+Manhattan E3300;4 GB (1.8 GB user available);Black;ram;2.0
+E2262;4 GB (1.8 GB user available);White;ram;2.2
+E1260B;4 GB (1.8 GB user available);White;ram;2.0
+E1200 Pusha;4 GB (1.8 GB user available);Black, White, Blue;ram;1.52
+E2252;4 GB (1.8 GB user available);Silver, white;ram;2.0
+Galaxy Chat B5330;4 GB (1.8 GB user available);White;ram;3.0
+U485 Intensity III;128 MB RAM;Black;256 MB ROM;2.4
+Galaxy I8250;4 GB;Pink/Black;512 MB RAM;4.0
+Galaxy Ace Advance S6800;4 GB;White, Black;512 MB RAM;3.5
+Galaxy Ace Duos S6802;3 GB;White, Black, Yellow, La Fleur;512 MB RAM;3.5
+Galaxy Appeal I827;4 GB;Silver;512 MB RAM;3.2
+Galaxy Tab 8.9 4G P7320T;16/32 GB;Black;1 GB RAM;8.9
+C3780;30 dialed;Black;30 received;2.4
+C3782 Evan;30 dialed;Black;ram;2.4
+Galaxy Proclaim S720C;30 dialed;Black;ram;3.5
+Omnia M S7530;4/8 GB;Black;384 MB RAM;4.0
+I9500 Fraser;16 GB;Black;1 GB RAM;4.65
+Focus 2 I667;16 GB;White;ram;4.0
+Galaxy S III T999;16/32 GB;Pebble blue, Marble white;2 GB RAM;4.8
+Galaxy S III I747;16 GB;Pebble blue, Marble white, Garnet Red;2 GB RAM;4.8
+Galaxy S III CDMA;16/32 GB;Pebble blue, Marble white, Purple;2 GB RAM;4.8
+I9300 Galaxy S III;16/32/64 GB;Pebble blue, Marble white, Amber brown, Garnet red, Sapphire black, Titanium grey, La Fleur;1 GB RAM;4.8
+E2350B;16/32/64 GB;Blue;ram;2.0
+U380 Brightside;256 MB;Black;128 MB RAM;3.1
+Galaxy Player 70 Plus;256 MB;White;ram;5.0
+Galaxy Pocket plus S5301;4 GB;Black, White;512 MB RAM;2.8
+Galaxy Pocket S5300;4 GB;Black;ram;2.8
+I8530 Galaxy Beam;8 GB;Black;768 MB RAM;4.0
+Galaxy Tab 2 10.1 P5110;8/16/32 GB;Black, White;1 GB RAM;10.1
+Galaxy Tab 2 10.1 CDMA;8/16 GB;Black/Silver;1 GB RAM;10.1
+Galaxy Tab 2 10.1 P5100;16/32 GB;Black, White;1 GB RAM;10.1
+Rugby Smart I847;4 GB;Black;512 MB RAM;3.7
+W999;4 GB;Black;ram;3.5
+Galaxy Ace II X S7560M;4 GB;Black, White;768 MB RAM;4.0
+Galaxy Ace 2 I8160;4 GB;Black, White, La Fleur;768 MB RAM;3.8
+Galaxy mini 2 S6500;4 GB;Black/Orange;512 MB RAM;3.27
+Galaxy Ace Duos I589;microSD;Black;up to 32 GB (dedicated slot);3.5
+Galaxy Pop Plus S5570i;160 MB;Black;384 MB RAM;3.14
+Galaxy Tab 2 7.0 P3110;8/16/32 GB;Black, White, Red;1 GB RAM;7.0
+Galaxy Tab 2 7.0 P3100;8/16/32 GB;Black, White, Red;1 GB RAM;7.0
+I9070 Galaxy S Advance;8/16 GB;Black, White;768 MB RAM;4.0
+C3312 Duos;8/16 GB;Platinum Silver, White;ram;2.8
+Star 3 s5220;8/16 GB;Black, White;ram;3.0
+Star 3 Duos S5222;8/16 GB;Black, White;ram;3.0
+Galaxy Nexus I9250M;16;Black;1 GB RAM;4.65
+Galaxy Attain 4G;16;Black;ram;3.5
+Galaxy S Blaze 4G T769;3 GB internal;Black;1 GB RAM;3.97
+Galaxy Tab 7.7 LTE I815;16/32 GB;Metallic Gray and White;1 GB RAM;7.7
+Galaxy Nexus LTE L700;32 GB;Black;1 GB RAM;4.65
+Exhilarate i577;4 GB;Black;1 GB RAM;4.0
+Galaxy S II Skyrocket HD I757;16 GB;Black;1 GB RAM;4.65
+Galaxy Note T879;16 GB;Navy Blue, Ceramic White, Soft Pink;1 GB RAM;5.3
+Galaxy Note I717;16 GB;Carbon Blue, Ceramic White;1 GB RAM;5.3
+Galaxy M Style M340S;16 GB;Platinum Silver, Blue Black, Lavender Pink;ram;4.0
+Galaxy Ace Plus S7500;3 GB;Black;512 MB RAM;3.65
+I929 Galaxy S II Duos;16 GB;Black;1 GB RAM;4.52
+Galaxy Y Duos S6102;16 GB;Black;ram;3.14
+Galaxy Y Pro Duos B5512;16 GB;Black;ram;2.6
+E2600;16 GB;Black;ram;2.4
+M370;128 MB RAM;Pewter Gray;256 MB ROM;2.4
+R680 Repp;128 MB RAM;Wine Red;ram;3.2
+I110 Illusion;2 GB;Black;512 MB RAM;3.5
+E1050;2 GB;Black, White;ram;1.43
+E1232B;2 GB;Black, White;ram;1.8
+E1230;2 GB;Black, White;ram;1.8
+Focus S I937;16/32 GB;Black;512 MB RAM;4.3
+Focus Flash I677;8 GB;Dark Gray;512 MB RAM;3.7
+Galaxy S II Skyrocket i727;16 GB;Black, White;1 GB RAM;4.5
+C3330 Champ 2;16 GB;Various;ram;2.4
+Exhibit II 4G T679;1 GB;Black;512 MB RAM;3.7
+C3350;1 GB;Steel Grey;ram;2.2
+C3520;1 GB;Metallic Silver, Charcoal Gray, Coral Pink, La Fleur;ram;2.4
+Galaxy Nexus i515;32 GB;Black;1 GB RAM;4.65
+Galaxy Nexus I9250;16 GB;Black, White;1 GB RAM;4.65
+I9100G Galaxy S II;16 GB;Black, White, Pink;1 GB RAM;4.3
+I405 Stratosphere;4 GB;Noble Black;512 MB RAM;4.0
+R730 Transfix;4 GB;Black;ram;3.2
+i927 Captivate Glide;8 GB;Black;1 GB RAM;4.0
+DoubleTime I857;260 MB;Black/white;256 MB RAM;3.2
+M930 Transform Ultra;260 MB;Black;ram;3.5
+P6210 Galaxy Tab 7.0 Plus;16/32 GB;Gray;1 GB RAM;7.0
+P6200 Galaxy Tab 7.0 Plus;16/32 GB;Black, White;1 GB RAM;7.0
+Omnia W I8350;8 GB;Black;512 MB RAM;3.7
+Galaxy S II HD LTE;16 GB;Black;1 GB RAM;4.65
+Ch@t 527;16 GB;Black;ram;2.4
+P6810 Galaxy Tab 7.7;16/32/64 GB;Black;1 GB RAM;7.7
+P6800 Galaxy Tab 7.7;16/32/64 GB;Black;1 GB RAM;7.7
+Galaxy Note N7000;16/32 GB;Black, White, Pink;1 GB RAM;5.3
+Galaxy S II I777;16/32 GB;Black;1 GB RAM;4.3
+Galaxy S II X T989D;16 GB;Black;1 GB RAM;4.52
+Galaxy S II T989;16/32 GB;Titanium, white;1 GB RAM;4.52
+Galaxy S II Epic 4G Touch;16 GB;Black, White;1 GB RAM;4.52
+S8600 Wave 3;16 GB;Black;ram;4.0
+Wave M S7250;16 GB;Black;ram;3.65
+Wave Y S5380;16 GB;Black, LaFleur edition;ram;3.2
+Galaxy S II LTE i727R;16 GB;Black;1 GB RAM;4.5
+Galaxy S II LTE I9210;16 GB;Black;1 GB RAM;4.5
+Galaxy Tab 8.9 LTE I957;16/32 GB;Black;1 GB RAM;8.9
+Galaxy W I8150;2 GB;Black, White;512 MB RAM;3.7
+Galaxy M Pro B7800;microSD;Black;up to 32 GB (dedicated slot);2.66
+Galaxy Y Pro B5510;microSD;Black;ram;2.6
+Galaxy Y TV S5367;microSD;Black/Silver;ram;3.14
+Galaxy Y S5360;180 MB;Metallic gray, white / changeable back covers in pearly white, dark black, fruity orange, bubblegum pink and silver platter;290 MB RAM;3.0
+Gravity TXT T379;180 MB;Black;ram;2.44
+Galaxy Q T589R;microSD;Black;up to 32 GB (dedicated slot);3.2
+S5610;microSD;Gray, Metalic Gold;ram;2.4
+S3770;microSD;Black, White;ram;2.8
+S5690 Galaxy Xcover;150 MB;Gray;512 MB RAM;3.65
+Galaxy S II 4G I9100M;16 GB;Black;1 GB RAM;4.3
+I9103 Galaxy R;8 GB;Black;1 GB RAM;4.2
+R720 Admire;microSD;Black, Red;up to 32 GB (dedicated slot);3.5
+Convoy 2;128 MB RAM;Black;256 MB ROM;2.2
+Conquer 4G;1 GB;Graphite;512 MB RAM;3.5
+R640 Character;1 GB;Electric Blue;ram;2.8
+R380 Freeform III;1 GB;Black;ram;2.4
+Trender;1 GB;Sapphire, Amethyst;ram;2.8
+Gravity SMART;150 MB;Black/Red, Black/Green, Lunar Grey;270 MB RAM;3.2
+Exhibit 4G;1 GB;Black;512 MB RAM;3.5
+C414;1 GB;Black;ram;2.2
+E1195;1 GB;Black, Red;ram;1.43
+E1190;20 dialed;Black;20 received;1.43
+C3560;20 dialed;Black;ram;2.2
+Dart T499;microSD;Gray;up to 32 GB (dedicated slot);3.14
+C3322;microSD;Black, La Fleur;ram;2.2
+R260 Chrono;microSD;Moon Grey;ram;2.0
+E2232;microSD;Black;ram;1.77
+E1182;microSD;Black;ram;1.52
+I9001 Galaxy S Plus;8/16 GB;Black, White;512 MB RAM;4.0
+DuosTV I6712;8/16 GB;Black;ram;3.2
+C6712 Star II DUOS;8/16 GB;Black;ram;3.2
+Ch@t 222;8/16 GB;Black;ram;2.2
+Ch@t 220;8/16 GB;Black;ram;2.2
+M580 Replenish;512 MB;Black, Blue, Raspberry Pink;256 MB RAM;2.8
+Galaxy Prevail;512 MB;Black;ram;3.2
+M220L Galaxy Neo;4 GB;Chic White, Noble Black;512 MB RAM;3.5
+Google Nexus S I9020A;16 GB;White, Black;512 MB RAM;4.0
+Google Nexus S I9023;16 GB;Black;ram;4.0
+E2230;16 GB;Black;ram;1.8
+P1010 Galaxy Tab Wi-Fi;16 GB;Black and Grey;592 MB RAM;7.0
+P7500 Galaxy Tab 10.1 3G;16/32/64 GB;Black;1 GB RAM;10.1
+Galaxy Tab 10.1 LTE I905;16/32 GB;Metallic Gray and White;1 GB RAM;10.1
+Galaxy Tab 10.1 P7510;16/32/64 GB;Black;1 GB RAM;10.1
+Galaxy Tab 8.9 P7300;16/32/64 GB;Black;1 GB RAM;8.9
+Galaxy Tab 8.9 P7310;16/32/64 GB;Metallic Gray;1 GB RAM;8.9
+Google Nexus S 4G;16 GB;Black;512 MB RAM;4.0
+M260 Factor;128 MB RAM;Black;256 MB ROM;2.0
+S3850 Corby II;128 MB RAM;Yellow/Black, White, Pink;ram;3.2
+Galaxy Pro B7510;128 MB RAM;Black, White;ram;2.8
+I9100 Galaxy S II;16/32 GB;Black, White, Pink;1 GB RAM;4.3
+E2652W Champ Duos;16/32 GB;Black, White;ram;2.6
+E2652 Champ Duos;16/32 GB;Black, White;ram;2.6
+S5780 Wave 578;16/32 GB;Black;ram;3.2
+P7100 Galaxy Tab 10.1v;16/32 GB;Black;ram;10.1
+Galaxy S WiFi 5.0;16/32 GB;Black, White;ram;5.0
+Ch@t 350;16/32 GB;Black, White, Silver;ram;2.4
+E3213 Hero;16/32 GB;Red, Black;ram;2.0
+E3210;16/32 GB;Silver;ram;2.0
+E2330;16/32 GB;Black;ram;2.0
+I9003 Galaxy SL;4/16 GB;Black, white;478 MB RAM;4.0
+Galaxy Ace S5830I;4/16 GB;Black;ram;3.5
+Galaxy Ace S5830;158 MB;Black, White, Hugo Boss Edition, La Fleur;278 MB RAM;3.5
+Galaxy Fit S5670;160 MB;Black, white;280 MB RAM;3.3
+Galaxy Gio S5660;158 MB;Black, Silver White;278 MB RAM;3.2
+Galaxy Mini S5570;160 MB;Black, White;384 MB RAM;3.14
+Galaxy Pop i559;160 MB;Black;ram;3.14
+Galaxy S 4G T959;1 GB;Black and Grey;512 MB RAM;4.0
+S5260 Star II;1 GB;Black, White;ram;3.0
+I997 Infuse 4G;1 GB;Caviar Black;ram;4.5
+R910 Galaxy Indulge;microSD;Black;up to 32 GB (dedicated slot);3.5
+Droid Charge I510;microSD;Black;ram;4.3
+Google Nexus S;16 GB;Black, White;512 MB RAM;4.0
+M190S Galaxy S Hoppin;16 GB;Titanium Grey, Cream White;ram;4.0
+Ch@t 335;16 GB;Black, White, Silver;ram;2.4
+C3630;16 GB;Black;ram;2.2
+C3530;16 GB;Silver, Black; La Fleur edition;ram;2.2
+I9010 Galaxy S Giorgio Armani;16 GB;Black;ram;4.0
+A817 Solstice II;16 GB;Black;ram;3.35
+A667 Evergreen;16 GB;Black;ram;1.92
+E2530;30 dialed;Black; La Fleur edition;30 received;2.0
+I100 Gem;30 dialed;Black;ram;3.2
+R710 Suede;30 dialed;Black;ram;3.0
+U750 Zeal;30 dialed;Black;ram;2.6
+Continuum I400;2 GB;Black;336 MB RAM;3.4
+Ch@t 322 Wi-Fi;2 GB;Black, White, Pink;ram;2.2
+Ch@t 322;2 GB;Black, White, Pink;ram;2.2
+E1252;20 dialed;Black, White;20 received;2.0
+Breeze B209;20 dialed;Black;ram;1.52
+Hero Plus B159;20 dialed;Black;ram;1.52
+W169 Duos;20 dialed;Black;ram;2.2
+Mpower Muzik 219;20 dialed;Black;ram;1.7
+Mpower Txt M369;20 dialed;Black;ram;2.2
+Mpower TV S239;20 dialed;Black;ram;2.4
+E1225 Dual Sim Shift;20 dialed;Black;20 received;1.8
+Guru E1081T;20 dialed;Black;20 received;1.43
+Focus;8 GB;Black;512 MB RAM;4.0
+I8700 Omnia 7;8 GB;Black;ram;4.0
+S5750 Wave575;8 GB;Various;ram;3.2
+S8530 Wave II;8 GB;Ebony Gray;ram;3.7
+M210S Wave2;8 GB;Ebony Gray, Platinum Silver, Elegant Pink;ram;3.7
+Galaxy Tab T-Mobile T849;16 GB;Black;640 MB RAM;7.0
+P1000 Galaxy Tab;16/32 GB;Black and Grey;512 MB RAM;7.0
+Galaxy Tab CDMA P100;16/32 GB;Black on White;ram;7.0
+Galaxy Tab 4G LTE;16/32 GB;Black;ram;7.0
+T249;16/32 GB;Black;ram;
+R580 Profile;16/32 GB;Black;ram;2.4
+R570 Messenger III;16/32 GB;Black;ram;2.4
+I909 Galaxy S;16/32 GB;Black;ram;4.0
+A200K Nori F;16/32 GB;Indigo Blue, Festival Orange, French Blue, Fuchsia Pink;ram;2.8
+A220 F Nori;16/32 GB;Biege, Pink, Blue;ram;3.0
+M130K Galaxy K;16/32 GB;Black and Grey;ram;3.7
+Mesmerize i500;2 GB;Black and Grey;512 MB RAM;4.0
+M920 Transform;512 MB;Black;512 MB RAM;3.5
+R360 Freeform II;512 MB;Black;ram;2.2
+Guru Dual 26;512 MB;Black;ram;2.0
+Galaxy 551;512 MB;Black;ram;3.2
+Xcover 271;512 MB;Black, Blue;ram;2.0
+R900 Craft;512 MB;Black;ram;3.3
+C3752;512 MB;Metallic gray;ram;2.4
+S7230E Wave 723;512 MB;Various; La Fleur edition;ram;3.2
+C3750;512 MB;Metallic gray;ram;2.4
+M130L Galaxy U;512 MB;White, Black;ram;3.7
+E2152;512 MB;Black;ram;2.0
+S5530;512 MB;Black;ram;2.2
+U360 Gusto;512 MB;Black;ram;2.0
+Fascinate;512 MB;Black, Grey, White;ram;4.0
+Vibrant;16 GB;Black and Grey;512 MB RAM;4.0
+A927 Flight II;16 GB;Grey;ram;3.0
+T669 Gravity T;16 GB;Various;ram;
+T479 Gravity 3;16 GB;Various;ram;
+:) Smiley;16 GB;Various;ram;
+C5010 Squash;16 GB;Black;ram;2.0
+i897 Captivate;16 GB;Black and Grey;512 MB RAM;4.0
+B7350 Omnia PRO 4;16 GB;Black;ram;2.62
+B6520 Omnia PRO 5;16 GB;Black;ram;2.4
+U320 Haven;24 MB;Black;16 MB RAM;2.2
+U460 Intensity II;24 MB;Deep Gray, Metallic Blue;ram;2.2
+M350 Seek;128 MB RAM;Blue, Red, Pink;256 MB ROM;2.6
+Epic 4G;512 MB;Black;512 MB RAM;4.0
+Acclaim;microSD;Blue;up to 32 GB (dedicated slot);3.2
+Intercept;microSD;Gray Steel, Satin Pink;up to 32 GB (dedicated slot);3.2
+R360 Messenger Touch;microSD;Black;ram;2.6
+i225 Exec;microSD;Black;ram;2.4
+M570 Restore;microSD;Black, Green;ram;2.66
+R351 Freeform;microSD;Black, Red;ram;2.2
+T369;microSD;Black;ram;2.5
+S5330 Wave533;microSD;Various;ram;3.2
+S5250 Wave525;microSD;Various; La Fleur edition;ram;3.2
+I5500 Galaxy 5;microSD;Black;ram;2.8
+I5801 Galaxy Apollo;512 MB;Black, White;256 MB RAM;3.2
+I5800 Galaxy 3;512 MB;Black, White;256 MB RAM;3.2
+B7722;512 MB;Black;ram;3.2
+A847 Rugby II;512 MB;Black;ram;2.2
+C3300K Champ;512 MB;Deep black, Espresso brown, Sweet pink, Chic white;ram;2.4
+W960 AMOLED 3D;512 MB;Black;ram;3.2
+M110S Galaxy S;512 MB;Snow White, Black;ram;4.0
+Galaxy A;1 GB;Deep Black, Cream White;384 MB RAM;3.7
+I9000 Galaxy S;8/16 GB;Black, White;512 MB RAM;4.0
+I6500U Galaxy;8/16 GB;Black;ram;3.2
+S3370;8/16 GB;Black;ram;2.6
+Metro TV;8/16 GB;Black;ram;2.0
+E1170;8/16 GB;Black;ram;1.52
+Corby TV F339;8/16 GB;Jamaican Yellow, Cupid Pink, Minimal White, and Festival Orange; 2 Fashion Jackets;ram;2.8
+S3650W Corby;8/16 GB;Jamaican Yellow, Cupid Pink, Minimal White, and Festival Orange; 2 Fashion Jackets;ram;2.8
+W9705;8/16 GB;Red on Black, Yellow on Black;ram;2.4
+A687 Strive;8/16 GB;Black;ram;2.6
+A697 Sunburst;8/16 GB;Black;ram;3.0
+S8500 Wave;8/16 GB;Ebony Gray;ram;3.3
+I8520 Galaxy Beam;16 GB;Black;384 MB RAM;3.7
+B3410W Ch@t;16 GB;Titan Gray, Romantic Pink;ram;2.6
+M3710 Corby Beat;16 GB;Black, Neon Blue;ram;2.8
+E2370 Xcover;16 GB;Red, Black;ram;1.77
+E2550 Monte Slider;16 GB;Black;ram;2.0
+C3200 Monte Bar;16 GB;Black;ram;2.0
+S5620 Monte;16 GB;Black;ram;3.0
+S5550 Shark 2;16 GB;Black, Pink;ram;2.2
+S3550 Shark 3;16 GB;Black, White, Pink;ram;2.0
+E1150;16 GB;Black, Red, Silver;ram;1.43
+S5350 Shark;16 GB;Black;ram;2.2
+C6112;16 GB;Black, Blue, Dark Red;ram;2.4
+M2520 Beat Techno;16 GB;Black;ram;2.2
+C3510 Genoa;16 GB;Black, Pink;ram;2.8
+M5650 Lindy;16 GB;Black, Neon Blue;ram;2.8
+S7070 Diva;16 GB;White, Black, Gold;ram;2.8
+C3730C;16 GB;Black;ram;2.2
+S5150 Diva folder;16 GB;Gray;ram;2.2
+C5130;16 GB;Black;ram;2.0
+B5722;16 GB;Dark Brown, Elegant Pink;ram;2.8
+M3310L;16 GB;Black, Red;ram;2.1
+M3310;16 GB;Black, White;ram;2.1
+A897 Mythic;16 GB;Black;ram;3.3
+S5500 Eco;16 GB;Blue, Black;ram;2.2
+T139;16 GB;Black, Gray;ram;1.4
+A797 Flight;16 GB;Burgundy red, Silver;ram;2.8
+B3410;16 GB;Black;ram;2.6
+M715 T*OMNIA II;microSD;Rose Black, Deep Blue;up to 16 GB (dedicated slot);3.7
+A886 Forever;microSD;Black;ram;3.0
+S5560 Marvel;microSD;Black, Anelka edition;ram;3.0
+S5630C;microSD;China Red;ram;2.8
+I5700 Galaxy Spica;microSD;Black, White;ram;3.2
+E1390;microSD;Gray, Black, Blue;ram;1.63
+E1160;20 dialed;Red;20 received;1.52
+E2130;20 dialed;Black;ram;1.77
+E1130B;20 dialed;Gray, Orange;20 received;1.52
+T401G;30 dialed;Black;30 received;2.1
+B7620 Giorgio Armani;8 GB;Black and Bronze;256 MB RAM;3.5
+T939 Behold 2;8 GB;Black;ram;3.2
+M8920;8 GB;Black;ram;3.3
+W880 AMOLED 12M;8 GB;Black;ram;3.3
+Vodafone 360 H1;8 GB;Black, Silver;ram;3.5
+Vodafone 360 M1;8 GB;Black, White, Red;ram;3.2
+B5310 CorbyPRO;8 GB;Black;ram;2.8
+B3210 CorbyTXT;8 GB;Black;ram;2.2
+F480i;8 GB;Black, Pink, La Fleur, Pearl White;ram;2.8
+B7330 OmniaPRO;270 MB;Yes;256 MB RAM;2.62
+E1085T;270 MB;Black;ram;1.43
+E1080T;270 MB;Black;ram;1.43
+S5510;30 received;Noir Black, Ruby Red;dialed and missed calls;2.1
+S5230W Star WiFi;30 received;Black, Silver, White, Pink;ram;3.0
+S7550 Blue Earth;30 received;Blue;ram;3.0
+S3650 Corby;30 received;Jamaican Yellow, Cupid Pink, Minimal White, and Festival Orange; 2 Fashion Jackets;ram;2.8
+C5030;30 received;Various;ram;2.8
+T659 Scarlet;30 received;Gray;dialed and missed calls;
+B3310;30 received;Black, Pink, Blue, Green;ram;2.0
+C3212;30 received;Black;ram;2.0
+U450 DoubleTake;30 received;Black, Red;ram;2.1
+i220 Code;94 MB;Black;128 MB RAM;2.4
+R860 Caliber;94 MB;Black;ram;2.6
+R520 Trill;94 MB;Black, Blue;ram;2.2
+M900 Moment;microSD;Black;up to 32 GB (dedicated slot);3.2
+i350 Intrepid;256 MB RAM;Black;512 MB ROM;2.55
+M850 Instinct HD;256 MB RAM;Black;ram;2.6
+U450 Intensity;256 MB RAM;Black, Red;ram;2.1
+U960 Rogue;256 MB RAM;Black;ram;3.1
+S3100;256 MB RAM;Black, Pink;ram;2.1
+A887 Solstice;256 MB RAM;Black;ram;3.0
+E2120;256 MB RAM;Black;ram;1.52
+S5233T;256 MB RAM;Black, White;ram;3.0
+I6220 Star TV;256 MB RAM;Black, Red;ram;3.0
+S9110;256 MB RAM;Silver;ram;1.76
+T469 Gravity 2;256 MB RAM;Berry Mauve, Metallic Pumpkin;ram;2.4
+T559 Comeback;30 dialed;Pearl White Plum, Frost Silver Cherry;30 received;2.9
+T746 Impact;30 dialed;Fire, Ice;ram;3.0
+S5600v Blade;30 dialed;Black, Pink;ram;2.8
+S6700;30 dialed;Silver;ram;2.4
+C5510;30 dialed;Silver;ram;2.2
+M2510;30 dialed;Blue;ram;2.2
+M2310;30 dialed;Blue, Red;ram;2.0
+W850;30 dialed;Rose Black, Snow White, Valentine Pink;ram;3.5
+S8000 Jet;30 dialed;Black, Mystic Purple;ram;3.1
+I8000 Omnia II;2/8/16 GB;Black, White, Pink;256 MB RAM;3.7
+B7610 OmniaPRO;2 GB;Black;256 MB RAM;3.5
+B7320 OmniaPRO;100 MB;Yes;256 MB RAM;2.4
+B7300 OmniaLITE;100 MB;Black, blue, red;ram;3.0
+M8910 Pixon12;100 MB;Black;ram;3.1
+E1107 Crest Solar;30 dialed;Black;30 received;1.52
+M2710 Beat Twist;30 dialed;Black, white;ram;2.0
+S5050;30 dialed;Yes;ram;2.2
+T349;30 dialed;Yes;ram;2.2
+S5200;30 dialed;Black on Red, Black on Blue;ram;2.1
+i637 Jack;256 MB RAM;Yes;256 MB ROM;2.4
+S3310;256 MB RAM;Silver;ram;2.1
+C3060R;256 MB RAM;Black;ram;2.2
+A167;256 MB RAM;Gray;ram;1.85
+A177;256 MB RAM;Yes;ram;2.2
+I7500 Galaxy;8 GB;Black, White;128 MB RAM;3.2
+J165;8 GB;Gray;ram;
+I6210;8 GB;Black, White;ram;2.4
+E1360;8 GB;Black, White;ram;1.77
+E1210;8 GB;Black;ram;1.77
+A657;8 GB;Black;ram;1.9
+A877 Impression;8 GB;Black, Blue;ram;3.2
+A257 Magnet;8 GB;Yes;ram;2.2
+Propel Pro;128 MB RAM;Grey;256 MB ROM;2.55
+B2100 Xplorer;128 MB RAM;Red, Black;ram;1.77
+S5230 Star;128 MB RAM;Black, White, Pink;ram;3.0
+S5600 Preston;128 MB RAM;Absolute Black, Pearl White, Lilac Violet;ram;2.8
+i8910 Omnia HD;8/16 GB;Black, Champagne Gold, Luxury Brown;256 MB RAM;3.7
+S8300 UltraTOUCH;8/16 GB;Platinum Red, Platinum Blue, Gold;ram;2.8
+M7600 Beat DJ;8/16 GB;Black;ram;2.8
+M6710 Beat DISC;8/16 GB;Black;ram;2.6
+S7350 Ultra s;8/16 GB;Silver;ram;2.6
+S7220 Ultra b;8/16 GB;Black, Pink;ram;2.2
+C5220;8/16 GB;Grey, Red, Black;ram;2.0
+S3500;8/16 GB;Silver;ram;2.2
+S3110;8/16 GB;Silver;ram;2.0
+P250;8/16 GB;Silver;ram;2.1
+i7410;8/16 GB;Silver;ram;3.2
+T929 Memoir;8/16 GB;Black, Silver;ram;3.0
+C3050 Stratus;8/16 GB;Black;ram;2.0
+C3010;8/16 GB;Black;ram;2.0
+C3110;8/16 GB;Black;ram;2.0
+C6625;8/16 GB;Black, Wine red, Apple green, Navy blue;ram;2.6
+E1310;8/16 GB;Gray;ram;1.77
+E1120;20 dialed;Gray;20 received;1.52
+E1100;20 dialed;Black;ram;1.52
+E1070;30 dialed;Gray;30 received;1.38
+E2210B;30 dialed;Gray;ram;1.77
+E1125;30 dialed;Grey;30 received;1.52
+E2100B;30 dialed;Grey;ram;1.77
+B520;30 dialed;Black;ram;1.77
+B5702;30 dialed;Black;ram;2.4
+C5212;30 dialed;Black;ram;2.2
+SCH-W699;30 dialed;Gold on black;ram;2.8
+W259 Duos;30 dialed;Black;ram;2.2
+W299 Duos;30 dialed;Black;ram;2.2
+S9402 Ego;30 dialed;Black;ram;2.0
+S3030 Tobi;30 dialed;Sweet Pink, Loyal Blue, Apple Green, Bright Orange, Oasis Blue, Snow Silver;ram;1.9
+U810 Renown;20 dialed;Brick;received;2.2
+i770 Saga;microSD;Black, Red, Blue;up to 16 GB (dedicated slot);2.55
+A867 Eternity;microSD;Black;ram;3.2
+A777;microSD;Blue, Red, Orange, Green;ram;2.3
+T919 Behold;30 dialed;Light rose, Black;30 received;3.0
+T459 Gravity;30 dialed;Aqua, Lime;30 received;2.1
+E2510;30 dialed;Black;ram;1.9
+T219;30 dialed;Black;ram;1.63
+E1410;30 dialed;Black/Grey;ram;1.63
+T119;30 dialed;Black;ram;1.63
+E1117;30 dialed;Gray;ram;1.63
+E1110;30 dialed;Grey;ram;1.63
+C6620;30 dialed;Wine red, Apple green, Navy blue;ram;2.6
+i907 Epix;150 MB RAM;Black;256 MB ROM;2.5
+A767 Propel;150 MB RAM;Black, Green, Blue, Red;ram;2.2
+i7110;150 MB RAM;Silver on Black;ram;2.6
+F275;150 MB RAM;Black;ram;2.2
+F270 Beat;150 MB RAM;Black;ram;2.2
+M8800 Pixon;150 MB RAM;Black, Gray, Pink, Red;ram;3.2
+S3600;150 MB RAM;Silver;ram;2.2
+M7500 Emporio Armani;150 MB RAM;Black, White;ram;2.2
+M3200 Beat s;150 MB RAM;Gray;ram;2.0
+T339;150 MB RAM;Black, Red;ram;2.0
+T229;150 MB RAM;Black, Red;ram;1.8
+C510;150 MB RAM;Gray;ram;1.67
+A637;150 MB RAM;White;ram;1.9
+A837 Rugby;150 MB RAM;Red on Black, Yellow on Black;ram;2.0
+A237;20 dialed;Black, Blue on Black, Red on Black;20 received;2.0
+B320;20 dialed;Black;ram;1.77
+B210;20 dialed;Black;ram;1.77
+M3510 Beat b;20 dialed;Black, White;ram;2.0
+M200;20 dialed;Black;ram;1.9
+P270;20 dialed;Black;ram;2.2
+B2700;20 dialed;Black, Blue;ram;1.9
+F268;20 dialed;Black;ram;2.1
+T109;20 dialed;Black and Green;ram;1.85
+E200 ECO;30 dialed;Black and Green;30 received;1.8
+D980;30 dialed;Black;ram;2.6
+B510;30 dialed;White, Silver, Purple;ram;1.77
+E215;30 dialed;Black;ram;2.0
+B130;30 dialed;Black, White, Red, Gray;ram;1.52
+i8510 INNOV8;8/16 GB;Black;128 MB RAM;2.8
+S7330;8/16 GB;Soul-Gray, Noir Black;ram;2.2
+i740;8/16 GB;Gray;ram;2.8
+J800 Luxe;8/16 GB;Black;ram;2.2
+M150;8/16 GB;Light Gray, Charcoal Gray, Pure White, Lavender Pink, Ice Blue;ram;1.77
+M140;8/16 GB;Black;ram;2.1
+M130;8/16 GB;Black;ram;1.52
+L700;8/16 GB;Titan Silver, Grayish Brown, Chargoal Gray, Noir Black, Rose Pink, Lilac Violet;ram;2.1
+i900 Omnia;8/16 GB;Modern Black;128 MB RAM;3.2
+U800 Soul b;8/16 GB;Soul Gray, Platinium Silver, Metallic Black, Soul Pink, Amethyst Violet, Soul Red;ram;2.0
+L870;8/16 GB;Black;ram;2.4
+M620;8/16 GB;Silver, Black;ram;1.9
+Impact sf;8/16 GB;Black;ram;1.77
+Impact b;8/16 GB;Black;ram;1.77
+B300;8/16 GB;Blue;ram;1.52
+Impact;8/16 GB;Black;ram;1.77
+D780;8/16 GB;Dark Silver, Mirror Silver, Gold;ram;2.1
+V820L;8/16 GB;Black;ram;2.6
+F110;8/16 GB;Black;ram;2.0
+G400 Soul;8/16 GB;Silver;ram;2.2
+U900 Soul;8/16 GB;Silver, Pink;ram;2.2
+L810v Steel;30 dialed;Silver;30 received;2.2
+F480;30 dialed;Black;ram;2.8
+G810;30 dialed;Titan Grey;ram;2.6
+M310;30 dialed;Black;received;1.7
+B200;30 dialed;Silver;ram;1.52
+B110;30 dialed;Black;ram;1.52
+A827 Access;30 dialed;Black;ram;2.3
+P960;30 dialed;Onyx Black;ram;2.6
+P220;30 dialed;Black;ram;1.9
+P180;30 dialed;Brown;ram;2.0
+i200;30 dialed;;ram;2.3
+F400;30 dialed;Silver, Red;ram;2.2
+J700;30 dialed;Black, Pink;ram;2.0
+J630;30 dialed;Gray;ram;2.2
+J210;30 dialed;Black;ram;1.8
+J150;20 dialed;Black;20 received;1.9
+L770;20 dialed;Silver;ram;2.1
+E251;30 dialed;Black;30 received;2.0
+A746;30 dialed;Gray;ram;2.2
+A727;30 dialed;Black;ram;2.0
+A717;30 dialed;Black;ram;
+A711;30 dialed;Black, Red;ram;2.3
+A437;30 dialed;Black, Red, Mocca;received;
+A127;20 dialed;Black, Red;received;
+A117;20 dialed;Black;received;
+SPH-i325 Ace;96 MB RAM;Black;192 MB ROM;2.3
+L320;96 MB RAM;Black;ram;1.9
+i640;64 MB RAM;Silver;128 MB ROM;2.4
+L310;64 MB RAM;Black;ram;1.8
+L170;64 MB RAM;Metallic Silver;ram;1.6
+T819;64 MB RAM;Black, Brown;ram;2.1
+F490;64 MB RAM;Black;ram;3.3
+G800;64 MB RAM;Titan Grey;ram;2.4
+C500;64 MB RAM;Black, Red;ram;1.77
+Serenata;64 MB RAM;Black;ram;2.26
+D880 Duos;64 MB RAM;Noble Black, Silver;ram;2.3
+i780;128 MB RAM;Black;256 MB ROM;2.55
+i560;128 MB RAM;Black, Silver;ram;2.4
+i550;128 MB RAM;Black, Silver;ram;2.6
+F330;128 MB RAM;Ice White;ram;2.1
+F250;128 MB RAM;Black, Ice Blue, Candy Red, Metallic Green, Caramel Orange;ram;2.0
+i450;128 MB RAM;Dark Blue;ram;2.4
+Armani;128 MB RAM;Black;ram;2.6
+J610;128 MB RAM;Gray, White, Red, Blue;ram;1.9
+P260;128 MB RAM;Black;ram;2.1
+J400;128 MB RAM;Black;ram;2.0
+J750;128 MB RAM;Black;ram;1.8
+A737;128 MB RAM;Black, Orange, Blue, Green;ram;2.0
+A517;30 dialed;Black;30 received;
+T639;30 dialed;Red, Green, Blue, Cyan;ram;2.2
+T509;30 dialed;Black, Silver;ram;1.9
+T439;20 dialed;Black;20 received;
+T429;20 dialed;Black, Blue;ram;2.0
+T409;20 dialed;Black, Blue;ram;2.0
+T739 Katalyst;20 dialed;Silver;ram;2.1
+T729 Blast;20 dialed;Black;ram;2.3
+T539 Beat;20 dialed;Black;ram;2.0
+L600;20 dialed;Violet, Blue, Pink;ram;1.9
+Z630;20 dialed;Silver;ram;2.2
+G600;20 dialed;Black;ram;2.2
+M610;20 dialed;Black, Blue;ram;1.77
+M600;20 dialed;Black;ram;1.78
+M110;20 dialed;Olive Green, Black;ram;1.52
+B500;20 dialed;Blue, Black, Gray;ram;1.67
+B100;20 dialed;Black;ram;1.52
+S730i;20 dialed;Silver;ram;2.0
+S720i;20 dialed;Anthracite;ram;2.0
+J200;20 dialed;Black;ram;1.8
+L760;20 dialed;Silver;ram;2.0
+F700;20 dialed;Black;ram;3.2
+E950;20 dialed;Black;ram;2.0
+F210;20 dialed;Black, Blue;ram;1.46
+F200;20 dialed;Red, Blue;ram;1.46
+i620;80 MB;Silver, Black, Pink;64 MB RAM;2.2
+A411;80 MB;Black, Red;ram;2.0
+ZV60;80 MB;Silver;ram;1.9
+Z240;80 MB;Scarlet red, Pearl white, Indigo blue;ram;2.1
+Z170;80 MB;Black;ram;1.8
+J600;80 MB;Blue, Silver, Pink;ram;1.9
+i400;80 MB;Black, Red;ram;2.3
+U700;80 MB;Blue/Violet, Silver/White, Gold/Chocolate;ram;2.2
+U600;80 MB;Sapphire Blue, Crystal Blue, Platinum Silver, Copper Gold, Garnet Red, Neutral White, Soft Black;ram;2.2
+U300;80 MB;Blue/Gold, Gray/Black, Silver;ram;2.2
+U100;80 MB;Blue/Violet, Gray/Black, Gold;ram;1.93
+i710;80 MB;Silver;ram;2.8
+i520;80 MB;Black;ram;2.3
+F520;30 dialed;Black;30 received;3.0
+F510;30 dialed;Black;ram;2.4
+P110;30 dialed;Black;ram;2.1
+E840;30 dialed;Ice Silver, Candy Pink, Topaz Gold, Noble Blue;ram;2.2
+E830;30 dialed;Black;ram;2.0
+E740;30 dialed;Red;ram;2.0
+E590;30 dialed;Black, White;ram;1.8
+E230;30 dialed;Black;ram;1.9
+E210;30 dialed;Black, Blue;ram;1.9
+E200;30 dialed;Black, Silver, Red;ram;1.8
+C520;30 dialed;White, Red, Black;ram;1.67
+C450;30 dialed;Black;ram;1.52
+C275;30 dialed;Silver, Black, Red, Champagne;ram;1.5
+C270;30 dialed;Blue, Silver, Black, Red;ram;1.5
+C260;30 dialed;Blue, Silver, Black, Red;ram;1.5
+C250;10 dialed;Metalic Gold, Apple Green, Sweet Pink, Deep Blue, Cool Silver;10 received;
+i600;64 MB RAM;Black;128 MB ROM;2.3
+i617 BlackJack II;128 MB RAM;Black;256 MB ROM;2.4
+i607 BlackJack;64 MB RAM;Black;128 MB ROM;2.3
+F500;64 MB RAM;Black, Pure White, Chocolate;ram;2.4
+F300;64 MB RAM;Black/Blue, White/Orange, Red;ram;2.1
+P940;30 dialed;Black;30 received;2.15
+P930;30 dialed;Onyx Black;ram;2.3
+E790;30 dialed;Silver;ram;2.2
+E490;30 dialed;Red/Silver and Red/Black (different keypads);ram;2.2
+E480;30 dialed;Silver, Black;ram;2.0
+E390;30 dialed;Black;ram;2.0
+X550;30 dialed;;ram;1.9
+X540;30 dialed;Pearly White, Gold;ram;1.9
+E250;30 dialed;Silver, Black;ram;2.0
+X520;30 dialed;Black, Blue, Red, Green;ram;1.9
+X530;30 dialed;Silver, Blue, Pink;ram;1.9
+C300;30 dialed;Silver, Black;ram;1.8
+M300;30 dialed;Ocean Blue;ram;1.6
+E690;30 dialed;Silver, Pink;ram;2.0
+E570;- 20 MB for pictures;Sweet Pink, Festival Orange, Metallic Blue, Special Silver, Viola Black.;video;1.8
+E420;- 20 MB for pictures;Red;ram;1.8
+X830;- 20 MB for pictures;Black, Pure White, Orange, Pink;ram;1.46
+E890;- 20 MB for pictures;Silver;ram;2.3
+E898;- 20 MB for pictures;Silver;ram;
+P310;- 20 MB for pictures;Silver;ram;1.9
+Z720;- 20 MB for pictures;Violet/Gold, Silver, Red;ram;2.1
+Z650i;- 20 MB for pictures;Black;ram;2.2
+Z620;- 20 MB for pictures;Black/Pink, Silver, Blue;ram;2.3
+Z370;- 20 MB for pictures;Black, Silver, Violet;ram;1.9
+Z360;- 20 MB for pictures;Black;ram;2.1
+P200;- 20 MB for pictures;Black;ram;1.9
+S501i;- 20 MB for pictures;Black;ram;
+S401i;- 20 MB for pictures;Black;ram;
+X510;- 20 MB for pictures;Gold, Blue, Black, Red;ram;1.8
+X500;- 20 MB for pictures;Champagne Gold, Metallic Blue, Cool Gray, Pink;ram;1.8
+D840;- 20 MB for pictures;Black, Silver;ram;2.12
+C400;- 20 MB for pictures;Silver;ram;
+C240;- 20 MB for pictures;Silver;ram;1.6
+C180;- 20 MB for pictures;Black;ram;1.52
+C170;- 20 MB for pictures;Red, Black, Gray, Blue;ram;1.52
+C160;- 20 MB for pictures;Imperial Black;ram;1.5
+C140;- 20 MB for pictures;Misty Gray, Light Gray;ram;1.6
+D830;- 20 MB for pictures;Black/Blue, Black, Red/Silver;ram;2.3
+D900i;- 20 MB for pictures;Black, Wine-Red;ram;2.1
+D900;- 20 MB for pictures;Black/Silver, Blue, Red/Gray;ram;2.1
+X820;- 20 MB for pictures;Black/Blue, Silver, Pink;ram;1.8
+C130;- 20 MB for pictures;Orange, Pink, Silver, Blue;ram;1.6
+E500;- 20 MB for pictures;;ram;1.76
+E380;- 20 MB for pictures;Champagne Gold, Scarlet Red, Ice Blue;ram;1.9
+D870;- 20 MB for pictures;Black;ram;2.1
+D780 flip;- 20 MB for pictures;;ram;
+E900;- 20 MB for pictures;Black, Silver, Gold;ram;2.0
+Z400;- 20 MB for pictures;Silver, Black;ram;2.0
+Z550;- 20 MB for pictures;;ram;2.0
+i320;- 20 MB for pictures;Black;ram;2.2
+i310;8 GB (microdrive);;64 MB RAM;2.0
+ZV50;8 GB (microdrive);Aluminium Silver;ram;
+ZV40;8 GB (microdrive);Dark Warm Gray;ram;1.9
+Z560;8 GB (microdrive);Black;ram;2.3
+P920;8 GB (microdrive);Black;ram;2.2
+P900;8 GB (microdrive);Black;ram;2.2
+P910;8 GB (microdrive);Black Silver, Dark Silver;ram;2.2
+T629;8 GB (microdrive);Silver;ram;2.1
+D520;8 GB (microdrive);Black, Silver;ram;1.9
+D300;8 GB (microdrive);Silver;ram;2.2
+Z710;8 GB (microdrive);Black;ram;
+Z600;8 GB (microdrive);Silver;ram;
+Z520;8 GB (microdrive);Silver;ram;
+Z350;8 GB (microdrive);Black;ram;2.0
+Z230;8 GB (microdrive);Wine Red, Silver;ram;1.9
+Z330;8 GB (microdrive);Silver;ram;
+Z310;8 GB (microdrive);Silver;ram;
+Z150;8 GB (microdrive);Black;ram;1.9
+X680;8 GB (microdrive);Black, Blue, Silver, Pink;ram;1.8
+X630;8 GB (microdrive);Black, Blue, Titan Silver;ram;1.7
+X300;8 GB (microdrive);Light Silver, Modern Black, Black Silver, Indian Pink;ram;1.7
+X210;8 GB (microdrive);Black;ram;
+X160;8 GB (microdrive);Black, Blue, Pink, Silver;ram;1.8
+E870;8 GB (microdrive);Silver, White, Pink, Blue, Champagne (T-Mobile only);ram;
+E780;8 GB (microdrive);Silver, Black, Blue;ram;
+i300x;4 GB (microdrive);;64 MB RAM;2.0
+D820;4 GB (microdrive);Noir Black, Blue Black, Charcoal Gray;ram;2.1
+D810;4 GB (microdrive); Black;ram;2.0
+D800;4 GB (microdrive); Black, Silver metal;ram;2.2
+Z540;4 GB (microdrive);Black;ram;
+Z510;4 GB (microdrive);Silver;ram;
+P300;4 GB (microdrive);Silver;ram;1.8
+E770;4 GB (microdrive);Black;ram;1.9
+E370;4 GB (microdrive);Ebony Black, Pearl White, Pink, Blue Green, Noble Blue, Deep Blue, Wine Red;ram;1.8
+E360;4 GB (microdrive);Silver;ram;
+ZV30;4 GB (microdrive);Silver;ram;
+ZV10;4 GB (microdrive);Black;ram;
+Z320i;4 GB (microdrive);Black;ram;2.0
+S400i;4 GB (microdrive);Black;ram;1.8
+S500i;4 GB (microdrive);Black;ram;
+E860;4 GB (microdrive);Black;ram;
+Serene;20 dialed;Black;20 received;
+D600;20 dialed;Charcoal Gray, Wine Red;ram;2.0
+P850;20 dialed;Black;ram;2.12
+E730;- 92 MB shared memory for photos;Black, Red, Silver;video;
+D510;- 92 MB shared memory for photos;Black;ram;1.9
+X700;- 92 MB shared memory for photos;Onyx Black;ram;2.0
+X670;- 92 MB shared memory for photos;;ram;1.8
+X660;- 92 MB shared memory for photos;;ram;
+X490;- 92 MB shared memory for photos;White Silver, Indigo Blue;ram;
+X650;- 92 MB shared memory for photos;Silver White, Rose Pink, Sky Blue;ram;
+X200;- 92 MB shared memory for photos;Titan Silver;ram;
+X150;- 92 MB shared memory for photos;Black;ram;1.5
+Z500;- 92 MB shared memory for photos;Silverblack;ram;
+Z300;- 92 MB shared memory for photos;Dark Black;ram;2.0
+Z130;- 92 MB shared memory for photos;Silverblue;ram;
+Z140;- 92 MB shared memory for photos;;ram;
+D550;- 92 MB shared memory for photos;;ram;2.3
+P860;20 dialed;;20 received;
+Z700;20 dialed;;20 received;
+D730;20 dialed;;ram;1.8
+i750;20 dialed;Black;ram;2.6
+D720;20 dialed;Black, Red, White;ram;1.8
+E760;20 dialed;Metallic Silver;ram;
+E750;20 dialed;Black, Red, Silver;ram;
+E720;20 dialed;Bronze;ram;
+i300;3 GB (microdrive);;64 MB RAM;2.0
+E880;3 GB (microdrive);;ram;1.7
+E350;3 GB (microdrive);Metallic Silver, Black, White;ram;1.6
+E640;3 GB (microdrive);Silver;ram;
+E620;3 GB (microdrive);;ram;
+E530;- 80 MB internal memory for photos;Orange, Pink, Silver, Blue;video;
+E340;- 80 MB internal memory for photos;Silver;ram;
+X810;- 80 MB internal memory for photos;;ram;1.6
+X800;- 80 MB internal memory for photos;Silver;ram;1.8
+C120;- 80 MB internal memory for photos;Black;ram;1.6
+C230;- 80 MB internal memory for photos;Metallic Silver, Black, White;ram;1.5
+C210;- 80 MB internal memory for photos;Black, Blue;ram;1.5
+X640;- 6.5 MB dynamic memory for photos;;MMS and sound;
+X480;- 6.5 MB dynamic memory for photos;Silver;ram;
+X620;- 6.5 MB dynamic memory for photos;;ram;1.7
+X140;- 6.5 MB dynamic memory for photos;Black;ram;1.5
+S410i;- 6.5 MB dynamic memory for photos;Silver;ram;
+S342i;- 6.5 MB dynamic memory for photos;Silver;ram;
+SCH-B100;20 dialed;Silver;20 received;
+D500;- 96 MB shared memory for photos;Silver, Black;video;1.9
+P730;- 96 MB shared memory for photos;2 - Light Silver, Gray Violet;ram;
+P710;10 dialed;Metallic Silver;10 received;
+D488;20 dialed;Silver;20 received;
+D428;20 dialed;Silver;20 received;2.2
+E630;20 dialed;Black;ram;1.7
+E850;20 dialed;Dark blue;ram;1.7
+E810;20 dialed;Silver;ram;1.7
+E800;20 dialed;3 - Ice Silver, Queen Blue, Rose Pink;ram;1.7
+Z110;20 dialed;Silver;ram;2.2
+D710;64 MB RAM;;32 MB ROM;
+C200;64 MB RAM;Metallic Silver;ram;1.6
+i530;32 MB RAM;;32 MB ROM;
+i505;32 MB RAM;;ram;
+i500;32 MB RAM;;32 MB ROM;
+i250;32 MB RAM;;64 MB ROM;
+i700;32 MB RAM;Silver;32 MB ROM;
+X910;20 dialed;;20 received;
+X900;20 dialed;;ram;
+X610;20 dialed;Silver, Blue;ram;1.5
+X460;20 dialed;Metallic Silver, Cloud Silver, Shadow Silver, Ice Green;ram;
+X120;20 dialed;4 - Metallic Silver, Ice Blue, Silver Gray, Indigo Blue;20 received;1.8
+E330;- 9 MB memory for ringtones;2 - Indigo Blue, Deep Gray;images;
+E310;10 dialed;2 - Indigo Blue, Deep Gray;10 received;
+E300;10 dialed;Silver;ram;
+C110;10 dialed;3- Metallic Blue, Milky Silver, Olive Green;ram;1.5
+Z107;10 dialed;Grey, Blue;ram;
+Z105;10 dialed;Metallic Silver;ram;
+E610;10 dialed;Black, Blue, Red;ram;
+E600;10 dialed;Silver;ram;
+P510;10 dialed;4- Mirror Silver, Dark Silver, Light Violet, Metallic Blue;ram;
+E410;10 dialed;;ram;
+X450;10 dialed;3 - Tech silver(Main), Beige silver, Mist blue;ram;
+X430;10 dialed;Pearl White, Metallic Silver, Champagne Gold, Violet;ram;
+P705;10 dialed;;10 received;
+D410;10 dialed;3 - Metallic Silver , Mirror Gray, Indigo Blue;ram;2.1
+X600;- 9 MB shared memory for pictures;Either Blue or Silver;MMS messages;
+X100;- 9 MB shared memory for pictures;;ram;1.7
+E715;- 9 MB shared memory for pictures;Indigo Blue, Metallic Silver, Beaujolais Red, Pearl White;MMS messages;
+E700;- 9 MB shared memory for pictures;Indigo Blue, Metallic Silver, Beaujolais Red, Pearl White;MMS messages;
+C100;- 9 MB shared memory for pictures;Metallic Silver;ram;
+D700;- 9 MB shared memory for pictures;;ram;
+P500;- 9 MB shared memory for pictures;;ram;
+E105;20 received;Silver;20 dialed;
+E100;20 received;;ram;
+X410;20 received;;ram;
+X400;20 received;4 -Deep Blue, Yellow Green, Dark Violet, Caramel Orange;ram;
+S200;20 received;Metallic Silver, Pearl White, Deep Blue,Wine red;ram;
+E400;20 received;;ram;
+D100;20 received;;ram;
+V200;20 received;;ram;
+Z100;20 received;Metallic Silver;ram;
+P100;20 received;3 -Blue Silver, Metallic Green, Indigo Blue;ram;
+P400;20 received;Metallic Silver;ram;
+T700;20 received;;ram;
+T500;20 received;Wine red;ram;
+S500;20 received;Silver;ram;
+S300;20 received;;ram;
+T400;20 received;;ram;
+T200;20 received;4 - Metallic Silver, Titanium Silver, Omega Blue, Pearl White;ram;
+V100;20 received;;ram;
+S100;20 received;;ram;
+Q300;20 received;;ram;
+A800;20 received;Sand Silver, Metallic Blue, Royal Blue, Dark Silver,Pearl White, Metal Silver, Champagne Gold;ram;
+A500;20 received;;ram;
+T100;20 received;;ram;
+Q200;20 received;;ram;
+N620;20 received;4 - White pearl, Black, Sky blue, Silver;ram;
+N500;20 received;4 - Silver, Black, Dark Gray, Sky Blue;ram;
+N400;20 received;3;ram;
+Q105;20 received;Blue, Dark Gray, Green, Wine Red;ram;
+N300;20 received;3;ram;
+A400;20 received;;ram;
+A300;20 received;3 - Champaign Gold, Metallic Silver, Rich Black;ram;
+R220;20 received;3 - Navy Blue, Green, Dark Gray;ram;
+R210;20 received;3 - Navy Blue, Green, Dark Gray;ram;
+R200;20 received;3 - Navy Blue, Green, Dark Gray;ram;
+A200;20 received;3 - White Pearl, Champaign Gold, Silver;ram;
+Q100;20 received;;ram;
+N105;20 received;Champagne;ram;
+N100;20 received;3;ram;
+M100;20 received;3;ram;
+A110;20 received;3;ram;
+A100;20 received;3;ram;
+SGH-2400;20 received;3;ram;
+SGH-2200;20 received;3;ram;
+SGH-2100;20 received;3;ram;
+SGH-810;20 received;3;ram;
+SGH-800;20 received;3;ram;
+SGH-600;20 received;2;ram;
+SGH-500;20 received;3;ram;
+SGH-250;20 received;3;ram;
+Galaxy Tab 3 Plus 10.1 P8220;16/32/64 GB;Silver;2 GB RAM;10.1
+Galaxy F;16/32 GB;Silver, White;3 GB RAM;5.1

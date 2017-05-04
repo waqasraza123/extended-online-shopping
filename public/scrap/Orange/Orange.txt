@@ -1,0 +1,18 @@
+Rono;16 GB;Black;1 GB RAM;5.0
+Gova;8 GB;Black;1 GB RAM;4.5
+Reyo;4 GB;White;1 GB RAM;5.0
+Hiro;4 GB;Black;512 MB RAM;4.3
+San Diego;16 GB (12 GB user available);Black;1 GB RAM;4.0
+Tahiti;8 GB;Black/silver;512 MB RAM;7.0
+Monte Carlo;8 GB;Black;ram;4.3
+San Francisco II;8 GB;Black;ram;3.5
+Sydney;8 GB;Black, White;ram;3.2
+Miami;8 GB;Black, Pink;ram;2.8
+Malibu;8 GB;Black;ram;2.0
+Dallas;8 GB;Black;ram;2.4
+San Francisco;512 MB RAM;Black;512 MB;3.5
+Stockholm;512 MB RAM;Black;ram;2.8
+Atlanta;512 MB RAM;Black;ram;2.4
+Rio II;512 MB RAM;White;ram;2.4
+Barcelona;microSD;Black;up to 32 GB (dedicated slot);2.6
+Rio;microSD;Black, Pink;ram;2.4

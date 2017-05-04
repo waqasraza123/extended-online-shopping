@@ -1,0 +1,64 @@
+A1 Plus;64 GB;Gray, Mocha Gold;4 GB RAM;6.0
+A1;64 GB;Black, Gray, Gold;4 GB RAM;5.5
+F5;32 GB;Gold, Rose gold;4 GB RAM;5.3
+M2017;128 GB;Black, Gold;6 GB RAM;5.7
+Steel 2;16/32 GB;Jazz Gold, Gold Black;3 GB RAM;5.0
+P7;16 GB;White, Latte Gold, Grаy;2 GB RAM;5.0
+S9;64 GB;Black, Gold, Rose Gold;4 GB RAM;5.5
+P7 Max;32 GB;Gold;3 GB RAM;5.5
+F103 Pro;16 GB;Gold, White, Gray;3 GB RAM;5.0
+S6s;32 GB;Mocha Gold, Latte Gold;3 GB RAM;5.5
+M6 Plus;64/128 GB;Champagne;4 GB RAM;6.0
+M6;64/128 GB;Champagne, Gold;4 GB RAM;5.5
+S6 Pro;64 GB;Gold, Silver, Rose Gold;4 GB RAM;5.5
+P5 Mini;8 GB;White, Black, Blue;1 GB RAM;4.5
+W909;64 GB;Rose gold/Black;4 GB RAM;4.2
+S8;64 GB;Gray, Gold, Rose Gold;4 GB RAM;5.5
+Marathon M5 mini;16 GB;White, Gold, Black;2 GB RAM;5.0
+Marathon M5 enjoy;16 GB;White, Gold;3 GB RAM;5.5
+Marathon M5 Plus;64 GB;White, Gold;3 GB RAM;6.0
+Marathon M5 lite;32 GB;Gold, Gray;3 GB RAM;5.0
+Pioneer P5W;16 GB;White, Blue, Red, Yellow, Black;1 GB RAM;5.0
+S6;32 GB;Gold;3 GB RAM;5.5
+Elife S Plus;16 GB;White, Gold, Dark Blue;3 GB RAM;5.5
+F103;16 GB;Pearl White, Dawn White & black;2 GB RAM;5.0
+Elife E8;64 GB;Various;3 GB RAM;6.0
+S5.1 Pro;16 GB;White;2 GB RAM;5.0
+Marathon M4;16 GB;Black, White;2 GB RAM;5.0
+Marathon M5;32 GB;White, Gold, Black;3 GB RAM;5.5
+Pioneer P4S;8 GB;Black, White;1 GB RAM;4.5
+Elife S7;16 GB;White, Black, Maldives Blue;2 GB RAM;5.2
+Pioneer P3S;16 GB;White, Gray, Red, Gold;1 GB RAM;4.5
+Pioneer P2M;16 GB;White, Gray, Gold;1 GB RAM;4.0
+Pioneer P2S;4 GB;Black, White, Blue, Pink;512 MB RAM;4.0
+S96;64 MB RAM;White, Gold, Grey;128 MB;2.6
+L800;8MB RAM;Black, Gold;16 MB;2.6
+L700;8MB RAM;Black, White;16 MB;2.6
+Marathon M3;8 GB;Black, White;1 GB RAM;5.0
+Elife S5.1;16 GB;Black, White, Pink, Mint Green;1 GB RAM;4.8
+Pioneer P6;8 GB;Black, White;1 GB RAM;5.0
+Pioneer P5L;16 GB;Red, White, Black, Blue, Yellow & golden;1 GB RAM;4.7
+Pioneer P4;8 GB;Black, White;1 GB RAM;4.5
+Ctrl V6L;8 GB;White, Blue;1 GB RAM;5.0
+Ctrl V5;8 GB;Black, White;1 GB RAM;4.7
+Elife S5.5;16 GB;Black, white, blue, pink, purple;2 GB RAM;5.0
+Elife E7 Mini;16 GB;Black, White;ram;4.7
+Elife E7;16 GB;Black, White;2 GB RAM/ 32 GB;5.5
+Elife E6;32 GB;Black, White;2 GB RAM;5.0
+Elife E5;16 GB;Black, White, Yellow;1 GB RAM;4.8
+Elife E3;16 GB;Black, White, Blue, Pink;1 GB RAM;4.7
+M2;4 GB;Black, White;1 GB RAM;5.0
+Gpad G5;8 GB;Black, White;1 GB RAM;5.5
+Gpad G4;16 GB;Black, White;1 GB RAM;5.7
+Gpad G3;4 GB;Black, White;512 MB RAM;5.5
+Gpad G2;4 GB;Black, White;1 GB RAM;5.3
+Gpad G1;4 GB;Black, White;512 MB RAM;5.0
+Pioneer P3;4 GB;Black, White;512 MB RAM;4.3
+Pioneer P2;4 GB;Black, White;512 MB RAM;4.0
+Pioneer P1;512 MB;Black;256 MB RAM;3.5
+Ctrl V1;4 GB;Cofee/Black;512 MB RAM;3.95
+Ctrl V2;4 GB;White;512 MB RAM;3.5
+Ctrl V3;4 GB;Black;512 MB RAM;4.3
+Ctrl V4s;8 GB;Black, White;1 GB RAM;4.5
+Ctrl V4;4 GB;Black, White;512 MB RAM;4.5
+Dream D1;4 GB;Black;1 GB RAM;4.65

@@ -1,0 +1,45 @@
+Z2;32 GB;Silver, Gold;4 GB RAM;5.5
+MS1;64 GB;Hanayome White, Pure Pink;3 GB RAM;5.5
+Aquos Xx;32 GB;Black, White, Red;3 GB RAM;5.7
+Aquos Crystal 2;16 GB;Black, White, Red, Blue;2 GB RAM;5.2
+Aquos Crystal;8 GB;Black, White;1.5 GB RAM;5.0
+SH530U;20 GB;Snowy White, Cherry Red;512 MB RAM;5.0
+SE-02;128 MB ROM;Black, red;64 MB RAM;2.8
+Aquos SH80F;2 GB;Black;512 MB RAM;4.2
+Aquos SH8298U;2 GB;Black, red, white;512 MB RAM;4.2
+FX;2 GB;Black;ram;3.0
+AQUOS  941SH;2 GB;Black, Blue, Red, White;ram;4.0
+940SH;2 GB;Black, Blue, Red, White, Brown;ram;3.4
+936SH;30 dialed;Navy, White, Green ground;30 received;3.0
+934SH;30 dialed;White, Pink, Black, Brown Wood;30 received;3.0
+930SH;30 dialed;Black, Blue Green, Pink, White Silver, Silver Violet;ram;3.0
+923SH;30 dialed;Black, Blue, Pink, White, Purple;ram;3.3
+825SH;30 dialed;Black, White, Peach Pink, Rose Red, Lime Green, Lemon Yellow;ram;2.8
+SX862;30 dialed;Black, Silver;ram;3.2
+GX18;30 dialed;Crystal Black with Matt Silver;ram;1.8
+880SH;30 dialed;Black;ram;2.2
+GX34;30 dialed;Black;ram;1.9
+GX33;30 dialed;Black;ram;1.9
+705SH;10 dialed;Gold, Royal Black, Silky Pink;10 received;2.2
+904;10 dialed;Violet, Black, Blue;ram;2.4
+770SH;10 dialed;Silver, Black;ram;2.2
+550SH;10 dialed;;ram;2.0
+GX29;10 dialed;Silver;ram;2.0
+903;10 dialed;Black;ram;2.4
+703;10 dialed;Black;ram;2.0
+GX17;10 dialed;;10 received;1.9
+GX40;10 dialed;;10 received;
+902;10 dialed;Mirror White, Titanium Gray, Warm Orange;ram;2.4
+802;10 dialed;Silver;ram;2.4
+TM200;10 dialed;;ram;2.2
+GX25/GZ200;10 dialed;;ram;
+TM150;10 dialed;;ram;2.2
+TM100;10 dialed;;ram;
+V801SH;10 dialed;4 - Noble White, Precious Black, Shanghai Red...;ram;2.4
+GX30;10 dialed;;ram;2.2
+GX15/GZ100;10 dialed;Silver;ram;
+GX22;10 dialed;;ram;
+GX20;10 dialed;;ram;
+GX10i;10 dialed;;ram;
+GX10;10 dialed;;ram;
+GX1;10 dialed;;ram;

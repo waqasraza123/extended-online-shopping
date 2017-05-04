@@ -1,0 +1,88 @@
+P88;16 GB;Gold, Charcoal Grey;2 GB RAM;5.3
+P55 Novo;16 GB;Champagne Gold, Smoke Grey/Midnight Blue;3 GB RAM;5.5
+P77;8 GB;White, Gray;1 GB RAM;5.0
+Eluga Tapp;16 GB;Champagne Gold, Silver Gray;2 GB RAM;5.0
+Eluga Arc 2;32 GB;Gold, Rose Gold;3 GB RAM;5.0
+Eluga Note;32 GB;Champagne Gold;3 GB RAM;5.5
+Eluga A2;16 GB;Gold, Silver;3 GB RAM;5.0
+Eluga I3;16 GB;Rose Gold, Champagne Gold, Marine Blue;2 GB RAM;5.5
+Eluga I2 (2016);16 GB;Metallic Silver, Metallic Gold, Metallic Grey;2 GB or 3 GB RAM;5.0
+Eluga Arc;16 GB;Gold;2 GB RAM;4.7
+P66;16 GB;Rose Gold, Russet Brown & Electric Blue;2 GB RAM;5.0
+Eluga Turbo;32 GB;Marine Blue, Champagne Gold, Rose Gold;3 GB RAM;5.0
+T50;8 GB;Midnight Blue, Rose Gold, Champagne Gold;1 GB RAM;4.5
+Eluga Mark;16 GB;Royal Gold, Metallic Grey;2 GB RAM;5.5
+Eluga Switch;32 GB;Gunmetal Grey;2 GB RAM;5.5
+Eluga L2;8 GB;Black, Gray;1 GB RAM;5.5
+Eluga I2;8 GB;Gold, Silver, Gray;1 GB RAM;5.0
+T45;8 GB;White, Black;1 GB RAM;4.5
+Eluga Icon;16 GB;Black;2 GB RAM;5.5
+Eluga Z;16 GB;Black, White;2 GB RAM;5.0
+Eluga L 4G;8 GB;Blue;1 GB RAM;5.0
+Eluga S mini;8 GB;Black, White;1 GB RAM;4.7
+Eluga U2;16 GB;Black, White;2 GB RAM;5.0
+Eluga S;8 GB;Black, White;1 GB RAM;5.0
+P61;16 GB;Pearl White, Black;1 GB RAM;6.0
+T41;4 GB;White, Black, Red;512 MB RAM;4.5
+T40;8 GB;White, Dark Grey, Bright Red;1 GB RAM;4.0
+P55;4 GB;Pearl White, Deep Blue;1 GB RAM;5.5
+Eluga I;8 GB;Silver;1 GB RAM;5.0
+Lumix Smart Camera CM1;16 GB;Black;2 GB RAM;4.7
+Eluga A;4 GB;Black, White;1 GB RAM;5.0
+Eluga U;16 GB;Black, White;2 GB RAM;5.0
+P81;8 GB;Black;1 GB RAM;5.5
+T31;4 GB;Pure White, Bluish Black;512 MB RAM;4.0
+T21;4 GB;Black, White;1 GB RAM;4.5
+P11;4 GB;Black, White, Fluorescent Green;1 GB RAM;5.0
+T11;4 GB;Black, White;1 GB RAM;4.0
+P51;4 GB;Black, White;1 GB RAM;5.0
+P41;8 GB;Black, White;1 GB RAM;5.0
+Eluga Power;8 GB;Black, Silver;1 GB RAM;5.0
+Eluga DL1;8 GB;Black, Silver;1 GB RAM;4.3
+Toughpad FZ-A1;16 GB;White;1 GB RAM;10.1
+Toughpad JT-B1;16 GB;White;1 GB RAM;7.0
+KX-TU311;50 dialed;Black;50 received;1.9
+KX-TU301;50 dialed;Black;50 received;1.8
+VS7;50 dialed;;ram;
+VS6;50 dialed;Red, Black;ram;
+VS3;50 dialed;;ram;
+VS2;50 dialed;3 - pink, copper, brown;ram;
+MX7;50 dialed;;ram;
+MX6;50 dialed;Blue;ram;
+SA7;50 dialed;;ram;
+SA6;50 dialed;Red;ram;
+SC3;50 dialed;Black, Silver;50 received;
+A210;50 dialed;White Red, White Champagne-Gold, Silver;ram;
+X800;50 dialed;;ram;2.2
+Z800;10 dialed;;10 received;
+X700;10 dialed;;ram;2.0
+X500;10 dialed;Silver, Red, White;ram;
+X400;10 dialed;Black, Red, White;ram;
+X300;10 dialed;Silver, Red, Gold;ram;1.5
+X200;10 dialed;Black, White;ram;
+X100;50 dialed;Blue, Dark Silver, Silver;50 received;
+A500;10 dialed;Black, White;10 received;
+A200;10 dialed;3 - White, Black, Pink;ram;
+A100 Series;10 dialed;3 - Black, Blue, Red;10 received;
+P341i;10 dialed;Anthrazit;ram;
+X68/X77;10 dialed;Cool silver, Vivid red;ram;
+X11;10 dialed;2 - Red, Blue;ram;
+G70;10 dialed;Red, Blue;10 received;
+G51;20 dialed;Silver, Red, Blue (G51e:Pink,Gold. G51m:Blue,Silver);10 received;
+X88;20 dialed;Gold;ram;
+X66;20 dialed;Gold, Purple;ram;
+X70;20 dialed;;ram;
+G60;20 dialed;Chrome metal;ram;
+G50;20 dialed;3 - Silver, Red, Blue;ram;
+GD55;20 dialed;3 - Silver, Red, Pink;ram;
+GD87;20 dialed;;ram;
+GD67;20 dialed;;ram;
+GD95;20 dialed;2;ram;
+GD75;20 dialed;;ram;
+GD35;20 dialed;3 - Winter White, Black Ice, Cool Blue;ram;
+GD93;20 dialed;;ram;
+GD92;20 dialed;2 ( gun metallic and blue );ram;
+GD90;20 dialed;3 (silver, dark blue, anthracite;ram;
+GD70;20 dialed;3 ( titan, green and blue );ram;
+GD30;20 dialed;;ram;
+G600;5 dialed;;5 received;

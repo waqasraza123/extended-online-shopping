@@ -1,0 +1,35 @@
+Excite Go;8 GB;Black/Silver, Black/White;1 GB RAM;7.0
+Excite 7c AT7-B8;8 GB;Black/Silver;1 GB RAM;7.0
+Excite Pro;32 GB;Silver;2 GB RAM;10.1
+Excite Write;32 GB;Silver;2 GB RAM;10.1
+Excite Pure;16 GB;Silver;1 GB RAM;10.1
+Excite 10 SE;16 GB;Black/Silver;1 GB RAM;10.1
+Excite 13 AT335;32/64 GB;Dark gray metallic;1 GB RAM;13.3
+Excite 10 AT305;16/32/64 GB;Black/Silver;1 GB RAM;10.1
+Excite 7.7 AT275;16/32/64 GB;Dark gray metallic;1 GB RAM;7.7
+Excite AT200;16/32 GB;Black;1 GB RAM;10.1
+Thrive 7;16/32 GB;Black;1 GB RAM;7.0
+Windows Phone IS12T;16/32 GB;Citrus, Magenta, Black;ram;3.7
+Thrive;8/16/32 GB;Black;1 GB RAM;10.1
+K01;256 MB RAM;Black, White;512 MB ROM;4.1
+TG02;256 MB RAM;Black, White;512 MB ROM;4.1
+TG01;256 MB RAM;Black, White;512 MB ROM;4.1
+G810;128 MB RAM;Black;256 MB ROM;2.83
+G910 / G920;128 MB RAM;Silver;256 MB ROM;3.0
+G710;64 MB RAM;Black;128 MB ROM;2.46
+G450;64 MB RAM;Black, Red, White;ram;
+G900;40 MB;Silver;128 MB RAM;3.0
+G500;40 MB;Silver;ram;2.3
+TS605;40 MB;Pink, Green, Champagne, Copper, Silver, Aubergine;ram;1.93
+TX80;40 MB;Cosmo Pink, Sugar White, Honeycomb Black;ram;2.4
+TS32;40 MB;Lunar Graphite, Desert Gold, Midnight Purple;ram;1.93
+TS705;40 MB;Silver, Black;ram;1.8
+TS608;40 MB;Silver;ram;1.93
+TX62;40 MB;Black, Green, Pink;ram;2.0
+904T;20 dialed;Forest Green, Urban Silver, Canyon Red;20 received;2.4
+903T;20 dialed;Blaze Orange, Deep Sea Blue, Haze White;20 received;2.4
+705T;10 dialed;Shell White, Urban Black;10 received;2.0
+TS921;20 dialed;Glossy Red, Purplish Silver, Matte Black;20 received;2.4
+TS808;20 dialed;Black;ram;2.4
+TS803;20 dialed;Black, Silver;ram;2.4
+TS10;10 dialed;Silver;10 received;

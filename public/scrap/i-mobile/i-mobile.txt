@@ -1,0 +1,37 @@
+i858;microSD;Black, White;up to 16 GB (dedicated slot);4.3
+8500;256 MB;Silver;128 MB RAM;3.2
+5230;256 MB;Silver;ram;2.8
+Hitz 2206;256 MB;Silver;ram;
+5220;256 MB;Black, White, Red;ram;2.4
+TV658 Touch&Move;256 MB;Black;ram;3.0
+Hitz 212;256 MB;Black-Green, Silver-Blue, Silver-Orange, Pink;ram;1.77
+Hitz 210;256 MB;Black;ram;1.8
+TV650 Touch;256 MB;Black;ram;3.0
+TV550 Touch;256 MB;Black;ram;2.8
+TV 630;256 MB;Black;ram;2.4
+TV 628;256 MB;Black;ram;2.4
+TV 620;256 MB;Black;ram;2.4
+TV 536;256 MB;Black, Silver;ram;2.4
+638CG;256 MB;Black;ram;2.4
+Hitz 232CG;256 MB;Black, Silver;ram;2.0
+TV 535;256 MB;Black, Silver;ram;2.2
+627;256 MB;Black, Silver;ram;2.0
+TV 533;256 MB;Black, Silver;ram;2.4
+TV 530;256 MB;Black;ram;2.4
+TV 523;256 MB;Black, Silver;ram;2.2
+522;256 MB;Black, Silver;ram;2.2
+320;256 MB;Black, White;ram;2.2
+319;256 MB;Black, White, Gray;ram;1.67
+TV 626;256 MB;Black, Silver, White;ram;2.4
+902;256 MB;Silver;ram;2.0
+625;256 MB;Black, Silver;ram;2.0
+903;256 MB;Black, White;ram;2.0
+613;256 MB;Black;ram;2.2
+520;256 MB;Black, Silver;ram;1.76
+518;256 MB;Black;ram;2.0
+510;256 MB;;ram;
+318;256 MB;;ram;1.8
+315;256 MB;;ram;1.5
+202;256 MB;Black, White;ram;1.8
+201;256 MB;Gray-Blue, Black-Orange;ram;1.5
+101;256 MB;Black, White, Gray;ram;1.5

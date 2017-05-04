@@ -1,0 +1,50 @@
+U69;32/64 GB;Various;ram;3.0
+U60;32/64 GB;Black;ram;2.4
+U56;32/64 GB;Black;ram;2.4
+U53;32/64 GB;Black;ram;2.0
+K3;32/64 GB;White, Black;ram;2.6
+A66;32/64 GB;Pink, Black;ram;2.4
+V730;32/64 GB;Black, White;ram;2.4
+V700;32/64 GB;Black;ram;2.2
+M320+;32/64 GB;Black;ram;1.8
+M306;32/64 GB;Black;ram;1.8
+M300;32/64 GB;Black;ram;1.8
+M180;32/64 GB;Black;ram;1.44
+M160;32/64 GB;Black;ram;1.5
+M150;32/64 GB;Black;ram;1.3
+A7;32/64 GB;Black, Red;ram;1.66
+M600 Black Pearl;32/64 GB;Black;ram;1.1
+P8;20 dialed;Black;20 received;
+A600;20 dialed;Black;20 received;2.2
+M2000;20 dialed;Pink;20 received;1.8
+M1200;20 dialed; Silver;20 received;1.8
+M1100;20 dialed; Silver;20 received;1.8
+M1000;20 dialed;Red, Silver;20 received;1.8
+M80;20 dialed;Black;20 received;2.0
+M260;20 dialed;Black, White;20 received;1.8
+N90;20 dialed;Black silver;20 received;2.4
+N70;20 dialed;Black silver;20 received;2.0
+N60;20 dialed;;ram;
+T3000;20 dialed;;ram;
+V280;20 dialed;;ram;
+F1100;20 dialed;Dark Blue, Red;ram;
+L1000;20 dialed;Silver;ram;
+P7;20 dialed;;ram;
+V7000;20 dialed;Silver;ram;
+V6200;20 dialed;Silver;ram;
+V6100;20 dialed;Silver;ram;
+V6000;20 dialed;Silver;ram;
+P6;20 dialed;Silver, Graphite Grey;ram;
+V2000;20 dialed;Pink, Black;ram;
+V200;20 dialed;;ram;
+V190;20 dialed;;ram;
+V160;20 dialed;Silver;ram;
+V100;20 dialed;;ram;
+Z300;20 dialed;Silver;ram;
+Z100;20 dialed;Silver;ram;
+V1000;20 dialed;;ram;
+P5;20 dialed;;ram;
+Z7100;20 dialed;Silver, Red, Blue;ram;
+Z7000;20 dialed;Silver, Red, Blue;ram;
+Z3000;20 dialed;Silver, Red, Black;ram;
+Z8000;20 dialed;;ram;

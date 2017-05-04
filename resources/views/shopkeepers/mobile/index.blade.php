@@ -36,7 +36,7 @@
                                 </tr>
                             </thead>
                             <tbody>
-                            @foreach($mobile as $item)
+                            @forelse($mobile as $item)
                                 <tr>
                                     <td>{{ $item['mobile_id']}}</td>
                                     <td>{{ $item['title']}}</td>
@@ -63,10 +63,16 @@
                                         {!! Form::close() !!}
                                     </td>
                                 </tr>
-                            @endforeach
+                            @empty
+                                <p class="well well-lg">
+                                    No Mobiles Added Yet.
+                                </p>
+                            @endforelse
                             </tbody>
                         </table>
-                        <div class="pagination-wrapper">{{$mobile->setPath('/products/mobile/')->render()}}</div>
+                        @if($mobile)
+                            <div class="pagination-wrapper">{{$mobile->setPath('/products/mobile/')->render()}}</div>
+                        @endif
                         {{--@if($count > 10)
                             @include('partials.pagination', ['limit' => 10, 'count' => $count])
                         @endif--}}

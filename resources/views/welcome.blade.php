@@ -29,8 +29,8 @@
                                                         @if($mobile->old_price != '0' && $mobile->old_price != null)<strike><small class="small-font">Rs {{$mobile->old_price}}</small></strike>, @endif Rs {{$mobile->current_price}}
                                                     </p>--}}
                                                     <p>
-                                                        <button data-toggle="tooltip" data-placement="top" title="{{$mobile['location']}}" class="btn bg-blue btn-xs waves-effect "{{$mobile['location'] == null ? "disabled" : ""}}>Local</button>
-                                                        <button data-toggle="tooltip" data-placement="top" title="Available on Online Vendors" class="btn bg-pink btn-xs waves-effect "{{($mobile['location'] == null && $mobile['price'] == 999999999999) ? "disabled" : ""}}>Online</button>
+                                                        <button data-toggle="tooltip" data-placement="top" title="{{$mobile['location']}}" class="btn bg-green btn-xs waves-effect "{{($mobile['location'] == null) ? "disabled" : ""}}>Local</button>
+                                                        <button data-toggle="tooltip" data-placement="top" title="Available on Online Vendors" class="btn bg-red btn-xs waves-effect "{{($mobile['available'] == 'online') ? "" : "disabled"}}>Online</button>
                                                     </p>
                                                 </div>
                                             </div>

@@ -1,0 +1,436 @@
+Moto G5 Plus;32/64 GB;Lunar Grey, Fine Gold;2/4 GB RAM; 32 GB;5.2
+Moto G5;16/32 GB;Lunar Grey, Fine Gold, Sapphire Blue;2/3 GB RAM;5.0
+Moto M;32 GB;Gold, Gray, Silver;3 RAM or 64 GB;5.5
+Moto E3 Power;16 GB;Black, White;2 GB RAM;5.0
+Moto Z Play;32 GB;Black/Silver/Black Slate, White/Fine Gold/Sugar White;3 GB RAM;5.5
+Moto E3;8 GB;Black, White;1 GB RAM;5.0
+Moto Z Force;32/64 GB;Black/Gray, Black/Rose Gold, Black/Gold, White;4 GB RAM;5.5
+Moto Z;32/64 GB;Black/Gray, Black/Rose Gold, Black/Gold, White;4 GB RAM;5.5
+Moto G4 Plus;16 GB;Black, White;2 GB RAM or 32 GB;5.5
+Moto G4;16/32 GB;Black, White;2 GB RAM;5.5
+Moto G4 Play;8/16 GB;Black, White;1/2 GB RAM;5.0
+Moto G Turbo Edition;16 GB;Black, White;2 GB RAM;5.0
+Moto X Force;32/64 GB;Black Ballistic Nylon;3 GB RAM;5.4
+Droid Turbo 2;32/64 GB;Black/Soft-Grip, Black/Pebble Leather, Gray/Ballistic Nylon, Winter White/Soft-Grip;3 GB RAM;5.4
+Droid Maxx 2;16 GB;Deep Sea Blue, White;2 GB RAM;5.5
+Moto X Style;16/32/64 GB;Black lens/Dark Gray Frame and accents/ Black Soft Feel Inlay;3 GB RAM;5.7
+Moto X Play Dual SIM;16/32 GB;Black, White;2 GB RAM;5.5
+Moto X Play;16/32 GB;Black, White;2 GB RAM;5.5
+Moto G Dual SIM (3rd gen);8 GB;Black, White;1 GB RAM;5.0
+Moto 360 Sport (1st gen);4 GB;Various;512 MB RAM;1.37
+Moto 360 46mm (2nd gen);4 GB;Black Leather, Black Metal, Rose Gold/Blush Leather, Silver/Cognac Leather;512 MB RAM;1.56
+Moto 360 42mm (2nd gen);4 GB;Gold, Black Leather, Black Metal, Rose Gold/Blush Leather, Silver/Cognac Leather;512 MB RAM;1.37
+Moto 360 (1st gen);4 GB;Cognac Leather, Black, Stone Grey, Champagne Metal, Natural Metal, Champagne, Dark Metal, Light Metal;512 MB RAM;1.56
+Moto G (3rd gen);8 GB;Black, White;1 GB RAM;5.0
+Moto E Dual SIM (2nd gen);8 GB;Black, White;1 GB RAM;4.5
+Moto E (2nd gen);8 GB;Black, White;1 GB RAM;4.5
+Moto G 4G (2nd gen);8 GB;Black;1 GB RAM;5.0
+Moto G 4G Dual SIM (2nd gen);8/16 GB;Black, Black/Lemon;1 GB RAM;5.0
+Moto Maxx;64 GB;Black Ballistic Nylon;3 GB RAM;5.2
+DROID Turbo;32/64 GB;Black Ballistic Nylon, Metallic Black, Metallic Red, Blue;3 GB RAM;5.2
+Nexus 6;32/64 GB;Midnight Blue, Cloud White;3 GB RAM;5.96
+Moto X (2nd Gen);16/32 GB;Black, White;2 GB RAM/ 64 GB (AT&T;5.2
+Moto G Dual SIM (2nd gen);8/16 GB;White, Black;1 GB RAM;5.0
+Moto G (2nd gen);8 GB;White, Black;1 GB RAM;5.0
+Moto G 4G;8 GB;White, Black, Moto G Ferrari Edition;1 GB RAM;4.5
+Luge;8 GB;Black;1 GB RAM;4.3
+Moto E;4 GB;Black, White;1 GB RAM;4.3
+Moto E Dual SIM;4 GB;Black, White;1 GB RAM;4.3
+Moto G Dual SIM;8/16 GB;Black (front panel), 7 color options (back panel);1 GB RAM;4.5
+Moto G;8/16 GB;Black (front panel), 7 color options (back panel);1 GB RAM;4.5
+Moto X;16/32/64 GB;Black, White (front panel), 18 color options (back panel);2 GB RAM;4.7
+DROID Ultra;16 GB;Black, Red, White;2 GB RAM;5.0
+DROID Maxx;16/32 GB;Black, High Gloss Red, Black with Chrome Accents;2 GB RAM;5.0
+DROID Mini;16 GB;Black, Red;2 GB RAM;4.3
+RAZR D3 XT919;4 GB;Black, White;1 GB RAM;4.0
+RAZR D1;4 GB;Black, White;1 GB RAM;3.5
+Electrify M XT905;8 GB (5 GB user available);Black/Gray;1 GB RAM;4.3
+RAZR i XT890;8 GB (5 GB user available);Black, White;1 GB RAM;4.3
+DROID RAZR MAXX HD;16/32 GB (26 GB user available);Black, White;1 GB RAM;4.7
+DROID RAZR HD;16 GB (12 GB user available);Black, White;1 GB RAM;4.7
+RAZR HD XT925;16 GB (12 GB user available);Black, White;1 GB RAM;4.7
+DROID RAZR M;8 GB;Black, White;1 GB RAM;4.3
+RAZR M XT905;8 GB (4.5 GB user available);Black, White;1 GB RAM;4.3
+DEFY XT XT556;1 GB;Brown;512 MB RAM;3.7
+Electrify 2 XT881;8 GB;Black;1 GB RAM;4.3
+Photon Q 4G LTE XT897;8 GB;Black;1 GB RAM;4.3
+Defy Pro XT560;8 GB;Black;ram;2.7
+ATRIX HD MB886;8 GB;Black;1 GB RAM;4.5
+XT760;2 GB;Black;768 MB RAM;4.0
+ATRIX TV XT687;512 MB;Dark Grey;512 MB RAM;4.0
+ATRIX TV XT682;1 GB;Black;512 MB RAM;4.0
+MotoGO TV EX440;128 MB ROM;Black;50 MB RAM;3.2
+Motosmart Me XT303;512 MB;Black, White;256 MB RAM;3.2
+MOTOKEY 3-CHIP EX117;50 MB;Brown, White;64 MB RAM;2.0
+RAZR V XT885;4 GB;Black;1 GB RAM;4.3
+RAZR V XT889;4 GB;Black;1 GB RAM;4.3
+RAZR V MT887;4 GB;Black;ram;4.3
+MOTOSMART MIX XT550;4 GB;Blak/White;ram;4.0
+MotoGO EX430;4 GB;White;ram;2.2
+Motosmart Flip XT611;512 MB;Black;512 MB RAM;3.2
+XT390;512 MB;Champagne, truffle black;512 MB RAM;3.5
+RAZR MAXX;16 GB;Black;1 GB RAM;4.3
+DEFY XT535;1 GB;Brown, White;512 MB RAM;3.7
+GLEAM+ WX308;1 GB;Winter White, Silver;ram;2.8
+DROID 4 XT894;16 GB;Black;1 GB RAM;4.0
+DROID RAZR MAXX;8 GB;Black;1 GB RAM;4.3
+Motoluxe MT680;1 GB;White, Black;512 MB RAM;4.0
+Motoluxe XT389;512 MB;White, Black;512 MB RAM;3.5
+Motoluxe;1 GB;Licorice, white;512 MB RAM;4.0
+Defy Mini XT321;512 MB;Black;512 MB RAM;3.2
+Defy Mini XT320;512 MB;Black;512 MB RAM;3.2
+XT319;512 MB;Black;256 MB RAM;3.2
+WX306;512 MB;Black;ram;2.0
+Fire;microSD;Black, White;up to 32 GB (dedicated slot);2.8
+MT917;microSD;Black;ram;4.5
+XT928;microSD;Black;ram;4.5
+DROID XYBOARD 8.2 MZ609 ;16/32 GB;Black;1 GB RAM;8.2
+DROID XYBOARD 10.1 MZ617;16/32/64 GB;Black;1 GB RAM;10.1
+XT532;512 MB;Black;512 MB RAM;3.5
+MOTO XT615;1 GB;Licorice, Ultra white;512 MB RAM;4.0
+EX226;50 MB;Smoke Gray with Licorice;128 MB ROM;2.4
+Motokey Social;50 MB;Smoke Gray;128 MB ROM;2.4
+XOOM 2 Media Edition 3G MZ608;16 GB;Black;1 GB RAM;8.2
+XOOM 2 Media Edition MZ607;16/32 GB;Black;1 GB RAM;8.2
+XOOM 2 3G MZ616;16/32 GB;Black;1 GB RAM;10.1
+XOOM 2 MZ615;16/32 GB;Black;1 GB RAM;10.1
+XOOM Media Edition MZ505;16 GB;Black;1 GB RAM;10.1
+RAZR XT910;16 GB (11.5 GB user available);Black, White;1 GB RAM;4.3
+DROID RAZR XT912;16 GB;Black, White, Purple;1 GB RAM;4.3
+ATRIX 2 MB865;8 GB;Black;1 GB RAM;4.3
+Admiral XT603;4 GB;Black;512 MB RAM;3.1
+ME632;4 GB;Black;512 MB RAM;3.1
+PRO+;4 GB;Black;512 MB RAM;3.1
+DEFY+;2 GB;Black, White;512 MB RAM;3.7
+EX212;2 GB;Various;ram;2.4
+EX119;2 GB;White, Black;ram;2.4
+MOTOKEY XT EX118;2 GB;White, Black;ram;2.4
+MOTOKEY Mini EX109;2 GB;Brown;ram;2.0
+MOTOKEY Mini EX108;2 GB;White;ram;2.0
+WX294;2 GB;Black;ram;1.8
+FIRE XT;512 MB;Black;512 MB RAM;3.5
+FIRE XT311;512 MB;Black;256 MB RAM;2.8
+SPICE Key XT317;512 MB;Black, White;256 MB RAM;2.8
+SPICE Key;512 MB;Black;256 MB RAM;2.8
+MILESTONE 3 XT860;8 GB;Black;512 MB RAM;4.0
+DROID 3;16 GB;Black;512 MB RAM;4.0
+Triumph;2 GB;Black;512 MB RAM;4.1
+Photon 4G MB855;16 GB;Black;1 GB RAM;4.3
+EX232;64 MB ROM;White, Black;128 MB RAM;2.8
+WILDER;64 MB RAM;Licorice and Saffron, Licorice and Classic Gray;128 MB ROM;2.8
+MOTO MT870;4 GB;Cloud gray, Light gold;512 MB RAM;4.0
+MOTO MT620;512 MB;Various;256 MB RAM;3.1
+Milestone XT883;16 GB;Black;512 MB RAM;4.0
+MOTO XT882;8 GB;Electric magic black, White beam;512 MB RAM;4.0
+MOTO XT316;512 MB;Black;256 MB RAM;2.8
+XPRT MB612;512 MB;Black;ram;3.1
+GLEAM;512 MB;Black, Red;ram;2.4
+PRO;512 MB;Black;ram;3.1
+XOOM MZ604;16/32/64 GB;Black;1 GB RAM;10.1
+XOOM MZ601;16/32/64 GB;Black;1 GB RAM;10.1
+XOOM MZ600;16/32/64 GB;Black;1 GB RAM;10.1
+ATRIX;16 GB;Black;1 GB RAM;4.0
+ATRIX 4G;16 GB;Black;1 GB RAM;4.0
+Cliq 2;1 GB;Black;512 MB RAM;3.7
+DROID BIONIC XT875;16 GB;Black;512 MB RAM;4.3
+DROID X ME811;1 GB;Black;512 MB RAM;4.3
+DROID BIONIC XT865;16 GB;Black;512 MB RAM;4.3
+MOTO ME525;2 GB;Black;512 MB RAM;3.7
+MILESTONE 2 ME722;8 GB;Black;512 MB RAM;3.7
+DROID 2 Global;8 GB;White, Black;512 MB RAM;3.7
+EX122;128 MB ROM;Black;64 MB RAM;3.2
+EX128;128 MB ROM;Black;ram;3.2
+MOTOTV EX245;128 MB ROM;Black;ram;3.2
+DROID PRO XT610;2 GB;Black;512 MB RAM;3.1
+XT301;512 MB;Black;256 MB RAM;3.0
+SPICE XT300;512 MB;Black;256 MB RAM;3.0
+FLIPSIDE MB508;512 MB;Black;512 MB RAM;3.1
+MOTO MT716;512 MB;Black;512 MB RAM;3.7
+BRAVO MB520;2 GB;Black;512 MB RAM;3.7
+CITRUS WX445;512 MB;Black;256 MB RAM;3.0
+EX300;512 MB;Black;ram;2.8
+EX210;512 MB;Black;ram;3.2
+EX201;512 MB;Black;ram;3.0
+EX115;512 MB;Smoke Gray, Ultra White;ram;2.3
+EX112;512 MB;Smoke Gray, Ultra White;ram;2.3
+CUPE;512 MB;Black;ram;2.4
+DEFY;2 GB;Black, White;512 MB RAM;3.7
+MILESTONE 2;2 GB;Black;ram;3.7
+DROID 2;2 GB;Black;ram;3.7
+MT810lx;512 MB;Gray;512 MB RAM;3.2
+XT810;512 MB;Gray;256 MB RAM;3.2
+XT806;512 MB;Gray;512 MB RAM;3.2
+A1260;512 MB;Gray;256 MB RAM;3.0
+A1680;512 MB;Gray;256 MB RAM;3.1
+Grasp WX404;512 MB;Black;ram;2.2
+Rambler;512 MB;Black;ram;2.2
+CHARM;512 MB;Golden Bronze, Cabernet;ram;2.8
+ES400;256 MB RAM;Black;1 GB Flash;3.0
+DROID X2;8 GB;Black;512 MB RAM;4.3
+DROID X;6.5 GB;Black;512 MB RAM;4.3
+MILESTONE XT720;512 MB;Black Slate;256 MB RAM;3.7
+XT720 MOTOROI;512 MB;Gentle Black;256 MB RAM;3.7
+Quench XT5 XT502;512 MB;Brown;256 MB RAM;3.2
+Quench XT3 XT502;512 MB;Brown;256 MB RAM;3.2
+FlipOut;512 MB;White, Fairway Green, Poppy Red, Raspberry Crush, Brilliant Blue, Licorice, Saffron;512 MB RAM;2.8
+WX295;512 MB;Black;ram;1.8
+WX290;512 MB;Black;ram;1.77
+WX265;512 MB;Black;ram;1.77
+WX260;512 MB;Black;ram;1.8
+WX181;512 MB;Black;ram;1.5
+WX161;512 MB;Black;ram;1.32
+QUENCH;512 MB;Black, White, Licorice, Purple;256 MB RAM;3.1
+BACKFLIP;512 MB;Platinum Silver;256 MB RAM;3.1
+XT800 ZHISHANG;512 MB RAM;Black;1 GB;3.7
+XT701;512 MB;Black;256 MB RAM;3.7
+MT710 ZHILING;4 GB;Black, Red;256 MB RAM;3.7
+MOTO XT702;512 MB;Black;256 MB RAM;3.7
+MILESTONE;133 MB;Black;256 MB RAM;3.7
+WX395;10 dialed;Black;10 received;1.75
+WX390;10 dialed;Black;10 received;1.8
+WX288;10 dialed;Black;10 received;1.8
+WX280;10 dialed;Black;10 received;1.8
+WX180;10 dialed;Black;10 received;1.5
+WX160;10 dialed;Black;10 received;1.3
+Motocubo A45;10 dialed;White;ram;2.5
+DEXT MB220;1 GB;Midnight Titanium, Winter White;256 MB RAM;3.1
+ROKR ZN50;20 dialed;Black;20 received;3.2
+Karma QA1;20 dialed;Black;ram;2.5
+L800t;20 dialed;Hyun Black Shadow;ram;1.9
+W7 Active Edition;20 dialed;Black, Licorice and Alpine White;ram;2.2
+ROKR W6;20 dialed;;ram;1.9
+MC55;256 MB;Black;128 MB RAM;3.5
+ZN300;256 MB;Black;ram;
+E11;30 dialed;Black;30 received;2.8
+A3100;256 MB;Black;128 MB RAM;2.8
+A3000;256 MB;Black;128 MB RAM;2.8
+Tundra VA76r;256 MB;Grey;ram;2.2
+W233 Renew;10 dialed;Green;10 received;1.6
+COCKTAIL VE70;10 dialed;Mint, Tropical;ram;2.2
+VE66;110 MB;;256 MB ROM;2.2
+EM35;110 MB;Black;ram;2.2
+Aura;110 MB;Silver;ram;1.55
+Q 11;64 MB RAM;Black;128 MB Flash;2.4
+VE538;64 MB RAM;Black;ram;2.0
+RAZR2 V9x;64 MB RAM;Black;ram;2.2
+ZN200;64 MB RAM;Licorice, Pink;ram;1.9
+W396;64 MB RAM;lustrous silver, dark titanium gray;ram;1.8
+W231;64 MB RAM;Red;ram;1.6
+EM30;microSD;Black;up to 8 GB (dedicated slot);2.0
+EM28;20 dialed;Blue;20 received;1.8
+EM25;20 dialed;Black;20 received;1.8
+PEBL VU20;10 dialed;Purple, Rose Bloom, Navy Blue;10 received;2.2
+MOTOACTV W450;40 dialed;Mandarin Orange, Canary Yellow;40 received;
+VE75;20 dialed;Black, Gray;20 received;2.6
+ZN5;20 dialed;Grey;ram;2.4
+A1210;20 dialed;Golden white, Xuan Yue Powder, Deep Brown;ram;2.8
+A1600;20 dialed;Black;ram;2.4
+A1890;20 dialed;Black;ram;2.4
+A1800;microSD;Black;up to 4 GB (dedicated slot);2.4
+A810;30 dialed;Excellent Black and White Shang-chi;30 received;2.2
+W388;30 dialed;Black;ram;1.8
+Z9;20 dialed;Burgundy Red;20 received;2.4
+Z6w;20 dialed;Black;ram;2.0
+Z6c;20 dialed;Black;ram;2.0
+W181;20 dialed;;ram;1.6
+W177;20 dialed;;ram;1.6
+W161;20 dialed;;ram;
+W270;20 dialed;lustrous silver, dark titanium gray;ram;1.6
+W230;20 dialed;lustrous silver, dark titanium gray;ram;1.6
+RIZR Z10;70 MB;Black, Chrome;64 MB RAM;2.2
+ROKR E8;70 MB;Dark Navy, Platinum;ram;2.0
+W377;70 MB;Cannon Gray, Lustrous Silver, Mandarin Orange;ram;1.8
+W213;70 MB;Black;ram;1.55
+W180;70 MB;Black;ram;1.7
+W160;70 MB;Black;ram;
+U9;70 MB;Pink, Purple;ram;2.0
+V1100;70 MB;Black;ram;
+PEBL U3;70 MB;;ram;1.9
+RAZR2 V9;70 MB;;ram;2.2
+RAZR2 V8;70 MB;Dark Pearl Gray;ram;2.2
+ROKR W5;70 MB;Dark Pearl Gray;ram;1.9
+W490;70 MB;Black, Purple, Green;ram;1.9
+W395;70 MB;;ram;
+W380;70 MB;;ram;
+W360;70 MB;;ram;1.6
+W218;70 MB;;ram;1.6
+RIZR Z8;70 MB;Black;ram;2.2
+KRZR K3;70 MB;Dark Pearl Gray, Stone Gray;ram;2.0
+SLVR L9;70 MB;;ram;1.9
+Q 9h;96 MB RAM;Silver, Black;256 MB ROM;2.4
+Q8;96 MB RAM;Silver, Black;ram;2.4
+W510;96 MB RAM;Dark Pearl Gray;ram;1.9
+W215;96 MB RAM;;ram;
+W205;96 MB RAM;;ram;
+ROKR Z6;96 MB RAM;Black;ram;2.1
+ROKR E6;96 MB RAM;Black;ram;2.4
+SLVR L7e;96 MB RAM;Blue;ram;1.9
+RAZR maxx V6;96 MB RAM;Black;ram;2.2
+RAZR V3xx;96 MB RAM;Black;ram;2.2
+RIZR Z3;96 MB RAM;Red, Blue, Black;ram;1.9
+KRZR K1;96 MB RAM;Cosmic Blue, Silver Sail;ram;1.9
+W375;96 MB RAM;Cannon Gray, Lustrous Silver, Mandarin Orange.;ram;1.8
+W209;96 MB RAM;Red, Silver;ram;1.6
+W208;10 dialed;Red, Silver;10 received;1.6
+MOTOFONE F3;20 dialed;Black, Blue, Red;received;2.2
+W220;20 dialed;;ram;1.6
+V195;20 dialed;;ram;
+V191;20 dialed;Silver, Blue;ram;
+ROKR E2;20 dialed;Silver, Black;ram;2.0
+RAZR V3i;20 dialed;Silver Quartz;ram;2.2
+ROKR E1;20 dialed;Pearl Star White;ram;1.9
+A910;20 dialed;;ram;
+A1200;20 dialed;Black, Red, Silver;ram;2.4
+A728;20 dialed;Mr. black;ram;
+A732;20 dialed;Silver, Black;ram;1.8
+E895;20 dialed;;ram;2.2
+V3x;20 dialed;;ram;2.2
+E1070;10 dialed;Black, Silver;10 received;2.0
+E770;10 dialed;White, Grape;ram;1.9
+SLVR L7;10 dialed;Black, Silver, Pink;ram;1.9
+PEBL U6;10 dialed;;ram;1.8
+A1010;10 dialed;;ram;2.9
+E1060;10 dialed;;ram;
+E1120;10 dialed;;ram;2.1
+V1050;10 dialed;Black;ram;2.2
+C261;10 dialed;Black;ram;
+C257;10 dialed;Black;ram;
+C168;10 dialed;;ram;
+C139;10 dialed;Black, Silver;10 received;
+C123;10 dialed;Silver;10 received;
+C118;10 dialed;;10 received;
+C117;10 dialed;Shadow Anthracite, Cosmic Universe Blue;10 received;
+C113a;10 dialed;Black;10 received;
+C113;10 dialed;Black;10 received;
+C390;10 dialed;Dark Blue Green Soft Feel, Dark Roast Black;ram;
+E680i;10 dialed;;ram;2.5
+V560;10 dialed;;ram;
+V557;10 dialed;Silver;ram;
+V361;10 dialed;Black;ram;1.9
+V360;10 dialed;Silver;ram;1.9
+L6;10 dialed;Silver;ram;2.0
+L2;10 dialed;Diamond Dust;ram;1.8
+V235;10 dialed;Silver;ram;
+V230;10 dialed;Black;ram;
+V186;10 dialed;;ram;
+V176;10 dialed;;ram;
+E378i;10 dialed;Black;ram;
+V635;10 dialed;Crystal Silver, Black;ram;1.9
+A668;10 dialed;Silver, Black;10 received;
+V980;10 dialed;Black;ram;1.9
+C980;10 dialed;;ram;1.9
+V535;10 dialed;Matte Black;ram;
+V547;10 dialed;Grey-Black Silver;ram;
+E375;10 dialed;Retro red, Fog blue;ram;
+RAZR V3;10 dialed;Silver, Black (Special Edition);ram;2.2
+A780;10 dialed;;ram;2.5
+Droid XTreme;8 GB;Black;512 MB RAM;4.1
+Droid Bionic Targa;microSD;Black;up to 32 GB (dedicated slot);4.5
+V975;microSD;Silver;ram;1.9
+C975;microSD;;ram;1.9
+V620;microSD;Black;ram;
+V555;microSD;;ram;
+A840;microSD;;ram;2.2
+E680;microSD;Satin Silver;ram;2.5
+E398;microSD;;ram;1.9
+C650;microSD;2 - Midnight Blue, Cosmic Universe Blue;ram;
+V226;microSD;Silver;ram;
+V188;10 dialed;Silver, Black;10 received;
+V171;10 dialed;Silver;10 received;
+C155;10 dialed;Shadow Anthracite;10 received;
+C116;10 dialed;Dark Pearl Blue;10 received;
+C115;10 dialed;2 - Shadow Anthracite, Cosmic Blue;10 received;
+MPx;10 dialed;;ram;2.8
+MPx220;- 32 MB user accessible;Silver;25 MB free;2.0
+MPx100;- 32 MB user accessible;;ram;
+V872;10 dialed;;10 received;
+V1000;10 dialed;Silver;10 received;2.2
+E1000;10 dialed;Black;ram;2.3
+A1000;10 dialed;Grey;ram;2.9
+A768i;10 dialed;Mr. black;ram;
+A630;10 dialed;;ram;
+C380/C385;10 dialed;Cosmic Universe Blue, Shadow Anthracite;ram;
+V80;10 dialed;Onyx and Platinum;ram;
+C289;10 dialed;Black, White;10 received;
+C205;- 30 message templates (25 fixed;Silver with colour lenses;5 personal);
+V400p;- 30 message templates (25 fixed;Silver;ram;
+V220;- 30 message templates (25 fixed;Silver;ram;
+V180;- 30 message templates (25 fixed;Piano Black, Midnight Blue, Dark Cherry Red, and Purple;ram;
+V878;20 dialed;;20 received;
+A925;20 dialed;;ram;
+A920;20 dialed;;ram;
+V750;10 dialed;Grey;10 received;
+MPx200;10 dialed;Liquorice Black;ram;2.2
+V690;10 dialed;Gold, Orange;ram;
+V525;10 dialed;Silver;ram;
+V501;10 dialed;Silver;ram;
+V500;10 dialed;Silver;ram;
+V303;10 dialed;Blue;ram;
+V300;10 dialed;Blue;ram;
+V600;10 dialed;Silver;ram;
+V150;10 dialed;Silver;ram;
+E390;10 dialed;;10 received;
+C550;10 dialed;Silver;ram;
+C450;10 dialed;Light Blue, Dark Pearl Grey;ram;
+C250;10 dialed;3 - Black, Blue, Indigo;5 received;
+C230;10 dialed;;10 received;
+C200;10 dialed;3 - White, Blue, Green;10 received;
+A835;10 dialed;;ram;
+A830;10 dialed;;ram;
+A760;10 dialed;Coral grey;ram;
+V295;10 dialed;Silver, Blue;10 received;
+V291;10 dialed;Silver, Red;ram;
+V290;20 dialed;Silver, Blue;20 received;
+A388c;20 dialed;silver, black;ram;
+C350;20 dialed;;ram;
+T725;10 dialed;;10 received;
+T720i;10 dialed;;10 received;
+T720;10 dialed;;5 received;
+T190;10 dialed;Silver;10 received;
+E380;10 dialed;Sapphire blue;5 received;
+E365;10 dialed;Siver;ram;
+E360;10 dialed;2 - blue, silver;ram;
+V70;10 dialed;;5 received;
+C336;10 dialed;;10 received;
+C333;10 dialed;;10 received;
+C332;10 dialed;;10 received;
+C331;10 dialed;;10 received;
+C300;10 dialed;;ram;
+V60i;10 dialed;;5 received;
+V66i;10 dialed;3;ram;
+Accompli 388;10 dialed;;ram;
+V60;10 dialed;;ram;
+Accompli 008;2 MB;;8 MB RAM;
+Timeport 280;2 MB;;ram;
+Timeport 260;2 MB;Silver;ram;
+Timeport 250;2 MB;Silver;ram;
+Talkabout T192;10 dialed;3 - Silver Mist, Magic Green, Graphite Grey;10 received;
+Talkabout T191;10 dialed;Silver;10 received;
+Accompli 009;10 dialed;2 - Radar Blue, Accompli Silver;ram;
+V.box(V100);10 dialed;;ram;
+V66;10 dialed;3;ram;
+V50;10 dialed;3;ram;
+T180;10 dialed;4 - volt blue, lavender, kingfisher and ash black;5 received;
+A6188;20 dialed;3;20 received;
+v8088;20 dialed;4 - Platinum, Lilac, Teal Green and Radar Blue with Chrome Styling Ring;ram;
+Talkabout T2288;10 dialed;3;5 received;
+V2288;10 dialed;3;5 received;
+Timeport P7389;10 dialed;3;5 received;
+Timeport L7089;10 dialed;3;5 received;
+V3690;10 dialed;3;5 received;
+V3688;10 dialed;3;5 received;
+StarTAC 130;10 dialed;;5 received;
+StarTAC 85;10 dialed;;5 received;
+StarTAC Rainbow;10 dialed;;5 received;
+StarTAC 75+;10 dialed;;5 received;
+StarTAC 75;10 dialed;;5 received;
+SlimLite;10 dialed;;5 received;
+cd930;10 dialed;;5 received;
+cd920;10 dialed;;5 received;
+M3188;10 dialed;;5 received;
+M3288;10 dialed;;5 received;
+M3588;10 dialed;;5 received;
+M3688;10 dialed;;5 received;
+M3788;10 dialed;;5 received;
+M3888;10 dialed;;5 received;
+d520;10 dialed;3;ram;

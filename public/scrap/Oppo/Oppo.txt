@@ -1,0 +1,54 @@
+F3 Plus;64 GB;Pink, Gold;4 GB RAM;6.0
+A57;32 GB;Gold, Rose Gold;3 GB RAM;5.2
+F1s;32 GB;Gold, Rose Gold, Gray;3 RAM or 64 GB;5.5
+R9s Plus;64 GB;Black, Gold, Rose Gold;6 GB RAM;6.0
+R9s;64 GB;Black, Gold, Rose Gold, Red;4 GB RAM;5.5
+A37;16 GB;Gold, Rose Gold;2 GB RAM;5.0
+A59;32 GB;Gold, Rose Gold;3 GB RAM;5.5
+R9 Plus;64/128 GB;Gold;4 GB RAM;6.0
+F1 Plus;64 GB;Gold, Rose Gold;4 GB RAM;5.5
+F1;16 GB;White/Gold;3 GB RAM;5.0
+A53;16 GB;White/Gold;2 GB RAM;5.5
+A33;16 GB;White;2 GB RAM;5.0
+Neo 7;16 GB;Blue, White;1 GB RAM;5.0
+R7s;32 GB;Golden;4 GB RAM;5.5
+R7 lite;16 GB;Golden, Silver;2 GB RAM;5.0
+R5s;32 GB;Gray;3 GB RAM;5.2
+Mirror 5s;16 GB;White;2 GB RAM;5.0
+Mirror 5;16 GB;White, Blue;2 GB RAM;5.0
+Joy 3;4 GB;White, Gray;1 GB RAM;4.5
+R7 Plus;32 GB;Golden, Silver;3 GB RAM;6.0
+R7;16 GB;Golden, Silver;3 GB RAM;5.0
+Neo 5 (2015);8/16 GB;Blue, White;1 GB RAM;4.5
+Neo 5s;8 GB;Blue, White;1 GB RAM;4.5
+Joy Plus;4 GB;White, Blue;1 GB RAM;4.0
+Mirror 3;8 GB;White, Blue;1 GB RAM;4.7
+A31;8 GB;White, Blue;1 GB RAM;4.5
+R1x;16 GB;Dark blue, White;2 GB RAM;5.0
+U3;16 GB;White, Black;2 GB RAM;5.9
+R5;16 GB;Silver, Gold;2 GB RAM;5.2
+N3;32 GB;White;2 GB RAM;5.5
+R1S;16 GB;White, Blue;1 GB RAM;5.0
+Neo 3;4 GB;White, Black;1 GB RAM;4.5
+Find 5 Mini;4 GB;White, Black;1 GB RAM;4.7
+R2001 Yoyo;4 GB;White, Black;1 GB RAM;4.7
+R1001 Joy;4 GB;White, Black;512 MB RAM;4.0
+Neo 5;4 GB;Black;1 GB RAM;4.5
+N1 mini;16 GB;White;2 GB RAM;5.0
+R3;8 GB;Black, white;1 GB RAM;5.0
+Find 7;32 GB;White, Black, Astro Black;3 GB RAM;5.5
+Find 7a;16 GB;White, Black;2 GB RAM;5.5
+Neo;4 GB;White, Black;512 MB RAM;4.5
+R1 R829T;16 GB;White, Black;1 GB RAM;5.0
+N1;16/32 GB;White, dark blue;2 GB RAM;5.9
+R819;16 GB;White;1 GB RAM;4.7
+Find 5;16/32 GB;White, Black;2 GB RAM;5.0
+U705T Ulike 2;16 GB;White;1 GB RAM;4.5
+R601;4 GB (2 GB user available);White;512 MB RAM;3.0
+R821T FInd Muse;4 GB;White;512 MB RAM;4.0
+R811 Real;4 GB;White;512 MB RAM;3.5
+T29;4 GB;Black;1 GB RAM;4.5
+R817 Real;4 GB;White, Black;1 GB RAM;4.0
+R815T Clover;4 GB;White;1 GB RAM;4.3
+Find;16 GB;White, Black;1 GB RAM;4.3
+U701 Ulike;4 GB;White;512 MB RAM;4.0

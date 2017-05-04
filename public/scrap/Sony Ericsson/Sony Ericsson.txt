@@ -1,0 +1,188 @@
+Xperia Arc S;1 GB (320 MB user available);Pure White, Midnight Blue, Misty Silver, Gloss Black, Sakura Pink;512 MB RAM;4.2
+Xperia neo V;1 GB (320 MB user available);White, Blue Gradient, Silver;512 MB RAM;3.7
+Live with Walkman;320 MB;Black, White;512 MB RAM;3.2
+Xperia ray;1 GB (300 MB user available);Black, Gold, White, Pink;512 MB RAM;3.3
+Xperia active;1 GB (320 MB user available);Orange/Black, White/Black;512 MB RAM;3.0
+txt;120 MB (100 MB user available);Black, Blue, White, Pink;64 MB RAM;2.55
+Mix Walkman;120 MB (100 MB user available);Black with pink cloud band, Black with pink band, Black with green bird band, Black with green band;ram;3.0
+txt pro;100 MB;Black, White, Pink;64 MB RAM;3.0
+Xperia mini;512 MB RAM;Black, White, Blue, Dark pink;320 MB;3.0
+Xperia mini pro;512 MB RAM;Black, White, Pink, Turquoise;400 MB;3.0
+WT18i;512 MB RAM;Black, White;ram;3.2
+W8;128 MB;Azure, Orange, Red;168 MB RAM;3.0
+Xperia PLAY;400 MB;Black, White, Stealth Blue (for Play 4G), Orange;512 MB RAM;4.0
+Xperia pro;1 GB (320 MB user available);Black, Silver, Red;512 MB RAM;3.7
+Xperia Neo;320 MB;Blue Gradient, Red, Silver;512 MB RAM;3.7
+Xperia Arc;320 MB;Midnight Blue, Misty Silver;512 MB RAM;4.2
+Xperia PLAY CDMA;400 MB;Black, White;512 MB RAM;4.0
+A8i;400 MB;White, Black;ram;3.5
+Xperia X8;128 MB;White, Dark Blue/ White, Aqua Blue/ White, Pink/ White, Silver/ White;168 MB RAM;3.0
+Cedar;128 MB;Black/Silver, Black/Red;ram;2.2
+Yendo;128 MB;Black, Blue, Green, Orange, Pink, Purple, Red, Silver, White, Yellow;ram;2.6
+BRAVIA S004;128 MB;Black, Red, Silver;ram;3.2
+S003;128 MB;Various;ram;3.2
+Zylo;128 MB;Jazz Black, Chacha Silver, Swing Pink, Energetic Black, Meteorite White, Nebula Red;ram;2.6
+Spiro;128 MB;Contrast Black, Sunset Pink, Spring Green, Stealth Black;ram;2.2
+Xperia X10 mini pro;128 MB;Black, Red, Pink;ram;2.55
+Xperia X10 mini;128 MB;Gold, Pearl White, Black, Pink, Lime, Red, Silver;ram;2.55
+Vivaz pro;128 MB;Black, White;ram;3.2
+Aspen;256 MB RAM;Iconic Black, White Silver;256 MB ROM;2.4
+Vivaz;256 MB RAM;Pink, Silver Moon, Cosmic Black, Galaxy Blue, Venus Ruby;ram;3.2
+Hazel;256 MB RAM;Superior Black, Passionate Rouge;ram;2.6
+Elm;256 MB RAM;Metal Black, Pearly Rose;ram;2.2
+Xperia Pureness;256 MB RAM;Black;ram;1.8
+Xperia X10;1 GB;Sensous Black, Luster White;384 MB RAM;4.0
+Xperia X2;110 MB;Elegant Black, Modern Silver;256 MB RAM;3.2
+Jalou D&G edition;110 MB;Sparkling Rose;ram;2.0
+Jalou;110 MB;Onyx Black, Deep Amethyst, Aquamarine Blue;ram;2.0
+T715;110 MB;Galaxy Silver, Rouge Pink;ram;2.2
+C901 GreenHeart;110 MB;Ocean White;ram;2.2
+J105 Naite;110 MB;Vapour Silver, Ginger Red;ram;2.2
+Satio (Idou);110 MB;Black, Silver, Bordeaux;ram;3.5
+Aino;110 MB;Obsidian Black, Luminous White;ram;3.0
+Yari;110 MB;Achromatic Black, Cranberry White, Metal Rose;ram;2.4
+S312;110 MB;Dawn Blue, Honey Silver;ram;2.0
+W205;110 MB;Ambient Black, Sakura Pink, Windy Blue;ram;1.8
+T707;110 MB;Mysterious Black, Spring Rose, Lucid Blue, Lime Forest, Sensitive Bronze;ram;2.2
+W995;110 MB;Progressive Black, Cosmic Silver, Energetic Red;ram;2.6
+C903;110 MB;Lacquer Black, Techno White, Glamour Red, Metal Pink, Warm Silver;ram;2.4
+C901;110 MB;Noble Black, Sincere Silver, Precious Peach;ram;2.2
+W395;110 MB;Dusky Grey, Blush Titanium, Fiesta Black, Happy Pink;ram;2.0
+C510;110 MB;Future Black, Radiation Silver, Energetic Red;ram;2.2
+W508;110 MB;Metal Grey, Poetic White;ram;2.2
+W715;110 MB;Galactic Black, Luxury Silver;ram;2.4
+W705;110 MB;Luxury Silver, Passionate Red;ram;2.4
+G705;110 MB;Silky Gold, Majestic Black;ram;2.4
+TM506;110 MB;Chrome with Amber, Emerald, Scarlet;ram;2.0
+T700;110 MB;Black on Silver, Black on Red, Silver, Black, Red on Silver;ram;2.0
+W902;110 MB;Volcanic Black, Wine Red, Earth Green;ram;2.2
+W595;110 MB;Jungle Grey, Lava Black, Ruby Black, Cosmopolitan White, Active Blue, Peachy Pink, Sandy Gold;ram;2.2
+W595s;110 MB;Dusty Blue;ram;2.2
+W302;110 MB;Midnight Black, Sparkling White, Indigo Blue;ram;2.0
+C905;110 MB;Night Black, Ice Silver, Copper Gold, Tender Rose;ram;2.4
+S302;110 MB;Thunder Grey, Crystal Blue;ram;2.0
+F305;110 MB;Polar White, Mystic Black, Raspberry Red, Tectonic Grey;ram;2.0
+J132;110 MB;Night Black, Heaven Blue;ram;1.5
+K330;110 MB;Gold on Black, Green on Black;ram;1.7
+G502;110 MB;Champagne Black, Brilliant Hazel, Celerity Red;ram;2.0
+Z780;110 MB;Grand Onyx, Amethyst Silver;ram;2.2
+T303;110 MB;Shimmering Silver, Shadow Black;ram;1.8
+Xperia X1;256 MB RAM;Solid Black, Steel Silver;512 MB ROM;3.0
+G900;256 MB RAM;Dark Red, Dark Brown;ram;2.4
+G700;256 MB RAM;Silk Bronze;ram;2.4
+G700 Business Edition;256 MB RAM;Mineral Gray;ram;2.4
+W980;256 MB RAM;Piano Black, Opera Brown, Violin Red ;ram;2.2
+C902;256 MB RAM;Swift Black, Luscious Red, Titanium Silver, Cinnamon Bronze;ram;2.0
+C702;256 MB RAM;Speed Black, Cool Cyan, Energy Black;ram;2.2
+Z770;256 MB RAM;Vogue Red, Graphite Black,Exquisite Gold;ram;2.2
+T280;256 MB RAM;Silver on Black, Copper on Silver, Firmanent Blue, Blossom Pink;ram;1.7
+T270;256 MB RAM;Silver on Black, Copper on Silver;ram;1.7
+R306 Radio;256 MB RAM;Coffee Black, Champagne White;ram;1.9
+R300 Radio;256 MB RAM;Antique Copper, Steel Black;ram;1.8
+W760;256 MB RAM;Rocky Silver, Fancy Red, Intense Black;ram;2.2
+Z555;256 MB RAM;Diamond Black, Dusted Rose;ram;1.9
+W350;256 MB RAM;Electric black, Ice blue, Hypnotic black, Graphic white, Wisteria Purple, Turbo Red, Pink;ram;1.9
+W890;256 MB RAM;Espresso Black, Mocha Brown, Sparkling Silver;ram;2.0
+K660;256 MB RAM;Lime on white, Wine on black, Cyan on black, Silver on black;ram;2.0
+W380;256 MB RAM;Electric Purple, Magnetic Grey, Black Champagne, Black Orange;ram;1.9
+K630;256 MB RAM;Havana Gold, Quick Black;ram;2.0
+K770;256 MB RAM;Truffle Brown, Ultra Violet, Sandy Beige, Henna Bronze, Soft Black, Natural Brown, Serene Black;ram;1.9
+K850;256 MB RAM;Luminous Green, Velvet Blue, Quicksilver black;ram;2.2
+W960;256 MB RAM;Vinyl Black;ram;2.6
+W910;256 MB RAM;Hearty Red, Noble Black, Havana Bronze, Silky White, Lipstick Pink, Prime Silver;ram;2.4
+K530;256 MB RAM;Warm Silver, Thunder Black;ram;2.0
+V640;256 MB RAM;Havana Gold, Quick Black;ram;2.0
+Z320;256 MB RAM;Crimson Red, Atlantic Blue;ram;1.8
+Z250;256 MB RAM;Morning White, Silent Black;ram;1.8
+P1;160 MB;Silver Black;128 MB RAM;2.6
+T650;160 MB;Growing Green, Midnight Blue, Eclipse Black, Precious Gold;ram;1.9
+S500;160 MB;Mysterious Green, Spring Yellow, Contrasted Copper, Ice Purple, Silver Steel;ram;2.0
+T250;160 MB;Aluminium Silver, Aluminium Black;ram;1.7
+Z750;160 MB;Phantom Grey, Rose Pink, Mysterious Purple, Platinum Silver;ram;2.2
+W580;160 MB;Style White, Urban Grey, Boulevard Black, Metro Pink, Jungle Green, Velvet Red;ram;2.0
+W660;160 MB;Record Black, Rose Red, Silk White ;ram;2.0
+W880;160 MB;Flame Black, Steel Silver, Havana;ram;1.8
+K810;160 MB;Noble Blue, Golden Ivory, Pulse Red;ram;2.0
+W610;160 MB;Plush Orange, Satin Black;ram;1.96
+K550;160 MB;Jet Black, Pearl White, Plum Ruby, Sophisticated Silver;ram;1.9
+K220;160 MB;Frost White, Ocean Blue;ram;1.6
+K205;20 received;White, Black;dialed and missed calls;1.6
+K200;20 received;Metallic Black, Light Champagne;ram;1.6
+J120;10 dialed;Night Black;20 received and missed calls;1.36
+J110;10 dialed;Smooth Grey, Soft Cream, Precious Purple;20 received and missed calls;1.36
+K550im;10 dialed;Jet Black;ram;1.9
+W888;10 dialed;Flame Black, Steel Silver;ram;1.8
+W200;10 dialed;Rythm Black, Pulse White, Grey, Sweet Pink, Aquatic White, Mono Blue;ram;1.8
+Z310;10 dialed;Jetset Black, Lush Pink, Brush Bronze;ram;
+W830;10 dialed;Precious Black, Golden White;ram;2.0
+K320;10 dialed;Light Brown, Graphite Grey, Misty Silver;ram;1.7
+Z558;10 dialed;Sterling Black, Pearl Copper;ram;1.9
+Z610;10 dialed;Luster Black, Airy Blue, Rose Pink;ram;
+K618;10 dialed;Vibrant Black, Bright White;ram;1.9
+W850;10 dialed;Precious Black, Golden White;ram;2.0
+W710;10 dialed;Performance Graphite, Hatha Violet;ram;1.9
+Z710;10 dialed;Twilight Black, Metallic Sand;ram;1.9
+Z550;10 dialed;Sterling Black, Pearl Copper;ram;1.9
+W700;10 dialed;Titanium Gold;ram;1.8
+Z525;10 dialed;New Blue;ram;1.8
+K800;10 dialed;Velvet Black, Allure Brown;ram;2.0
+K790;10 dialed;Velvet Black, Allure Brown;ram;2.0
+V630;10 dialed;Vibrant Black;ram;1.9
+W300;10 dialed;Shadow Black, Shimmering White, Lime Green;ram;1.66
+Z530;10 dialed;Soft Black, Chromic Grey, Elegant Red;ram;1.8
+P990;10 dialed;Premium Silver;ram;2.7
+K510;10 dialed;Midnight Black, Polished Purple;ram;1.8
+K310;10 dialed;Shadow Blue, Misty Silver;ram;1.74
+W950;10 dialed;Mystic purple;ram;2.6
+M600;10 dialed;Granite Black, Crystal White;ram;2.6
+M608;10 dialed;Granite Black, Crystal White;ram;2.6
+K610;10 dialed;Evening Red, Urban Silver, Misty White;ram;1.9
+J100;10 dialed;2 -  Polar White, Twilight Blue;20 received and missed calls;1.4
+W810;10 dialed;Satin Black, Fusion White;ram;1.9
+W900;10 dialed;Black, White;ram;2.2
+Z300;10 dialed;2 - Granite Grey, Amethyst Purple;ram;
+J230;10 dialed;3 - Cosmo White, Cherry Red, Deep Blue;ram;1.55
+J220;10 dialed;2 - Smooth Black, Sky Blue;ram;1.55
+W550;10 dialed;Vibrant Orange, Orchid White, Universe Blue;ram;1.8
+W600;10 dialed;Vibrant Orange;ram;1.8
+S600;10 dialed;3 - Universe blue, Orchid white, Radiant yellow;ram;
+Z520;10 dialed;Light Blue, Pale Purple, Pale Pink, Pale Yellow;ram;1.8
+J210;10 dialed;2 - Mineral Silver, Floral Green;ram;1.6
+K608;10 dialed;Aluminium Silver;ram;1.8
+W800;10 dialed;Smooth White;ram;1.8
+K750;10 dialed;Black, Silver;ram;1.8
+D750;10 dialed;Black, Silver;ram;1.8
+J300;10 dialed;Plucky Pink, Sensitive White, Midnight Grey;ram;1.5
+V600;10 dialed;Moonlight Silver, Black;ram;1.8
+K600;10 dialed;Aluminium Silver;ram;1.8
+Z800;10 dialed;;10 received;2.2
+K300;10 dialed;2 - Visual Blue and Smooth Silver;ram;1.6
+J200;10 dialed;;ram;1.6
+T290;10 dialed;;ram;1.45
+V800;10 dialed;Ebony Black, Ceramic White, Pure Copper;ram;2.2
+P910;10 dialed;Urban Grey;ram;2.9
+S710;10 dialed;Onyx Black;ram;2.3
+K508;10 dialed;2 - Lunar Silver, Twilight Black;ram;1.9
+K500;10 dialed;2 - Virtual Silver, Cosmetic Blue;ram;1.9
+F500i;10 dialed;3;ram;1.9
+S700;10 dialed;;ram;2.3
+K700;10 dialed;Optic Silver, Blue Tinted Silver;ram;1.78
+Z500;30 received;;dialed and missed calls;
+T630;30 received;Frosty Silver, Black;ram;1.78
+P900;30 received;Urban Grey;ram;2.9
+Z600;30 received;;ram;
+Z200;10 dialed;4 - Velvet Blue, Cosmo Silver, Frosty White, Pulse Red;10 received;
+T230;10 dialed;2 - Blade Gray, Steel Blue;20 received and missed calls;1.5
+Z1010;10 dialed;;ram;2.2
+T610;10 dialed;3;ram;1.8
+T310;30 received;3 -  Flaming Gold, Fashion Blue, Funky Purple;dialed and missed calls;
+T105;30 received;2 - Steel Grey, Vibrant Turquoise;ram;1.4
+T100;30 received;4 - Icy Blue, Gentle Gold, Fresh White, Soft Silver;ram;
+T600;30 received;3 - Moonlight silver, Marine Blue and Gold;dialed and missed calls;
+T300;30 received;3 -  Icy Blue, Midnight Red, Mystical Green;ram;
+T200;10 dialed;;10 received;
+P800;- 12 MB available for images;;contacts etc.;2.9
+Z700;- 12 MB available for images;;ram;
+T68i;- 12 MB available for images;Arctic Blue;ram;
+Windows Phone 7;- 12 MB available for images;Black;ram;
+Xperia Duo;- 12 MB available for images;Black;ram;4.5

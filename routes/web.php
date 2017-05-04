@@ -50,6 +50,7 @@ Route::post('/mobiles/get-storages', 'MobileController@getStorages')->name('get-
 Route::post('/mobiles/get-bulk', 'MobileController@getBulkData')->name('get-bulk');
 Route::post('/mobiles/save/bulk-data', 'MobileController@saveBulkData')->name('save-bulk-data');
 Route::post('/mobiles/save/excel-bulk-data', 'MobileController@saveExcelBulk')->name('save-excel');
+Route::get('/user/{userId}/sales', 'SalesController@showSales')->name('user-sales');
 
 /**
  * Email verification routes
@@ -81,22 +82,7 @@ Route::get('test2', function (){
         $item->location = $arr[rand(0, 3)];
         $item->save();
     }*/
-
-    function listFolderFiles($dir)
-    {
-        echo '<ol>';
-        foreach (new DirectoryIterator($dir) as $fileInfo) {
-            if (!$fileInfo->isDot()) {
-                echo '<li>' . $fileInfo->getFilename() . ' file type = ' . $fileInfo->getType();
-                if ($fileInfo->isDir()) {
-                    listFolderFiles($fileInfo->getPathname());
-                }
-                echo '</li>';
-            }
-        }
-        echo '</ol>';
-    }
-
-    listFolderFiles(public_path() . '/online/');
+    return Auth::user()->shops;
+    return Auth::user()->shops()->where('shops.id', 179)->first()->products()->get();
 
 });

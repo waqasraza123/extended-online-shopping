@@ -1,0 +1,72 @@
+Breeze IV;256 MB;Black;128 MB RAM;3.0
+Vega No 6;32 GB;Black, White;2 GB RAM;5.9
+Discover;16 GB (13 GB user available);Gray;1 GB RAM;4.8
+Vega R3 IM-A850L;16 GB;Black, White;2 GB RAM;5.3
+Flex  P8010;8 GB;Gray;1 GB RAM;4.3
+Renue;185 MB;Black;256 MB RAM;3.2
+Marauder;4 GB;Black;1 GB RAM;3.8
+Vega Racer 2 IM-A830L;16 GB;Black, White;1 GB RAM;4.8
+Vega LTE EX IM-A820L;16 GB;Black, White;1 GB RAM;4.5
+Burst;16 GB;Titanium, Ruby Red;1 GB RAM;4.0
+Element;16 GB;Black;1 GB RAM;8.0
+Hotshot;16 GB;Black, Red;ram;3.2
+Link II;16 GB;Black;ram;2.4
+Pocket P9060;16 GB;Black;ram;4.0
+Jest II;16 GB;Black;ram;2.4
+Pursuit II;16 GB;Pink, green, black;ram;2.8
+Breakout;1 GB;Black;512 MB RAM;4.0
+Breeze III;1 GB;Various;ram;2.2
+Vega Xpress IM-A720L;1 GB;Black, White, Red;ram;4.0
+S902;1 GB;Gold, White, Black;ram;3.0
+Crux;1 GB;Gray;ram;3.0
+Laser P9050;1 GB;Gray/Blue;ram;3.1
+P4000;1 GB;Black Glossy/Black SF, Titan/Ivory, Ivory/Red;ram;3.0
+P1000;1 GB;Black, Silver, Pink, Ivory-Brown;ram;1.8
+SKY Izar IM-A630K;1 GB;Black, White;ram;3.2
+Jest;1 GB;Black;ram;2.6
+Link;1 GB;Black;ram;2.4
+Ease;1 GB;Black/Gray;ram;3.2
+Pursuit;1 GB;Blue, Green;ram;2.8
+Impact;1 GB;Black, Pink;ram;2.6
+C790 Reveal;1 GB;Red, Blue;ram;2.2
+Matrix Pro;128 MB RAM;Steel Blue;256 MB ROM;2.4
+Slate;128 MB RAM;Black;ram;2.2
+Matrix;30 dialed;Gray, Blue;30 received;
+Duo;64 MB RAM;Black;128 MB ROM;2.2
+U-4000;64 MB RAM;Silver black;ram;1.9
+PG-3300;64 MB RAM;Black, Pink;ram;
+PU-5000;64 MB RAM;Silver black;ram;1.9
+PG-1600;128 MB;Silver black;32 MB RAM;1.5
+PG-1800;256 MB;Silver black;64 MB RAM;1.8
+PG-1300;128 MB;Black;64 MB RAM;1.5
+PG-3900;128 MB;Silver black;ram;1.9
+PG-1900;20 dialed;Silver black;20 received;1.6
+PG-2800;20 dialed;Black, Silver;ram;2.0
+PG-3600V;20 dialed;Black, Pink;ram;
+PG-3600;20 dialed;Black;ram;
+PG-3500;20 dialed;Black;ram;
+PG-1500;20 dialed;Black;ram;
+PG-8000;20 dialed;Black;ram;2.0
+PG-6200;20 dialed;Silver black, Black;20 received;1.9
+PG-6100;10 dialed;Silver;10 received;
+PG-1400;10 dialed;Black, Silver;ram;
+PG-1200;10 dialed;Dark Blue, Silver;10 received;
+PG-3200;10 dialed;Black, Silver, Navy, Red;ram;
+PG-1000s;10 dialed;Black, Blue, Silver;10 received;
+GF500;10 dialed;2 - Silver Blue and Silver Black;ram;
+PG3000;10 dialed;Black, Silver;ram;
+GF100;10 dialed;;ram;
+G670;10 dialed;Gray;ram;
+GI100;10 dialed;B.Silver, P.Silver;ram;
+GF200;10 dialed;;ram;
+GB300;10 dialed;Blue, Silver, Red;ram;1.6
+GB200;10 dialed;Gray;ram;
+GB100;10 dialed;;ram;
+G900;10 dialed;Orange Yellow, European Silver;10 received;
+G600;10 dialed;Wine Red, European Silver;10 received;
+G800;10 dialed;Silver, White, Deep Blue;10 received;
+G700;10 dialed;Silver;10 received;
+G500;10 dialed;Red, Silver, Pearl White;ram;
+G300;10 dialed;Red, Silver, Light blue, Violet;10 received;
+G200;10 dialed;Blue, Silver, Black;10 received;
+Q80;10 dialed;Silver;10 received;

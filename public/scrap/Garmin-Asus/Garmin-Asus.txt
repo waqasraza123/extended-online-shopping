@@ -1,0 +1,5 @@
+A10;4 GB;Black;512 MB RAM;3.2
+nuvifone A50;4 GB;Black;256 MB RAM;3.5
+nuvifone M10;4 GB;Black, White;512 MB RAM;3.5
+nuvifone G60;4 GB;Black;128 MB RAM;3.55
+nuvifone M20;4 GB;Green, Red, Blue, Black;ram;2.8

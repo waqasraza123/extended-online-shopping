@@ -36,7 +36,7 @@ class UserVerifiedMiddleware
         //if the user is verified
         //login the user
         else{
-            return (new LoginController())->authenticate($request->input('email_phone'));
+            return (new LoginController($request))->authenticate($request->input('email_phone'));
         }
         return $next($request);
     }

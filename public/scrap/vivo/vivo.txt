@@ -1,0 +1,39 @@
+Y25;16 GB;White/Gray;1 GB RAM;4.5
+Y55s;16 GB;Crown Gold, Rose Gold, Space Gray;2/3 GB RAM;5.2
+V5 Lite;32 GB;Crown Gold, Rose Gold;3 GB RAM;5.5
+V5 Plus;64 GB;Gold, Gray;4 GB RAM;5.5
+Y67;32 GB;Gold, Pink Gold;4 GB RAM;5.5
+Xplay6;128 GB;Gold, Rose Gold;6 GB RAM;5.46
+X9 Plus;64 GB;Gold, Rose Gold;6 GB RAM;5.88
+X9;64/128 GB;Gold, Rose Gold;4 GB RAM;5.5
+V5;32 GB;Gold, Gray;4 GB RAM;5.5
+X7 Plus;64 GB;Gold, Rose Gold;4 GB RAM;5.7
+X7;64 GB;Gold, Rose Gold;4 GB RAM;5.2
+V3Max;32 GB;Gold;4 GB RAM;5.5
+V3;16/32 GB;Gold;3 GB RAM;5.0
+X6S Plus;64 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
+X6S;64 GB;Silver, Gold, Rose Gold;4 GB RAM;5.2
+Xplay5 Elite;128 GB;Silver, Gold, Rose Gold;6 GB RAM;5.43
+Xplay5;128 GB;Silver, Gold, Rose Gold;4 GB RAM;5.43
+Y51;16 GB;White;2 GB RAM;5.0
+X6;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.2
+X6Plus;64 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
+Y15S;8 GB;White, Black;1 GB RAM;4.5
+V1;16 GB;White/Gold;2 GB RAM;5.0
+V1 Max;16 GB;White;2 GB RAM;5.5
+Y31;8 GB;White, Black;1 GB RAM;4.7
+Y35;16 GB;White/Gold;2 GB RAM;5.0
+Y37;16 GB;White;2 GB RAM;5.5
+X5Max Platinum Edition;32 GB;White;3 GB RAM;5.5
+X5Pro;16 GB;Black, White;2 GB RAM;5.2
+X5Max+;16 GB;White;2 GB RAM;5.5
+X5Max;16 GB;White;2 GB RAM;5.5
+Y11;4 GB;White, Black;512 MB RAM;4.0
+X5;16 GB;White;2 GB RAM;5.0
+Xplay3S;32 GB;White;3 GB RAM;6.0
+Xshot;16 GB;White/Black;2 GB RAM/ 32 GB;5.2
+X3S;16 GB;White, Blue;1 GB RAM;5.0
+Y28;8 GB;White;1 GB RAM;4.7
+Y27;16 GB;White;1 GB RAM;4.7
+Y22;4 GB;White, Black;1 GB RAM;4.5
+Y15;4 GB;White, Black;512 MB RAM;4.5

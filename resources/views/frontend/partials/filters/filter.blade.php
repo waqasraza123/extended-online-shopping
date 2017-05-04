@@ -5,7 +5,7 @@
     </div>
 
     <div class="col-sm-12 form-group-sm margin-top-20">
-        <label class="" for="current-location">Market Location</label>
+        <label class="text-white">Market Location</label>
         <input placeholder="Enter Market Location" type="text" name="market_location" class="form-control" id="market_location" value="">
     </div>
 

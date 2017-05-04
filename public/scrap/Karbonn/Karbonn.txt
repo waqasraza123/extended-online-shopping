@@ -1,0 +1,60 @@
+Titanium Mach Two S360;8 GB;Deep Blue;1 GB RAM;5.0
+Titanium Wind W4;4 GB;Black,White, Red;512 MB RAM;4.0
+Titanium S99;4 GB;Black,White;512 MB RAM;4.0
+Sparkle V;4 GB;Red;1 GB RAM;4.5
+Titanium S19;8 GB;Black, White;1 GB RAM;5.0
+Smart A12 Star;4 GB;Black;512 MB RAM;4.0
+Titanium S1 Plus;4 GB;White;1 GB RAM;4.0
+Titanium Hexa;16 GB;Black, White;2 GB RAM;5.5
+Titanium Octane Plus;16 GB;Black, White;2 GB RAM;5.0
+Titanium Octane;16 GB;Black, White;1 GB RAM;5.0
+Titanium X;16 GB;Black;1 GB RAM;5.0
+A16;4 GB;Black;512 MB RAM;3.9
+A12+;4 GB;Black/White;512 MB RAM;4.0
+Titanium S5 Plus;4 GB;Black, White;1 GB RAM;5.0
+S7 Titanium;16 GB;Black;1 GB RAM;5.0
+S9 Titanium;16 GB;White;1 GB RAM;5.5
+A10;512 MB;Black;512 MB RAM;3.9
+A5;512 MB;Black;256 MB RAM;3.2
+A37;4 GB;Black/White;512 MB RAM;7.0
+A34;4 GB;Gray/White;512 MB RAM;7.0
+A25;4 GB;White/Black;ram;5.0
+A7 Star;4 GB;White/Black;ram;4.5
+A4+;4 GB;White/Black;ram;4.0
+A2+;4 GB;White/Black;ram;4.0
+A27 Retina;4 GB;Black;512 MB RAM;4.3
+A111;4 GB;White/Black;512 MB RAM;5.0
+A6;104 MB;White/Black;512 MB RAM;4.0
+A4;256 MB;White/Black;512 MB;4.0
+A3;256 MB RAM;White/Black;512 MB;4.0
+A2;256 MB RAM;White/Black;ram;4.0
+S5 Titanium;4 GB;Blue;1 GB RAM;5.0
+S1 Titanium;4 GB;Black, White;1 GB RAM;4.5
+Smart Tab 9;2 GB;Black/White;512 MB RAM;9.0
+Smart Tab 8;1.5 GB;Black/White;1 GB RAM;8.0
+Smart Tab 10;1.5 GB;Black/White;1 GB RAM;9.7
+Smart Tab2;1 GB;Black/White;512 MB RAM;7.0
+Smart Tab 7;1 GB;Black/White;512 MB RAM;8.0
+KT21 Express;1 GB;Black;ram;2.8
+K65 Buzz;1 GB;White;ram;3.5
+K9 Jumbo;1 GB;Black, Red;ram;2.4
+A9;1 GB;Black, White;ram;3.8
+KT62;1 GB;Black/Red;ram;2.8
+K52 Groovster;1 GB;Black/Red, Silver/Black;ram;2.4
+K309 Boombastic;1 GB;Black/Red;ram;,
+K4+ Titan;1 GB;Black/Silver, White/Black;ram;2.6
+K707 Spy II;1 GB;Black/Silver, Black/Red;ram;2.4
+K451+ Sound Wave;1 GB;Silver/Black;ram;2.4
+K102+ Flair;1 GB;Golden/White, Black/Red;ram;,
+KC540 Blaze;1 GB;White;ram;2.2
+K1+ Stereo;1 GB;White/Black, Black/Red;ram;1.77
+A1+;1 GB;Ivory White;ram;3.5
+A21;4 GB;Pearl White;512 MB RAM;4.5
+A11;4 GB;Black/White;512 MB RAM;4.0
+K36+ Jumbo Mini;4 GB;Black;ram;1.8
+K101+ Media Champ;4 GB;Black, Black/Red;ram;1.8
+K440;4 GB;Black/White, Black/Red;ram;2.6
+A9+;4 GB;Pearl White;512 MB RAM;4.0
+K11+;4 GB;Black/Red, White/Black;ram;2.4
+A15;4 GB (2.5 GB user available);Black;512 MB RAM;4.0
+A30;4 GB;Black/White;512 MB RAM;5.9

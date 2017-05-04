@@ -1,0 +1,77 @@
+Tab Prime 7;16 GB;Silver;2 GB RAM;10.1
+Smart Turbo 7;8 GB;Silver, Dark Grey;1 GB RAM;5.0
+Smart Platinum 7;32 GB;Black;3 GB RAM;5.5
+Smart ultra 7;16 GB;Silver, Dark Grey;2 GB RAM;5.5
+Smart prime 7;8 GB;Graphite Black, Boron White;1 GB RAM;5.0
+Smart first 7;4 GB;Volcano Black, Tech White;512 MB RAM;3.5
+Smart speed 6;8 GB;Silver, Anthracite;1 GB RAM;4.5
+Smart ultra 6;16 GB;Gray, Silver;2 GB RAM;5.5
+Tab Prime 6;16 GB;Black;1 GB RAM;9.6
+Smart prime 6;8 GB;Gray, Silver;1 GB RAM;5.0
+Smart first 6;4 GB;Black, White;512 MB RAM;4.0
+Smart 4 max;8 GB;Black, White;1 GB RAM;6.0
+Smart Tab 4G;8 GB;Black;1 GB RAM;8.0
+Smart 4G;8 GB;Black;1 GB RAM;4.5
+Smart 4 turbo;4 GB;Black, White;1 GB RAM;4.5
+Smart 4 power;4 GB;Black, White;1 GB RAM;5.0
+Smart 4;4 GB;Black, White;512 MB RAM;4.5
+Smart 4 mini;4 GB;Black, White;512 MB RAM;4.0
+Smart Tab III 10.1;4 GB;Black;ram;10.1
+Smart Tab III 7;4 GB;Black;ram;7.0
+Chat 655;4 GB;Gray;ram;2.4
+Smart Mini;4 GB;Black;512 MB RAM;3.5
+Smart III 975;4 GB;Black, White, Hot Pink, Titan;512 MB RAM;4.0
+Smart Tab II 10;16 GB;Gray;1 GB RAM;10.0
+Smart Tab II 7;4 GB;Gray;1 GB RAM;7.0
+V860 Smart II;1 GB;Various;512 MB RAM;3.2
+Smart Tab 10;1 GB;Black;ram;10.0
+Smart Tab 7;1 GB;Black;ram;7.0
+155;1 GB;Black;ram;1.7
+555 Blue;1 GB;White;ram;2.4
+858 Smart;1 GB;White, Black, custom graphic designs;ram;2.8
+945;1 GB;Black, Silver;ram;3.2
+553;1 GB;White, Black, Pink, Silver;ram;2.8
+360 H2;1 GB;Black, Silver;ram;3.7
+845;512 MB;Black;128 MB RAM;2.8
+547;512 MB;Black, White, Red;ram;2.8
+546;512 MB;Black, White;ram;2.2
+543;512 MB;Various;ram;2.4
+350 Messaging;512 MB;Black, White, Pink;ram;1.8
+345 Text;512 MB;Black, White, Pink;ram;1.8
+248;512 MB;Black;ram;1.8
+247 Solar;512 MB;Black;ram;1.44
+246;512 MB;Black;ram;1.44
+250;512 MB;Black, Grey-Blue;ram;1.45
+150;512 MB;Black;ram;1.0
+1240;512 MB;Black;ram;,
+840;512 MB;Silver, White, Pink, Green;ram;2.8
+541;512 MB;Black, White, Red, Pink;ram;2.4
+540;512 MB;Black;ram;2.0
+340;512 MB;Black, White, Pink;ram;1.5
+360 H1;512 MB;Black, Silver;ram;3.5
+360 M1;512 MB;Black, White, Red;ram;3.2
+533 Crystal;512 MB;Black;ram;2.0
+1231;512 MB;Black;ram;2.5
+V-X760;30 dialed;Black;30 received;2.4
+Indie;40 dialed;Red, Rosa;40 received;2.4
+835;40 dialed;Premium silver;40 received;2.4
+736;40 dialed;White, Pink, Silver;40 received;2.0
+735;40 dialed;Black;40 received;2.0
+235;20 dialed;Black;20 received;1.8
+V720;20 dialed;;ram;2.0
+533;20 dialed;Black, Catwalk Red, Catwalk Lady;ram;2.0
+830i;20 dialed;Black;ram;
+526;20 dialed;Black;ram;1.7
+332;20 dialed;Black;ram;1.8
+231;20 dialed;Black;20 received;1.86
+1210;128 MB RAM;Black;64 MB ROM;2.2
+725;128 MB RAM;Black;ram;2.2
+810;128 MB RAM;Black;ram;2.2
+716;20 dialed;Gray;20 received;2.1
+527;20 dialed;Black;ram;1.7
+511;20 dialed;Black;ram;1.77
+228;10 dialed;Gray;10 received;
+710;10 dialed;Black, White, Pink;ram;2.0
+227;10 dialed;Gray;10 received;
+226;20 dialed;Black;20 received;
+225;20 dialed;Black;ram;

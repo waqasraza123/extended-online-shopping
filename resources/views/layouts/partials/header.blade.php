@@ -13,20 +13,15 @@
 
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
+<link href="/css/AdminLTE.min.css" rel="stylesheet" />
+<link href="/css/skin-green.min.css" rel="stylesheet" />
+<link href="/css/main.css" rel="stylesheet">
 <!-- Waves Effect Css -->
 <link href="/theme/plugins/node-waves/waves.css" rel="stylesheet" />
-
-<!-- Morris Chart Css-->
-<link href="/theme/plugins/morrisjs/morris.css" rel="stylesheet" />
-
-<!-- Custom Css -->
-<link href="/theme/css/style.css" rel="stylesheet">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
 <!-- AdminBSB Themes. You can choose a theme from css/themes instead of get all themes -->
-<link href="/theme/css/themes/all-themes.min.css" rel="stylesheet" />
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-<link href="/css/main.css" rel="stylesheet">
 <!-- Scripts -->
 <script>
     window.Laravel = <?php echo json_encode([

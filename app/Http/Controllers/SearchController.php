@@ -49,6 +49,9 @@ class SearchController extends Controller
             $mobileData = $mobile->data;
             $price = 999999999999;
             $locationMatched = false;
+            $l = null;
+            $o = null;
+            $available = null;
 
             //there would be multiple rows for one iphone 7 say,
             //10 shops having iphone 7 so we need to get the min
@@ -67,10 +70,24 @@ class SearchController extends Controller
                 if ($lat == null && $long == null && $item->local_online == 'l'){
                     $l = $item->shop->location;
                 }
+                elseif ($lat == null && $long == null){
+                    $o = 'online';
+                }
             }
+
+            if(!empty($l) && !empty($o)){
+                $available = 'both';
+            }
+            elseif (!empty($o) && $o == 'online')
+                $available = 'online';
+            elseif (!empty($l))
+                $available = 'local';
+
+
             $data[$index]['mobile'] = $mobile;
             $data[$index]['data'] = $mobileData;
             $data[$index]['price'] = $price;
+            $data[$index]['available'] = $available;
             $data[$index]['location'] = $l;
         }
         //Get current page form url e.g. &page=6

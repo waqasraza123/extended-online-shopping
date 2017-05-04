@@ -1,0 +1,48 @@
+Mi Pad 3;64 GB;Champagne Gold;4 GB RAM;7.9
+Redmi 4X;16 GB;Cherry Pink, Champagne Gold, Mate Black;2 GB RAM or 32 GB;5.0
+Mi 5c;64 GB;Black, Gold, Rose Gold;3 GB RAM;5.15
+Redmi Note 4X;32 GB;Gray, Gold, Black, Pink;3 RAM or 64 GB;5.5
+Redmi Note 4;32 GB;Gray, Gold, Black;2/3 GB RAM or 64 GB;5.5
+Redmi 4a;16/32 GB;Gold, Rose Gold, Dark Gray;2 GB RAM;5.0
+Redmi 4;16 GB;Gold, Dark Gray, Silver;2 GB RAM;5.0
+Redmi 4 Prime;32 GB;Gold, Dark Gray, Silver;3 GB RAM;5.0
+Mi Mix;128 GB;Black, White;4 GB RAM or 256 GB;6.4
+Mi Note 2;64 GB;Black, Gold, Silver;4 GB RAM or 128 GB;5.7
+Mi 5s Plus;64 GB;Silver, Gray, Gold, Rose Gold;4 GB RAM or 128 GB;5.7
+Mi 5s;64 GB;Silver, Gray, Gold, Rose Gold;3 GB RAM or 128 GB;5.15
+Redmi Note 4 (MediaTek);16 GB;Silver, Gray, Gold, Blue, Black;2 GB RAM - Standard edition;5.5
+Redmi Pro;128 GB;Silver, Gold, Gray;4 GB RAM - Exclusive edition;5.5
+Redmi 3x;32 GB;Gold, Dark Gray, Silver;2 GB RAM;5.0
+Redmi 3s Prime;32 GB;Gold, Dark Gray, Silver;3 GB RAM;5.0
+Redmi 3s;16 GB;Gold, Dark Gray, Silver;2 GB RAM;5.0
+Redmi 3 Pro;32 GB;Dark Gray, Silver, Gold;3 GB RAM;5.0
+Mi 5;128 GB;Black, White, Gold, Ceramic;4 GB RAM - Pro edition;5.15
+Mi Max;32/64 GB;Gray, Silver, Gold;3 GB RAM;6.44
+Mi 4s;64 GB;Black, White, Gold, Pink;3 GB RAM;5.0
+Redmi Note 3;16 GB;Silver, Gray, Gold;2 GB RAM - Standard version;5.5
+Redmi 3;16 GB;Gold, Dark Gray, Silver, Classic Gold;2 GB RAM;5.0
+Redmi Note Prime;16 GB;White;2 GB RAM;5.5
+Mi Pad 2;16/64 GB;Dark grey, Champagne gold;2 GB RAM;7.9
+Redmi Note 3 (MediaTek);16 GB;Silver, Gray, Gold;2 GB RAM;5.5
+Mi 4c;16 GB;White, grey, pink, yellow, blue;2 GB RAM;5.0
+Redmi Note 2;16 GB;White, blue, yellow, pink, mint green;2 GB RAM - Redmi Note 2;5.5
+Redmi 2 Pro;16 GB;Dark gray;2 GB RAM;4.7
+Redmi 2 Prime;16 GB;White, Dark gray;2 GB RAM;4.7
+Mi 4i;16/32 GB;Dark Gray, Black, White, Yellow, Blue, Pink;2 GB RAM;5.0
+Mi Note Pro;64 GB;Black, White, Gold;4 GB RAM;5.7
+Mi Note;16/64 GB;Black, White;3 GB RAM;5.7
+Redmi 2A;8 GB;Various;1 GB RAM;4.7
+Redmi 2;8 GB;Black, White, Yellow, Pink, Green;1 GB RAM;4.7
+Mi 4 LTE;16 GB;White;3 GB RAM;5.0
+Redmi Note 4G;8 GB;Black/White;2 GB RAM;5.5
+Mi 4;16/64 GB;Black, White;2/3 GB RAM;5.0
+Mi Pad 7.9;16/64 GB;Blue, Green, Yellow, Pink, White, Gray;2 GB RAM;7.9
+Redmi Note;8 GB;Various;1/2 GB RAM;5.5
+Mi 3;16/64 GB;White, Gray, Black, Yellow, Pink, Blue, Gold, Green (16 GB);2 GB RAM;5.0
+Redmi 1S;8 GB;Black, Chinese Red, Metallic Gray/ blue, green, yellow panels;1 GB RAM;4.7
+Redmi;4 GB;Black, Chinese Red, Metallic Gray/ blue, green, yellow panels;1 GB RAM;4.7
+Mi 2A;16 GB;Black (front panel), 4 color options (back panel);1 GB RAM;4.5
+Mi 2S;16/32 GB;Black/white, black/blue, black/yellow, black/green, black/pink;2 GB RAM;4.3
+Mi 2;16/32 GB;White, green, blue, red;2 GB RAM;4.3
+Mi 1S;4 GB;White, green, blue, red, violet, orange, gray;1 GB RAM;4.0
+Mi Note Plus;64 GB;Black, White;3 GB RAM;5.7

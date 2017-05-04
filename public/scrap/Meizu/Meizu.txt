@@ -1,0 +1,30 @@
+M5s;16/32 GB;Champanage Gold, Rose Gold, Stay Gray, Moonlight Silver;3 GB RAM;5.2
+M5 Note;16/32 GB;Gray, Silver, Gold, Blue;3 GB RAM or 64 GB;5.5
+M3x;32 GB;Blue, Gold, Black, Silver;3 RAM or 64 GB;5.5
+Pro 6 Plus;64/128 GB;Gold, Silver, Gray;4 GB RAM;5.7
+MX5e;16/32 GB;Gray, Gold, Silver, Black/Silver;3 GB RAM;5.5
+U10;16 GB;Black, White, Shampane Gold;2 GB RAM or 32 GB;5.0
+U20;16 GB;Black, Silver, Rose Gold, Gold;2 GB RAM or 32 GB;5.5
+Pro 6s;64 GB;Black, Gold, Silver, Rose Gold;4 GB RAM;5.2
+M5;16 GB;Mint Green, Glacier White, Champanage Gold, Sapphire Blue, Matte Black;2 GB RAM or 32 GB;5.2
+M3 Max;64 GB;Champagne Gold, Silver, Gray, Rose Gold;3 GB RAM;6.0
+M3e;32 GB;Blue, Gold, Gray, Pink, Silver;3 GB RAM;5.5
+MX6;32 GB;Gray, Silver, Champagne Gold, Rose Gold;3/4 GB RAM;5.5
+M3s;16 GB;Silver, Gray, Pink, Gold;2 GB RAM or 32 GB;5.0
+M3;16 GB;Gray, White, Blue, Pink, Gold;2 GB RAM or 32 GB;5.0
+Pro 6;32/64 GB;Gray, Gold, Silver, Flames Red, Rose Gold;4 GB RAM;5.2
+M3 Note;16 GB;Gray, White, Gold;2 GB RAM or 32 GB;5.5
+PRO 5 mini;32 GB;Gray, Gold, Silver, Black/Silver;3 GB RAM;4.7
+M1 Metal;16/32 GB;White, Gold, Gray, Blue, Pink;2 GB RAM;5.5
+PRO 5;32 GB;Gray, Gold, Silver, Black/Silver;3 GB RAM;5.7
+M2;16 GB;Gray, White, Blue, Pink;2 GB RAM;5.0
+MX5;16/32/64 GB;Gray, Gold, Silver, Black/Silver;3 GB RAM;5.5
+M2 Note;16/32 GB;Gray, White, Blue, Pink;2 GB RAM;5.5
+M1 Note;16/32 GB;White, Blue, Yellow, Green, Pink;2 GB RAM;5.5
+M1;8 GB;White, BLue, Yellow, Green, Pink, Mint;1 GB RAM;5.0
+MX4 Pro;16/32/64 GB;Gray, Gold, White;3 GB RAM;5.5
+MX4;16/32/64 GB;Gray, Gold, White;2 GB RAM;5.36
+MX3;16/32/64/128 GB;Black (front panel), several color options (back panel); white;2 GB RAM;5.1
+MX2;16/32/64 GB;Black front & white back;2 GB RAM;4.4
+MX 4-core;32/64 GB;Black (front)/ white, green, blue, pink, violet (back);1 GB RAM;4.0
+MX;16 GB;Black/White;1 GB RAM;4.0

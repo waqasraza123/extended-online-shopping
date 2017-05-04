@@ -1,0 +1,12 @@
+Aquaris X Pro;64/128 GB;Midnight Black, Glaze White;4 GB RAM;5.2
+Aquaris X;32 GB;Mineral Black, Pearl Rose;3 GB RAM;5.2
+Aquaris U Lite;16 GB;Black;2 GB RAM;5.0
+Aquaris U;16 GB;Black;2 GB RAM;5.0
+Aquaris U Plus;16 GB;Black, Gold;2 GB RAM or 32 GB;5.0
+Aquaris X5 Plus;16 GB;Black, White/Rose Gold;2 GB RAM;5.0
+Aquaris E5s;16 GB;Black, White;2 GB RAM;5.0
+Aquaris X5;16 GB;Black, White, Rose Gold;2 GB RAM;5.0
+Aquaris M5;16 GB;Black, White;2/3 GB RAM;5.0
+Aquaris M5.5;16 GB;Black, White;2/3 GB RAM;5.5
+Aquaris M4.5;8 GB;Black, White;1 GB RAM;4.5
+ Aquaris M10;16 GB;Black, White;2 GB RAM;10.1

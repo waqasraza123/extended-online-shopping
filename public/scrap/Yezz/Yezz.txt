@@ -1,0 +1,87 @@
+Andy 4E4;4 GB;Black, White, Gray, Blue, Pink;512 MB RAM;4.0
+4.5EL LTE;8 GB;Black;1 GB RAM;4.5
+5M;8 GB;Black;1 GB RAM;5.0
+C21;4 MB;Black, White, Red, Blue;4 MB RAM;1.8
+Andy 5EI3 (2016);8 GB;Black, Blue, Red, Gun Metal, White, Silver, Pink;512 MB RAM;5.0
+Andy 5E3;8 GB;Black, Blue, Red, Gun Metal, White, Silver, Pink;512 MB RAM;5.0
+Andy 4.7T;8 GB;Blue, Red, White;1 GB RAM;4.7
+Andy 5M LTE;8 GB;Black;1 GB RAM;5.0
+CC40;128 MB;Black;64 MB RAM;1.8
+Andy 5.5M LTE VR;8 GB;Black;1 GB RAM;5.5
+Monte Carlo 55 LTE VR;8 GB;Black;1 GB RAM;5.5
+Monte Carlo 55 LTE;8 GB;Black;1 GB RAM;5.5
+Classic C23A;4 MB;Black, Blue, Fushsia, Gold, Green, Red, Silver, White;4 MB RAM;1.8
+Andy 4E3I;4 GB;Black;512 MB RAM;4.0
+Andy 5E2I;4 GB;Black, Cool Gray;512 MB RAM;5.0
+Andy 4EI2;4 GB;Black, Red, Silver, White, Blue, Gold;512 MB RAM;4.0
+Andy 3.5EI2;4 GB;Black, Red, Silver, White, Blue, Gold;512 MB RAM;3.5
+Andy 6EL LTE;8 GB;Black, White;1 GB RAM;6.0
+Andy 5E LTE;8 GB;Black, White;1 GB RAM;5.0
+Andy C5E LTE;8 GB;Black;1 GB RAM;5.0
+Andy 5EI3;4 GB;Black, White, Red, Champagne Gold;512 MB RAM;5.0
+Andy 4EL2 LTE;8 GB;Black, White;1 GB RAM;4.0
+Classic Z51;8 GB;Black, White;ram;1.3
+Andy 5EL LTE;8 GB;Black, White;1 GB RAM;5.0
+Andy 4.5EL LTE;8 GB;Black, White;1 GB RAM;4.5
+Andy 3.5EI3;4 GB;Black, Red, White, Blue, Fuchsia;512 MB RAM;3.5
+Classic C60;4 GB;Black;ram;2.4
+Andy 4E LTE;4 GB;Black;512 MB RAM;4.0
+Andy 4E2I;4 GB;Black, White, Red, Blue, Yellow;512 MB RAM;4.0
+Andy 3.5E2I;4 GB;Black, White, Blue, Green, Orange;512 MB RAM;3.5
+Z50;4 GB;Black, White;ram;2.4
+ZC20;4 GB;White, Blue;ram;1.8
+Billy 5S LTE;8 GB;Black;1 GB RAM;5.0
+Andy C5ML;8 GB;Black, White, Red;1 GB RAM;5.0
+Andy C5QL;8 GB;Black, White, Red;1 GB RAM;5.0
+Classic C50;8 GB;Red, Blue, Fuchsia, White, Black;ram;1.8
+Classic C22;8 GB;Blue, Red, White, Black, Fuchsia;ram;1.8
+Classic C21A;8 GB;Black, White, Blue, Green, Purple, Red, Fuchsia;ram;1.8
+Monaco 47;8 GB;Red, White, Dark Gray;1 GB RAM;4.7
+Billy 4;4 GB;White, Black, Red, Gun Metal, Blue, Yellow, Champing Gold;512 MB RAM;4.0
+Andy 5T;4 GB;White, Black, Blue, Red;1 GB RAM - AM5TJ047;5.0
+Andy C5VP;8 GB;Black, White, Red, Blue;1 GB RAM;5.0
+Andy C5V;4 GB;Black, White;1 GB RAM;5.0
+Andy 5.5EI;4 GB;Black;512 MB RAM;5.5
+Andy 4.5M;4 GB;Black, Blue, Red;1 GB RAM;4.5
+Billy 4.7;8 GB;White, Red, Blue;1 GB RAM;4.7
+Andy 4EI;4 GB;Black, White, Red, Blue, Yellow;512 MB RAM;4.0
+Andy 3.5EH;512 MB;Black, White, Blue, Green, Fuschia;256 MB RAM;3.5
+Andy 5EI;4 GB;Black, White, Red, Blue, Green;512 MB RAM;5.0
+Andy 3.5EI;4 GB;Black, White, Blue, Green, Orange;512 MB RAM;3.5
+Andy 6Q;4 GB;Black, Gun Metal, Gold, Platinum;1 GB RAM;6.0
+Classic C21;4 GB;Red, Green, Blue, Purple, White, Gray, Black;ram;1.8
+Andy A5QP;8 GB;White, Blue, Red;1 GB RAM;5.0
+Andy AZ4.5;4 GB;Black;512 MB RAM;4.5
+Epic T7FD;4 GB;Black, Blue, Green, Orange, Dark Gray;1 GB RAM;7.0
+Andy A3.5EP;microSD;Black, White, Blue, Green, Red;up to 32 GB (dedicated slot);3.5
+Epic T7ED;8 GB;Black, Blue, Green, Orange, Dark Gray;1 GB RAM;7.0
+Andy A6M 1GB;4 GB;Black, White, Red;1 GB RAM;6.0
+Andy A6M;4 GB;Black, White, Red;512 MB RAM;6.0
+Andy A4M;4 GB;Black, White, Red;512 MB RAM;4.0
+Andy A4E;4 GB;Black, White;512 MB RAM;4.0
+Andy A5 1GB;4 GB;Black;1 GB RAM;5.0
+Andy A4.5 1GB;4 GB;Black, White;1 GB RAM;4.5
+Andy A4.5;4 GB;Black, White;512 MB RAM;4.5
+Andy A4;4 GB;Black, White;512 MB RAM;4.0
+Andy A3.5;microSD;Black, White;up to 32 GB (dedicated slot);3.5
+Classic CC10;microSD;Blue, Gray, Purple, Red, White, Black;ram;1.8
+Andy A5;4 GB;Black;512 MB RAM;5.0
+Epic T7;16 GB;Black, Blue, Green, Orange, Dark Gray;512 MB RAM;7.0
+Classic C30;16 GB;Blue, Gray, White;ram;2.2
+Bonito YZ500;16 GB;Blue, Gray, Pink, Red, Violet;ram;2.0
+Exclusive Z10;16 GB;Black, White;ram;2.0
+Andy 3G 3.5 YZ1110;512 MB;Black;256 MB RAM;3.5
+Andy 3G 4.0 YZ1120;512 MB;Blue;512 MB RAM;4.0
+Ritmo 3 TV YZ433;512 MB;Black, Blue, Silver, White;ram;2.0
+Ritmo 2 YZ420;512 MB;Blue, Gray, Purple, White;ram;1.8
+Andy 3G 2.8 YZ11;512 MB;Black, White, Blue, Purple, Black;256 MB RAM;2.8
+Classic C20;512 MB;Blue, Gray, Green, Red, White, Black;ram;1.8
+Chico 2 YZ201;512 MB;Blue, Gray, Purple, Red, White;ram;1.8
+Andy YZ1100;512 MB;Blue, Purple, White, Black;128 MB RAM;3.2
+Fashion F10;512 MB;Black, Blue, Red, White;ram;2.2
+Bono 3G YZ700;512 MB;Red, Blue, Purple, Black, White;ram;2.0
+Moda YZ600;512 MB;Black, White;ram;2.2
+Ritmo YZ400;512 MB;Blue, Gray, Pink, Red, Violet;ram;1.8
+Zenior YZ888;512 MB;Black, Gold, Gray, Red;ram;1.8
+Clasico YZ300;512 MB;Red, Blue, Gray, Silver;ram;1.8
+Chico YZ200;512 MB;Gray, Blue, Pink, Red;ram;1.4

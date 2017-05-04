@@ -46,19 +46,34 @@ class WelcomeController extends Controller
             $mobileData = $mobile->data;
             $price = 999999999999;
             $l = null;
+            $o = null;
+            $available = null;
+            //there are multiple items per phone
+            //i.e. iphone 5 may have 5 rows in product data table
+            //since item can be on different shops
             foreach ($mobileData as $item){
                 $price = $item->current_price < $price ? $item->current_price : $price;
 
+                //check if the item is available
+                //online or local or both
                 if ($item->local_online == 'l'){
                     $l = $item->shop->location;
+                }else {
+                    $o = 'online';
                 }
             }
-            //now get the shop location
-
+            if(!empty($l) && !empty($o)){
+                $available = 'both';
+            }
+            elseif (!empty($o) && $o == 'online')
+                $available = 'online';
+            elseif (!empty($l))
+                $available = 'local';
 
             $data[$index]['mobile'] = $mobile;
             $data[$index]['data'] = $mobileData;
             $data[$index]['price'] = $price;
+            $data[$index]['available'] = $available;
             $data[$index]['location'] = $l;
         }
 
@@ -77,7 +92,7 @@ class WelcomeController extends Controller
         //Create our paginator and pass it to the view
         $paginatedSearchResults = new LengthAwarePaginator($data, $count, $perPage);
 
-        return view('welcome', compact('searchText'))->with(['brands' => $brands, 'mobiles' => $paginatedSearchResults]);
+        return view('welcome')->with(['brands' => $brands, 'mobiles' => $paginatedSearchResults, 'searchText' => $searchText]);
     }
 
     /**

@@ -5,7 +5,7 @@
 @section('content')
     {{--@include('frontend.search-bar')--}}
     <div class="row clearfix" style="margin-top: 20px">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
             <div class="body">
                 <div class="row">
                     <div class="col-sm-12 col-md-12 product mobile">

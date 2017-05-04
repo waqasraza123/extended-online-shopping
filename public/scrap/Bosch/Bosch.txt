@@ -1,0 +1,10 @@
+909 Dual S;10 dialed;3;10 received;
+909 Dual;10 dialed;3;10 received;
+Com 908;10 dialed;3;10 received;
+Com 509;10 dialed;Several, half transparent;10 received;
+World 718;10 dialed;;10 received;
+Com 738;10 dialed;;10 received;
+Com 906;10 dialed;;10 received;
+Com 608;10 dialed;;10 received;
+Com 607;10 dialed;;10 received;
+Com 207;10 dialed;;ram;

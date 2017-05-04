@@ -1,0 +1,30 @@
+Bolt;8 GB;Black, Silver;1 GB RAM;5.0
+Neo V;8 GB;Black, White, Blue;1 GB RAM;5.0
+Quattro S;8 GB;Black, White, Navy;1 GB RAM;4.0
+Quattro V;8 GB;Black, White, Blue;1 GB RAM;4.0
+Drone XS;4 GB;Black, White, Blue;512 MB RAM;3.5
+Primo 2G;32 MB;Black/Grey;32 MB RAM;1.8
+Omnia;8 GB;Black, White, Gray;1 GB RAM;5.0
+Swift;8 GB;Black, White, Blue;1 GB RAM;4.0
+Quattro X;4 GB;Black, White, Blue;512 MB RAM;4.0
+Drone XL;512 MB;Black, White, Blue;256 MB RAM;3.5
+Drone X;512 MB;Black, White, Blue;256 MB RAM;3.5
+Air 5.5;8 GB;Black, White, Gray;1 GB RAM;5.5
+Air 5.0;8 GB;Black, White, Gray;1 GB RAM;5.0
+Air 4.5;8 GB;Black, White, Gray;1 GB RAM;4.5
+Rush;4 GB;Black, White, Blue;512 MB RAM;5.0
+Quattro Z;4 GB;Black, White, Blue;512 MB RAM;4.0
+Drone Z;512 MB;Black, White, Grey;256 MB RAM;3.5
+Quattro;512 MB;Black;ram;4.0
+Blaze;1 GB;Black, White;512 MB RAM;3.5
+Drone;4 GB;Black/black, black/silver, black/white;2 GB RAM;3.2
+Tap;256 MB;White/Blue;64 MB RAM;2.8
+Pro Z;256 MB;Black, White;ram;2.4
+Pro;512 MB;Black, White;256 MB RAM;2.4
+Edge;512 MB;Black/Black, Black/Red;ram;2.2
+Shell;512 MB;Black, Silver;ram;2.2
+Pebble;512 MB;Black/Black, Black/Pink, White/Blue;ram;2.0
+Drift;512 MB;Black, Yellow, Orange;ram;2.4
+Eco;512 MB;Black/Red, White/Blue, Black/Grey, Blue/Blue, White/Pink;ram;1.77
+Primo 3G;512 MB;Black, Blue, Stone;ram;1.8
+Primo;512 MB;Black Grey, Black Red, White Blue, White Pink, Blue;ram;1.8

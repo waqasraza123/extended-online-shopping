@@ -1,0 +1,80 @@
+Era 2X;16 GB;Black/Gun Metal, Latte Gold;2/3 GB RAM;5.0
+Era 2;8 GB;Black, Blue, Gold;1 GB RAM;5.0
+Era 1X;8 GB;Black, Brown/Gold;1 GB RAM;5.0
+Era X;8 GB;Black;2 GB RAM;5.0
+Era 4K;8 GB;Blue, White;2 GB RAM;5.0
+Era 4G;8 GB;Black;1 GB RAM;5.0
+One HD;8 GB;Space Gray, White;1 GB RAM;5.0
+Black 3GB;16 GB;Black;3 GB RAM;5.5
+Black 1X;32 GB;Black;3 GB RAM;5.0
+Black;16 GB;Black;2 GB RAM;5.5
+Era;8 GB;Black;1 GB RAM;5.0
+Cube 5.0;8 GB;Black, White, Gold;2 GB RAM;5.0
+Prime;8 GB;Black, Blue, Red;1 GB RAM;4.5
+LT2000;8 GB;Black;1 GB RAM;5.5
+A1010;4 GB;Black, White;512 MB RAM;5.0
+Win Q1000;8 GB;Black, White, Yellow;1 GB RAM;5.0
+8X-1020;8 GB;Black;1 GB RAM;5.0
+Q700 Club;8 GB;Black, White;1 GB RAM;4.5
+Q520s;4 GB;Black, White;512 MB RAM;4.0
+Q900s Plus;8 GB;Black, White;1 GB RAM;4.7
+Omega 5.5;8 GB;Black;1 GB RAM;5.5
+Omega 5.0;8 GB;Black;1 GB RAM;5.0
+Opus 3;8 GB;Black;1 GB RAM;5.0
+Q710s;8 GB;Black;1 GB RAM;4.5
+Q1020;8 GB;Black, White;1 GB RAM;5.0
+One;8 GB;Black, White, Brown, Red, Liverpool FC Limited Edition;1 GB RAM;4.5
+Q2100;8 GB;Black, White;1 GB RAM;5.5
+Opus HD;8 GB;Black;1 GB RAM;4.99
+Play 8X-1100;16 GB;Black, White;2 GB RAM;5.0
+Q510s;8 GB;Black, Metal Blue, Real Golden, Rose Golden;1 GB RAM;4.0
+Q700s plus;8 GB;Black, Titanium Blue, Real Golden;1 GB RAM;4.5
+Q1000s plus;32 GB;Black, White;2 GB RAM;5.0
+Q610s;8 GB;Black, White;1 GB RAM;4.5
+A1000s;4 GB;Black, White;1 GB RAM;5.0
+Play 8X-1200;32 GB;Black, Red;2 GB RAM;5.0
+Hive 8X-1000;16 GB;Black;2 GB RAM;5.0
+A550S IPS;4 GB;White;512 MB RAM;4.0
+Q900s;8 GB;Black, White;1 GB RAM;4.7
+Q500s IPS;4 GB;Black, White;512 MB RAM;4.0
+A700s;4 GB;Black, White;1 GB RAM;4.5
+Play 6X-1000;8 GB;Black, White;2 GB RAM;5.0
+Q2000L;8 GB;Black, White;1 GB RAM;5.5
+Win Q900s;8 GB;Black, White;1 GB RAM;4.7
+Q1000 Opus2;4 GB;Black;1 GB RAM;5.0
+Q1011;4 GB;Black, White;1 GB RAM;5.0
+Q1200;8 GB;Black, White;1 GB RAM;5.0
+Q600s;4 GB;Black, White;1 GB RAM;4.5
+A500S Lite;4 GB;Black, White;512 MB RAM;4.0
+Q900T;4 GB;Black;1 GB RAM;4.7
+Q1010i;8 GB;Black, White;1 GB RAM;5.0
+A510s;4 GB;Silver;1 GB RAM;4.0
+Q2500;4 GB;Black;1 GB RAM;6.0
+A500 Club;4 GB;Black, White;512 MB RAM;4.0
+Q1010;4 GB;Black, White;1 GB RAM;5.0
+Q1100;8 GB;Black, White;1 GB RAM;5.0
+Q700s;4 GB;Golden, Silver;1 GB RAM;4.5
+Q3000;16 GB;Black, White;2 GB RAM;5.7
+Q1000 Opus;4 GB;Black, White;1 GB RAM;5.0
+LT900;8 GB;Black;1 GB RAM;4.3
+Play Tegra Note;16 GB;Black;1 GB RAM;7.0
+Q500;4 GB;White;1 GB RAM;4.0
+Q800 X-Edition;4 GB;Black, White;1 GB RAM;4.5
+A500S IPS;4 GB;Black, White, Red, Blue;512 MB RAM;4.0
+Q2000;8 GB;White, Black;1 GB RAM;5.5
+Q900;4 GB;White;1 GB RAM;4.7
+A600;4 GB;Black, White;512 MB RAM;4.5
+A500L;4 GB;Black;512 MB RAM;4.0
+Q700i;4 GB;White;1 GB RAM;4.5
+Play Tab 7.0;8 GB;Black;1 GB RAM;7.0
+Tab;4 GB;White;1 GB RAM;8.0
+Q1000s;16 GB;Black;1 GB RAM;5.0
+A500S;4 GB;Black, White, Red, Blue;512 MB RAM;4.0
+Play;4 GB;Black;1 GB RAM;4.7
+Q600;4 GB;White;512 MB RAM;4.5
+X1000;8 GB;Black;1 GB RAM;4.7
+X910;4 GB;White, Black;1 GB RAM;4.3
+X500;4 GB;Black;512 MB RAM;3.5
+Q1000;4 GB;Black, White;1 GB RAM;5.0
+Q800;4 GB;Black, White;1 GB RAM;4.5
+Q700;4 GB;Coffee Brown, Blue, Black;1 GB RAM;4.5

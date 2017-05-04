@@ -1,0 +1,9 @@
+S60;32 GB;Black;3 GB RAM;4.7
+S30;8 GB;Black;1 GB RAM;4.5
+S40;16 GB;Black;1 GB RAM;4.7
+B30;16 GB;Black;ram;2.0
+B15 Q;4 GB;Black;1 GB RAM;4.0
+S50;8 GB;Forest, Slate;2 GB RAM;4.7
+B15;4 GB;Black;512 MB RAM;4.0
+B100;128 MB ROM;Black;64 MB RAM;2.2
+B25;128 MB ROM;Black;ram;2.0

@@ -1,0 +1,19 @@
+X2;16/32 GB;;ram;2.2
+S1;30 received;;dialed and missed calls;
+K1;30 received;;dialed and missed calls;
+P600;30 received;;ram;
+SV663;30 received;;ram;
+M570;30 received;;ram;
+S600;30 received;;ram;
+X;30 received;;ram;2.2
+S360;30 received;Black, Blue;ram;
+S330;30 received;;ram;
+S300;30 received;4 - Midnight, Ink Blue, Frosty Mint, Pepper Red;ram;
+M550;30 received;;ram;
+Z100;30 received;;ram;2.2
+J530;30 received;Translucent Blue, Translucent Red, Translucent Grey;ram;
+J520;30 received;;ram;
+S230;30 received;4 - Midnight, Ink Blue, Frosty Mint, Pepper Red;ram;
+P200;30 received;3 - Midnight Blue, Ink Blue, Forest Green;ram;
+S200;30 received;4 - Midnight, Ink Blue, Frosty Mint and Pepper Red;ram;
+D800;30 received;;ram;

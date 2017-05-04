@@ -1,0 +1,52 @@
+Prism II;4 GB;Black;512 MB RAM;3.5
+Concord;512 MB;Black;512 MB RAM;3.5
+myTouch Q 2;4 GB;Black, White;1 GB RAM;4.0
+myTouch 2;4 GB;Black, Dark red;1 GB RAM;4.0
+Prism;4 GB;Black;ram;3.5
+Move Balance;4 GB;Black;512 MB RAM;3.7
+Arizona;4 GB;Black;ram;2.8
+myTouch 4G Slide;4 GB;White, Black;768 MB RAM;3.7
+Vivacity;4 GB;Black;ram;3.5
+Energy;20 dialed;Black;20 received;3.5
+SpringBoard;20 dialed;Black;ram;7.0
+myTouch Q;2 GB;Gray, Violet;512 MB RAM;3.5
+myTouch;2 GB;Black, White;512 MB RAM;3.8
+G-Slate;2 GB;Black;ram;8.9
+G2x;8 GB;Dark Ale;512 MB RAM;4.0
+Move;150 MB;Red, Black, Pink;512 MB RAM;2.8
+Sidekick 4G;1 GB;Matte black, Pearl magenta;512 MB RAM;3.5
+Vairy Text II;1 GB;Black;ram;2.4
+Vibe E200;1 GB;Black, Pink;ram;2.8
+Comet;microSD;Black;up to 32 GB (dedicated slot);2.8
+myTouch 4G;4 GB;Black;768 MB RAM;3.8
+G2;4 GB;White, Black;512 MB RAM;3.7
+myTouch 3G Slide;512 MB RAM;White, Black, Red;512 MB;3.4
+Garminfone;4 GB;Black;256 MB RAM;3.5
+Pulse Mini;4 GB;Black, White;ram;2.8
+myTouch 3G Fender Edition;192 MB RAM;Sunburst;512 MB;3.2
+HD2;576 MB RAM;Black;1 GB ROM;4.3
+Tap;30 received;Berry, Midnight Blue;dialed and missed calls;2.8
+Pulse;30 received;Black;ram;3.5
+Vairy Text;30 received;Black;ram;2.4
+Vairy Touch II;30 dialed;Black;30 received;2.8
+G2 Touch;288 MB RAM;Black;512 MB;3.2
+Dash 3G;192 MB RAM;Brown;256 MB ROM;2.4
+myTouch 3G 1.2;256 MB RAM;White, Black, Red;512 MB;3.2
+myTouch 3G;192 MB RAM;White, Black, Red;512 MB;3.2
+MDA Vario V;288 MB RAM;Black/Grey;512 MB ROM;3.6
+MDA Compact V;288 MB RAM;Black;512 MB ROM;3.2
+Sidekick LX 2009;30 dialed;Orchid, Carbon;30 received;3.2
+Shadow 2;microSD;White Mint, Black Burgundy;up to 8 GB (dedicated slot);
+Vairy Touch;30 dialed;Black;30 received;2.4
+MDA Basic;128 MB RAM;Gray;256 MB ROM;2.8
+G1;192 MB RAM;White, Black, Brown;256 MB;3.2
+MDA Vario IV;256 MB RAM;Black;512 MB ROM;2.8
+Shadow;128 MB RAM;Black;256 MB ROM;,
+MDA Compact IV;4 GB;Black;128 MB RAM;2.8
+Sidekick;128 MB RAM;Black;64 MB ROM;2.6
+Sidekick Slide;128 MB RAM;Black;ram;2.5
+Sidekick LX;64 MB RAM;Black;64 MB ROM;3.0
+Sidekick 3;64 MB RAM;Black;ram;2.6
+Wing;64 MB RAM;Black;128 MB ROM;2.8
+Dash;64 MB RAM;;128 MB ROM;2.4
+myTouch qwerty;4 GB;White, Black;1 GB RAM;4.0

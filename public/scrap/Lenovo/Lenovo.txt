@@ -1,0 +1,167 @@
+Tab 4 10 Plus;16 GB;Aurora Black, Sparkling White;3 GB RAM or 64 GB;10.1
+Tab 4 10;16/32 GB;Black, White;2 GB RAM;10.1
+Tab 4 8 Plus;16 GB;Aurora Black, Sparkling White;3 GB RAM or 64 GB;8.0
+Tab 4 8;16/32 GB;Black, White;2 GB RAM;8.0
+Tab3 8 Plus;16 GB;Black, White;3 GB RAM;8.0
+ZUK Edge;64 GB;Ceramic White, Titanium Black;4/6 GB RAM;5.5
+A6600 Plus;16 GB;Black, White;2 GB RAM;5.0
+A6600;16 GB;Black, White;1 GB RAM;5.0
+B;8 GB;Black, White, Gold;1 GB RAM;4.5
+A Plus;8 GB;Onyx Black, Pearl White;1 GB RAM;4.5
+P2;32 GB;Champagne gold, Graphite gray;3/4 GB RAM or 64 GB;5.5
+K6 Note;32 GB;Silver, Gold, Dark Grey;3/4 GB RAM;5.5
+K6 Power;16 GB;Silver, Gold, Dark Grey;2 GB RAM or 32 GB;5.0
+K6;16/32 GB;Silver, Gold, Dark Grey;2 GB RAM;5.0
+Yoga Tab 3 Plus;32 GB;Black;3 GB RAM;10.1
+Vibe A;4 GB;Onyx Black, Pearl White;512 MB RAM;4.0
+C2 Power;16 GB;Black, White;2 GB RAM;5.0
+C2;8/16 GB;Black, White;1 GB RAM;5.0
+Phab2 Plus;32 GB;Gunmetal Grey, Champagne Gold;3 GB RAM;6.4
+Phab2;32 GB;Gunmetal Grey, Champagne Gold;3 GB RAM;6.4
+Phab2 Pro;64 GB;Gunmetal Grey, Champagne Gold;4 GB RAM;6.4
+ZUK Z2;64 GB;Titanium Black, Ceramic White;4 GB RAM;5.0
+Vibe C;8 GB;Black;1 GB RAM;5.0
+ZUK Z2 Pro;64 GB;Titanium Black, Ceramic White;4 GB RAM or 128 GB;5.2
+Tab3 10;32 GB;Black;2 GB RAM or 64 GB;10.1
+Tab3 8;16 GB;Black, White;1/2 GB RAM;8.0
+Tab3 7;8/16 GB;Black;1 GB RAM;7.0
+Vibe K5 Plus;16 GB;Silver, Gold;2 GB RAM;5.0
+Vibe K5;16 GB;Silver, Gold;2 GB RAM;5.0
+A7000 Turbo;16 GB;Matte Black;2 GB RAM;5.5
+Vibe P1 Turbo;32 GB;Platinum, Graphite Grey, Gold;3 GB RAM;5.5
+K5 Note;32 GB;Silver, Gold, Gray;3/4 GB RAM;5.5
+Lemon 3;16 GB;Silver, Gold;2 GB RAM;5.0
+Vibe S1 Lite;16 GB;Matte White, Matte Blue;2 GB RAM;5.0
+Vibe K4 Note;16 GB;Black;3 GB RAM - A7010 a48;5.5
+Vibe X3 c78;16 GB;White, Black;2 GB RAM;5.5
+Vibe X3;32/64 GB;White, Black;3 GB RAM;5.5
+A3690;8 GB;Black, White;1 GB RAM;5.0
+Yoga Tab 3 Pro;64 GB;Black;4 GB RAM;10.1
+Yoga Tab 3 8.0;16 GB;Black;1 GB RAM;8.0
+A1000;8 GB;Onyx Black, Pearl White;1 GB RAM;4.0
+Phab;16 GB;Tuxedo Black, Polar White, Aqua Blue, Cherry Red;1 GB RAM;6.98
+Phab Plus;32 GB;Gunmetal Grey, Titanium Silver, Champagne Gold;2 GB RAM;6.8
+Vibe P1;32 GB;Platinum, Graphite Grey;2 GB RAM;5.5
+A6010 Plus;16 GB;Black, White, Yellow;2 GB RAM;5.0
+A6010;8 GB;Black, White, Yellow;1 GB RAM;5.0
+Vibe P1m;16 GB;Onyx Black, Pearl White;2 GB RAM;5.0
+Vibe S1;32 GB;Pearl White, Midnight Blue;3 GB RAM;5.0
+ZUK Z1;64 GB;White, Dark Gray;3 GB RAM;5.5
+A2010;8 GB;Black, Pearl White;1 GB RAM;4.5
+A616;4 GB;Black, White;512 MB RAM;5.5
+A3900;4 GB;Black, Pearl White, Silver;512 MB RAM;5.0
+K80;64 GB;Black, Silver, Red;4 GB RAM;5.5
+S60;8 GB;Pearl White, Graphite Grey, Yellow;2 GB RAM;5.0
+A6000 Plus;16 GB;Black, White, Yellow, Red;2 GB RAM;5.0
+A1900;4 GB;Black;512 MB RAM;4.0
+K3 Note;16 GB;Onyx Black, Pearl White, Laser Yellow;2 GB RAM;5.5
+Vibe Shot;32 GB;Crimson, Pearl White, Graphite Grey;3 GB RAM;5.0
+A7000 Plus;16 GB;Onyx Black, Pearl White, Yellow;2 GB RAM;5.5
+A7000;8 GB;Onyx Black, Pearl White, Yellow;2 GB RAM;5.5
+A5000;8 GB;Black, White;1 GB RAM;5.0
+Tab 2 A10-70;16 GB;Pearl White, Midnight Blue;2 GB RAM;10.1
+Tab 2 A8-50;8/16 GB;Pearl White, Ebony, Midnight Blue, Neon Pink;1 GB RAM;8.0
+P70;16 GB;Midnight Blue;2 GB RAM;5.0
+Tab 2 A7-30;16 GB;Pearl White, Ebony Black, Aqua Blue, Cotton Candy;1 GB RAM;7.0
+Tab 2 A7-20;8/16 GB;Black;1 GB RAM;7.0
+Tab 2 A7-10;8/16 GB;Black;1 GB RAM;7.0
+A6000;8 GB;Black;1 GB RAM;5.0
+P90;32 GB;Pearl White, Lava Red, Onyx Black;2 GB RAM;5.5
+Vibe X2 Pro;32 GB;Champagne Gold, Rock Pink, Electric Blue;2 GB RAM;5.3
+K3;16 GB;Yellow;1 GB RAM;5.0
+Golden Warrior Note 8;8 GB;White;1 GB RAM;6.0
+A916;8 GB;White, Black;1 GB RAM;5.5
+S856;8 GB;Silver;1 GB RAM;5.5
+A319;4 GB;White, Black, Red;512 MB RAM;4.0
+S90 Sisley;16/32 GB;White/silver, gray, pink, soft orange, blue;1/2 GB RAM;5.0
+S580;8 GB;Black;1 GB RAM;5.0
+A606;8 GB;Black, White;1 GB RAM;5.0
+Yoga Tablet 2 Pro;32 GB;Platinum;2 GB RAM;13.3
+Yoga Tablet 2 10.1;16 GB;Platinum;2 GB RAM;10.1
+Yoga Tablet 2 8.0 ;16 GB;Platinum;2 GB RAM;8.0
+Tab S8;16 GB;Ebony, Blue, Canary Yellow, White;2 GB RAM;8.0
+Vibe X2;32 GB;White, Gold, Red, Charcoal;2 GB RAM;5.0
+Vibe Z2;32 GB;White, Gold, Titanium;2 GB RAM;5.5
+A850+;4 GB;Black;1 GB RAM;5.5
+Vibe Z2 Pro;32 GB;Black, Gold, White;3 GB RAM;6.0
+Golden Warrior A8;16 GB;Black, White;2 GB RAM;5.0
+Golden Warrior S8;8 GB;Golden;1 GB RAM/ 16 GB;5.3
+S939;8 GB;Dark Gray;1 GB RAM;6.0
+S750;4 GB;Black/Orange;1 GB RAM;4.5
+A889;8 GB;White;1 GB RAM;6.0
+A680;4 GB;Black, White;1 GB RAM;5.0
+A316i;4 GB;Black;512 MB RAM;4.0
+A328;4 GB;Black, White;1 GB RAM;4.5
+A536;8 GB;Black, White;1 GB RAM;5.0
+A526;4 GB;Blue;1 GB RAM;4.5
+A10-70 A7600;16/32 GB;Black;1 GB RAM;10.1
+A8-50 A5500;8/16 GB;Black, White, Yellow, Red;1 GB RAM;8.0
+A7-50 A3500;8/16 GB;Blue;1 GB RAM;7.0
+A7-30 A3300;8 GB;Silver;1 GB RAM;7.0
+Yoga Tablet 10 HD+;16/32 GB;Gray;2 GB RAM;10.1
+S860;16 GB;Titanium;2 GB RAM;5.3
+S850;16 GB;Pink, White;1 GB RAM;5.0
+S660;8 GB;Titanium;1 GB RAM;4.7
+A880;8 GB;Black, White;1 GB RAM;6.0
+A859;8 GB;Black/White;1 GB RAM;5.0
+S930;8 GB;Silver;1 GB RAM;6.0
+S650;8 GB;Silver, White;1 GB RAM;4.7
+Vibe Z K910;16 GB;Silver, Titanium;2 GB RAM;5.5
+Yoga Tablet 10;16/32 GB;Gray;1 GB RAM;10.1
+Yoga Tablet 8;16/32 GB;Gray;1 GB RAM;8.0
+A630;4 GB;Black;512 MB RAM;4.5
+A516;4 GB;Black, Pink, White;512 MB RAM;4.5
+Vibe X S960;16/32 GB;Black/Silver;2 GB RAM;5.0
+S5000;16 GB;Silver Grey;1 GB RAM;7.0
+A850;4 GB;Black, White;1 GB RAM;5.5
+A706;4 GB;Black, White/Grey;1 GB RAM;4.5
+P780;4/8 GB;Black;1 GB RAM;5.0
+S820;4/8 GB;Flamingo red, Charcoal Black, Pearl White;1 GB RAM;4.7
+A390;4 GB;Black, White;512 MB RAM;4.0
+A369i;4 GB;Black;512 MB RAM;4.0
+A269i;512 MB;Black;256 MB RAM;3.5
+S920;4 GB;White, Blue;1 GB RAM;5.3
+IdeaTab S6000H;32 GB;Black;1 GB RAM;10.1
+IdeaTab S6000F;16 GB;Black;1 GB RAM;10.1
+IdeaTab S6000L;16 GB;Black;1 GB RAM;10.1
+IdeaTab S6000;16/32 GB;Black;1 GB RAM;10.1
+IdeaTab A3000;16 GB;Black;1 GB RAM;7.0
+IdeaTab A1000;4/16 GB;Black, White;1 GB RAM;7.0
+K900;16/32 GB;Black/Gray;2 GB RAM;5.5
+S890;4 GB;Black, Blue, White;1 GB RAM;5.0
+IdeaTab A2107;16 GB;Black;1 GB RAM;7.0
+A830;4 GB;Black, White;1 GB RAM;5.0
+A820;4 GB;Black;1 GB RAM;4.5
+A800;4 GB (1.65 user available);Black, White;512 MB RAM;4.5
+A789;4 GB;Black;512 MB RAM;4.0
+A690;512 MB RAM;Black;512 MB;4.0
+S720;4 GB;Pink, White;512 MB RAM;4.5
+P770;4 GB;Black;1 GB RAM;4.5
+A60+;256 MB RAM;Black;512 MB;3.5
+S560;4 GB;Deep Blue;512 MB RAM;4.0
+S880;4 GB;Black, White;512 MB RAM;5.0
+A660;4 GB;Black, Orange;512 MB RAM;4.0
+K860;8 GB;Black, Red;1 GB RAM;5.0
+P700i;4 GB (1.85 GB user available);Dark Blue, White;512 MB RAM;4.0
+A65;4 GB (1.85 GB user available);Black;ram;3.5
+A335;4 GB (1.85 GB user available);Black, White;ram;2.6
+A185;4 GB (1.85 GB user available);Black;ram;2.4
+S800;4 GB (1.85 GB user available);Black, White;ram;2.4
+Q350;4 GB (1.85 GB user available);Red;ram;2.3
+Q330;4 GB (1.85 GB user available);Black, White;ram;2.3
+A336;4 GB (1.85 GB user available);Orange, Green;ram;2.4
+E156;4 GB (1.85 GB user available);Black, Red;ram;1.5
+LePhone S2;8/16 GB;Black;512/1024 MB RAM;3.8
+A60;8/16 GB;Gray;ram;3.5
+K800;16 GB;Black;1 GB RAM;4.5
+IdeaPad S2;32/64 GB;Black;1 GB RAM;10.0
+LePad S2010;16 GB;Black/Orange;1 GB RAM;10.1
+LePad S2007;16 GB;Black/Orange;1 GB RAM;7.0
+LePad S2005;8 GB;Black/Orange;1 GB RAM;5.0
+IdeaPad A1;16 GB;Pink, White, Black, Blue;512 MB RAM;7.0
+IdeaPad K1;16/32 GB;White, Black, Red, Brown;1 GB RAM;10.1
+ThinkPad;16/32/64 GB;Black;1 GB RAM;10.1
+Vibe Z3 Pro;32 GB;Black, White, Gold;4 GB RAM;5.5
+ideapad;16 GB;Black/silver;2 GB RAM;8.0
+A5860;8 GB;White, Silver, Gray, Black;1 GB RAM;5.5
+ZUK Z1 mini;16 GB;White, Black;2 GB RAM;4.7
