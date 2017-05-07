@@ -13,7 +13,7 @@
             @include('layouts.partials.sidebar')
         </aside>
         <div class="content-wrapper container-fluid">
-            @include('partials.preloader')
+            @include('layouts.partials.content-header')
             <div class="content">
                 @yield('content')
             </div>

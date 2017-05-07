@@ -76,9 +76,9 @@
 
                                         <td valign="middle">
                                             @if($d->local_online == 'l')
-                                                <a class="btn btn-lg bg-teal local-store waves-effect" data-type="with-custom-icon" style="color: #fff; margin-top: 10px;">View Store Info</a>
+                                                <a class="btn btn-lg bg-teal local-store waves-effect" data-shop-id="{{$d->shop_id}}" data-type="with-custom-icon" style="color: #fff; margin-top: 10px;">View Store Info</a>
                                             @else
-                                                <a class="btn btn-lg bg-blue waves-effect" style="color: #fff; margin-top: 10px;" href="{{$d->link}}">Visit Store Link</a>
+                                                <a class="btn btn-lg bg-blue waves-effect" style="color: #fff; margin-top: 10px;" href="{{$d->link}}" target="_blank">Visit Store Link</a>
                                             @endif
                                         </td>
                                     </tr>

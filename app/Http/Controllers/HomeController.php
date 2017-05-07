@@ -4,6 +4,9 @@ namespace App\Http\Controllers;
 
 use App\Mobile;
 use App\ProductData;
+use App\Sales;
+use App\Visit;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Database\Eloquent\Collection;
@@ -19,38 +22,31 @@ class HomeController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('auth');
-        $this->middleware('has-shop');
+        $this->middleware(['auth', 'verified', 'has-shop']);
     }
 
 
 
     /**
      * Show the application dashboard.
-     * returns the data fro /home
+     * returns the data for /home
      *
+     * @param Request $request
      * @return \Illuminate\Http\Response
      */
     public function index(Request $request)
     {
-        $paginatedSearchResults = $this->getShopData($request);
-        return view('shopkeepers.mobile.index')->with(['mobile' => $paginatedSearchResults]);
-    }
+        $carbon = new Carbon();
+        $shopId = $this->getShopId($request);
+        $todaysSales = Sales::where('shop_id', $shopId)->where('updated_at', '<=', $carbon->now()->toDateTimeString())
+        ->where('updated_at', '>', $carbon->yesterday())->get();
 
+        $count = Visit::where('shop_id', $shopId)->where('date', Carbon::now()->toDateString())->first()->count;
 
-
-    /**
-     * handles the post request
-     * after shop selection form
-     *
-     * @param Request $request
-     * @return $this
-     */
-    public function handle(Request $request){
-        $this->setShopId($request);
-        $user = Auth::user();
-        $paginatedSearchResults = $this->getShopData($request);
-        return view('shopkeepers.mobile.index')->with(['mobile' => $paginatedSearchResults, 'user' => $user]);
+        return view('home')->with([
+            'sales' => $todaysSales,
+            'count' => $count
+        ]);
     }
 
 

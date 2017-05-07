@@ -5,6 +5,8 @@ namespace App\Http\Middleware;
 use App\User;
 use Closure;
 use App\Http\Controllers\Controller;
+use Illuminate\Support\Facades\Auth;
+
 class ShopOwner
 {
     /**
@@ -17,11 +19,17 @@ class ShopOwner
     public function handle($request, Closure $next)
     {
         $controller = new Controller();
-        $user = User::where('email_phone', $request->input('email_phone'))->first();
 
-
-        //user has not registered a shop
-        if(!$controller->shopId){
+        //user has shops
+        if($controller->hasShops){
+            //check if session has shop id
+            //else redirect to select a shop
+            if(!$controller->shopId){
+                return redirect()->route('select-shops-form', ['id' => Auth::user()->id]);
+            }
+        }
+        //user has not registered a shop yet
+        else{
             return redirect()->route('register-shop');
         }
 

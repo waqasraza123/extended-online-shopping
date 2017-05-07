@@ -5,13 +5,12 @@ use App\Observers\UserObserver;
 use App\Observers\UserVerificationObserver;
 use App\User;
 use App\UserVerification;
-use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\View;
 use Validator;
 use Illuminate\Support\ServiceProvider;
-
 class AppServiceProvider extends ServiceProvider
 {
+
     public $placeholderImage;
     /**
      * Bootstrap any application services.
@@ -54,6 +53,7 @@ class AppServiceProvider extends ServiceProvider
         //for email verifications
         User::observe(UserObserver::class);
         UserVerification::observe(UserVerificationObserver::class);
+
     }
 
     /**

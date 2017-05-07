@@ -1,5 +1,5 @@
 <div class="pull-right hidden-xs">
-    <b>Version</b> 2.3.8
+    <b>Version</b> 1.0
 </div>
-<strong>Copyright &copy; 2014-2016 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights
+<strong>Copyright &copy; 2016-<?php echo date('Y');?> <a href="{{route('home')}}">EOS</a>.</strong> All rights
 reserved.

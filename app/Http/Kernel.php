@@ -2,6 +2,7 @@
 
 namespace App\Http;
 
+use App\Http\Middleware\LoggedInMiddleware;
 use App\Http\Middleware\UserVerifiedMiddleware;
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
@@ -55,5 +56,6 @@ class Kernel extends HttpKernel
         'throttle' => \Illuminate\Routing\Middleware\ThrottleRequests::class,
         'has-shop' => \App\Http\Middleware\ShopOwner::class,
         'verified' => UserVerifiedMiddleware::class,
+        'logged-in' => LoggedInMiddleware::class
     ];
 }

@@ -80,7 +80,7 @@ class UserController extends Controller
             }
         }
         else{
-            return (new LoginController())->authenticate($request->input('email'));
+            return redirect()->route('dashboard');
         }
     }
 

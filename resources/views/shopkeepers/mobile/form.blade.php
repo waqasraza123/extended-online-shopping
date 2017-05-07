@@ -53,20 +53,20 @@
                     <div class="form-group">
                         <div class="form-line">
                             {!! Form::text('old_price', null, ['class' => 'form-control price', 'id' => 'current_price',
-                            'placeholder' => 'Old Price', 'required']) !!}
+                            'placeholder' => 'Old Price']) !!}
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row clearfix hide-field">
                 <div class="col-lg-2 col-md-2 col-sm-4 col-xs-5 form-control-label">
-                    <label for="discount_price">Discount Price(Rs)</label>
+                    <label for="discount_price">Current Price(Rs)</label>
                 </div>
                 <div class="col-lg-10 col-md-10 col-sm-8 col-xs-7">
                     <div class="form-group">
                         <div class="form-line">
                             {!! Form::text('current_price', null, ['class' => 'form-control price', 'id' => 'discount_price',
-                            'placeholder' => 'Current Price']) !!}
+                            'placeholder' => 'Current Price', 'required']) !!}
                         </div>
                     </div>
                 </div>

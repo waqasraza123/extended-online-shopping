@@ -59,19 +59,20 @@ class SearchController extends Controller
             foreach ($mobileData as $item){
                 $price = $item->current_price < $price ? $item->current_price : $price;
 
-                //check if the shop location matched with the user specified location
-                //if user specified the location
-                $l = null;
-                if ($lat != null && $long != null && $item->local_online == 'l' && (int)$item->shop->lat == (int)$lat && (int)$item->shop->long == (int)$long){
-                    $l = $location;
+                //in other cases
+                if ($lat == null && $item->local_online == 'l'){
+                    $l = $l == null ? $item->shop->location : $l;
                 }
 
-                //in other cases
-                if ($lat == null && $long == null && $item->local_online == 'l'){
-                    $l = $item->shop->location;
+                if ($item->local_online == 'o'){
+                    $o = $o == null ? 'online' : $o;
                 }
-                elseif ($lat == null && $long == null){
-                    $o = 'online';
+
+
+                //check if the shop location matched with the user specified location
+                //if user specified the location
+                if ($lat != null && $long != null && $item->local_online == 'l' && (int)$item->shop->lat == (int)$lat && (int)$item->shop->long == (int)$long){
+                    $l = $location;
                 }
             }
 
@@ -107,15 +108,14 @@ class SearchController extends Controller
         return view('welcome', compact('searchText'))->withMobiles($paginatedSearchResults);
     }
 
+
+
     /**
      * @param $shopLocation
      * @param $userLocation
      * @return mixed
      */
     public function getDistance($shopLocation, $userLocation){
-        /*$ip = $_SERVER['REMOTE_ADDR'];
-        $details = json_decode(file_get_contents("http://ipinfo.io/{$ip}/json"));
-        print_r($details);*/
 
         $coordinates1 = $this->get_coordinates($userLocation);
         $coordinates2 = $this->get_coordinates($shopLocation);
@@ -129,6 +129,8 @@ class SearchController extends Controller
             return $dist['distance'];
         }
     }
+
+
 
     /**
      * returns the driving distance from
@@ -156,6 +158,8 @@ class SearchController extends Controller
 
         return array('distance' => $dist, 'time' => $time);
     }
+
+
 
     /**
      * get the coordinates for

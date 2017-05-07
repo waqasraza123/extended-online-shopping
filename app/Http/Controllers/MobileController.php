@@ -30,8 +30,7 @@ class MobileController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('auth');
-        $this->middleware('has-shop');
+        $this->middleware(['auth', 'verified', 'has-shop']);
     }
 
     /**
@@ -232,18 +231,21 @@ class MobileController extends Controller
             Input::file('product_image')->move(public_path().$destinationPath, $fileName);
         }
 
-        foreach ($data['colors'] as $key => $c){
-            if(!is_numeric($c)){
-                $c = ucwords($c);
-                $color = Color::firstOrNew(["color" => $c]);
-                //create new record
-                if($color){
-                    $color->color = $c;
+        if(isset($data['colors']) && !empty($data['colors'])){
+            foreach ($data['colors'] as $key => $c){
+                if(!is_numeric($c)){
+                    $c = ucwords($c);
+                    $color = Color::firstOrNew(["color" => $c]);
+                    //create new record
+                    if($color){
+                        $color->color = $c;
+                    }
+                    $color->save();
+                    array_push($data['colors'], $color->id);
                 }
-                $color->save();
-                array_push($data['colors'], $color->id);
             }
         }
+
         ProductData::where('id', $id)->where('shop_id', $controller->shopId)->update([
             'link' => '#',
             'current_price' => $data['current_price'], //discount price is new price so it would be current price

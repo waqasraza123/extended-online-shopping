@@ -30,23 +30,21 @@ class LoginController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = '/register/shop';
-
-
+    protected $redirectTo = '/home';
 
     /**
      *
      * LoginController constructor.
      *
-     * @param Request $request
      */
-    public function __construct(Request $request)
+    public function __construct()
     {
-        $this->rememberToken = $request->input('rememberme') == 'on' ? true : false;
-        $this->middleware('guest', ['except' => 'logout']);
-        $this->middleware('verified', ['only' => 'login']);
-        $this->middleware('has-shop', ['only' => 'login']);
+        //guest middleware redirects the
+        //users after successful authentication
+        //or if the user is already logged in
+        $this->middleware('guest')->except('logout');
     }
+
 
 
     /**
@@ -56,30 +54,5 @@ class LoginController extends Controller
         Auth::logout();
 
         return redirect('/');
-    }
-
-    /**
-     * Handle an authentication attempt.
-     *
-     * @param $email
-     * @param $password
-     * @return Response
-     */
-    public function authenticate($email)
-    {
-        $user = User::where('email_phone', $email)->where('verified', 1)->first();
-        Auth::login($user, $this->rememberToken);
-
-        $count = (new ShopController())->getShops($user);
-
-        if($count > 0){
-            //redirect the user to select a shop
-            return redirect()->route('select-shops-form', ['id' => $user->id]);
-        }
-
-        //user has no shops
-        else{
-            return redirect()->route('register-shop');
-        }
     }
 }

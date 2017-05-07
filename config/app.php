@@ -63,7 +63,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Karachi',
 
     /*
     |--------------------------------------------------------------------------
@@ -163,6 +163,7 @@ return [
         Illuminate\View\ViewServiceProvider::class,
         Appzcoder\CrudGenerator\CrudGeneratorServiceProvider::class,
         Collective\Html\HtmlServiceProvider::class,
+        Fx3costa\LaravelChartJs\Providers\ChartjsServiceProvider::class,
         /*
          * Package Service Providers...
          */
@@ -178,6 +179,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         Maatwebsite\Excel\ExcelServiceProvider::class,
+        Laravel\Scout\ScoutServiceProvider::class,
     ],
 
     /*
@@ -228,7 +230,7 @@ return [
         'Form' => Collective\Html\FormFacade::class,
         'HTML' => Collective\Html\HtmlFacade::class,
         'Input' => Illuminate\Support\Facades\Input::class,
-        'Excel' => Maatwebsite\Excel\Facades\Excel::class,
+        'Excel' => Maatwebsite\Excel\Facades\Excel::class
     ],
 
 ];

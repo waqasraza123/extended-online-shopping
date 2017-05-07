@@ -17,6 +17,11 @@ $(document).ready(function () {
     var shopLoginForm = $("#shop_login_form")
     var selectShopForm = $("#select_shop_form")
     var emailVerificationForm = $("#email_verification_form")
+    var saleShopItemsSearch = $("#sale-shop-items-search")
+    var priceOfItemBeingSold = $("#price-of-item-being-sold")
+    var quantityOfItemBeingSold = $("#quantity-of-item-being-sold")
+    var sellProductForm = $("#sell-product-form")
+    var basePrice = $("#base-price")
     var loader = $('<header>'
         +'<div aria-busy="true" aria-label="Loading, please wait." role="progressbar"></div>'
         +'</header>')
@@ -42,7 +47,15 @@ $(document).ready(function () {
                     '</div>'+
                 '</div>';
     }
-
+    function dotsLoader(c){
+        var color = c == '' ? '#333' : c
+        return '<div class="loader">'+
+            '<div class="dot dot1" style="background: ' + color + '" ></div>'+
+            '<div class="dot dot2" style="background: ' + color + '"></div>'+
+            '<div class="dot dot3" style="background: ' + color + '"></div>'+
+            '<div class="dot dot4" style="background: ' + color + '"></div>'+
+            '</div>';
+    }
     function showErrors(error) {
         $('div.alert-danger').attr('style', 'display: block !important')
         $("div.alert-danger ul").html('')
@@ -764,16 +777,34 @@ $(document).ready(function () {
         $(this).unbind('submit').submit()
     })
     $(".local-store").click(function (e) {
-        showShopInfo(e)
-    })
+        var text = $(this).text()
+        var target = $(this)
+        $(this).html(dotsLoader('#fff'))
+        var shopId = $(this).attr('data-shop-id')
+        $.ajax(
+            {
+                type: "post",
+                url: "/shops/shop/single/info",
+                headers : {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+                data: "shop_id=" + shopId,
+                success: function (data) {
+                    target.html(text)
+                    swal({
+                        title: data.shop_name,
+                        text: data.phone+"\n"+data.market_plaza+"\n"+data.location,
+                        imageUrl: "/shop.png"
+                    }, function () {
 
-    function showShopInfo(e) {
-        swal({
-            title: "Galaxy Mobiles",
-            text: "Shop # 5, G9 Markaz, Islamabad, Pakistan",
-            imageUrl: "/shop.png"
-        });
-    }
+                        }
+                    )
+                },
+                error: function (data) {
+                    target.html(text)
+                    swal("Oops", "We couldn't connect to the server!", "error");
+                }
+            }
+        )
+    })
 
     //jquery datatables
     try{
@@ -841,7 +872,6 @@ $(document).ready(function () {
     $("#skip_shop_reg").click(function () {
         window.location = '/home'
     })
-
 
     /**
      * show hide the forms based on the buttons
@@ -992,6 +1022,7 @@ $(document).ready(function () {
         })
     })
     if($("#market_location").length){
+        console.log("market location exists")
         function init() {
             var input = document.getElementById('market_location');
             var autocomplete = new google.maps.places.Autocomplete(input);
@@ -1004,5 +1035,45 @@ $(document).ready(function () {
             });
         }
         google.maps.event.addDomListener(window, 'load', init);
+    }
+
+
+    if(saleShopItemsSearch.length){
+        saleShopItemsSearch.select2()
+    }
+    if(quantityOfItemBeingSold.length){
+        quantityOfItemBeingSold.on('change', function () {
+            priceOfItemBeingSold.val(basePrice.val() * quantityOfItemBeingSold.val())
+        })
+    }
+    basePrice.on('change', function () {
+        priceOfItemBeingSold.val(basePrice.val() * quantityOfItemBeingSold.val())
+    })
+    if(sellProductForm.length){
+        sellProductForm.validate({
+            rules: {
+                price: {
+                    required: true,
+                    digits: true
+                },
+                base_price: {
+                    required: true,
+                    digits: true
+                },
+                quantity: {
+                    required: true,
+                    digits: true
+                }
+            },
+            highlight: function (input) {
+                $(input).parents('.form-line').addClass('error');
+            },
+            unhighlight: function (input) {
+                $(input).parents('.form-line').removeClass('error');
+            },
+            errorPlacement: function (error, element) {
+                $(element).parents('.form-group').append(error);
+            }
+        });
     }
 })//document ready ends here

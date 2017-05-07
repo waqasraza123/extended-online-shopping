@@ -16,7 +16,7 @@
 
     <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
-
+            <li><a href="{{ route('shops.index') }}">Shops</a></li>
             @if (Auth::guest())
                 <li><a href="{{ url('/login') }}">Login</a></li>
                 {{--<li><a href="{{ url('/login/shop') }}">My Shop</a></li>--}}

@@ -18,25 +18,21 @@ class UserVerifiedMiddleware
      */
     public function handle($request, Closure $next)
     {
-        $user = User::where('email_phone', $request->input('email_phone'))->first();
 
-        if(!$user){
-            return redirect('/login')->with(['error' => 'Credentials do not match our record.']);
-        }
+        $user = Auth::user();
 
         //user is not verified
         if($user->verified == 0){
+
+            //if the user is not verified then
+            //logout the user
+            Auth::logout();
             return redirect()->action(
                 'UserController@showVerificationForm',
                 [
                     'id' => $user->id
                 ]
             );
-        }
-        //if the user is verified
-        //login the user
-        else{
-            return (new LoginController($request))->authenticate($request->input('email_phone'));
         }
         return $next($request);
     }

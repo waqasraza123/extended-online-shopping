@@ -15,10 +15,7 @@ Route::get('/', ['as' => 'home', 'uses' => 'WelcomeController@index']);
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('dashboard');
-Route::post('/home/', 'HomeController@handle')->name('dashboard-post');
-Route::get('/passport-tokens', function (){
-    return view('auth.passport-authentication');
-});
+Route::post('/home/', 'ShopController@handle')->name('dashboard-post');
 Route::post('/python-data/{shop_name}/{category}/{token}', 'PythonController@save');
 
 /**
@@ -33,6 +30,7 @@ Route::get('/products/brands/{id}/{name}',
 Route::get('/login/shop', 'ShopLoginController@shopLoginForm')->name('shop-login');
 Route::post('/login/shop', 'ShopLoginController@shopLogin')->name('shop-login-post');
 Route::get('/user/{id}/select-shop', 'ShopController@showShopsForm')->name('select-shops-form');
+Route::post('/shops/shop/single/info', 'ShopsController@getShopInfo')->name('shop.info');
 
 /**
  * search routes
@@ -50,14 +48,28 @@ Route::post('/mobiles/get-storages', 'MobileController@getStorages')->name('get-
 Route::post('/mobiles/get-bulk', 'MobileController@getBulkData')->name('get-bulk');
 Route::post('/mobiles/save/bulk-data', 'MobileController@saveBulkData')->name('save-bulk-data');
 Route::post('/mobiles/save/excel-bulk-data', 'MobileController@saveExcelBulk')->name('save-excel');
+
+/**
+ * Sales routes
+ */
 Route::get('/user/{userId}/sales', 'SalesController@showSales')->name('user-sales');
+Route::get('/user/{userId}/sales/sell-items', 'SalesController@showItemsToSell')->name('show-sell-items');
+Route::get('/user/{userId}/sales/sell-items/product/sell', 'SalesController@fetchProduct')->name('fetch-product');
+Route::post('/sales/sell-items/product/sell/{productId}', 'SalesController@sellProduct')->name('sell-product');
 
 /**
  * Email verification routes
  */
-//Route::get('register/verify/{token}', 'Auth\RegisterController@verify');
 Route::post('/register/users/email-verification', 'UserController@verify');
 Route::get('/login/email-verification/{id}', 'UserController@showVerificationForm')->name('email-verification-form');
+
+
+/**
+ * Shop routes for displaying frontend shops logic
+ * i.e. displaying all the available shops
+ */
+Route::get('/shops', 'ShopsController@index')->name('shops.index');
+Route::get('/shops/single/{shopId}', 'ShopsController@viewShop')->name('shops.single');
 
 /**
  * Test routes
@@ -66,7 +78,7 @@ Route::get('gsm', function (){
     dispatch(new \App\Jobs\SaveGsmDataJob());
 });
 Route::get('savestores', 'DataController@listFolderFiles');
-Route::get('test2', function (){
+Route::get('test', function (){
     /*$colors = \App\Color::all();
     foreach ($colors as $c){
         if(preg_match('/\\d/', $c->color)){
@@ -82,7 +94,4 @@ Route::get('test2', function (){
         $item->location = $arr[rand(0, 3)];
         $item->save();
     }*/
-    return Auth::user()->shops;
-    return Auth::user()->shops()->where('shops.id', 179)->first()->products()->get();
-
 });

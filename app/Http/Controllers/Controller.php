@@ -21,24 +21,38 @@ class Controller extends BaseController
     public $userId;
     public $shopId;
     public $currentShop;
+    public $hasShops;
     //protected $brands;
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
     public function __construct()
     {
+        date_default_timezone_set('Asia/Karachi');
         if(Auth::check()) {
             $this->userId = Auth::user()->id;
             $this->authenticated = true;
+            $shopCount = Auth::user()->shops()->count();
 
-            //only if user has setup a shop
-            if(Auth::user()->shops()->first()){
-                if(session('shop_id')){
+            //if user has no shop at all
+            if($shopCount == 0){
+                $this->hasShops = false;
+            }
+
+            //if user has only one shop
+            if($shopCount == 1){
+                $this->hasShops = true;
+                $this->shopId = Auth::user()->shops()->first()->id;
+            }
+
+            //only if user has setup a multiple shops
+            if($shopCount > 1){
+                if(!empty(session('shop_id'))){
+                    $this->hasShops = true;
                     $this->shopId = session('shop_id');
                     $this->currentShop = Shop::find($this->shopId);
                 }
                 else{
-                    $this->shopId = Auth::user()->shops()->first()->id;
-                    $this->currentShop = Shop::find($this->shopId);
+                    $this->hasShops = true;
                 }
             }
         }

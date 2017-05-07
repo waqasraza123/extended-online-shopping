@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Http\Requests\StoreShopCredentialsRequest;
 use App\Shop;
 use App\User;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
 class ShopController extends Controller
@@ -14,7 +15,7 @@ class ShopController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('auth');
+        $this->middleware(['auth', 'verified']);
     }
 
 
@@ -48,22 +49,30 @@ class ShopController extends Controller
     }
 
 
+
     /**
      * accepts user id
+     *
      * @param $id
+     * @return $this
      */
     public function showShopsForm($id){
         $shops = User::find($id)->shops()->pluck('shop_name', 'id');
         return view('auth.shop-selection')->with('shops', $shops);
     }
 
+
     /**
-     * returns the users shops
-     * called in LoginController@authenticate
-     * @param User $user
-     * @return mixed
+     * handles the post request
+     * after shop selection form
+     *
+     * @param Request $request
+     * @return $this
      */
-    public function getShops(User $user){
-        return $user->shops()->count();
+    public function handle(Request $request){
+        $homeController = new HomeController();
+        $homeController->setShopId($request);
+
+        return redirect()->action('HomeController@index');
     }
 }
