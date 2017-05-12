@@ -14,8 +14,12 @@ class ChangeColorProductColorCol extends Migration
     public function up()
     {
         Schema::table('color_products', function (Blueprint $table) {
-            $table->dropColumn('color');
-            $table->unsignedInteger('color_id')->first();
+            if(Schema::hasColumn('color_products', 'color')){
+                $table->dropColumn('color');
+            }
+            if(!Schema::hasColumn('color_products', 'color_id')){
+                $table->unsignedInteger('color_id')->first();
+            }
             $table->foreign('color_id')->references('id')->on('colors');
         });
     }
