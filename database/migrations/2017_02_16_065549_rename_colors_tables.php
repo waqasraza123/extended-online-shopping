@@ -13,8 +13,12 @@ class RenameColorsTables extends Migration
      */
     public function up()
     {
-        Schema::rename('colors', 'color_products');
-        Schema::rename('colors_list', 'colors');
+        if(!Schema::hasTable('color_products')){
+            Schema::rename('colors', 'color_products');
+        }
+        if(!Schema::hasTable('colors')){
+            Schema::rename('colors_list', 'colors');
+        }
     }
 
     /**
