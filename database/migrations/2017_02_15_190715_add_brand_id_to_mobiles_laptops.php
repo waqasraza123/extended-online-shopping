@@ -14,14 +14,18 @@ class AddBrandIdToMobilesLaptops extends Migration
     public function up()
     {
         Schema::table('mobiles', function(Blueprint $table){
-            $table->unsignedInteger('brand_id');
-            $table->foreign('brand_id')->references('id')->on('brands');
+            if(!Schema::hasColumn('mobiles', 'brand_id')){
+                $table->unsignedInteger('brand_id');
+                $table->foreign('brand_id')->references('id')->on('brands');
+            }
             $table->dropColumn('brand');
         });
 
         Schema::table('laptops', function(Blueprint $table){
-            $table->unsignedInteger('brand_id');
-            $table->foreign('brand_id')->references('id')->on('brands');
+            if(!Schema::hasColumn('mobiles', 'brand_id')){
+                $table->unsignedInteger('brand_id');
+                $table->foreign('brand_id')->references('id')->on('brands');
+            }
             $table->dropColumn('brand');
         });
     }

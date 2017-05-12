@@ -5,9 +5,9 @@
     @include('partials.map-modal')
     <div class="row clearfix">
         <h4 class="text-center">
-            @if(isset($marketLocation) && $marketLocationMatched == false)
+            @if(!empty($marketLocation) && $marketLocationMatchedCount == 0)
                 Not Available in {{$marketLocation}}
-            @elseif(isset($marketLocation) && $marketLocationMatched == true)
+            @elseif(!empty($marketLocation) && $marketLocationMatchedCount > 0)
                 Available in {{$marketLocation}}
             @endif
         </h4>
@@ -43,7 +43,7 @@
                     @empty
                         <div class="callout callout-danger">
                             <h4>
-                                0 Results
+                                Ooops!
                             </h4>
                             <p>
                                 No Results Found for the Query.

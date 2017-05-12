@@ -48,6 +48,7 @@ class SearchController extends Controller
             ->count();
 
         $data = array();
+        $marketLocationMatchedCount = 0;
         foreach ($mobiles as $index => $m){
             $mobile = Mobile::where('title', $m->title)->first();
 
@@ -59,12 +60,12 @@ class SearchController extends Controller
             $price = 999999999999;
             $distance = 999999999999;
             $addMobileSinceWithinRadiusLimit = false;
-            $marketLocationMatched = false;
             $l = null;
             $o = null;
             $available = null;
             $shopLat = null;
             $shopLong = null;
+            $marketLocationMatched = false;
             //there would be multiple rows for one iphone 7 say,
             //10 shops having iphone 7 so we need to get the min
             //price only
@@ -97,6 +98,14 @@ class SearchController extends Controller
                 if ($lat != null && $long != null && $item->local_online == 'l' && (int)$item->shop->lat == (int)$lat && (int)$item->shop->long == (int)$long){
                     $l = $marketLocation;
                     $marketLocationMatched = true;
+                    ++$marketLocationMatchedCount;
+
+
+                    //if user has specified target location then
+                    //calculate the distance from that shop
+                    $lat2 = $userLat == null ? $this->isbLat : $userLat;
+                    $long2 = $userLong == null ? $this->isbLong : $userLong;
+                    $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $lat2, $long2);
                 }
             }
 
@@ -130,7 +139,7 @@ class SearchController extends Controller
             elseif (!empty($l))
                 $available = 'local';
 
-            if($addMobileSinceWithinRadiusLimit){
+            if($addMobileSinceWithinRadiusLimit && $marketLocationMatched){
                 $mobile->shop_lat = $shopLat;
                 $mobile->shop_long = $shopLong;
                 $data[$index]['mobile'] = $mobile;
@@ -166,7 +175,7 @@ class SearchController extends Controller
                 'marketLong' => $long,
                 'marketLocation' => $marketLocation,
                 'userLocation' => $userLocation,
-                'marketLocationMatched' => $marketLocationMatched,
+                'marketLocationMatchedCount' => $marketLocationMatchedCount,
                 'resultsCount' => $count
             ]);
     }
