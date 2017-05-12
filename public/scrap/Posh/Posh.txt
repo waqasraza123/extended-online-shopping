@@ -1,30 +1,30 @@
-Memo Pro LTE L600;16 GB;Black, White;1 GB RAM;6.0
-Equal Plus X700;16 GB;Black, Silver, Rose Gold;1 GB RAM;7.0
-Ultra Max LTE L550;16 GB;Black, Gold, White;1 GB RAM;5.5
-Kick Pro LTE L520;8 GB;White, Gold, Gray;1 GB RAM;5.0
-Optima LTE L530;16 GB;Black, Gold;2 GB RAM;5.0
-Icon HD X551;16 GB;Dark Grey, White, Gold, Rose Gold, Silver;1 GB RAM;5.5
-Volt LTE L540;16 GB;Grey, Gold, Rose Gold;3 GB RAM;5.0
-Volt Max LTE L640;32/64 GB;Grey, Gold, Rose Gold;3 GB RAM;6.44
-Equal Pro LTE L700;16 GB;Black, White, Blue;1 GB RAM;6.95
-Primo Plus C353;512 MB;Black, White, Blue, Pink, Yellow;256 MB RAM;3.5
-Kick X511;8 GB;Black, White, Gold, Blue;1 GB RAM;5.0
-Kick Lite S410;4 GB;Black, White, Pink, Blue;512 MB RAM;4.0
-Icon S510;4 GB;Gold, White, Black;512 MB RAM;5.0
-Titan Max HD E550;8 GB;Black, White, Gold;1 GB RAM;5.5
-Ultra 5.0 LTE L500;8 GB;Black, White;1 GB RAM;5.0
-Micro X S240;4 GB;Black, White, Blue, Pink;512 MB RAM;2.45
-Titan Max HD E600;8 GB;Black, White, Gold;1 GB RAM;6.0
-Titan HD E500;8 GB;Black, White, Blue, Pink, Yellow, Orange, Green;1 GB RAM;5.0
-Equal S700;4 GB;Black, White;512 MB RAM;7.0
-Equal Lite W700;8 GB;White;512 MB RAM;7.0
-Memo S580;4 GB;Black, White;512 MB RAM;5.88
-Orion Max X550;4 GB;Black, White, Blue;1 GB RAM;5.5
-Orion Pro X500;4 GB;Black, White, Blue, Pink;1 GB RAM;5.0
-Revel Pro X510;4 GB;Black, White, Blue, Pink, Yellow, Silver;512 MB RAM;5.0
-Revel S500;4 GB;Black, White, Blue, Green;512 MB RAM;5.0
-Orion S450;4 GB;Black, White;512 MB RAM;4.5
-Pegasus 4G S400;4 GB;Black, White, Blue, Green;512 MB RAM;4.0
-Orion Mini S350;512 MB;Black, White, Blue, Green;256 MB RAM;3.5
-Pegasus Plus C351;512 MB;Black, White, Blue, Red;256 MB RAM;3.5
-Lynx A100;32 MB;Black, White, Silver, Red, Blue;32 MB RAM;1.77
+Memo Pro LTE L600@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%6.0@#$%Available. Released 2016, December
+Equal Plus X700@#$%16 GB@#$%Black, Silver, Rose Gold@#$%1 GB RAM@#$%7.0@#$%Available. Released 2017, January
+Ultra Max LTE L550@#$%16 GB@#$%Black, Gold, White@#$%1 GB RAM@#$%5.5@#$%Available. Released 2016, December
+Kick Pro LTE L520@#$%8 GB@#$%White, Gold, Gray@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, April
+Optima LTE L530@#$%16 GB@#$%Black, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, April
+Icon HD X551@#$%16 GB@#$%Dark Grey, White, Gold, Rose Gold, Silver@#$%1 GB RAM@#$%5.5@#$%Available. Released 2016, January
+Volt LTE L540@#$%16 GB@#$%Grey, Gold, Rose Gold@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, May
+Volt Max LTE L640@#$%32/64 GB@#$%Grey, Gold, Rose Gold@#$%3 GB RAM@#$%6.44@#$%Available. Released 2016, June
+Equal Pro LTE L700@#$%16 GB@#$%Black, White, Blue@#$%1 GB RAM@#$%6.95@#$%Available. Released 2016, March
+Primo Plus C353@#$%512 MB@#$%Black, White, Blue, Pink, Yellow@#$%256 MB RAM@#$%3.5@#$%Available. Released 2015, August
+Kick X511@#$%8 GB@#$%Black, White, Gold, Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Kick Lite S410@#$%4 GB@#$%Black, White, Pink, Blue@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, August
+Icon S510@#$%4 GB@#$%Gold, White, Black@#$%512 MB RAM@#$%5.0@#$%Available. Released 2015, October
+Titan Max HD E550@#$%8 GB@#$%Black, White, Gold@#$%1 GB RAM@#$%5.5@#$%Available. Released 2015, July
+Ultra 5.0 LTE L500@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, July
+Micro X S240@#$%4 GB@#$%Black, White, Blue, Pink@#$%512 MB RAM@#$%2.45@#$%Available. Released 2015, July
+Titan Max HD E600@#$%8 GB@#$%Black, White, Gold@#$%1 GB RAM@#$%6.0@#$%Available. Released 2015, April
+Titan HD E500@#$%8 GB@#$%Black, White, Blue, Pink, Yellow, Orange, Green@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, September
+Equal S700@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%7.0@#$%Available. Released 2014, September
+Equal Lite W700@#$%8 GB@#$%White@#$%512 MB RAM@#$%7.0@#$%Available. Released 2014, December
+Memo S580@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%5.88@#$%Available. Released 2014, August
+Orion Max X550@#$%4 GB@#$%Black, White, Blue@#$%1 GB RAM@#$%5.5@#$%Available. Released 2014, September
+Orion Pro X500@#$%4 GB@#$%Black, White, Blue, Pink@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, April
+Revel Pro X510@#$%4 GB@#$%Black, White, Blue, Pink, Yellow, Silver@#$%512 MB RAM@#$%5.0@#$%Available. Released 2015, January
+Revel S500@#$%4 GB@#$%Black, White, Blue, Green@#$%512 MB RAM@#$%5.0@#$%Available. Released 2014, August
+Orion S450@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, April
+Pegasus 4G S400@#$%4 GB@#$%Black, White, Blue, Green@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, July
+Orion Mini S350@#$%512 MB@#$%Black, White, Blue, Green@#$%256 MB RAM@#$%3.5@#$%Available. Released 2014, September
+Pegasus Plus C351@#$%512 MB@#$%Black, White, Blue, Red@#$%256 MB RAM@#$%3.5@#$%Available. Released 2014, August
+Lynx A100@#$%32 MB@#$%Black, White, Silver, Red, Blue@#$%32 MB RAM@#$%1.77@#$%Available. Released 2014, March

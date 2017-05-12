@@ -1,15 +1,15 @@
-Glam;8 MB;Black;4 MB RAM;2.4
-Flip Basic;16 MB;Black;32 MB RAM;2.4
-Eco;16 MB;Black;32 MB RAM;2.2
-Click Plus;20 MB;White;64 MB RAM;2.4
-Essence Plus;0.3 MB;Silver;2 MB RAM;1.8
-Solid Plus;0.5 MB;White, Yellow;4 MB RAM;1.8
-Care Plus;0.5 MB;Black;4 MB RAM;2.2
-Elegance Plus;0.3 MB;Black;2 MB RAM;1.8
-Elegance;0.3 MB;Black, White, Brown;2 MB RAM;1.8
-Connect;20 MB;Black;64 MB RAM;2.8
-Click;2 MB;Black;64 MB RAM;2.2
-Talk Comfort Plus;0.4 MB;Black/Silver;4 MB RAM;1.9
-Talk Comfort;0.4 MB;Black/Silver;ram;1.8
-RL1;0.4 MB;Black;ram;1.8
-Talk Premium;0.4 MB;Black/Silver;ram;2.0
+Glam@#$%8 MB@#$%Black@#$%4 MB RAM@#$%2.4@#$%Available. Released 2014, June
+Flip Basic@#$%16 MB@#$%Black@#$%32 MB RAM@#$%2.4@#$%Available. Released 2014, March
+Eco@#$%16 MB@#$%Black@#$%32 MB RAM@#$%2.2@#$%Available
+Click Plus@#$%20 MB@#$%White@#$%64 MB RAM@#$%2.4@#$%Available
+Essence Plus@#$%0.3 MB@#$%Silver@#$%2 MB RAM@#$%1.8@#$%Available
+Solid Plus@#$%0.5 MB@#$%White, Yellow@#$%4 MB RAM@#$%1.8@#$%Available
+Care Plus@#$%0.5 MB@#$%Black@#$%4 MB RAM@#$%2.2@#$%Available
+Elegance Plus@#$%0.3 MB@#$%Black@#$%2 MB RAM@#$%1.8@#$%Available
+Elegance@#$%0.3 MB@#$%Black, White, Brown@#$%2 MB RAM@#$%1.8@#$%Available
+Connect@#$%20 MB@#$%Black@#$%64 MB RAM@#$%2.8@#$%Available
+Click@#$%2 MB@#$%Black@#$%64 MB RAM@#$%2.2@#$%Available
+Talk Comfort Plus@#$%0.4 MB@#$%Black/Silver@#$%4 MB RAM@#$%1.9@#$%Available
+Talk Comfort@#$%0.4 MB@#$%Black/Silver@#$%ram@#$%1.8@#$%Available
+RL1@#$%0.4 MB@#$%Black@#$%ram@#$%1.8@#$%Available
+Talk Premium@#$%0.4 MB@#$%Black/Silver@#$%ram@#$%2.0@#$%Available

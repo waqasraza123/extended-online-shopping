@@ -1,118 +1,118 @@
-X4 Soul Style;64 GB;Black, Gold;4 GB RAM;5.5
-P6 Energy Mini;8 GB;Gray, Gold;1 GB RAM;5.0
-X4 Soul;64 GB;Black;4 GB RAM;5.5
-V2 Viper Xe;16 GB;Gold, Blue;3 GB RAM;5.5
-V2 Viper S;32 GB;Gray, Gold;3 GB RAM;5.5
-P9 Energy mini;16 GB;Blue, Gold, Mocha Gold;3 GB RAM;5.0
-P9 Energy Lite;32 GB;Gold, Mocha Gold;3 GB RAM;5.3
-P9 Energy;64 GB;Gold, Mocha Gold;4 GB RAM;5.5
-P7 Pro;16 GB;Dark Blue, Gold;2 GB RAM;5.0
-X3 Soul Style;32 GB;Mocha Gold;3 GB RAM;5.5
-X3 Soul Plus;32 GB;Gold;4 GB RAM;5.5
-X3 Soul Lite;16 GB;Gold, Gray;3 GB RAM;5.0
-P6 Energy Lite;8 GB;Black;1 GB RAM;5.0
-AX501Q;8 GB;Black;1 GB RAM;7.0
-Viva H1001 LTE;8 GB;Black;1 GB RAM;10.1
-V2 Viper i4G;16 GB;Black, White;2 GB RAM;5.0
-V2 Viper e;8 GB;Black, White;1 GB RAM;4.5
-P6 Lite;8 GB;Black, Black/Brown;1 GB RAM;5.0
-X3 Soul Pro;64 GB;Gold, Silver;4 GB RAM;5.5
-X3 Soul mini;16 GB;Gray, Gold, Silver;1 GB RAM;5.0
-P8 Energy Pro;64 GB;Gold/Silver;3 GB RAM;6.0
-P6 eMagic;16 GB;Gold, Brown;1 GB RAM;5.0
-P5 eMagic;8 GB;Dark blue, Gold;1 GB RAM;4.5
-P4 eMagic;8 GB;Black;1 GB RAM;4.0
-X3 Soul;32 GB;Black, Gold;3 GB RAM;5.5
-X2 Soul Style + Platinum;16 GB;Silver;3 GB RAM;5.0
-X2 Soul Style;16 GB;Silver;2 GB RAM;5.0
-X2 Soul Lite;16 GB;Black, white;1 GB RAM;5.0
-V2 Viper X+;16 GB;Dark blue, Golden pearl;3 GB RAM;5.5
-V2 Viper X;16 GB;Dark blue, Golden pearl;1 GB RAM;5.5
-V2 Viper;16 GB;Blue, white;1 GB RAM;4.7
-V2 Viper i;16 GB;Black, white;1 GB RAM;5.0
-P8 Energy mini;16 GB;White, Gray, Gold;2 GB RAM;5.0
-P5 Pro;8 GB;Black;1 GB RAM;4.5
-AX4 Nano Plus;8 GB;Black, White;512 MB RAM;7.0
-Viva C701;8 GB;White, Black;1 GB RAM;7.0
-P6 Pro;8 GB;Black;1 GB RAM;5.0
-P8 Energy;16 GB;Black, White, Brown;2 GB RAM;5.5
-P5 Energy;16 GB;Black, White;1 GB RAM;4.5
-E4;16 GB;Black, White;2 GB RAM;5.0
-E4 Lite;8 GB;Black, White;1 GB RAM;5.0
-E3 Living;8 GB;Black, White;1 GB RAM;4.5
-A5 Easy;8 GB;Black, White;1 GB RAM;4.0
-E2 Jump;8 GB;Black/Green;1 GB RAM;4.5
-E3 Sign;16 GB;Black;2 GB RAM;5.5
-P4 Life;8 GB;Black;1 GB RAM;4.0
-P5 Life;8 GB;Black;1 GB RAM;4.5
-P6 Energy;8 GB;Black;1 GB RAM;5.0
-Viper E;8 GB;Black, White;1 GB RAM;4.5
-Viper L;8 GB;Black, White;1 GB RAM;5.0
-V1 Viper i4G;8 GB;Black, White;1 GB RAM;4.7
-V1 Viper S4G;16 GB;Black, White;2 GB RAM;5.0
-X2 Soul Pro;16 GB;White/Gold, Black;2 GB RAM;5.2
-W1i;8 GB;Black;1 GB RAM;4.7
-W1s;8 GB;Black;1 GB RAM;5.0
-X2 Xtreme;64 GB;Gold;3 GB RAM;6.0
-P6 Life;8 GB;Black;1 GB RAM;5.0
-C5 Smiley;4 GB;Black, White, Pink, Blue, Yellow, Green, Orange;512 MB RAM;4.0
-C6 Quad 4G;8 GB;Black, White;1 GB RAM;4.5
-E2 Living;4 GB;Black;512 MB RAM;4.0
-Twin X2;8 GB;Black;1 GB RAM;5.0
-P7 Seon;8 GB;Black;1 GB RAM;5.5
-X1 Xtreme Mini;16 GB;White, Green;2 GB RAM;4.7
-X2 Soul Mini;16 GB;Black, White;1 GB RAM;4.8
-Impera M;4 GB;Black;512 MB RAM;4.0
-Impera S;8 GB;Black;1 GB RAM;5.0
-Impera i;8 GB;Black;1 GB RAM;4.7
-A6 Quad;4 GB;Black, White, Red;512 MB RAM;4.0
-X2 Soul;16 GB;Black, white;2 GB RAM;5.0
-P7 Xtreme;16 GB;Black, White;1 GB RAM;4.7
-X1 Xtreme;32 GB;Black;3 GB RAM;5.5
-V1 Viper S;16 GB;Black;2 GB RAM;5.0
-Wi10N PRO;32 GB;Black;2 GB RAM;10.1
-Wi8G;16 GB;Black, White;1 GB RAM;8.0
-Wi7;16 GB;Black;1 GB RAM;7.0
-Viva i10G;16 GB;White;2 GB RAM;9.7
-Viva H10 HD;8 GB;Black, White;1 GB RAM;10.1
-Viva H10 LTE;8 GB;Black, White;1 GB RAM;10.1
-Viva H8 LTE;8 GB;Black;1 GB RAM;8.0
-Viva H7S;8 GB;Black;1 GB RAM;7.0
-Viva H7 LTE;8 GB;Black, White;1 GB RAM;7.0
-Viva D8;4 GB;Black;512 MB RAM;7.9
-AX4 Nano;4 GB;Black, White;512 MB RAM;7.0
-AX3 Party;4 GB;Black, White;512 MB RAM;7.0
-Viva i8;16 GB;White;1 GB RAM;7.9
-Viva Q7 Life;8 GB;White, Black;1 GB RAM;7.0
-3 Speed Quad HD;8 GB;White, Black;1 GB RAM;9.7
-City Life;8 GB;White, Black;512 MB RAM;7.0
-2 Speed Quad;8 GB;White, Black;1 GB RAM;8.0
-City+;8 GB;White, Black;512 MB RAM;7.0
-Viva H8;8 GB;Black;1 GB RAM;7.9
-Viva Q8;8 GB;White, Black;1 GB RAM;7.9
-Start M7;8 GB;Black;ram;2.4
-P6 Quad Plus;4 GB;Black;1 GB RAM;4.65
-A5 Quad;4 GB;Black, White;512 MB RAM;4.3
-P5 Symbol;4 GB;Black;512 MB RAM;4.63
-X1 Soul Mini;16 GB;Black;1 GB RAM;4.5
-X1 Soul;32 GB;Black;2 GB RAM;5.0
-A4 Duo;32 GB;Black;ram;3.5
-A5 Duo;4 GB;Black;512 MB RAM;4.0
-H2 Qubo;4 GB;Black, White;512 MB RAM;4.5
-Viper i V1;8 GB;Black, white, yellow, blue, pink;1 GB RAM;4.7
-Viper V1;4/16 GB;Black, White, Blue;1 GB RAM;4.7
-P5 Qmax;4 GB;Black;1 GB RAM;5.3
-P6 Quad;4 GB;Black;1 GB RAM;4.65
-Simply S5;4 GB;Black, White;ram;2.8
-A4ALL;512 MB;Various;256 MB RAM;3.5
-P5 Quad;4 GB;Black, White;1 GB RAM;4.5
-P6 Stony;4 GB;Black;1 GB RAM;4.65
-P4 Duo;4 GB;Black, White;512 MB RAM;4.3
-P5 Mini;4 GB;Black, White;512 MB RAM;3.95
-P5 AllDro;4 GB;Black;512 MB RAM;4.3
-P4 AllDro;4 GB;Black;512 MB RAM;4.3
-P3 AllDro;512 MB;Black, White;512 MB RAM;4.1
-P2 AllDro;512 MB;Black;256 GB RAM;3.5
-P1 AllDro;512 MB;Black;256 GB RAM;3.5
-L4 Class;512 MB;Black, White;ram;1.77
-M6 Stark;512 MB;Black, White;ram;2.0
+X4 Soul Style@#$%64 GB@#$%Black, Gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2017, March
+P6 Energy Mini@#$%8 GB@#$%Gray, Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2017, March
+X4 Soul@#$%64 GB@#$%Black@#$%4 GB RAM@#$%5.5@#$%Available. Released 2017, February
+V2 Viper Xe@#$%16 GB@#$%Gold, Blue@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, October
+V2 Viper S@#$%32 GB@#$%Gray, Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, October
+P9 Energy mini@#$%16 GB@#$%Blue, Gold, Mocha Gold@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, September
+P9 Energy Lite@#$%32 GB@#$%Gold, Mocha Gold@#$%3 GB RAM@#$%5.3@#$%Available. Released 2016, September
+P9 Energy@#$%64 GB@#$%Gold, Mocha Gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, September
+P7 Pro@#$%16 GB@#$%Dark Blue, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, September
+X3 Soul Style@#$%32 GB@#$%Mocha Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, June
+X3 Soul Plus@#$%32 GB@#$%Gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, July
+X3 Soul Lite@#$%16 GB@#$%Gold, Gray@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, June
+P6 Energy Lite@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, June
+AX501Q@#$%8 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2016, June
+Viva H1001 LTE@#$%8 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Available. Released 2016, March
+V2 Viper i4G@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, April
+V2 Viper e@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, April
+P6 Lite@#$%8 GB@#$%Black, Black/Brown@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, March
+X3 Soul Pro@#$%64 GB@#$%Gold, Silver@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, February
+X3 Soul mini@#$%16 GB@#$%Gray, Gold, Silver@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, February
+P8 Energy Pro@#$%64 GB@#$%Gold/Silver@#$%3 GB RAM@#$%6.0@#$%Available. Released 2016, February
+P6 eMagic@#$%16 GB@#$%Gold, Brown@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, March
+P5 eMagic@#$%8 GB@#$%Dark blue, Gold@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, March
+P4 eMagic@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2016, March
+X3 Soul@#$%32 GB@#$%Black, Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, January
+X2 Soul Style + Platinum@#$%16 GB@#$%Silver@#$%3 GB RAM@#$%5.0@#$%Available. Released 2015, November
+X2 Soul Style@#$%16 GB@#$%Silver@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, November
+X2 Soul Lite@#$%16 GB@#$%Black, white@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, September
+V2 Viper X+@#$%16 GB@#$%Dark blue, Golden pearl@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, October
+V2 Viper X@#$%16 GB@#$%Dark blue, Golden pearl@#$%1 GB RAM@#$%5.5@#$%Available. Released 2015, October
+V2 Viper@#$%16 GB@#$%Blue, white@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, October
+V2 Viper i@#$%16 GB@#$%Black, white@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, December
+P8 Energy mini@#$%16 GB@#$%White, Gray, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, January
+P5 Pro@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, January
+AX4 Nano Plus@#$%8 GB@#$%Black, White@#$%512 MB RAM@#$%7.0@#$%Available. Released 2015, June
+Viva C701@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2015, September
+P6 Pro@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, November
+P8 Energy@#$%16 GB@#$%Black, White, Brown@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, September
+P5 Energy@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, September
+E4@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, September
+E4 Lite@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, September
+E3 Living@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, August
+A5 Easy@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, August
+E2 Jump@#$%8 GB@#$%Black/Green@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, February
+E3 Sign@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, March
+P4 Life@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2014, December
+P5 Life@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, December
+P6 Energy@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, January
+Viper E@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, September
+Viper L@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, February
+V1 Viper i4G@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015
+V1 Viper S4G@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, September
+X2 Soul Pro@#$%16 GB@#$%White/Gold, Black@#$%2 GB RAM@#$%5.2@#$%Available. Released 2015, March
+W1i@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, June
+W1s@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, June
+X2 Xtreme@#$%64 GB@#$%Gold@#$%3 GB RAM@#$%6.0@#$%Available. Released 2015, August
+P6 Life@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, May
+C5 Smiley@#$%4 GB@#$%Black, White, Pink, Blue, Yellow, Green, Orange@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, June
+C6 Quad 4G@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, December
+E2 Living@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, May
+Twin X2@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, August
+P7 Seon@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.5@#$%Available. Released 2014, July
+X1 Xtreme Mini@#$%16 GB@#$%White, Green@#$%2 GB RAM@#$%4.7@#$%Available. Released 2014, December
+X2 Soul Mini@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%4.8@#$%Available. Released 2014, October
+Impera M@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, October
+Impera S@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, August
+Impera i@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, August
+A6 Quad@#$%4 GB@#$%Black, White, Red@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, June
+X2 Soul@#$%16 GB@#$%Black, white@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, May
+P7 Xtreme@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, April
+X1 Xtreme@#$%32 GB@#$%Black@#$%3 GB RAM@#$%5.5@#$%Available. Released 2014, February
+V1 Viper S@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, February
+Wi10N PRO@#$%32 GB@#$%Black@#$%2 GB RAM@#$%10.1@#$%Available. Released 2014, November
+Wi8G@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%8.0@#$%Available. Released 2014, December
+Wi7@#$%16 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, November
+Viva i10G@#$%16 GB@#$%White@#$%2 GB RAM@#$%9.7@#$%Available. Released 2014, June
+Viva H10 HD@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%10.1@#$%Available. Released 2014, July
+Viva H10 LTE@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%10.1@#$%Available. Released 2014, December
+Viva H8 LTE@#$%8 GB@#$%Black@#$%1 GB RAM@#$%8.0@#$%Available. Released 2014
+Viva H7S@#$%8 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, June
+Viva H7 LTE@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014
+Viva D8@#$%4 GB@#$%Black@#$%512 MB RAM@#$%7.9@#$%Available. Released 2014, January
+AX4 Nano@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%7.0@#$%Available. Released 2014, January
+AX3 Party@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013, November
+Viva i8@#$%16 GB@#$%White@#$%1 GB RAM@#$%7.9@#$%Available. Released 2013, November
+Viva Q7 Life@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, November
+3 Speed Quad HD@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%9.7@#$%Available. Released 2013, November
+City Life@#$%8 GB@#$%White, Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013, October
+2 Speed Quad@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013, September
+City+@#$%8 GB@#$%White, Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013, August
+Viva H8@#$%8 GB@#$%Black@#$%1 GB RAM@#$%7.9@#$%Available. Released 2013, August
+Viva Q8@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%7.9@#$%Available. Released 2013, July
+Start M7@#$%8 GB@#$%Black@#$%ram@#$%2.4@#$%Available. Released 2014, January
+P6 Quad Plus@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.65@#$%Available. Released 2014, January
+A5 Quad@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.3@#$%Available. Released 2014, January
+P5 Symbol@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.63@#$%Available. Released 2013, December
+X1 Soul Mini@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, November
+X1 Soul@#$%32 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, November
+A4 Duo@#$%32 GB@#$%Black@#$%ram@#$%3.5@#$%Available. Released 2013, November
+A5 Duo@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, August
+H2 Qubo@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013, August
+Viper i V1@#$%8 GB@#$%Black, white, yellow, blue, pink@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, May
+Viper V1@#$%4/16 GB@#$%Black, White, Blue@#$%1 GB RAM@#$%4.7@#$%Available. Released 2013, June
+P5 Qmax@#$%4 GB@#$%Black@#$%1 GB RAM@#$%5.3@#$%Available. Released 2013, June
+P6 Quad@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.65@#$%Available. Released 2013, April
+Simply S5@#$%4 GB@#$%Black, White@#$%ram@#$%2.8@#$%Available. Released 2013, April
+A4ALL@#$%512 MB@#$%Various@#$%256 MB RAM@#$%3.5@#$%Available. Released 2013, April
+P5 Quad@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, February
+P6 Stony@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.65@#$%Available. Released 2012, November
+P4 Duo@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, October
+P5 Mini@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%3.95@#$%Available. Released 2012, November
+P5 AllDro@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, September
+P4 AllDro@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, August
+P3 AllDro@#$%512 MB@#$%Black, White@#$%512 MB RAM@#$%4.1@#$%Available. Released 2012, January
+P2 AllDro@#$%512 MB@#$%Black@#$%256 GB RAM@#$%3.5@#$%Available. Released 2012, January
+P1 AllDro@#$%512 MB@#$%Black@#$%256 GB RAM@#$%3.5@#$%Available. Released 2011, October
+L4 Class@#$%512 MB@#$%Black, White@#$%ram@#$%1.77@#$%Available. Released 2012, November
+M6 Stark@#$%512 MB@#$%Black, White@#$%ram@#$%2.0@#$%Available. Released 2012, February

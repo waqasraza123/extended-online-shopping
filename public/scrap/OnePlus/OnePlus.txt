@@ -1,5 +1,5 @@
-3T;64/128 GB;Gunmetal, Soft Gold, Midnight Black;6 GB RAM;5.5
-3;64 GB;Graphite, soft gold;6 GB RAM;5.5
-X;16 GB;Onyx, Ceramic, Champagne;3 GB RAM;5.0
-2;16 GB;Sandstone Black;3 GB RAM;5.5
-One;16/64 GB;Silk White, Sandstone Black;3 GB RAM;5.5
+3T@#$%64/128 GB@#$%Gunmetal, Soft Gold, Midnight Black@#$%6 GB RAM@#$%5.5@#$%Available. Released 2016, November
+X@#$%16 GB@#$%Onyx, Ceramic, Champagne@#$%3 GB RAM@#$%5.0@#$%Available. Released 2015, November
+3@#$%64 GB@#$%Graphite, soft gold@#$%6 GB RAM@#$%5.5@#$%Available. Released 2016, June
+2@#$%16 GB@#$%Sandstone Black@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, August
+One@#$%16/64 GB@#$%Silk White, Sandstone Black@#$%3 GB RAM@#$%5.5@#$%Available. Released 2014, June

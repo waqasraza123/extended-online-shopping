@@ -1,35 +1,35 @@
-iPad 9.7;32/128 GB;Silver, Gold, Space Gray;2 GB RAM;9.7
-iPhone 7 Plus;32/128/256 GB;Jet Black, Black, Silver, Gold, Rose Gold, Red;GB;5.5
-iPhone 7;32/128/256 GB;Jet Black, Black, Silver, Gold, Rose Gold, Red;GB;4.7
-iPad Pro 9.7;32/128/256 GB;Silver, Gold, Space Gray, Rose Gold;2 GB RAM;9.7
-iPhone SE;16/64 GB;Space Gray, Silver, Gold, Rose Gold;2 GB RAM;4.0
-iPhone 6s Plus;16/32/64/128 GB;Space Gray, Silver, Gold, Rose Gold;2 GB RAM;5.5
-iPhone 6s;16/32/64/128 GB;Space Gray, Silver, Gold, Rose Gold;2 GB RAM;4.7
-iPad Pro;32/128/256 GB;Space Gray, Silver, Gold;4 GB RAM;12.9
-iPad mini 4;16/32/64/128 GB;Space Gray, Silver, Gold;2 GB RAM;7.9
-iPad Air 2;16/32/64/128 GB;Space Gray, Silver, Gold;2 GB RAM;9.7
-iPad mini 3;16/64/128 GB;Space Gray/Black, Silver/White, Gold;1 GB RAM DDR3;7.9
-iPhone 6 Plus;16/64/128 GB;Space Gray, Silver, Gold;1 GB RAM DDR3;5.5
-iPhone 6;16/32/64/128 GB;Space Gray, Silver, Gold;1 GB RAM DDR3;4.7
-iPad Air;16/32/64/128 GB;Space Gray, Silver;1 GB RAM DDR3;9.7
-iPad mini 2;16/32/64/128 GB;Space Gray/Black, Silver/White;1 GB RAM DDR3;7.9
-iPhone 5s;16/32/64 GB;Space Gray, White/Silver, Gold;1 GB RAM DDR3;4.0
-iPhone 5c;8/16/32 GB; White, Blue, Green, Yellow, Pink;1 GB RAM;4.0
-iPad mini Wi-Fi;16/32/64 GB;Black/Slate, White/Silver;512 MB RAM;7.9
-iPad mini Wi-Fi + Cellular;16/32/64 GB;Black/Slate, White/Silver;512 MB RAM;7.9
-iPad 4 Wi-Fi;16/32/64/128 GB;Black, White;1 GB RAM;9.7
-iPad 4 Wi-Fi + Cellular;16/32/64/128 GB;Black, White;1 GB RAM;9.7
-iPhone 5;16/32/64 GB;Black/Slate, White/Silver;1 GB RAM DDR2;4.0
-iPad 3 Wi-Fi + Cellular;16/32/64 GB;Black, White;1 GB RAM;9.7
-iPad 3 Wi-Fi;16/32/64 GB;Black, White;1 GB RAM;9.7
-iPhone 4s;8/16/32/64 GB;Black, White;512 MB RAM;3.5
-iPad 2 Wi-Fi + 3G;16/32/64 GB;Black, White;512 MB RAM;9.7
-iPad 2 Wi-Fi;16/32/64 GB;Black, White;512 MB RAM;9.7
-iPad 2 CDMA;16/32/64 GB;Black, White;512 MB RAM;9.7
-iPhone 4;8/16/32 GB;Black, White;512 MB RAM;3.5
-iPhone 4 CDMA;16/32 GB;Black, White;512 MB RAM;3.5
-iPad Wi-Fi + 3G;16/32/64 GB;Silver;256 MB RAM;9.7
-iPad Wi-Fi;16/32/64 GB;Silver;256 MB RAM;9.7
-iPhone 3GS;8/16/32 GB;Black, White ;256 MB RAM;3.5
-iPhone 3G;8/16 GB;Black(8/16 GB), White (16 GB);128 MB RAM;3.5
-iPhone;8/16 GB;Black;ram;3.5
+iPad 9.7@#$%32/128 GB@#$%Silver, Gold, Space Gray@#$%2 GB RAM@#$%9.7@#$%Available. Released 2017, March
+iPhone 7 Plus@#$%32/128/256 GB@#$%Jet Black, Black, Silver, Gold, Rose Gold, Red@#$%GB@#$%5.5@#$%Available. Released 2016, September
+iPhone 7@#$%32/128/256 GB@#$%Jet Black, Black, Silver, Gold, Rose Gold, Red@#$%GB@#$%4.7@#$%Available. Released 2016, September
+iPad Pro 9.7@#$%32/128/256 GB@#$%Silver, Gold, Space Gray, Rose Gold@#$%2 GB RAM@#$%9.7@#$%Available. Released 2016, March
+iPhone SE@#$%16/32/64/128 GB@#$%Space Gray, Silver, Gold, Rose Gold@#$%2 GB RAM@#$%4.0@#$%Available. Released 2016, March
+iPhone 6s Plus@#$%16/32/64/128 GB@#$%Space Gray, Silver, Gold, Rose Gold@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, September
+iPhone 6s@#$%16/32/64/128 GB@#$%Space Gray, Silver, Gold, Rose Gold@#$%2 GB RAM@#$%4.7@#$%Available. Released 2015, September
+iPad Pro@#$%32/128/256 GB@#$%Space Gray, Silver, Gold@#$%4 GB RAM@#$%12.9@#$%Available. Released 2015, November
+iPad mini 4@#$%16/32/64/128 GB@#$%Space Gray, Silver, Gold@#$%2 GB RAM@#$%7.9@#$%Available. Released 2015, September
+iPad Air 2@#$%16/32/64/128 GB@#$%Space Gray, Silver, Gold@#$%2 GB RAM@#$%9.7@#$%Available. Released 2014, October
+iPad mini 3@#$%16/64/128 GB@#$%Space Gray/Black, Silver/White, Gold@#$%1 GB RAM DDR3@#$%7.9@#$%Available. Released 2014, October
+iPhone 6 Plus@#$%16/64/128 GB@#$%Space Gray, Silver, Gold@#$%1 GB RAM DDR3@#$%5.5@#$%Available. Released 2014, September
+iPhone 6@#$%16/32/64/128 GB@#$%Space Gray, Silver, Gold@#$%1 GB RAM DDR3@#$%4.7@#$%Available. Released 2014, September
+iPad Air@#$%16/32/64/128 GB@#$%Space Gray, Silver@#$%1 GB RAM DDR3@#$%9.7@#$%Available. Released November 2013
+iPad mini 2@#$%16/32/64/128 GB@#$%Space Gray/Black, Silver/White@#$%1 GB RAM DDR3@#$%7.9@#$%Available. Released 2013, November
+iPhone 5s@#$%16/32/64 GB@#$%Space Gray, White/Silver, Gold@#$%1 GB RAM DDR3@#$%4.0@#$%Available. Released 2013, September
+iPhone 5c@#$%8/16/32 GB@#$% White, Blue, Green, Yellow, Pink@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, September
+iPad mini Wi-Fi@#$%16/32/64 GB@#$%Black/Slate, White/Silver@#$%512 MB RAM@#$%7.9@#$%Discontinued
+iPad mini Wi-Fi + Cellular@#$%16/32/64 GB@#$%Black/Slate, White/Silver@#$%512 MB RAM@#$%7.9@#$%Discontinued
+iPad 4 Wi-Fi@#$%16/32/64/128 GB@#$%Black, White@#$%1 GB RAM@#$%9.7@#$%Available. Released 2012, November
+iPad 4 Wi-Fi + Cellular@#$%16/32/64/128 GB@#$%Black, White@#$%1 GB RAM@#$%9.7@#$%Available. Released 2012, November
+iPhone 5@#$%16/32/64 GB@#$%Black/Slate, White/Silver@#$%1 GB RAM DDR2@#$%4.0@#$%Available. Released 2012, September 
+iPad 3 Wi-Fi + Cellular@#$%16/32/64 GB@#$%Black, White@#$%1 GB RAM@#$%9.7@#$%Available. Released 2012, March 16th
+iPad 3 Wi-Fi@#$%16/32/64 GB@#$%Black, White@#$%1 GB RAM@#$%9.7@#$%Available. Released 2012, March 16th
+iPhone 4s@#$%8/16/32/64 GB@#$%Black, White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2011, October
+iPad 2 Wi-Fi + 3G@#$%16/32/64 GB@#$%Black, White@#$%512 MB RAM@#$%9.7@#$%Discontinued
+iPad 2 Wi-Fi@#$%16/32/64 GB@#$%Black, White@#$%512 MB RAM@#$%9.7@#$%Discontinued
+iPad 2 CDMA@#$%16/32/64 GB@#$%Black, White@#$%512 MB RAM@#$%9.7@#$%Discontinued
+iPhone 4@#$%8/16/32 GB@#$%Black, White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2010, June
+iPhone 4 CDMA@#$%16/32 GB@#$%Black, White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2011, February
+iPad Wi-Fi + 3G@#$%16/32/64 GB@#$%Silver@#$%256 MB RAM@#$%9.7@#$%Discontinued
+iPad Wi-Fi@#$%16/32/64 GB@#$%Silver@#$%256 MB RAM@#$%9.7@#$%Discontinued
+iPhone 3GS@#$%8/16/32 GB@#$%Black, White @#$%256 MB RAM@#$%3.5@#$%Discontinued
+iPhone 3G@#$%8/16 GB@#$%Black(8/16 GB), White (16 GB)@#$%128 MB RAM@#$%3.5@#$%Discontinued
+iPhone@#$%8/16 GB@#$%Black@#$%ram@#$%3.5@#$%Discontinued

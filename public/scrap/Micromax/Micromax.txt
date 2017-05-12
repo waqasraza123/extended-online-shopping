@@ -1,259 +1,261 @@
-Brahat 2 Q402;4 GB;Gold;512 MB RAM;4.0
-Dual 5;128 GB;Gold;4 GB RAM;5.5
-Spark Vdeo Q415;8 GB;Gold;1 GB RAM;4.5
-Vdeo 5;8 GB;Gold;1 GB RAM;5.5
-Vdeo 4;8 GB;Gold;1 GB RAM;5.0
-Vdeo 3;8 GB;Rose Gold;1 GB RAM;4.5
-Vdeo 2;8 GB;Rose Gold, Black;1 GB RAM;4.5
-Vdeo 1;8 GB;Rose Gold, Black;1 GB RAM;4.0
-Canvas Spark 4G Q4201;8 GB;White Champagne;1 GB RAM;5.0
-Canvas Fire 6 Q428;8 GB;Black;1 GB RAM;5.0
-Canvas 5 Lite Q462;16 GB;Black;2 GB RAM;5.0
-Bolt Q381;8 GB;Black;1 GB RAM;5.0
-Canvas Mega 2 Q426;8 GB;Black;1 GB RAM;6.0
-Canvas Spark 2 Plus Q350;8 GB;Gray, Copper Gold, Champagne Gold;1 GB RAM;5.0
-Canvas Spark 3 Q385;8 GB;Black;1 GB RAM;5.0
-Canvas Amaze 2 E457;16 GB;Black;2 GB RAM;5.0
-Canvas xp 4G Q413;16 GB;Black;3 GB RAM;5.0
-Bolt Supreme 2 Q301;4 GB;Black;512 MB RAM;4.0
-Bolt Supreme Q300;4 GB;Black;512 MB RAM;3.5
-Canvas Evok E483;16 GB;Black;3 GB RAM;5.5
-Bolt Selfie Q424;8 GB;Black, White;1 GB RAM;4.5
-Bolt supreme 4 Q352;8 GB;Black/Gold;1 GB RAM;5.0
-Canvas Selfie 4;8 GB;Gold;1 GB RAM;5.0
-Unite 4 plus;16 GB;Champagne, Grey, Silver;2 GB RAM;5.0
-Canvas Unite 4;8 GB;Champagne, Grey, Silver;1 GB RAM;5.0
-Canvas Unite 4 Pro;16 GB;Black/Gold;2 GB RAM;5.0
-Canvas Fire 5 Q386;16 GB;Gold, grey, silver;1 GB RAM;5.5
-Canvas 6 Pro E484;16 GB;Black;4 GB RAM;5.5
-Canvas 6;32 GB;Gold;3 GB RAM;5.5
-Canvas Juice 4G Q461;8 GB;Black;2 GB RAM;5.0
-Canvas Amaze 4G Q491;8 GB;Black;1 GB RAM;5.0
-Canvas Juice 4 Q382;8 GB;Black, White;1 GB RAM;5.0
-Canvas Pulse 4G E451;16 GB;Black;3 GB RAM;5.0
-Canvas Mega 4G Q417;16 GB;Black;3 GB RAM;5.5
-Canvas Fire 4G Plus Q412;8 GB;Black;1 GB RAM;4.7
-Canvas Nitro 3 E352;16 GB;Black;2 GB RAM;5.0
-Canvas Xpress 4G Q413;16 GB;Black;2 GB RAM;5.0
-Canvas Blaze 4G+ Q414;8 GB;Black;1 GB RAM;4.5
-Canvas Pace 4G Q416;4 GB;Black;1 GB RAM;5.0
-Canvas 5 E481;16 GB;Black;3 GB RAM;5.2
-Canvas Mega E353;8 GB;Black;1 GB RAM;5.5
-Canvas Amaze Q395;8 GB;Black;2 GB RAM;5.0
-Canvas Play 4G Q469;16 GB;Black;2 GB RAM;5.5
-Bolt Q332;4 GB;Black;512 MB RAM;5.0
-Canvas Juice 3+ Q394;16 GB;Black;2 GB RAM;5.5
-Bolt Q339;4 GB;Black;512 MB RAM;4.5
-Bolt Q338;8 GB;Black;1 GB RAM;5.0
-Bolt Q331;4 GB;Black;512 MB RAM;5.0
-Bolt S302;4 GB;Black;512 MB RAM;4.0
-Canvas Fire 4G Q411;8 GB;Black;1 GB RAM;4.5
-Canvas Blaze 4G Q400;8 GB;Black;1 GB RAM;4.5
-Canvas Juice 3 Q392;8 GB;Black;2 GB RAM;5.0
-Canvas Spark 2 Q334;4 GB;Black;768 MB RAM;5.0
-Canvas Nitro 4G E455;16 GB;Black;2 GB RAM;5.0
-Canvas Selfie 3 Q348;8 GB;Black;1 GB RAM;4.8
-Canvas Selfie 2 Q340;8 GB;Black;1 GB RAM;5.0
-Canvas Xpress 2 E313;8 GB;Black;1 GB RAM;5.0
-Bolt D303;4 GB;Black;512 MB RAM;4.0
-Bolt S301;4 GB;Black, White;512 MB RAM;3.5
-Canvas Selfie Lens Q345;8 GB;Champagne, Moondust Gray;1 GB RAM;5.0
-Canvas Sliver 5 Q450;16 GB;White;2 GB RAM;4.8
-Canvas Tab P690;8 GB;Gray;1 GB RAM;8.0
-Canvas Knight 2 E471;16 GB;White, Gold;2 GB RAM;5.0
-Canvas A1 AQ4502;8 GB;Black;1 GB RAM;4.5
-Q391 Canvas Doodle 4;8 GB;Black, White;1 GB RAM;6.0
-Canvas Nitro 2 E311;16 GB;Black, White;2 GB RAM;5.0
-Q372 Unite 3;8 GB;Black;1 GB RAM;4.7
-Canvas Play Q355;8 GB;Dark blue, White;1 GB RAM;5.5
-Canvas Spark Q380;8 GB;White/Gold, Grey/Silver;1 GB RAM;4.7
-Bolt S300;4 GB;Black;512 MB RAM;4.0
-Bolt D320;4 GB;Black;512 MB RAM;4.5
-Bolt D321;4 GB;Black, White;512 MB RAM;5.0
-Canvas Juice 2 AQ5001;8 GB;Gray;2 GB RAM;5.0
-Bolt Q324;4 GB;Black, Blue, White;512 MB RAM;4.0
-Bolt A82;4 GB;Black, Blue, White;512 MB RAM;5.0
-Canvas Pep Q371;8 GB;Pristine White, Mystic Blue;1 GB RAM;4.5
-Bolt A067;4 GB;Mint Green, Pure White, Electric Red, Mystic Grey;512 MB RAM;4.0
-Canvas 4 Plus A315;16 GB;White/Gold, Black;1 GB RAM;5.0
-A109 Canvas XL2;4 GB;White;1 GB RAM;5.5
-Canvas Fire 4 A107;8 GB;Black, Silver;1 GB RAM;4.5
-Canvas Tab P666;8 GB;Magnetic Black, Puritan White;1 GB RAM;8.0
-Canvas Tab P470;8 GB;Classy Silver, Mystic Grey;1 GB RAM;7.0
-Canvas Selfie A255;16 GB; Angelic White, Mystic Blue;2 GB RAM;4.7
-Bolt A066;4 GB;Tranquil Green, Pristine White, Raging Red, Smokey Grey;512 MB RAM;3.5
-Canvas Hue;8 GB;White;1 GB RAM;5.0
-A104 Canvas Fire 2;4 GB;Black/Gold;1 GB RAM;4.5
-A99 Canvas Xpress;8 GB;Black;1 GB RAM;4.5
-A290 Canvas Knight Cameo;8 GB;Pure Black, Black/Gold, White/Gold;1 GB RAM;4.7
-Canvas A1;4 GB;Black, White;1 GB RAM;4.5
-A310 Canvas Nitro;8 GB;Pristine White, Mystic Blue;2 GB RAM;5.0
-A092 Unite;8 GB;Black, White, Gray, Red, Yellow;1 GB RAM;4.0
-A65 Bolt;4 GB;White;512 MB RAM;4.0
-A108 Canvas L;8 GB;Blue, White;1 GB RAM;5.5
-A190 Canvas HD Plus;8 GB;Black, White;1 GB RAM;5.0
-A093 Canvas Fire;4 GB;Black/Gold, White/Gold, Black/Silver, White/Silver;512 MB RAM;4.0
-A300 Canvas Gold;32 GB;Black/Gold, White/Gold;2 GB RAM;5.5
-Canvas Win W121;8 GB;Black;1 GB RAM;5.0
-Canvas Win W092;8 GB;Black;1 GB RAM;4.0
-A089 Bolt;4 GB;Black, White;512 MB RAM;4.0
-A106 Unite 2;4/8 GB;Pristine White, Balmy Green, Mystic Grey, Raging Red;1 GB RAM;4.7
-A105 Canvas Entice;4 GB;Black;512 MB RAM;5.0
-X352;4 GB;Silver;ram;2.8
-A121 Canvas Elanza 2;4 GB;Black;1 GB RAM;5.0
-A120 Canvas 2 Colors;4 GB;Black, Blue, Green, Red, Yellow;1 GB RAM;5.0
-A102 Canvas Doodle 3;8 GB;Blazing Blue, Pristine White;1 GB RAM;6.0
-A47 Bolt;512 MB;Black, White;256 MB RAM;4.0
-X281;512 MB;Gray;ram;2.4
-X267;512 MB;Silver, Black;ram;2.3
-X098;512 MB;Black;ram;1.76
-A114R Canvas Beat;4 GB (1.5 GB user available);Black/White;1 GB RAM;5.0
-A59 Bolt;512 MB;Black;256 MB RAM;3.5
-A36 Bolt;512 MB;Black;256 MB RAM;4.0
-A28 Bolt;512 MB;Black;256 MB RAM;3.5
-A350 Canvas Knight;32 GB;Black, White/Gold, Black/Gold;2 GB RAM;5.0
-Canvas Turbo Mini;4 GB (1.6 user available);Black, White, Blue;1 GB RAM;4.7
-A94 Canvas MAd;4 GB (2.2 GB user available);Black;512 MB RAM;4.5
-A119 Canvas XL;4 GB (2 GB user available);White;1 GB RAM;6.0
-A114 Canvas 2.2;4 GB (2 GB user available);Black;1 GB RAM;5.0
-A61 Bolt;512 MB;Black;256 MB RAM;4.0
-A77 Canvas Juice;4 GB;White;1 GB RAM;5.0
-A117 Canvas Magnus;4 GB (2.6 GB user available);Black, White;1 GB RAM;5.0
-Canvas Turbo;16 GB (12.5 user available);Black, White;2 GB RAM;5.0
-Canvas Tab P650;16 GB;Black, White;1 GB RAM;8.0
-A113 Canvas Ego;4 GB;Black;1 GB RAM;4.7
-A76;4 GB;Black, White;512 MB RAM;5.0
-A74 Canvas Fun;4 GB;Black, Blue, Red;512 MB RAM;4.5
-A67 Bolt;4 GB;Black, White;512 MB RAM;4.5
-A63 Canvas Fun;4 GB;Black/Blue;512 MB RAM;4.0
-A240 Canvas Doodle 2;16 GB (13 GB user available);Silver;1 GB RAM;5.7
-A92;4 GB;Black, White;512 MB RAM;5.0
-Canvas 4 A210;16 GB (10 GB user available);Gray, White;1 GB RAM;5.0
-A88;4 GB (2 GB user available);Black, White;512 MB RAM;4.5
-A110Q Canvas 2 Plus;4 GB (1.5 GB user available);Black, White;1 GB RAM;5.0
-X322;4 GB (1.5 GB user available);Gray;ram;2.8
-X321;4 GB (1.5 GB user available);White;ram;2.8
-X295;4 GB (1.5 GB user available);Gray;ram;2.6
-X286;4 GB (1.5 GB user available);White, Gray;ram;2.4
-X278;4 GB (1.5 GB user available);Black;ram;2.4
-X099;4 GB (1.5 GB user available);Black;ram;1.77
-GC333;4 GB (1.5 GB user available);Black;ram;2.2
-X396;4 GB (1.5 GB user available);White;ram;3.2
-X335C;4 GB (1.5 GB user available);Black, White;ram;2.8
-A111 Canvas Doodle;4 GB (1.22 GB user available);White;512 MB RAM;5.3
-Funbook 3G P600;4 GB (1.22 GB user available);Black;ram;7.0
-Funbook 3G P560;4 GB (1.22 GB user available);Black;ram;7.0
-Funbook Talk P362;4 GB (1.22 GB user available);Black;ram;7.0
-Funbook Talk P360;4 GB (1.22 GB user available);Black;ram;7.0
-Viva A72;4 GB (1.22 GB user available);Black;ram;5.0
-Ninja A91;4 GB (1.22 GB user available);Black;ram;4.5
-Ninja A54;4 GB (1.22 GB user available);Gray;ram;3.5
-Bolt A62;4 GB (1.22 GB user available);Black/White;ram;3.95
-Bolt A51;512 MB;Black/Silver;256 MB RAM;3.5
-Bolt A35;microSD;Black;up to 16 GB (dedicated slot);4.0
-Bolt A27;microSD;Black;up to 16 GB (dedicated slot);3.5
-A115 Canvas 3D;4 GB;Black, White;512 MB RAM;5.0
-A116 Canvas HD;4 GB (1.77 GB user available);Black, White;1 GB RAM;5.0
-A101;4 GB (2 GB user available);Black, White;512 MB RAM;5.0
-A110 Canvas 2;4 GB (2 GB user available);Black, White;512 MB RAM;5.0
-A89 Ninja;2 GB;Black;512 MB RAM;3.97
-A87 Ninja 4.0;130 MB;Black;256 MB RAM;4.0
-A57 Ninja 3.0;512 MB RAM;Black;256 MB;3.5
-Funbook Infinity P275;4 GB;Black;512 MB RAM;7.0
-Funbook Alfa P250;4 GB;Gray;512 MB RAM;7.0
-Funbook Pro;8 GB;Silver, Black;1 GB RAM;10.1
-A100;4 GB;Black;512 MB RAM;5.0
-A90s;4 GB (2 GB user available);Black;512 MB RAM;4.3
-A90;4 GB (2 GB user available);Black;512 MB RAM;4.3
-A84;microSD;Black;up to 32 GB (dedicated slot);3.98
-A80 ;microSD;Black;ram;3.75
-Superfone Punk A44;microSD;White;ram;3.5
-A25;256 MB RAM;Black;512 MB;2.8
-X101;16 MB RAM;White/Black, Yellow/Black;32 MB ROM;1.77
-X291;16 MB RAM;White, Black, Silver;ram;2.6
-X277;16 MB RAM;Red, Blue;ram;2.4
-X276;16 MB RAM;Black;ram;2.4
-X246;16 MB RAM;Black;ram;2.4
-X234+;16 MB RAM;Red, Blue;ram;2.0
-A56;256 MB RAM;Black, White;512 MB;3.5
-A52;256 MB RAM;Black, Yellow, White;ram;3.2
-A45;256 MB RAM;White, Black;ram;3.5
-X660;256 MB RAM;White, Black;ram;3.5
-X640;256 MB RAM;Black;ram;3.2
-X368;256 MB RAM;White/Gray;ram;2.55
-X335;256 MB RAM;Green;ram;2.8
-X288;256 MB RAM;Gray;ram;2.4
-X274;256 MB RAM;Black;ram;2.4
-X233;256 MB RAM;;ram;1.77
-X231;256 MB RAM;;ram;2.4
-X102;256 MB RAM;Black;ram;1.8
-A50 Ninja;microSD;White;up to 32 GB (dedicated slot);3.1
-A78;microSD;Brown;up to 32 GB (dedicated slot);3.5
-Funbook P300;4 GB;Suave silver, Brilliant black;512 MB RAM;7.0
-A73;256 MB RAM;Black;512 MB;3.5
-X650;256 MB RAM;White, Gray;ram;3.2
-X490;256 MB RAM;Black;ram;2.2
-X333;256 MB RAM;Black;ram;2.8
-X275;256 MB RAM;Black;ram;2.4
-X271;256 MB RAM;Green, Blue;ram;2.4
-X11i;256 MB RAM;Black;ram;1.46
-A75;microSD;Black;up to 32 GB (dedicated slot);3.75
-X270;microSD;Black;ram;2.4
-X256;microSD;Black, Gray;ram;2.6
-X78;microSD;Black, white;ram;2.8
-X55 Blade;microSD;Gray;ram;,
-X285;microSD;Black;ram;2.4
-A55;150 MB;White;512 MB;2.8
-X40;150 MB;Brown;ram;,
-X450;150 MB;Black, Yellow;ram;2.4
-X222;150 MB;Brown, White;ram;,
-Q80;150 MB;Black;ram;2.4
-A85;8 GB;Black;512 MB RAM;3.8
-A70;160 MB;Cocoa Brown;256 MB RAM;3.2
-X410;160 MB;Black;ram;2.4
-X395;160 MB;Black/Colored back-panels;ram;2.4
-X266;160 MB;Red;ram;2.2
-X265;160 MB;Black;ram;2.2
-M2;160 MB;Gray, Orange;ram;2.0
-Q66;160 MB;Black;ram;2.4
-X370;160 MB;Purple;ram;2.2
-X226+;160 MB;Red, Green;ram;1.77
-Q50;160 MB;Black, White;ram;2.2
-X560;160 MB;Black;ram;3.2
-A60;160 MB;Black;ram;2.8
-X600;160 MB;Black;ram;3.2
-X550 Qube;160 MB;Black;ram;3.2
-X510 Pike;160 MB;Black, 5 color backpanels in the package;ram;2.8
-X500;160 MB;Black;ram;2.8
-X310;160 MB;Black;ram;2.2
-X2i;160 MB;Black;ram;1.44
-X118;160 MB;Black;ram;1.75
-X100;160 MB;Black;ram;1.46
-X1i;160 MB;Black;ram;1.46
-GC700;160 MB;Black;ram;2.8
-GC400;160 MB;Black;ram;2.2
-GC360;160 MB;Black;ram;
-GC275;160 MB;Black;ram;
-Q75;160 MB;Black;ram;
-Q6;160 MB;Black;ram;
-Q7;160 MB;Black, White;ram;2.2
-G4;160 MB;Black;ram;2.4
-W900;256 MB ROM;Black;128 MB RAM;3.2
-X330;256 MB ROM;Black;ram;2.2
-H360;256 MB ROM;Black;ram;2.4
-Q1;256 MB ROM;Black;ram;2.2
-Q2;256 MB ROM;Black;ram;2.2
-Q3;256 MB ROM;Black;ram;2.2
-Q5 fb;256 MB ROM;Black;ram;2.2
-Q55 Bling;256 MB ROM;White;ram;2.4
-X1i plus;256 MB ROM;Black;ram;1.46
-X2i plus;256 MB ROM;Black;ram;1.75
-X111;256 MB ROM;Silver, Golden;ram;1.4
-X114;256 MB ROM;Black;ram;1.5
-X215;256 MB ROM;Black;ram;1.5
-X220;256 MB ROM;Black;ram;1.81
-X225;256 MB ROM;Black/Red;ram;1.8
-X235;256 MB ROM;Black;ram;2.0
-X250;256 MB ROM;Black;ram;2.0
-X260;256 MB ROM;Black;ram;2.2
-X360;256 MB ROM;Black/Brown;ram;2.0
+Canvas Evok Power Q4260@#$%16 GB@#$%Champagne Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2017, April
+Canvas Evok Note E453@#$%32 GB@#$%Champagne Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2017, April
+Brahat 2 Q402@#$%4 GB@#$%Gold@#$%512 MB RAM@#$%4.0@#$%Available. Released 2017, April
+Dual 5@#$%128 GB@#$%Gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2017, April
+Spark Vdeo Q415@#$%8 GB@#$%Gold@#$%1 GB RAM@#$%4.5@#$%Available. Released 2017, March
+Vdeo 5@#$%8 GB@#$%Gold@#$%1 GB RAM@#$%5.5@#$%Available. Released 2017, March
+Vdeo 4@#$%8 GB@#$%Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2017, February
+Vdeo 3@#$%8 GB@#$%Rose Gold@#$%1 GB RAM@#$%4.5@#$%Available. Released 2017, February
+Vdeo 2@#$%8 GB@#$%Rose Gold, Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, December
+Vdeo 1@#$%8 GB@#$%Rose Gold, Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2016, December
+Canvas Spark 4G Q4201@#$%8 GB@#$%White Champagne@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, November
+Canvas Fire 6 Q428@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, November
+Canvas 5 Lite Q462@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, October
+Bolt Q381@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, July
+Canvas Mega 2 Q426@#$%8 GB@#$%Black@#$%1 GB RAM@#$%6.0@#$%Available. Released 2016, August
+Canvas Spark 2 Plus Q350@#$%8 GB@#$%Gray, Copper Gold, Champagne Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, July
+Canvas Spark 3 Q385@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, July
+Canvas Amaze 2 E457@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, July
+Canvas xp 4G Q413@#$%16 GB@#$%Black@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, May
+Bolt Supreme 2 Q301@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2016, May
+Bolt Supreme Q300@#$%4 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2016, May
+Canvas Evok E483@#$%16 GB@#$%Black@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, May
+Bolt Selfie Q424@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, May
+Bolt supreme 4 Q352@#$%8 GB@#$%Black/Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, July
+Canvas Selfie 4@#$%8 GB@#$%Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, May
+Unite 4 plus@#$%16 GB@#$%Champagne, Grey, Silver@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, July
+Canvas Unite 4@#$%8 GB@#$%Champagne, Grey, Silver@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, June
+Canvas Unite 4 Pro@#$%16 GB@#$%Black/Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, June
+Canvas Fire 5 Q386@#$%16 GB@#$%Gold, grey, silver@#$%1 GB RAM@#$%5.5@#$%Available. Released 2016, June
+Canvas 6 Pro E484@#$%16 GB@#$%Black@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, April
+Canvas 6@#$%32 GB@#$%Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, May
+Canvas Juice 4G Q461@#$%8 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, February
+Canvas Amaze 4G Q491@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, February
+Canvas Juice 4 Q382@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, December
+Canvas Pulse 4G E451@#$%16 GB@#$%Black@#$%3 GB RAM@#$%5.0@#$%Available. Released 2015, December
+Canvas Mega 4G Q417@#$%16 GB@#$%Black@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, December
+Canvas Fire 4G Plus Q412@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, December
+Canvas Nitro 3 E352@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Canvas Xpress 4G Q413@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Canvas Blaze 4G+ Q414@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, November
+Canvas Pace 4G Q416@#$%4 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Canvas 5 E481@#$%16 GB@#$%Black@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, November
+Canvas Mega E353@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.5@#$%Available. Released 2015, November
+Canvas Amaze Q395@#$%8 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Canvas Play 4G Q469@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, November
+Bolt Q332@#$%4 GB@#$%Black@#$%512 MB RAM@#$%5.0@#$%Available. Released 2015, November
+Canvas Juice 3+ Q394@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, November
+Bolt Q339@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.5@#$%Available. Released 2015, October
+Bolt Q338@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, September
+Bolt Q331@#$%4 GB@#$%Black@#$%512 MB RAM@#$%5.0@#$%Available. Released 2015, October
+Bolt S302@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, October
+Canvas Fire 4G Q411@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, September
+Canvas Blaze 4G Q400@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, October
+Canvas Juice 3 Q392@#$%8 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, September
+Canvas Spark 2 Q334@#$%4 GB@#$%Black@#$%768 MB RAM@#$%5.0@#$%Available. Released 2015, September
+Canvas Nitro 4G E455@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, September
+Canvas Selfie 3 Q348@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.8@#$%Available. Released 2015, August
+Canvas Selfie 2 Q340@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Canvas Xpress 2 E313@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Bolt D303@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, July
+Bolt S301@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2015, August
+Canvas Selfie Lens Q345@#$%8 GB@#$%Champagne, Moondust Gray@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, June
+Canvas Sliver 5 Q450@#$%16 GB@#$%White@#$%2 GB RAM@#$%4.8@#$%Available. Released 2015, July
+Canvas Tab P690@#$%8 GB@#$%Gray@#$%1 GB RAM@#$%8.0@#$%Available. Released 2015, June
+Canvas Knight 2 E471@#$%16 GB@#$%White, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, June
+Canvas A1 AQ4502@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, June
+Q391 Canvas Doodle 4@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%6.0@#$%Available. Released 2015, May
+Canvas Nitro 2 E311@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, May
+Q372 Unite 3@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, May
+Canvas Play Q355@#$%8 GB@#$%Dark blue, White@#$%1 GB RAM@#$%5.5@#$%Available. Released 2015, May
+Canvas Spark Q380@#$%8 GB@#$%White/Gold, Grey/Silver@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, April
+Bolt S300@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, March
+Bolt D320@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.5@#$%Available. Released 2015, April
+Bolt D321@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2015, February
+Canvas Juice 2 AQ5001@#$%8 GB@#$%Gray@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, March
+Bolt Q324@#$%4 GB@#$%Black, Blue, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, March
+Bolt A82@#$%4 GB@#$%Black, Blue, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2015, February
+Canvas Pep Q371@#$%8 GB@#$%Pristine White, Mystic Blue@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, February
+Bolt A067@#$%4 GB@#$%Mint Green, Pure White, Electric Red, Mystic Grey@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, December
+Canvas 4 Plus A315@#$%16 GB@#$%White/Gold, Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, September
+A109 Canvas XL2@#$%4 GB@#$%White@#$%1 GB RAM@#$%5.5@#$%Available. Released 2014, August
+Canvas Fire 4 A107@#$%8 GB@#$%Black, Silver@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, March
+Canvas Tab P666@#$%8 GB@#$%Magnetic Black, Puritan White@#$%1 GB RAM@#$%8.0@#$%Available. Released 2015, January
+Canvas Tab P470@#$%8 GB@#$%Classy Silver, Mystic Grey@#$%1 GB RAM@#$%7.0@#$%Available. Released 2015, January
+Canvas Selfie A255@#$%16 GB@#$% Angelic White, Mystic Blue@#$%2 GB RAM@#$%4.7@#$%Available. Released 2015, February
+Bolt A066@#$%4 GB@#$%Tranquil Green, Pristine White, Raging Red, Smokey Grey@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, May
+Canvas Hue@#$%8 GB@#$%White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, January
+A104 Canvas Fire 2@#$%4 GB@#$%Black/Gold@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, Q4
+A99 Canvas Xpress@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, Q4
+A290 Canvas Knight Cameo@#$%8 GB@#$%Pure Black, Black/Gold, White/Gold@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, September
+Canvas A1@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, September
+A310 Canvas Nitro@#$%8 GB@#$%Pristine White, Mystic Blue@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, September
+A092 Unite@#$%8 GB@#$%Black, White, Gray, Red, Yellow@#$%1 GB RAM@#$%4.0@#$%Available. Released 2014, Q3
+A65 Bolt@#$%4 GB@#$%White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, September
+A108 Canvas L@#$%8 GB@#$%Blue, White@#$%1 GB RAM@#$%5.5@#$%Available. Released 2014, August
+A190 Canvas HD Plus@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, July
+A093 Canvas Fire@#$%4 GB@#$%Black/Gold, White/Gold, Black/Silver, White/Silver@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, July
+A300 Canvas Gold@#$%32 GB@#$%Black/Gold, White/Gold@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, June
+Canvas Win W121@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, August
+Canvas Win W092@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2014, August
+A089 Bolt@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, May
+A106 Unite 2@#$%4/8 GB@#$%Pristine White, Balmy Green, Mystic Grey, Raging Red@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, May
+A105 Canvas Entice@#$%4 GB@#$%Black@#$%512 MB RAM@#$%5.0@#$%Available. Released 2014, June
+X352@#$%4 GB@#$%Silver@#$%ram@#$%2.8@#$%Available. Released 2014, May
+A121 Canvas Elanza 2@#$%4 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, May
+A120 Canvas 2 Colors@#$%4 GB@#$%Black, Blue, Green, Red, Yellow@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, May
+A102 Canvas Doodle 3@#$%8 GB@#$%Blazing Blue, Pristine White@#$%1 GB RAM@#$%6.0@#$%Available. Released 2014, April
+A47 Bolt@#$%512 MB@#$%Black, White@#$%256 MB RAM@#$%4.0@#$%Available. Released 2014
+X281@#$%512 MB@#$%Gray@#$%ram@#$%2.4@#$%Available. Released 2013
+X267@#$%512 MB@#$%Silver, Black@#$%ram@#$%2.3@#$%Available. Released 2013
+X098@#$%512 MB@#$%Black@#$%ram@#$%1.76@#$%Available. Released 2013
+A114R Canvas Beat@#$%4 GB (1.5 GB user available)@#$%Black/White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014
+A59 Bolt@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.5@#$%Available. Released 2014
+A36 Bolt@#$%512 MB@#$%Black@#$%256 MB RAM@#$%4.0@#$%Available. Released 2014
+A28 Bolt@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.5@#$%Available. Released 2014
+A350 Canvas Knight@#$%32 GB@#$%Black, White/Gold, Black/Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, March
+Canvas Turbo Mini@#$%4 GB (1.6 user available)@#$%Black, White, Blue@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, January
+A94 Canvas MAd@#$%4 GB (2.2 GB user available)@#$%Black@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, January
+A119 Canvas XL@#$%4 GB (2 GB user available)@#$%White@#$%1 GB RAM@#$%6.0@#$%Available. Released 2014, January
+A114 Canvas 2.2@#$%4 GB (2 GB user available)@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, December
+A61 Bolt@#$%512 MB@#$%Black@#$%256 MB RAM@#$%4.0@#$%Available. Released 2013, December
+A77 Canvas Juice@#$%4 GB@#$%White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, December
+A117 Canvas Magnus@#$%4 GB (2.6 GB user available)@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, October
+Canvas Turbo@#$%16 GB (12.5 user available)@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, October
+Canvas Tab P650@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013, September
+A113 Canvas Ego@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2013, Q3
+A76@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2013, Q3
+A74 Canvas Fun@#$%4 GB@#$%Black, Blue, Red@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013, September
+A67 Bolt@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013, August
+A63 Canvas Fun@#$%4 GB@#$%Black/Blue@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, Q3
+A240 Canvas Doodle 2@#$%16 GB (13 GB user available)@#$%Silver@#$%1 GB RAM@#$%5.7@#$%Available. Released 2013, August
+A92@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2013, July
+Canvas 4 A210@#$%16 GB (10 GB user available)@#$%Gray, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, July
+A88@#$%4 GB (2 GB user available)@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013
+A110Q Canvas 2 Plus@#$%4 GB (1.5 GB user available)@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, May
+X322@#$%4 GB (1.5 GB user available)@#$%Gray@#$%ram@#$%2.8@#$%Available. Released 2013
+X321@#$%4 GB (1.5 GB user available)@#$%White@#$%ram@#$%2.8@#$%Available. Released 2013
+X295@#$%4 GB (1.5 GB user available)@#$%Gray@#$%ram@#$%2.6@#$%Available. Released 2013
+X286@#$%4 GB (1.5 GB user available)@#$%White, Gray@#$%ram@#$%2.4@#$%Available. Released 2013
+X278@#$%4 GB (1.5 GB user available)@#$%Black@#$%ram@#$%2.4@#$%Available. Released 2013
+X099@#$%4 GB (1.5 GB user available)@#$%Black@#$%ram@#$%1.77@#$%Available. Released 2013
+GC333@#$%4 GB (1.5 GB user available)@#$%Black@#$%ram@#$%2.2@#$%Available. Released 2013
+X396@#$%4 GB (1.5 GB user available)@#$%White@#$%ram@#$%3.2@#$%Available. Released 2013
+X335C@#$%4 GB (1.5 GB user available)@#$%Black, White@#$%ram@#$%2.8@#$%Available. Released 2013
+A111 Canvas Doodle@#$%4 GB (1.22 GB user available)@#$%White@#$%512 MB RAM@#$%5.3@#$%Available. Released 2013, May
+Funbook 3G P600@#$%4 GB (1.22 GB user available)@#$%Black@#$%ram@#$%7.0@#$%Available. Released 2013, March
+Funbook 3G P560@#$%4 GB (1.22 GB user available)@#$%Black@#$%ram@#$%7.0@#$%Available. Released 2013, March
+Funbook Talk P362@#$%4 GB (1.22 GB user available)@#$%Black@#$%ram@#$%7.0@#$%Available. Released 2013, February
+Funbook Talk P360@#$%4 GB (1.22 GB user available)@#$%Black@#$%ram@#$%7.0@#$%Available. Released 2013, February
+Viva A72@#$%4 GB (1.22 GB user available)@#$%Black@#$%ram@#$%5.0@#$%Available. Released 2013, April
+Ninja A91@#$%4 GB (1.22 GB user available)@#$%Black@#$%ram@#$%4.5@#$%Available. Released 2013, March
+Ninja A54@#$%4 GB (1.22 GB user available)@#$%Gray@#$%ram@#$%3.5@#$%Available. Released 2013, January
+Bolt A62@#$%4 GB (1.22 GB user available)@#$%Black/White@#$%ram@#$%3.95@#$%Available. Released 2013, April
+Bolt A51@#$%512 MB@#$%Black/Silver@#$%256 MB RAM@#$%3.5@#$%Available. Released 2013, April
+Bolt A35@#$%microSD@#$%Black@#$%up to 16 GB (dedicated slot)@#$%4.0@#$%Available. Released 2013, February
+Bolt A27@#$%microSD@#$%Black@#$%up to 16 GB (dedicated slot)@#$%3.5@#$%Available. Released 2013, January
+A115 Canvas 3D@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2013, May
+A116 Canvas HD@#$%4 GB (1.77 GB user available)@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, February
+A101@#$%4 GB (2 GB user available)@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2012, December
+A110 Canvas 2@#$%4 GB (2 GB user available)@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2012, November
+A89 Ninja@#$%2 GB@#$%Black@#$%512 MB RAM@#$%3.97@#$%Available. Released 2013, February
+A87 Ninja 4.0@#$%130 MB@#$%Black@#$%256 MB RAM@#$%4.0@#$%Available. Released 2012, September
+A57 Ninja 3.0@#$%512 MB RAM@#$%Black@#$%256 MB@#$%3.5@#$%Available. Released 2012, September
+Funbook Infinity P275@#$%4 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2012
+Funbook Alfa P250@#$%4 GB@#$%Gray@#$%512 MB RAM@#$%7.0@#$%Available. Released 2012, October
+Funbook Pro@#$%8 GB@#$%Silver, Black@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, August
+A100@#$%4 GB@#$%Black@#$%512 MB RAM@#$%5.0@#$%Available. Released 2012, Q4
+A90s@#$%4 GB (2 GB user available)@#$%Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, November
+A90@#$%4 GB (2 GB user available)@#$%Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, August
+A84@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%3.98@#$%Available. Released 2012, August
+A80 @#$%microSD@#$%Black@#$%ram@#$%3.75@#$%Available. Released 2012, August
+Superfone Punk A44@#$%microSD@#$%White@#$%ram@#$%3.5@#$%Available. Released 2012, August
+A25@#$%256 MB RAM@#$%Black@#$%512 MB@#$%2.8@#$%Available. Released 2012, October
+X101@#$%16 MB RAM@#$%White/Black, Yellow/Black@#$%32 MB ROM@#$%1.77@#$%Available. Released 2012, September
+X291@#$%16 MB RAM@#$%White, Black, Silver@#$%ram@#$%2.6@#$%Available
+X277@#$%16 MB RAM@#$%Red, Blue@#$%ram@#$%2.4@#$%Available
+X276@#$%16 MB RAM@#$%Black@#$%ram@#$%2.4@#$%Available
+X246@#$%16 MB RAM@#$%Black@#$%ram@#$%2.4@#$%Available
+X234+@#$%16 MB RAM@#$%Red, Blue@#$%ram@#$%2.0@#$%Available
+A56@#$%256 MB RAM@#$%Black, White@#$%512 MB@#$%3.5@#$%Available. Released 2012, July
+A52@#$%256 MB RAM@#$%Black, Yellow, White@#$%ram@#$%3.2@#$%Available. Released 2012, June
+A45@#$%256 MB RAM@#$%White, Black@#$%ram@#$%3.5@#$%Available. Released 2012, June
+X660@#$%256 MB RAM@#$%White, Black@#$%ram@#$%3.5@#$%Available. Released 2012, May
+X640@#$%256 MB RAM@#$%Black@#$%ram@#$%3.2@#$%Available. Released 2012, May
+X368@#$%256 MB RAM@#$%White/Gray@#$%ram@#$%2.55@#$%Available. Released 2012, May
+X335@#$%256 MB RAM@#$%Green@#$%ram@#$%2.8@#$%Available. Released 2012, May
+X288@#$%256 MB RAM@#$%Gray@#$%ram@#$%2.4@#$%Available. Released 2012, May
+X274@#$%256 MB RAM@#$%Black@#$%ram@#$%2.4@#$%Available. Released 2012, May
+X233@#$%256 MB RAM@#$%@#$%ram@#$%1.77@#$%Available. Released 2012, May
+X231@#$%256 MB RAM@#$%@#$%ram@#$%2.4@#$%Available. Released 2012, May
+X102@#$%256 MB RAM@#$%Black@#$%ram@#$%1.8@#$%Available. Released 2012, May
+A50 Ninja@#$%microSD@#$%White@#$%up to 32 GB (dedicated slot)@#$%3.1@#$%Available
+A78@#$%microSD@#$%Brown@#$%up to 32 GB (dedicated slot)@#$%3.5@#$%Available
+Funbook P300@#$%4 GB@#$%Suave silver, Brilliant black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2012, April
+A73@#$%256 MB RAM@#$%Black@#$%512 MB@#$%3.5@#$%Available
+X650@#$%256 MB RAM@#$%White, Gray@#$%ram@#$%3.2@#$%Available
+X490@#$%256 MB RAM@#$%Black@#$%ram@#$%2.2@#$%Available
+X333@#$%256 MB RAM@#$%Black@#$%ram@#$%2.8@#$%Available
+X275@#$%256 MB RAM@#$%Black@#$%ram@#$%2.4@#$%Available
+X271@#$%256 MB RAM@#$%Green, Blue@#$%ram@#$%2.4@#$%Available
+X11i@#$%256 MB RAM@#$%Black@#$%ram@#$%1.46@#$%Available. Released 2011, December
+A75@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%3.75@#$%Available. Released 2011, December
+X270@#$%microSD@#$%Black@#$%ram@#$%2.4@#$%Available
+X256@#$%microSD@#$%Black, Gray@#$%ram@#$%2.6@#$%Available
+X78@#$%microSD@#$%Black, white@#$%ram@#$%2.8@#$%Available
+X55 Blade@#$%microSD@#$%Gray@#$%ram@#$%,@#$%Available
+X285@#$%microSD@#$%Black@#$%ram@#$%2.4@#$%Available
+A55@#$%150 MB@#$%White@#$%512 MB@#$%2.8@#$%Available
+X40@#$%150 MB@#$%Brown@#$%ram@#$%,@#$%Available
+X450@#$%150 MB@#$%Black, Yellow@#$%ram@#$%2.4@#$%Available
+X222@#$%150 MB@#$%Brown, White@#$%ram@#$%,@#$%Available
+Q80@#$%150 MB@#$%Black@#$%ram@#$%2.4@#$%Available. Released 2011, July
+A85@#$%8 GB@#$%Black@#$%512 MB RAM@#$%3.8@#$%Available. Released 2011, October
+A70@#$%160 MB@#$%Cocoa Brown@#$%256 MB RAM@#$%3.2@#$%Discontinued
+X410@#$%160 MB@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+X395@#$%160 MB@#$%Black/Colored back-panels@#$%ram@#$%2.4@#$%Discontinued
+X266@#$%160 MB@#$%Red@#$%ram@#$%2.2@#$%Discontinued
+X265@#$%160 MB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+M2@#$%160 MB@#$%Gray, Orange@#$%ram@#$%2.0@#$%Discontinued
+Q66@#$%160 MB@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+X370@#$%160 MB@#$%Purple@#$%ram@#$%2.2@#$%Discontinued
+X226+@#$%160 MB@#$%Red, Green@#$%ram@#$%1.77@#$%Discontinued
+Q50@#$%160 MB@#$%Black, White@#$%ram@#$%2.2@#$%Discontinued
+X560@#$%160 MB@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+A60@#$%160 MB@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+X600@#$%160 MB@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+X550 Qube@#$%160 MB@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+X510 Pike@#$%160 MB@#$%Black, 5 color backpanels in the package@#$%ram@#$%2.8@#$%Discontinued
+X500@#$%160 MB@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+X310@#$%160 MB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+X2i@#$%160 MB@#$%Black@#$%ram@#$%1.44@#$%Discontinued
+X118@#$%160 MB@#$%Black@#$%ram@#$%1.75@#$%Discontinued
+X100@#$%160 MB@#$%Black@#$%ram@#$%1.46@#$%Discontinued
+X1i@#$%160 MB@#$%Black@#$%ram@#$%1.46@#$%Discontinued
+GC700@#$%160 MB@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+GC400@#$%160 MB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+GC360@#$%160 MB@#$%Black@#$%ram@#$%@#$%Discontinued
+GC275@#$%160 MB@#$%Black@#$%ram@#$%@#$%Discontinued
+Q75@#$%160 MB@#$%Black@#$%ram@#$%@#$%Discontinued
+Q6@#$%160 MB@#$%Black@#$%ram@#$%@#$%Discontinued
+Q7@#$%160 MB@#$%Black, White@#$%ram@#$%2.2@#$%Discontinued
+G4@#$%160 MB@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+W900@#$%256 MB ROM@#$%Black@#$%128 MB RAM@#$%3.2@#$%Discontinued
+X330@#$%256 MB ROM@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+H360@#$%256 MB ROM@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+Q1@#$%256 MB ROM@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+Q2@#$%256 MB ROM@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+Q3@#$%256 MB ROM@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+Q5 fb@#$%256 MB ROM@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+Q55 Bling@#$%256 MB ROM@#$%White@#$%ram@#$%2.4@#$%Discontinued
+X1i plus@#$%256 MB ROM@#$%Black@#$%ram@#$%1.46@#$%Discontinued
+X2i plus@#$%256 MB ROM@#$%Black@#$%ram@#$%1.75@#$%Discontinued
+X111@#$%256 MB ROM@#$%Silver, Golden@#$%ram@#$%1.4@#$%Discontinued
+X114@#$%256 MB ROM@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+X215@#$%256 MB ROM@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+X220@#$%256 MB ROM@#$%Black@#$%ram@#$%1.81@#$%Discontinued
+X225@#$%256 MB ROM@#$%Black/Red@#$%ram@#$%1.8@#$%Discontinued
+X235@#$%256 MB ROM@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+X250@#$%256 MB ROM@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+X260@#$%256 MB ROM@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+X360@#$%256 MB ROM@#$%Black/Brown@#$%ram@#$%2.0@#$%Discontinued

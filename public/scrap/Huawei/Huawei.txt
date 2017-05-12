@@ -1,1027 +1,232 @@
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
-MediaPad M2 7.0;16/32 GB;White, Blue, Gold, Pink;3 GB RAM;7.0
-Honor 5c;16 GB;Silver, Gray, Gold;2 GB RAM;5.2
-Y3II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;4.5
-Y5II;8 GB;Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue;1 GB RAM;5.0
-P9 lite;16 GB;Black, White, Gold;2GB or 3 GB RAM;5.2
-P9 Plus;64 GB;Haze Gold, Quartz Grey, Ceramic White;4 GB RAM;5.5
-P9;32 GB;Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue;3 GB RAM (EVA-L19/EVA-L09);5.2
-Honor Holly 2 Plus;16 GB;Gray, Gold, White;2 GB RAM;5.0
-MediaPad M2 10.0;16 GB;Moonlight Silver, Luxurious Gold;2 GB RAM - Standard edition;10.1
-Y5 (2017);16 GB;Gold, Pink, Blue, White, Gray;2 GB RAM;5.0
-Honor 8 Pro;64 GB;Pearl White, Midnight Black, Navy Blue;4 GB RAM;5.7
-P10 Plus;64 GB;Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery;4 GB RAM (L09) or 128 GB;5.5
-P10;32 GB (L09)/ 64 GB (L29);Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery;4 GB RAM;5.1
-P10 Lite;32 GB;Pearl White, Midnight Black, Platinum Gold, Sapphire Blue;4 GB RAM;5.2
-P8 Lite (2017);16 GB;Black, White, Gold;3 GB RAM;5.2
-Honor Magic;64 GB;Golden Black, Porcelain White;4 GB RAM;5.09
-Enjoy 6s;32 GB;Gold, Silver, Pink;3 GB RAM;5.0
-Mate 9 Pro;64 GB;Haze Gold, Titanium Grey;4 GB RAM or 128 GB;5.5
-Mate 9 Porsche Design;256 GB;Graphite Black;6 GB RAM;5.5
-Mate 9;64 GB;Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black;4 GB RAM;5.9
-Honor V8;32 GB;Silver, Gold, Rose Gold;4 GB RAM;5.7
-Fit;16 MB;Titanium Gray, Moonlight Silver, Orange;256 KB RAM;1.04
-Enjoy 6;16 GB;Pink, White, Gold, Blue, Gray;3 GB RAM;5.0
-Honor Pad 2;16/32 GB;Gold, White;3 GB RAM;8.0
-Honor 6X;32 GB;Gray, Gold, Silver;3 GB RAM or 64 GB;5.5
-Honor Holly 3;16 GB;Black, White, Gold;2 GB RAM;5.5
-MediaPad M3 8.4;32/64 GB;Silver, Gold;4 GB RAM;8.4
-nova plus;32 GB;Prestige Gold, Mystic Silver, Titanium Grey;3 GB RAM;5.5
-nova;32 GB;Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black;3 GB RAM;5.0
-MediaPad T2 10.0 Pro;16 GB;Pearl White, Charcoal Black;2 GB RAM or 16/32 GB;10.0
-MediaPad T2 7.0 Pro;16 GB;White, Gold, Blue, Pink;2 GB RAM or 32 GB;7.0
-MediaPad T2 7.0;8/16 GB;Black/Silver;1 GB RAM or 16 GB;7.0
-G9 Plus;32 GB;Black, White, Gold;3/4 GB RAM or 64 GB;5.5
-Honor Note 8;32/64/128 GB;White, Gold, Gray;4 GB RAM;6.6
-Honor 8;32/64 GB;Pearl White, Midnight Black, Sapphire Blue, Gold;4 GB RAM;5.2
-Honor 5A;16 GB;Black, White, Gold;2 GB RAM;5.0
-MediaPad T1 7.0 Plus;16 GB;Black/Silver;2 GB RAM;7.0
+Y6II Compact@#$%16 GB@#$%Black, White, Gold, Pink, Blue, Yellow@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, September
+MediaPad T3 8.0@#$%16 GB@#$%Space Gray, Luxurious Gold@#$%2 GB RAM or 32 GB@#$%8.0@#$%Coming soon. Exp. release 2017, May
+MediaPad T3 7.0@#$%8 GB@#$%Gray@#$%1 GB RAM or 16 GB@#$%7.0@#$%Coming soon. Exp. release 2017, May
+Enjoy 7 Plus@#$%32 GB@#$%Silver, gray, gold, champagne gold, blue, black@#$%3 GB RAM or 64 GB@#$%5.5@#$%Available. Released 2017, April
+Y5 (2017)@#$%16 GB@#$%Gold, Pink, Blue, White, Gray@#$%2 GB RAM@#$%5.0@#$%Coming soon. Exp. release 2017, May
+Honor 8 Pro@#$%64 GB@#$%Pearl White, Midnight Black, Navy Blue@#$%4/6 GB RAM@#$%5.7@#$%Available. Released 2017, April
+P10 Plus@#$%64 GB@#$%Ceramic White, Dazzling Blue, Dazzling Gold, Graphite Black, Mystic Silver, Rose Gold, Greenery@#$%4 GB RAM (L09) or 128 GB@#$%5.5@#$%Available. Released 2017, April
+P10@#$%32 GB (L09)/ 64 GB (L29)@#$%Mystic Silver, Rose Gold, Graphite Black, Dazzling Gold, Dazzling Blue, Greenery@#$%4 GB RAM@#$%5.1@#$%Available. Released 2017, March
+P10 Lite@#$%32 GB@#$%Pearl White, Midnight Black, Platinum Gold, Sapphire Blue@#$%4 GB RAM@#$%5.2@#$%Available. Released 2017, March 31st
+P8 Lite (2017)@#$%16 GB@#$%Black, White, Gold@#$%3 GB RAM@#$%5.2@#$%Available. Released 2017, January
+Honor Magic@#$%64 GB@#$%Golden Black, Porcelain White@#$%4 GB RAM@#$%5.09@#$%Available. Released 2016, December
+Enjoy 6s@#$%16 GB@#$%Gold, Silver, Pink@#$%2 GB RAM - Nova Smart@#$%5.0@#$%Available. Released 2017, January
+Mate 9 Pro@#$%64 GB@#$%Haze Gold, Titanium Grey@#$%4 GB RAM or 128 GB@#$%5.5@#$%Available. Released 2017, January
+Mate 9 Porsche Design@#$%256 GB@#$%Graphite Black@#$%6 GB RAM@#$%5.5@#$%Available. Released 2017, January
+Mate 9@#$%64 GB@#$%Space Gray, Moonlight Silver, Champagne Gold, Mocha Brown, Ceramic White, Black, Obsidian Black@#$%4 GB RAM@#$%5.9@#$%Available. Released 2016, December
+Honor V8@#$%32 GB@#$%Silver, Gold, Rose Gold@#$%4 GB RAM@#$%5.7@#$%Available. Released 2016, May
+Fit@#$%16 MB@#$%Titanium Gray, Moonlight Silver, Orange@#$%256 KB RAM@#$%1.04@#$%Available. Released 2016, November
+Enjoy 6@#$%16 GB@#$%Pink, White, Gold, Blue, Gray@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, November
+Honor Pad 2@#$%16/32 GB@#$%Gold, White@#$%3 GB RAM@#$%8.0@#$%Available. Released 2016, October
+Honor 6X@#$%32 GB@#$%Gray, Gold, Silver@#$%3 GB RAM or 64 GB@#$%5.5@#$%Available. Released 2016, October
+Honor Holly 3@#$%16 GB@#$%Black, White, Gold@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, October
+MediaPad M3 8.4@#$%32/64 GB@#$%Silver, Gold@#$%4 GB RAM@#$%8.4@#$%Available. Released 2016, October
+nova plus@#$%32 GB@#$%Prestige Gold, Mystic Silver, Titanium Grey@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, October
+nova@#$%32 GB@#$%Prestige Gold, Mystic Silver, Titanium Grey, Obsidian Black@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, October
+MediaPad T2 10.0 Pro@#$%16 GB@#$%Pearl White, Charcoal Black@#$%2 GB RAM or 16/32 GB@#$%10.0@#$%Available. Released 2016, September
+MediaPad T2 7.0 Pro@#$%16 GB@#$%White, Gold, Blue, Pink@#$%2 GB RAM or 32 GB@#$%7.0@#$%Available. Released 2016, September
+MediaPad T2 7.0@#$%8/16 GB@#$%Black/Silver@#$%1 GB RAM or 16 GB@#$%7.0@#$%Available. Released 2016, September
+G9 Plus@#$%32 GB@#$%Black, White, Gold@#$%3/4 GB RAM or 64 GB@#$%5.5@#$%Available. Released 2016, August
+Honor Note 8@#$%32/64/128 GB@#$%White, Gold, Gray@#$%4 GB RAM@#$%6.6@#$%Available. Released 2016, September
+Honor 8@#$%32/64 GB@#$%Pearl White, Midnight Black, Sapphire Blue, Gold@#$%4 GB RAM@#$%5.2@#$%Available. Released 2016, July
+Honor 5A@#$%16 GB@#$%Black, White, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, June
+MediaPad T1 7.0 Plus@#$%16 GB@#$%Black/Silver@#$%2 GB RAM@#$%7.0@#$%Available. Released 2016, April
+MediaPad M2 7.0@#$%16/32 GB@#$%White, Blue, Gold, Pink@#$%3 GB RAM@#$%7.0@#$%Available. Released 2016, June
+Honor 5c@#$%16 GB@#$%Silver, Gray, Gold@#$%2 GB RAM@#$%5.2@#$%Available. Released 2016, May
+Y3II@#$%8 GB@#$%Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, June
+Y5II@#$%8 GB@#$%Obsidian Black, Arctic White, Sand Gold, Rose Pink, Sky Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, June
+P9 lite@#$%16 GB@#$%Black, White, Gold@#$%2GB or 3 GB RAM@#$%5.2@#$%Available. Released 2016, April
+P9 Plus@#$%64 GB@#$%Haze Gold, Quartz Grey, Ceramic White@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, May
+P9@#$%32 GB@#$%Ceramic White, Haze Gold, Rose Gold, Titanium Grey, Mystic Silver, Prestige Gold, Red, Blue@#$%3 GB RAM (EVA-L19/EVA-L09)@#$%5.2@#$%Available. Released 2016, April
+Honor Holly 2 Plus@#$%16 GB@#$%Gray, Gold, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, February
+MediaPad M2 10.0@#$%16 GB@#$%Moonlight Silver, Luxurious Gold@#$%2 GB RAM - Standard edition@#$%10.1@#$%Available. Released 2016, February
+Enjoy 5s@#$%16 GB@#$%Gold, Silver@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, December
+Mate 8@#$%32 GB@#$%Champagne Gold, Moonlight Silver, Space Gray, Mocha Brown@#$%3 GB RAM - NXT-L09@#$%6.0@#$%Available. Released 2015, November
+G7 Plus@#$%32 GB@#$%Gray, Silver, Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, November
+Honor 5X@#$%16 GB@#$%White, Black, Gold@#$%2 GB RAM - KIW-CL00@#$%5.5@#$%Available. Released 2015, November
+Y6 Pro@#$%16 GB@#$%Gray, Gold, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, October
+Nexus 6P@#$%32/64/128 GB@#$%Aluminium, Graphite, Frost@#$%3 GB RAM@#$%5.7@#$%Available. Released 2015, September
+Mate S@#$%32/64/128 GB@#$%Luxurious Gold, Mystic Champagne, Titanium Grey@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, October
+Honor 7i@#$%32 GB@#$%Black, White, Gold@#$%3 GB RAM - ATH-AL00 model@#$%5.2@#$%Available. Released 2015, August
+Y6@#$%8 GB@#$%White, Black, Gold@#$%1/2 GB RAM@#$%5.0@#$%Available. Released 2015, July
+G8@#$%16 GB@#$%Black, White, Gold@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, October
+Honor 7@#$%16/64 GB@#$%Gray, Silver, Gold@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, July
+MediaPad M2 8.0@#$%16 GB@#$%Silver, Gold@#$%2 GB RAM - Standard edition@#$%8.0@#$%Available. Released 2015, May
+Honor Bee@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, May
+Y560@#$%8 GB@#$%Black, White, Pink, Blue@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, June
+Y625@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, April
+Honor 4C@#$%8 GB@#$%White, Black, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, April
+P8lite ALE-L04@#$%16 GB@#$%Black, White, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, May
+P8lite@#$%16 GB@#$%Black, White, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, May
+P8max@#$%64 GB@#$%Luxurious Gold, Mystic Champagne, Titanium Grey@#$%3 GB RAM@#$%6.8@#$%Available. Released 2015, July
+P8@#$%16/64 GB@#$%Titanium Grey, Mystic Champagne (16 GB model)@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, April
+SnapTo@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, April
+MediaPad X2@#$%16 GB@#$%Moonlight silver, Amber gold@#$%2 GB RAM/ 32 GB@#$%7.0@#$%Available. Released 2015, May
+Y635@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, May
+Y360@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, June
+Ascend Y540@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, February
+Ascend G628@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Cancelled
+Ascend Y520@#$%4 GB@#$%Black, White, Blue, Pink@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, December
+Ascend Y221@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, December
+Ascend GX1@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%6.0@#$%Available. Released 2014, December
+Honor 6 Plus@#$%16GB (3G model); 16/32 GB (LTE model)@#$%Black, White / Gold (LTE model)@#$%3 GB RAM@#$%5.5@#$%Available. Released 2014, December
+Ascend Mate7 Monarch@#$%64 GB@#$%Obsidian black, Moonlight silver, Amber gold@#$%3 GB RAM@#$%6.0@#$%Available. Released 2015, March
+Honor 4X@#$%8 GB@#$%White, Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, October
+Honor Holly@#$%16 GB@#$%White, Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, October
+MediaPad T1 10@#$%8 GB@#$%Black/Silver, White/Silver@#$%1 GB RAM@#$%9.6@#$%Available. Released 2015, March
+MediaPad T1 8.0@#$%8/16 GB@#$%White/Silver@#$%1 GB RAM@#$%8.0@#$%Available. Released 2014, September
+MediaPad T1 7.0@#$%8 GB@#$%Black/Silver@#$%1 GB RAM@#$%7.0@#$%Available. Released 2015, March
+Honor 4 Play@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, September
+Ascend G620s@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, November
+Ascend Y550@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, November
+Ascend G7@#$%16 GB@#$%Black, white@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, October
+Ascend P7 Sapphire Edition@#$%16 GB@#$%Black, white, pink@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, September
+Ascend Mate7@#$%16 GB@#$%Obsidian black, Moonlight silver, Amber gold@#$%2 GB RAM/ 32 GB@#$%6.0@#$%Available. Released 2014, October
+Honor 3C Play@#$%16 GB@#$%White, Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, September
+Honor 6@#$%16/32 GB@#$%Black, White@#$%3 GB RAM@#$%5.0@#$%Available. Released 2014, August
+Honor 3X Pro@#$%32 GB@#$%Black, White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, June
+Honor 3C 4G@#$%8 GB@#$%White/Black@#$%1 GB RAM/ 16 GB@#$%5.0@#$%Available. Released 2014, June
+Ascend G535@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, Q3
+Y300II@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, Q2
+Ascend G630@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, March
+Ascend Y330@#$%4 GB@#$%Black, White, Blue, Coral Pink, Yellow@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, March
+Ascend Plus@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%4.0@#$%Available. Released 2014, April
+Ascend P7@#$%16 GB@#$%Black, white, pink@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, June
+Ascend P7 mini@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, May
+Ascend G730@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%5.5@#$%Available. Released 2014, April
+Ascend Y600@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2014, June
+MediaPad 10 Link+@#$%8/16 GB@#$%Black/Champagne@#$%1 GB RAM@#$%10.1@#$%Available. Released 2014, May
+Ascend G6 4G@#$%8 GB@#$%Black, White/ Color sides@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, May
+Ascend G6@#$%4 GB@#$%Black, White, Blue, Gold, Pink@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, May
+MediaPad M1@#$%8 GB@#$%White, Tulip, Carnation, Lily/Lotus, Titanium Gray@#$%1 GB RAM@#$%8.0@#$%Available. Released 2014, May
+MediaPad X1@#$%16 GB@#$%Snow White, Diamond Black@#$%2 GB RAM@#$%7.0@#$%Available. Released 2014, April
+Ascend Y530@#$%4 GB@#$%Black, White, Red, Yellow@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, February
+MediaPad 7 Youth2@#$%4/8 GB@#$%Black/Gold@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, March
+Ascend P6 S@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%4.7@#$%Available. Released 2014, January
+Ascend Mate2 4G@#$%16 GB@#$%Crystal Black, Pure White@#$%2 GB RAM@#$%6.1@#$%Available. Released 2014, January
+Ascend Y320@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, December
+Ascend Y220@#$%256 MB RAM@#$%Black, White@#$%512 MB@#$%3.5@#$%Available. Released 2014, March
+Honor 3X G750@#$%8/16 GB@#$%Black, White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2013, December
+Honor 3C@#$%8 GB@#$%White/Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, December
+Ascend G740@#$%8 GB@#$%Black/White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, November
+Ascend Y511@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013, November
+Ascend W2@#$%8 GB@#$%Black, Blue, Red, Yellow@#$%512 MB RAM@#$%4.3@#$%Available. Released 2013, December
+G6153@#$%16 MB ROM@#$%White, Black@#$%8 MB RAM@#$%2.4@#$%Available. Released 2013, Q3
+G3621L@#$%3 MB ROM@#$%Black, Red@#$%4 MB RAM@#$%1.8@#$%Available. Released 2013, Q2
+Honor 3@#$%8 GB@#$%White@#$%2 GB RAM@#$%4.7@#$%Available. Released 2013, August
+Ascend G700@#$%8 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013
+G610s@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, August
+U8687 Cronos@#$%4 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2013, November
+Ascend G525@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013
+MediaPad 7 Youth@#$%8 GB@#$%Black/Silver@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, August
+MediaPad 7 Vogue@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, July
+Ascend P6@#$%8/16 GB@#$%Black, White, Pink@#$%2 GB RAM@#$%4.7@#$%Available. Released 2013, June
+Ascend Y300@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, March
+Premia 4G M931@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, March
+Ascend Y210D@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.5@#$%Available. Released 2013, March
+Ascend P2@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2013, April
+Ascend G615@#$%8 GB@#$%Metallic black, Ceramic white@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, March
+Ascend G526@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, July
+Ascend G350@#$%4 GB@#$%Black, Black/Red, Black/Green@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, April
+Ascend G312@#$%4 GB (2 GB user available)@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2012, Q4
+Ascend W1@#$%4 GB@#$%Blue, red, black, white@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, January
+Ascend Mate@#$%8 GB@#$%Crystal Black, Pure White@#$%2 GB RAM@#$%6.1@#$%Available. Released 2013, March
+Ascend D2@#$%32 GB@#$%Crystal Blue, Pure White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, March
+Ascend G510@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013, April
+Ascend G500@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, November
+Ascend Y201 Pro@#$%4 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, October
+MediaPad 10 Link@#$%8/16/32 GB@#$%Black/Silver@#$%1 GB RAM@#$%10.1@#$%Available. Released 2013
+Honor 2@#$%8 GB@#$%Black, White@#$%2 GB RAM@#$%4.5@#$%Available. Released 2012, November
+Ascend Y@#$%256 MB RAM@#$%Black@#$%120 MB@#$%3.5@#$%Available. Released 2012, October
+Summit@#$%512 MB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, October
+Ascend P1 LTE@#$%4 GB@#$%Metallic black, Ceramic white, Soft pink@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, October
+Fusion 2 U8665@#$%4 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, October
+Ascend G600@#$%4 GB@#$%Black, White@#$%768 MB RAM@#$%4.5@#$%Available. Released 2012, September
+Ascend G330@#$%4 GB (2.5 GB user available)@#$%Matt Black, Luxury Silver@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, October
+MediaPad 7 Lite@#$%8 GB@#$%Black/Silver@#$%1 GB RAM@#$%7.0@#$%Available. Released 2012, September
+Ascend Y100@#$%256 MB RAM@#$%Black, White@#$%512 MB@#$%2.8@#$%Available. Released 2012, May
+Ascend Y200@#$%256 MB RAM@#$%Black@#$%512 MB@#$%3.5@#$%Available. Released 2012, May
+Ascend G330D U8825D@#$%4 GB (2.5 GB user available)@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, Q2
+Ascend G300@#$%4 GB (2.5 GB user available)@#$%Black, Silver@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, May
+Ascend P1 XL U9200E@#$%4 GB@#$%Metallic black, Ceramic white, Soft pink@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, Q3
+Ascend P1@#$%4 GB@#$%Metallic black, Ceramic white, Soft pink@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, May
+Ascend Q M5660@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%3.2@#$%Available. Released 2012, August
+G6005@#$%microSD@#$%Black@#$%ram@#$%1.8@#$%Available. Released 2012, Q1
+G6800@#$%microSD@#$%Black, White@#$%ram@#$%2.8@#$%Available. Released 2012
+G6310@#$%1 GB ROM@#$%Black@#$%256 MB RAM@#$%2.4@#$%Available. Released 2012, Q2
+G5000@#$%16 MB ROM@#$%Black@#$%4 MB RAM@#$%2.0@#$%Available. Released 2012, Q2
+Activa 4G@#$%150 MB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, June
+G5520@#$%40 dialed@#$%Black, White@#$%40 received@#$%2.4@#$%Available. Released 2011, June
+G6609@#$%40 dialed@#$%Gray, Brown@#$%ram@#$%2.4@#$%Available. Released 2012, September
+Fusion U8652@#$%256 MB RAM@#$%Black@#$%512 MB@#$%3.5@#$%Available. Released 2012, March
+MediaPad 10 FHD@#$%8/16/32/64 GB@#$%White@#$%2 GB RAM@#$%10.0@#$%Available. Released 2012, September
+Ascend D1 XL U9500E@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, Q3
+Ascend D1@#$%8 GB (5.8 GB user available)@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, July
+Ascend D quad XL@#$%8 GB@#$%Metallic black, Ceramic white@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, September
+Ascend D quad@#$%8 GB@#$%Metallic black, Ceramic white@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, August
+Ascend P1s@#$%4 GB@#$%Metallic black, Ceramic white, Soft pink@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, September
+M886 Mercury@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2011, December
+G7300@#$%4 GB@#$%Black@#$%ram@#$%3.5@#$%Available. Released 2011, November
+G7005@#$%20 dialed@#$%Black@#$%20 received@#$%2.4@#$%Available. Released 2012, September
+MediaPad@#$%8 GB@#$%shadow black, classic brown, passion pink@#$%1 GB RAM@#$%7.0@#$%Available
+MediaPad S7-301w@#$%8 GB@#$%shadow black, classic brown, passion pink@#$%1 GB RAM@#$%7.0@#$%Available
+D51 Discovery@#$%8 GB@#$%Black/Orange@#$%ram@#$%2.0@#$%Available
+U8520 Duplex@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.2@#$%Available. Released 2011, October
+T8300@#$%512 MB@#$%Black@#$%512 MB RAM@#$%3.2@#$%Available
+U8350 Boulder@#$%512 MB@#$%Black, White@#$%256 MB RAM@#$%2.6@#$%Available. Released 2011, October
+Impulse 4G@#$%512 MB@#$%Black@#$%ram@#$%3.8@#$%Available. Released 2011, September
+Pillar@#$%512 MB@#$%Black@#$%ram@#$%2.0@#$%Available
+U8860 Honor@#$%4 GB@#$%Glossy Black, Textured Black, Elegant White, Vibrant Yellow, Cherry Blossom Pink, Burgundy@#$%512 MB RAM@#$%4.0@#$%Available. Released 2011, December
+U8850 Vision@#$%2 GB@#$%Black@#$%512 MB RAM@#$%3.7@#$%Available. Released 2011, Q3
+Ascend II@#$%512 MB@#$%White/Black@#$%256 MB RAM@#$%3.5@#$%Available. Released 2011, July
+U8800 Pro@#$%2/4 GB@#$%Black@#$%512 MB RAM@#$%3.8@#$%Available
+G7206@#$%2/4 GB@#$%Black, White, Pink, Orange, Green@#$%ram@#$%2.8@#$%Available. Released 2011
+U5510@#$%40 MB@#$%Black@#$%1 GB ROM@#$%2.4@#$%Available
+G5500@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.0@#$%Available. Released 2011
+G6620@#$%64 MB RAM@#$%Gray, Blue, Orange@#$%ram@#$%2.4@#$%Available
+U8650 Sonic@#$%512 MB@#$%Various@#$%256 MB RAM@#$%3.5@#$%Available
+U8180 IDEOS X1@#$%512 MB@#$%Black@#$%256 MB RAM@#$%2.8@#$%Available
+G6608@#$%512 MB@#$%Gray, Pink, White@#$%ram@#$%2.4@#$%Available. Released 2011, Q2
+G7010@#$%512 MB@#$%Black, White, Pink@#$%ram@#$%2.8@#$%Available. Released 2011
+U5900s@#$%512 MB@#$%Black@#$%ram@#$%2.4@#$%Available. Released 2011, May
+IDEOS S7 Slim@#$%8 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2011, April
+IDEOS S7 Slim CDMA@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%7.0@#$%Discontinued
+U9000 IDEOS X6@#$%2 GB@#$%Black@#$%512 MB RAM@#$%4.1@#$%Available. Released 2011, June
+U8800 IDEOS X5@#$%2/4 GB@#$%Black@#$%512 MB RAM@#$%3.8@#$%Available. Released 2011, April
+U8510 IDEOS X3@#$%512 MB@#$%Black, Silver, Red@#$%256 MB RAM@#$%3.2@#$%Discontinued
+U8150 IDEOS@#$%512 MB@#$%Black body / blue, red, yellow backpanels@#$%256 MB RAM@#$%2.8@#$%Discontinued
+U8500 IDEOS X2@#$%512 MB@#$%Black/Silver@#$%256 MB RAM@#$%3.2@#$%Discontinued
+U7520@#$%1 GB@#$%White, Blue, Orange@#$%512 MB RAM@#$%2.8@#$%Discontinued
+G6150@#$%1 GB@#$%Silver, Red, Blue, Green, White@#$%ram@#$%2.41@#$%Available. Released 2011, January
+G7002@#$%1 GB@#$%Black@#$%ram@#$%@#$%Discontinued
+U8300@#$%microSD@#$%Green, Yellow and Purple@#$%up to 16 GB (dedicated slot)@#$%2.6@#$%Discontinued
+IDEOS S7@#$%8 GB@#$%Black@#$%256 MB RAM@#$%7.0@#$%Discontinued
+C3200@#$%8 GB@#$%Black@#$%ram@#$%1.47@#$%Discontinued
+U3100@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+U8110@#$%8 GB@#$%White, Black@#$%ram@#$%2.8@#$%Discontinued
+U8100@#$%microSD@#$%Pink@#$%up to 32 GB (dedicated slot)@#$%2.8@#$%Discontinued
+U8230@#$%microSD@#$%White, Black@#$%ram@#$%3.5@#$%Discontinued
+U8220@#$%microSD@#$%Black@#$%ram@#$%3.5@#$%Discontinued
+U7510@#$%microSD@#$%Blue, Violet@#$%ram@#$%2.8@#$%Discontinued
+U1270@#$%microSD@#$%Black, White@#$%ram@#$%2.0@#$%Discontinued
+U1250@#$%microSD@#$%Black, White, Pink@#$%ram@#$%2.0@#$%Discontinued
+U9130 Compass@#$%40 MB@#$%Pearl White@#$%128 MB RAM@#$%2.4@#$%Discontinued
+G6600 Passport@#$%40 MB@#$%Classic Brown@#$%ram@#$%2.4@#$%Discontinued
+U7310@#$%20 dialed@#$%Grey@#$%20 received@#$%2.4@#$%Discontinued
+U9150@#$%20 dialed@#$%Black@#$%20 received@#$%2.4@#$%Discontinued
+U121@#$%20 dialed@#$%Grey@#$%20 received@#$%1.8@#$%Discontinued
+U120@#$%20 dialed@#$%Grey@#$%20 received@#$%1.8@#$%Discontinued
+U3300@#$%20 dialed@#$%Black@#$%20 received@#$%2.0@#$%Discontinued
+U1310@#$%20 dialed@#$%Black@#$%20 received@#$%2.2@#$%Discontinued
+U1100@#$%20 dialed@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+U1000@#$%20 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+T156@#$%20 dialed@#$%Black@#$%ram@#$%1.4@#$%Discontinued
+T158@#$%20 dialed@#$%Black@#$%ram@#$%1.4@#$%Discontinued
+T208@#$%20 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+T261L@#$%20 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+T211@#$%20 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+T161L@#$%20 dialed@#$%Black@#$%ram@#$%1.4@#$%Discontinued
+T330@#$%20 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+T201@#$%20 dialed@#$%Grey, Black@#$%ram@#$%1.5@#$%Discontinued
+T552@#$%20 dialed@#$%Black, Silver@#$%ram@#$%3.0@#$%Discontinued
+Ascend W3@#$%20 dialed@#$%Black/Silver@#$%ram@#$%4.5@#$%Cancelled
+Mulan@#$%16 GB@#$%Black, white@#$%3 GB RAM@#$%5.0@#$%Cancelled

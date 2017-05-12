@@ -1,31 +1,31 @@
-VK2030;4 GB;White;ram;1.8
-VK2200;4 GB;Silver;ram;1.66
-VK7000;50 dialed;Black;50 received;1.8
-VK5000;50 dialed;Silver;ram;1.5
-VK300;20 dialed;Silver-black, Gold;20 received;1.8
-VK4000;20 dialed;Black;ram;1.8
-VK4100;20 dialed;Black;ram;1.8
-VK2020;20 dialed;Black;ram;
-VK200;20 dialed;Black;ram;
-VK4500;20 dialed;;ram;2.0
-VK3100;20 dialed;Silver, Black, Pink;ram;2.2
-VK2100;20 dialed;Black;ram;
-VK2010;20 dialed;Silver, Pink, Black;ram;
-VK1500;20 dialed;Black;ram;
-VK1100;10 dialed;Pastel Pink, Black;10 received;
-VK1020;10 dialed;Silver, Purple;10 received;
-VK1010;10 dialed;Green, Red;10 received;
-VK1000;10 dialed;Pink, Orange, Black;10 received;
-VK2000;10 dialed;Black;10 received;
-E100;10 dialed;Silver, Blue, White;ram;
-VK570;10 dialed;Black, Silver;10 received;
-VK700;10 dialed;Silver, Blue;ram;
-VK900;10 dialed;Silver, Black, White;ram;
-VK800;20 dialed;White, Silver, Red;20 received;
-VK530;20 dialed;Pink, Lilac;20 received;
-VK610;10 dialed;Dark Blue, Orange;10 received;
-VK580;10 dialed;Silver;10 received;
-VK560;10 dialed;Silver;10 received;
-VK540;10 dialed;Blue;10 received;
-VK520;10 dialed;Blue;10 received;
-VK500;10 dialed;Blue;10 received;
+VK2030@#$%4 GB@#$%White@#$%ram@#$%1.8@#$%Discontinued
+VK2200@#$%4 GB@#$%Silver@#$%ram@#$%1.66@#$%Discontinued
+VK7000@#$%50 dialed@#$%Black@#$%50 received@#$%1.8@#$%Cancelled
+VK5000@#$%50 dialed@#$%Silver@#$%ram@#$%1.5@#$%Cancelled
+VK300@#$%20 dialed@#$%Silver-black, Gold@#$%20 received@#$%1.8@#$%Discontinued
+VK4000@#$%20 dialed@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+VK4100@#$%20 dialed@#$%Black@#$%ram@#$%1.8@#$%Cancelled
+VK2020@#$%20 dialed@#$%Black@#$%ram@#$%@#$%Discontinued
+VK200@#$%20 dialed@#$%Black@#$%ram@#$%@#$%Discontinued
+VK4500@#$%20 dialed@#$%@#$%ram@#$%2.0@#$%Discontinued
+VK3100@#$%20 dialed@#$%Silver, Black, Pink@#$%ram@#$%2.2@#$%Discontinued
+VK2100@#$%20 dialed@#$%Black@#$%ram@#$%@#$%Cancelled
+VK2010@#$%20 dialed@#$%Silver, Pink, Black@#$%ram@#$%@#$%Discontinued
+VK1500@#$%20 dialed@#$%Black@#$%ram@#$%@#$%Cancelled
+VK1100@#$%10 dialed@#$%Pastel Pink, Black@#$%10 received@#$%@#$%Cancelled
+VK1020@#$%10 dialed@#$%Silver, Purple@#$%10 received@#$%@#$%Discontinued
+VK1010@#$%10 dialed@#$%Green, Red@#$%10 received@#$%@#$%Discontinued
+VK1000@#$%10 dialed@#$%Pink, Orange, Black@#$%10 received@#$%@#$%Discontinued
+VK2000@#$%10 dialed@#$%Black@#$%10 received@#$%@#$%Discontinued
+E100@#$%10 dialed@#$%Silver, Blue, White@#$%ram@#$%@#$%Discontinued
+VK570@#$%10 dialed@#$%Black, Silver@#$%10 received@#$%@#$%Discontinued
+VK700@#$%10 dialed@#$%Silver, Blue@#$%ram@#$%@#$%Discontinued
+VK900@#$%10 dialed@#$%Silver, Black, White@#$%ram@#$%@#$%Discontinued
+VK800@#$%20 dialed@#$%White, Silver, Red@#$%20 received@#$%@#$%Discontinued
+VK530@#$%20 dialed@#$%Pink, Lilac@#$%20 received@#$%@#$%Discontinued
+VK610@#$%10 dialed@#$%Dark Blue, Orange@#$%10 received@#$%@#$%Discontinued
+VK580@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+VK560@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+VK540@#$%10 dialed@#$%Blue@#$%10 received@#$%@#$%Discontinued
+VK520@#$%10 dialed@#$%Blue@#$%10 received@#$%@#$%Discontinued
+VK500@#$%10 dialed@#$%Blue@#$%10 received@#$%@#$%Discontinued

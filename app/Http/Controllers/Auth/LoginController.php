@@ -44,15 +44,4 @@ class LoginController extends Controller
         //or if the user is already logged in
         $this->middleware('guest')->except('logout');
     }
-
-
-
-    /**
-     * logout the user
-     */
-    public function logout(){
-        Auth::logout();
-
-        return redirect('/');
-    }
 }

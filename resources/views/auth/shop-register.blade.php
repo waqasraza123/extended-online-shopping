@@ -39,36 +39,29 @@
 
                         {{--location information--}}
                         <div class="input-group">
-                    <span class="input-group-addon">
-                        <i class="material-icons">business</i>
-                    </span>
+                            <span class="input-group-addon">
+                                <i class="material-icons">business</i>
+                            </span>
                             <div class="form-line">
                                 <input id="market_plaza" type="text" class="form-control" name="market_plaza"
                                        value="{{ old('market_plaza') }}" required autofocus
                                        placeholder="Market/Plaza Name">
                             </div>
                         </div>
-                        <div class="input-group">
-                    <span class="input-group-addon">
-                        <i class="material-icons">location_on</i>
-                    </span>
-                            <div class="form-line">
-                                <input id="city" type="text" class="form-control" name="city"
-                                       value="{{ old('city') }}" required autofocus
-                                       placeholder="City">
-                            </div>
-                        </div>
+
 
                         <div class="input-group">
-                    <span class="input-group-addon">
-                        <i class="material-icons">call_split</i>
-                    </span>
+                            <span class="input-group-addon">
+                                <i class="material-icons">call_split</i>
+                            </span>
                             <div class="form-line">
                                 <input id="location" type="text" class="form-control" name="location"
                                        value="{{ old('location') }}" required autofocus
                                        placeholder="Market Location">
                             </div>
                         </div>
+                        <input id="city" type="hidden" class="form-control" name="city"
+                               value="Islamabad, Pakistan">
                         <input type="hidden" id="lat" value="" name="lat">
                         <input type="hidden" id="long" value="" name="long">
                         <button id="register_shop" type="submit" class="btn btn-block btn-lg bg-pink waves-effect submit">

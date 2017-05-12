@@ -1,0 +1,34 @@
+810-F@#$%2 GB@#$%Blue@#$%128 MB RAM@#$%2.46@#$%Discontinued
+Ultimate 9502@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+Ultimate 8502@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%2.6@#$%Discontinued
+JAMA 201@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.4@#$%Discontinued
+JAMA 101@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.4@#$%Cancelled
+JAMA@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.4@#$%Discontinued
+Ultimate 9150@#$%128 MB RAM@#$%Silver@#$%256 MB ROM@#$%2.6@#$%Cancelled
+Ultimate 8150@#$%128 MB RAM@#$%Silver@#$%256 MB ROM@#$%2.6@#$%Discontinued
+Ultimate 7150@#$%128 MB RAM@#$%Silver@#$%256 MB ROM@#$%3.8@#$%Cancelled
+Ultimate 6150@#$%128 MB RAM@#$%Silver@#$%256 MB ROM@#$%2.8@#$%Discontinued
+Ultimate 5150@#$%128 MB RAM@#$%Silver@#$%256 MB ROM@#$%2.8@#$%Cancelled
+JAQ4@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.8@#$%Cancelled
+PDAL@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.4@#$%Discontinued
+JAQ3@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.5@#$%Discontinued
+SPL@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.2@#$%Discontinued
+JAQ@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.8@#$%Discontinued
+JASJAM@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.8@#$%Discontinued
+SPJAS@#$%64 MB RAM@#$%@#$%128 MB ROM@#$%2.2@#$%Discontinued
+Smartflip@#$%64 MB RAM@#$%Stylish black@#$%64 MB ROM@#$%2.2@#$%Discontinued
+JAMin@#$%64 MB RAM@#$%Stylish black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+JASJAR@#$%64 MB RAM@#$%Stylish black@#$%128 MB ROM@#$%3.6@#$%Discontinued
+K-JAM@#$%64 MB RAM@#$%Stylish black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+SP5@#$%64 MB RAM@#$%@#$%64 MB ROM@#$%2.2@#$%Discontinued
+SP5m@#$%64 MB RAM@#$%@#$%64 MB ROM@#$%2.2@#$%Discontinued
+SP4m@#$%64 MB RAM@#$%Silver@#$%64 MB ROM@#$%2.2@#$%Discontinued
+JAM Black@#$%128 MB RAM@#$%Stylish black@#$%64 MB ROM@#$%2.8@#$%Discontinued
+JAM@#$%128 MB RAM@#$%Stylish black and silver@#$%ram@#$%2.8@#$%Discontinued
+PDA2@#$%128 MB RAM@#$%@#$%64 MB ROM@#$%3.5@#$%Discontinued
+PDA2k@#$%128 MB RAM@#$%Stylish black and silver@#$%64 MB ROM@#$%3.5@#$%Discontinued
+SP3i@#$%32 MB RAM@#$%Stylish black and silver@#$%64 MB ROM@#$%2.2@#$%Discontinued
+SP3@#$%32 MB RAM@#$%Cool metallic, Light blue@#$%64 MB ROM@#$%2.2@#$%Discontinued
+Pocket PC@#$%32 MB RAM@#$%Silver@#$%ram@#$%3.5@#$%Discontinued
+Smartphone2@#$%32 MB RAM@#$%@#$%64 MB ROM@#$%2.2@#$%Discontinued
+Smartphone@#$%16 MB RAM@#$%@#$%32 MB ROM@#$%2.2@#$%Discontinued

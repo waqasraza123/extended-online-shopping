@@ -1,61 +1,61 @@
-M32;20 dialed;Light Blue;20 received;1.8
-D636;20 dialed;Black;ram;1.9
-D706;20 dialed;Golden Black;ram;1.9
-D615;20 dialed;Soft-touch Grey, Shining Blue;ram;1.8
-S768;20 dialed;Pink, Blue;20 received;1.8
-S758;20 dialed;Pink, Black;20 received;1.8
-S618;20 dialed;Black;20 received;1.7
-D736;20 dialed;UV Black, Soft-touch Black;ram;1.9
-D716;20 dialed;Mirror  Silver;ram;1.9
-D720;20 dialed;Silver, Green, Blue;ram;1.9
-D611;20 dialed;Black;ram;1.8
-D515;20 dialed;Black;20 received;1.8
-D612;20 dialed;Blue, Silver;20 received;1.8
-M29;20 dialed;Black, Silver;ram;1.6
-M01;20 dialed;Black, White;ram;1.5
-M07;20 dialed;Black, White Blue, Pink;ram;1.5
-S1130;20 dialed;Black, White;20 received;1.5
-V5518+;20 dialed;Silver;20 received;1.8
-S663;20 dialed;Black, White;20 received;1.5
-S661;20 dialed;Black, Pink;20 received;1.5
-S669;20 dialed;Silver, Blue, Red;20 received;1.5
-S668;20 dialed;Silver Grey, Blue,  White;20 received;1.5
-S667;20 dialed;Black, White;20 received;1.5
-S296+;20 dialed;Black, Grey;20 received;1.4
-S296;20 dialed;Black, Grey;20 received;1.4
-D680;20 dialed;;ram;
-D660;20 dialed;Silver;ram;
-M11;20 dialed;;ram;
-M08;20 dialed;;ram;
-S890;20 dialed;;20 received;
-S798;20 dialed;;20 received;
-S698;20 dialed;;20 received;
-S198;20 dialed;4 - Black, White, Green, Red;20 received;
-S299;20 dialed;Black;20 received;
-MP300;20 dialed;Silver, Black;ram;
-M19;20 dialed;Silver;ram;
-V109;20 dialed;;20 received;
-S799;20 dialed;Black;20 received;
-S699;20 dialed;Black;20 received;
-V79;20 dialed;Silver;ram;
-S1186;20 dialed;Silver;ram;
-S199;20 dialed;Silver, Black;20 received;
-S789;20 dialed;Silver;ram;
-V5510;20 dialed;Silver-Blue;20 received;
-DV10;20 dialed;Blue;20 received;
-S590;20 dialed;Silver;20 received;
-S580;20 dialed;Orange, Silver;20 received;
-A150;20 dialed;Silver;20 received;
-A130;20 dialed;Silver;20 received;
-A120;20 dialed;Silver, White;20 received;
-V09;20 dialed;Red, Blue Grey;20 received;
-S570;20 dialed;Silver;20 received;
-SC24;20 dialed;Red;20 received;
-G118;20 dialed;Red;20 received;
-S1190;20 dialed;Silver;20 received;
-S1180c;20 dialed;Silver;20 received;
-S1160 Plus;20 dialed;Silver;20 received;
-S1160;20 dialed;Silver;20 received;
-S788;20 dialed;Grey, Red;20 received;
-S288 Plus;20 dialed;Blue, Red, Grey;20 received;
-S288;20 dialed;Blue, Red, Grey;20 received;
+M32@#$%20 dialed@#$%Light Blue@#$%20 received@#$%1.8@#$%Cancelled
+D636@#$%20 dialed@#$%Black@#$%ram@#$%1.9@#$%Cancelled
+D706@#$%20 dialed@#$%Golden Black@#$%ram@#$%1.9@#$%Cancelled
+D615@#$%20 dialed@#$%Soft-touch Grey, Shining Blue@#$%ram@#$%1.8@#$%Discontinued
+S768@#$%20 dialed@#$%Pink, Blue@#$%20 received@#$%1.8@#$%Cancelled
+S758@#$%20 dialed@#$%Pink, Black@#$%20 received@#$%1.8@#$%Cancelled
+S618@#$%20 dialed@#$%Black@#$%20 received@#$%1.7@#$%Cancelled
+D736@#$%20 dialed@#$%UV Black, Soft-touch Black@#$%ram@#$%1.9@#$%Discontinued
+D716@#$%20 dialed@#$%Mirror  Silver@#$%ram@#$%1.9@#$%Discontinued
+D720@#$%20 dialed@#$%Silver, Green, Blue@#$%ram@#$%1.9@#$%Discontinued
+D611@#$%20 dialed@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+D515@#$%20 dialed@#$%Black@#$%20 received@#$%1.8@#$%Cancelled
+D612@#$%20 dialed@#$%Blue, Silver@#$%20 received@#$%1.8@#$%Discontinued
+M29@#$%20 dialed@#$%Black, Silver@#$%ram@#$%1.6@#$%Discontinued
+M01@#$%20 dialed@#$%Black, White@#$%ram@#$%1.5@#$%Discontinued
+M07@#$%20 dialed@#$%Black, White Blue, Pink@#$%ram@#$%1.5@#$%Discontinued
+S1130@#$%20 dialed@#$%Black, White@#$%20 received@#$%1.5@#$%Discontinued
+V5518+@#$%20 dialed@#$%Silver@#$%20 received@#$%1.8@#$%Discontinued
+S663@#$%20 dialed@#$%Black, White@#$%20 received@#$%1.5@#$%Discontinued
+S661@#$%20 dialed@#$%Black, Pink@#$%20 received@#$%1.5@#$%Discontinued
+S669@#$%20 dialed@#$%Silver, Blue, Red@#$%20 received@#$%1.5@#$%Discontinued
+S668@#$%20 dialed@#$%Silver Grey, Blue,  White@#$%20 received@#$%1.5@#$%Discontinued
+S667@#$%20 dialed@#$%Black, White@#$%20 received@#$%1.5@#$%Discontinued
+S296+@#$%20 dialed@#$%Black, Grey@#$%20 received@#$%1.4@#$%Discontinued
+S296@#$%20 dialed@#$%Black, Grey@#$%20 received@#$%1.4@#$%Discontinued
+D680@#$%20 dialed@#$%@#$%ram@#$%@#$%Cancelled
+D660@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Cancelled
+M11@#$%20 dialed@#$%@#$%ram@#$%@#$%Cancelled
+M08@#$%20 dialed@#$%@#$%ram@#$%@#$%Cancelled
+S890@#$%20 dialed@#$%@#$%20 received@#$%@#$%Cancelled
+S798@#$%20 dialed@#$%@#$%20 received@#$%@#$%Cancelled
+S698@#$%20 dialed@#$%@#$%20 received@#$%@#$%Cancelled
+S198@#$%20 dialed@#$%4 - Black, White, Green, Red@#$%20 received@#$%@#$%Cancelled
+S299@#$%20 dialed@#$%Black@#$%20 received@#$%@#$%Discontinued
+MP300@#$%20 dialed@#$%Silver, Black@#$%ram@#$%@#$%Cancelled
+M19@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Cancelled
+V109@#$%20 dialed@#$%@#$%20 received@#$%@#$%Cancelled
+S799@#$%20 dialed@#$%Black@#$%20 received@#$%@#$%Cancelled
+S699@#$%20 dialed@#$%Black@#$%20 received@#$%@#$%Cancelled
+V79@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+S1186@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+S199@#$%20 dialed@#$%Silver, Black@#$%20 received@#$%@#$%Discontinued
+S789@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+V5510@#$%20 dialed@#$%Silver-Blue@#$%20 received@#$%@#$%Discontinued
+DV10@#$%20 dialed@#$%Blue@#$%20 received@#$%@#$%Discontinued
+S590@#$%20 dialed@#$%Silver@#$%20 received@#$%@#$%Discontinued
+S580@#$%20 dialed@#$%Orange, Silver@#$%20 received@#$%@#$%Discontinued
+A150@#$%20 dialed@#$%Silver@#$%20 received@#$%@#$%Discontinued
+A130@#$%20 dialed@#$%Silver@#$%20 received@#$%@#$%Discontinued
+A120@#$%20 dialed@#$%Silver, White@#$%20 received@#$%@#$%Discontinued
+V09@#$%20 dialed@#$%Red, Blue Grey@#$%20 received@#$%@#$%Discontinued
+S570@#$%20 dialed@#$%Silver@#$%20 received@#$%@#$%Discontinued
+SC24@#$%20 dialed@#$%Red@#$%20 received@#$%@#$%Discontinued
+G118@#$%20 dialed@#$%Red@#$%20 received@#$%@#$%Discontinued
+S1190@#$%20 dialed@#$%Silver@#$%20 received@#$%@#$%Discontinued
+S1180c@#$%20 dialed@#$%Silver@#$%20 received@#$%@#$%Discontinued
+S1160 Plus@#$%20 dialed@#$%Silver@#$%20 received@#$%@#$%Discontinued
+S1160@#$%20 dialed@#$%Silver@#$%20 received@#$%@#$%Discontinued
+S788@#$%20 dialed@#$%Grey, Red@#$%20 received@#$%@#$%Discontinued
+S288 Plus@#$%20 dialed@#$%Blue, Red, Grey@#$%20 received@#$%@#$%Discontinued
+S288@#$%20 dialed@#$%Blue, Red, Grey@#$%20 received@#$%@#$%Discontinued

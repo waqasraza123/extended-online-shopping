@@ -1,5 +1,5 @@
-Cloud Touch;10 dialed;Black, White, Red;ram;3.5
-Cloud Q;10 dialed;Black, White, Red;ram;2.6
-Chat 3G;10 dialed;Various;ram;,
-Mini 3G;10 dialed;Various;ram;2.2
-iNQ1;10 dialed;Various;ram;2.2
+Cloud Touch@#$%10 dialed@#$%Black, White, Red@#$%ram@#$%3.5@#$%Available. Released 2011, April
+Cloud Q@#$%10 dialed@#$%Black, White, Red@#$%ram@#$%2.6@#$%Cancelled
+Chat 3G@#$%10 dialed@#$%Various@#$%ram@#$%,@#$%Discontinued
+Mini 3G@#$%10 dialed@#$%Various@#$%ram@#$%2.2@#$%Discontinued
+iNQ1@#$%10 dialed@#$%Various@#$%ram@#$%2.2@#$%Discontinued

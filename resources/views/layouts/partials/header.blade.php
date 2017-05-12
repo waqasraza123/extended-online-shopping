@@ -20,11 +20,15 @@
 <link href="/theme/plugins/node-waves/waves.css" rel="stylesheet" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
 <!-- AdminBSB Themes. You can choose a theme from css/themes instead of get all themes -->
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+<link href="{{url('/css/slider.css')}}" rel="stylesheet">
+<link rel="shortcut icon" href="{{ asset('favicon.png') }}" >
 <!-- Scripts -->
 <script>
     window.Laravel = <?php echo json_encode([
             'csrfToken' => csrf_token(),
     ]); ?>
+</script>
+<script type="text/javascript">
+    var root = '{{url("/")}}';
 </script>

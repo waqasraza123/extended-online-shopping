@@ -1,21 +1,21 @@
-9600;64 MB RAM;Silver;128 MB ROM;2.8
-8600;64 MB RAM;;128 MB ROM;2.2
-A9100;64 MB RAM;Gray;128 MB ROM;2.8
-8500;64 MB RAM;Stylish black;64 MB ROM;2.2
-S200;64 MB RAM;Stylish black;128 MB ROM;2.8
-9000;64 MB RAM;Stylish black;ram;3.6
-8310;64 MB RAM;;64/128 MB ROM;2.2
-8300;32 MB RAM;;64 MB ROM;2.2
-9100;64 MB RAM;Stylish black;128 MB ROM;2.8
-8100;64 MB RAM;Stylish black and silver;ram;2.2
-S110;64 MB RAM;Stylish black;ram;2.8
-S100;64 MB RAM;Stylish black and silver;ram;2.8
-9090;64 MB RAM;Stylish black and silver;ram;3.5
-8020;64 MB RAM;Stylish black and silver;ram;2.2
-8010;64 MB RAM;Cool metallic, Light blue;ram;2.2
-2020i;128 MB RAM;Silver;128 MB ROM;3.5
-2020;128 MB RAM;Silver;ram;3.5
-8080;32 MB RAM;;64 MB ROM;2.2
-8060;32 MB RAM;;64 MB ROM;2.2
-1010;64 MB RAM;;32 MB ROM;3.5
-7070;16 MB RAM;;32 MB ROM;2.2
+9600@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.8@#$%Discontinued
+8600@#$%64 MB RAM@#$%@#$%128 MB ROM@#$%2.2@#$%Discontinued
+A9100@#$%64 MB RAM@#$%Gray@#$%128 MB ROM@#$%2.8@#$%Discontinued
+8500@#$%64 MB RAM@#$%Stylish black@#$%64 MB ROM@#$%2.2@#$%Discontinued
+S200@#$%64 MB RAM@#$%Stylish black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+9000@#$%64 MB RAM@#$%Stylish black@#$%ram@#$%3.6@#$%Discontinued
+8310@#$%64 MB RAM@#$%@#$%64/128 MB ROM@#$%2.2@#$%Discontinued
+8300@#$%32 MB RAM@#$%@#$%64 MB ROM@#$%2.2@#$%Discontinued
+9100@#$%64 MB RAM@#$%Stylish black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+8100@#$%64 MB RAM@#$%Stylish black and silver@#$%ram@#$%2.2@#$%Discontinued
+S110@#$%64 MB RAM@#$%Stylish black@#$%ram@#$%2.8@#$%Discontinued
+S100@#$%64 MB RAM@#$%Stylish black and silver@#$%ram@#$%2.8@#$%Discontinued
+9090@#$%64 MB RAM@#$%Stylish black and silver@#$%ram@#$%3.5@#$%Discontinued
+8020@#$%64 MB RAM@#$%Stylish black and silver@#$%ram@#$%2.2@#$%Discontinued
+8010@#$%64 MB RAM@#$%Cool metallic, Light blue@#$%ram@#$%2.2@#$%Discontinued
+2020i@#$%128 MB RAM@#$%Silver@#$%128 MB ROM@#$%3.5@#$%Discontinued
+2020@#$%128 MB RAM@#$%Silver@#$%ram@#$%3.5@#$%Discontinued
+8080@#$%32 MB RAM@#$%@#$%64 MB ROM@#$%2.2@#$%Discontinued
+8060@#$%32 MB RAM@#$%@#$%64 MB ROM@#$%2.2@#$%Discontinued
+1010@#$%64 MB RAM@#$%@#$%32 MB ROM@#$%3.5@#$%Discontinued
+7070@#$%16 MB RAM@#$%@#$%32 MB ROM@#$%2.2@#$%Discontinued

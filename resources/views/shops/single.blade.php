@@ -1,8 +1,7 @@
 @extends('layouts.frontend')
-@section('page-header', $mobiles->first()->shop->shop_name)
+@section('page-header', \App\Shop::where('id', $shop_id)->first()->shop_name)
 @section('subheading', 'Products')
 @section('content')
-    {{--@include('frontend.search-bar')--}}
     <div class="row clearfix">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-20">
             <div>

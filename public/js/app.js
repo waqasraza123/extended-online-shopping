@@ -22,12 +22,16 @@ $(document).ready(function () {
     var quantityOfItemBeingSold = $("#quantity-of-item-being-sold")
     var sellProductForm = $("#sell-product-form")
     var basePrice = $("#base-price")
+    var searchBar = $("#search_box")
+    var searchForm = $("#search_form")
+    var shopLocationMap = $("#shop_location_map")
+    var getDirectionsButton = $(".get_directions_button")
     var loader = $('<header>'
         +'<div aria-busy="true" aria-label="Loading, please wait." role="progressbar"></div>'
         +'</header>')
     /*stop the preloader*/
     $("#perloader").hide()
-    setInterval(hideAlert, 1000)
+    setInterval(hideAlert, 5000)
     var storage = $(".storage")
     /*****************************************************************************
      *
@@ -73,7 +77,7 @@ $(document).ready(function () {
     }
 
     function hideAlert() {
-        if($('div.alert').length > 0){$('div.alert').delay(5000).slideUp('slow')}
+        if($('div.alert').length > 0){$('div.alert').slideUp('slow')}
     }
 
     /**
@@ -194,7 +198,9 @@ $(document).ready(function () {
             url: '/register-shop',
             success: function (data) {
                 $(loader).hide()
-                window.location = '/login'
+                if(data.success){
+                    window.location = '/login'
+                }
             },
             error: function (error) {
                 showErrors(error)
@@ -294,7 +300,11 @@ $(document).ready(function () {
                 }
             },
             submitHandler: function (form) {
-               shopRegisterAjaxRequest()
+               setTimeout(function () {
+                   if($("#lat").val() != "" && $("#long").val() != ""){
+                       shopRegisterAjaxRequest()
+                   }
+               }, 1000)
                 return false; // required to block normal submit since you used ajax
             },
             highlight: function (input) {
@@ -676,7 +686,7 @@ $(document).ready(function () {
 
 
     /**
-     * bulk select data 
+     * bulk select data
      */
     $("#bulk-brands").on("change", function () {
         var brandId = $(this).val()
@@ -1037,6 +1047,22 @@ $(document).ready(function () {
         google.maps.event.addDomListener(window, 'load', init);
     }
 
+    if($("#user_location").length){
+        console.log("user location exists")
+        function init2() {
+            var input = document.getElementById('user_location');
+            var autocomplete = new google.maps.places.Autocomplete(input);
+
+            google.maps.event.addListener(autocomplete, 'place_changed', function () {
+                var place = autocomplete.getPlace();
+                //document.getElementById('city2').value = place.name;
+                document.getElementById('user_lat').value = place.geometry.location.lat();
+                document.getElementById('user_long').value = place.geometry.location.lng();
+            });
+        }
+        google.maps.event.addDomListener(window, 'load', init2);
+    }
+
 
     if(saleShopItemsSearch.length){
         saleShopItemsSearch.select2()
@@ -1076,4 +1102,186 @@ $(document).ready(function () {
             }
         });
     }
+
+    searchBar.on('change', function () {
+        if($.trim(searchBar.val()).length == 0){
+            searchBar.css('border', '2px solid red')
+        }
+        else{
+            searchBar.css('border', '0px solid red')
+        }
+    })
+    if(searchForm.length){
+        searchForm.submit(function (event) {
+            console.log("seach button clicked")
+            if($.trim(searchBar.val()).length == 0){
+                console.log("search text is empty")
+                searchBar.css('border', '2px solid red')
+                searchBar.addClass('jello')
+                searchBar
+                    .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+                        function () {
+                            searchBar.removeClass('jello')
+                        });
+                searchBar.val("")
+                searchBar.attr('placeholder', 'Field is Required')
+                searchBar.focus()
+                event.preventDefault()
+            }
+            else{
+                searchBar.css('border', '0px solid #fff')
+            }
+        })
+    }
+
+    /**
+     * if user is on the single
+     * product form and the map div
+     * exists
+     */
+    if(shopLocationMap.length){
+        console.log("sending the lat long request")
+        //get the shop lat and long
+        //when get directions button is clicked
+        var temp = [{
+            lat: 33.7294,
+            lon: 73.0931,
+            title: 'Islamabad',
+            html: '<h3>Islamabad, Pakistan</h3>',
+            icon: 'http://maps.google.com/mapfiles/markerA.png',
+            animation: google.maps.Animation.DROP
+        }]
+        var map = new Maplace();
+        map.Load({
+            locations: temp,
+            map_div: '#shop_location_map',
+            generate_controls: true,
+            show_markers: true,
+            draggable: false,
+            visualRefresh: true,
+            directions_options: {
+                travelMode: google.maps.TravelMode.DRIVING,
+                unitSystem: google.maps.UnitSystem.METRIC,
+                optimizeWaypoints: true,
+                provideRouteAlternatives: true,
+                avoidHighways: false,
+                avoidTolls: false
+            }
+        });
+        getDirectionsButton.click(function () {
+            var text = $(this).text()
+            var target = $(this)
+            target.html(dotsLoader('#fff'))
+            var shopId = target.attr('data-shop-id')
+            console.log(shopId)
+
+            $.ajax({
+                url: '/shops/shop/lat/long',
+                type: 'POST',
+                data: {
+                    'shop_id': shopId
+                },
+                headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+                success: function (data) {
+                    var userLat = $("#phone_user_lat").val()
+                    var userLong = $("#phone_user_long").val()
+                    console.log(data)
+                    target.html(text)
+                    var LocsA = [
+                        {
+                            lat: userLat == "" ? 33.7294 : userLat,
+                            lon: userLong == "" ? 73.0931 : userLong,
+                            title: 'Your Location',
+                            html: '<h3>Your Location</h3>',
+                            icon: 'http://maps.google.com/mapfiles/markerA.png',
+                            animation: google.maps.Animation.DROP
+                        },
+                        {
+                            lat: data.lat,
+                            lon: data.long,
+                            title: 'Shop Location',
+                            html: '<h3>Shop Location</h3>',
+                            icon: 'http://maps.google.com/mapfiles/markerB.png',
+                            show_infowindow: false
+                        }
+                    ]
+
+                    if (map) {
+                        map.RemoveLocations(1);
+                        map.Load({
+                            locations: LocsA,
+                            type: 'directions',
+                        });
+                    }
+                },
+                error: function (error) {
+                    target.html(text)
+                    console.log(error)
+                }
+            })
+        })
+    }
+    var modalMap = null;
+    function initializeMap(lat, long) {
+        var mapOptions = {
+            center: new google.maps.LatLng(lat, long),
+            zoom: 15,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        modalMap = new google.maps.Map(document.getElementById("map_modal_show"),
+            mapOptions);
+        var marker = new google.maps.Marker({
+            position: new google.maps.LatLng(lat, long)
+        });
+        marker.setMap(modalMap);
+    }
+    var mapModalButton = $('.shop_map_modal')
+    var modal = $("#map_modal")
+    if(mapModalButton.length){
+        mapModalButton.click(function () {
+            modal.modal('toggle')
+            var target = $(this)
+            var lat = target.attr('data-shop-lat')
+            var long = target.attr('data-shop-long')
+            initializeMap(lat, long)
+            //show map on modal
+            modal.on('shown.bs.modal', function () {
+                var currentCenter = modalMap.getCenter();  // Get current center before resizing
+                google.maps.event.trigger(modalMap, "resize");
+                modalMap.setCenter(currentCenter); // Re-set previous center
+                $(this).find('.modal-title').text(target.attr('data-original-title'))
+            });
+        })
+    }
+    /**********************************************************************
+     *
+     * Extra Work
+     *
+     * ********************************************************************
+     */
+    var radiusSlider = $('.radius-slider')
+    if(radiusSlider.length){
+        radiusSlider.slider()
+    }
+    /*if(searchBar.length){
+        searchBar.select2({
+            placeholder: 'Search',
+            ajax: {
+                url: "/search/live/results",
+                type: 'POST',
+                dataType: 'json',
+                delay: 0,
+                data: function (params) {
+                    return {
+                        q: params.term, // search term
+                        page: params.page
+                    };
+                },
+                processResults: function (data, params) {
+
+                },
+                cache: true
+            }
+        });
+    }*/
 })//document ready ends here

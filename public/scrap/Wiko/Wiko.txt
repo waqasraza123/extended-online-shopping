@@ -1,35 +1,35 @@
-U Feel Prime;32 GB;Silver, Anthracite, Gold;4 GB RAM;5.0
-U Feel Lite;16 GB;Lime, Slate, Chocolate, Rose Gold;2 GB RAM;5.0
-Tommy;8 GB;True Black, Flashy Red, Cool Grey, Bleen, Sun Yellow, Hot Pink;1 GB RAM;5.0
-Sunny;8 GB;True Black, Pure White, Flashy Red, Bleen, Hot Pink;512 MB RAM;4.0
-Robby;16 GB;Space Grey, Gold, Bleen, Rose Gold, Lime;1 GB RAM;5.5
-Lenny3;16 GB;Space Grey, Bleen, Lime, Cinnabar, Gold, Rose Gold;1 GB RAM;5.0
-Fever SE;32 GB;Silver, Anthracite, Lime, Cinnabar, Ash Wood, Oak Wood;3 GB RAM;5.2
-Pulp Fab 4G;16 GB;Black, White, Chocolate, Electric Blue, Flashy Red;2 GB RAM;5.5
-Pulp Fab;16 GB;Black, White, Chocolate, Electric Blue, Flashy Red;2 GB RAM;5.5
-Pulp;16/32 GB;Black, White, Chocolate, Electric Blue, Flashy Red;2 GB RAM;5.0
-Pulp 4G;16 GB;Black, White, Chocolate, Electric Blue, Flashy Red;2 GB RAM;5.0
-Fever 4G;16 GB;White/Gold, Black/Gold, Black/Grey;2/3 GB RAM;5.2
-Lenny2;4 GB;Black, White, Coral, Bleen, Blue;768 MB RAM;5.0
-Rainbow Jam;8 GB;Black, White, Bleen, Coral, Blue;1 GB RAM;5.0
-Rainbow Jam 4G;8 GB;Black, White, Bleen, Coral, Blue;1 GB RAM;5.0
-Rainbow Lite 4G;4 GB;Black, White, Coral, Bleen, Blue;1 GB RAM;5.0
-Selfy 4G;8 GB;Black, White, Mint, Ruby;1 GB RAM;4.8
-Rainbow UP 4G;8 GB;Black, White, Bleen, Coral, Blue;1 GB RAM;5.0
-Sunset2;4 GB; Black, White, Bleen, Coral, Blue;512 MB RAM;4.0
-Bloom2;8 GB;Black;1 GB RAM;4.7
-Ridge 4G;16 GB;Black Grey, Black Bleen, Black Clementine, Arctic Gold;2 GB RAM;5.0
-Ridge Fab 4G;16 GB;Black Grey, Black Bleen, Black Clementine, Arctic Gold;2 GB RAM;5.5
-Highway Star 4G;16 GB;Silver, Gold, Grey;2 GB RAM;5.0
-Highway Pure 4G;16 GB;White/Silver, Black/Grey, Black/Gold, Black/Bleen;2 GB RAM;4.8
-Lenny;4 GB;Black/Bleen, White/Silver, Bleen/Black, Violet/Coral, Yellow/Bleen;512 MB RAM;5.0
-Birdy;4 GB;Black, White, Fuchsia, Yellow, Coral, Violet, Bleen;1 GB RAM;4.5
-Goa;4 GB;Black, White, Bleen, Fuchsia, Coral, Violet, Yellow;512 MB RAM;3.5
-Jimmy;4 GB;Black/Blue, Blue/Orange, Pink/Violet, Violet/Blue, White/Orange;512 MB RAM;4.5
-Getaway;16 GB;Noir & Or, Blanc & Argent, Navy, Corail;1 GB RAM;5.0
-Rainbow 4G;8 GB;Black, White, Bleen, Yellow, Fuschia, Coral, Violet;1 GB RAM;5.0
-Rainbow;4 GB;Black, White, Bleen, Yellow, Fuschia, Coral, Violet;1 GB RAM;5.0
-Highway 4G;16 GB;Black, White, Clementine, Purple, Electric blue;2 GB RAM;5.0
-Highway Signs;8 GB;White, Coral, Grey , Electric blue, Purple;1 GB RAM;4.7
-Wax;4 GB;Black, White, Coral, Turquoise;1 GB RAM;4.7
-Highway;16/32 GB;Black, White, Blue Electric, Orange, Purple;2 GB RAM;5.0
+U Feel Prime@#$%32 GB@#$%Silver, Anthracite, Gold@#$%4 GB RAM@#$%5.0@#$%Available. Released 2016, September
+U Feel Lite@#$%16 GB@#$%Lime, Slate, Chocolate, Rose Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, May
+Tommy@#$%8 GB@#$%True Black, Flashy Red, Cool Grey, Bleen, Sun Yellow, Hot Pink@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, July
+Sunny@#$%8 GB@#$%True Black, Pure White, Flashy Red, Bleen, Hot Pink@#$%512 MB RAM@#$%4.0@#$%Available. Released 2016, May
+Robby@#$%16 GB@#$%Space Grey, Gold, Bleen, Rose Gold, Lime@#$%1 GB RAM@#$%5.5@#$%Available. Released 2016, May
+Lenny3@#$%16 GB@#$%Space Grey, Bleen, Lime, Cinnabar, Gold, Rose Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, May
+Fever SE@#$%32 GB@#$%Silver, Anthracite, Lime, Cinnabar, Ash Wood, Oak Wood@#$%3 GB RAM@#$%5.2@#$%Available. Released 2016, May
+Pulp Fab 4G@#$%16 GB@#$%Black, White, Chocolate, Electric Blue, Flashy Red@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, November
+Pulp Fab@#$%16 GB@#$%Black, White, Chocolate, Electric Blue, Flashy Red@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, October
+Pulp@#$%16/32 GB@#$%Black, White, Chocolate, Electric Blue, Flashy Red@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Pulp 4G@#$%16 GB@#$%Black, White, Chocolate, Electric Blue, Flashy Red@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Fever 4G@#$%16 GB@#$%White/Gold, Black/Gold, Black/Grey@#$%2/3 GB RAM@#$%5.2@#$%Available. Released 2015, November
+Lenny2@#$%4 GB@#$%Black, White, Coral, Bleen, Blue@#$%768 MB RAM@#$%5.0@#$%Available. Released 2015, September
+Rainbow Jam@#$%8 GB@#$%Black, White, Bleen, Coral, Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, September
+Rainbow Jam 4G@#$%8 GB@#$%Black, White, Bleen, Coral, Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, September
+Rainbow Lite 4G@#$%4 GB@#$%Black, White, Coral, Bleen, Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Selfy 4G@#$%8 GB@#$%Black, White, Mint, Ruby@#$%1 GB RAM@#$%4.8@#$%Available. Released 2015, August
+Rainbow UP 4G@#$%8 GB@#$%Black, White, Bleen, Coral, Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Sunset2@#$%4 GB@#$% Black, White, Bleen, Coral, Blue@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, July
+Bloom2@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, June
+Ridge 4G@#$%16 GB@#$%Black Grey, Black Bleen, Black Clementine, Arctic Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, March
+Ridge Fab 4G@#$%16 GB@#$%Black Grey, Black Bleen, Black Clementine, Arctic Gold@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, March
+Highway Star 4G@#$%16 GB@#$%Silver, Gold, Grey@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, April
+Highway Pure 4G@#$%16 GB@#$%White/Silver, Black/Grey, Black/Gold, Black/Bleen@#$%2 GB RAM@#$%4.8@#$%Available. Released 2015, April
+Lenny@#$%4 GB@#$%Black/Bleen, White/Silver, Bleen/Black, Violet/Coral, Yellow/Bleen@#$%512 MB RAM@#$%5.0@#$%Available. Released 2014, August
+Birdy@#$%4 GB@#$%Black, White, Fuchsia, Yellow, Coral, Violet, Bleen@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, August
+Goa@#$%4 GB@#$%Black, White, Bleen, Fuchsia, Coral, Violet, Yellow@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, August
+Jimmy@#$%4 GB@#$%Black/Blue, Blue/Orange, Pink/Violet, Violet/Blue, White/Orange@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, November
+Getaway@#$%16 GB@#$%Noir & Or, Blanc & Argent, Navy, Corail@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014
+Rainbow 4G@#$%8 GB@#$%Black, White, Bleen, Yellow, Fuschia, Coral, Violet@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, November
+Rainbow@#$%4 GB@#$%Black, White, Bleen, Yellow, Fuschia, Coral, Violet@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, May
+Highway 4G@#$%16 GB@#$%Black, White, Clementine, Purple, Electric blue@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, October
+Highway Signs@#$%8 GB@#$%White, Coral, Grey , Electric blue, Purple@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, October
+Wax@#$%4 GB@#$%Black, White, Coral, Turquoise@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, April
+Highway@#$%16/32 GB@#$%Black, White, Blue Electric, Orange, Purple@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, February

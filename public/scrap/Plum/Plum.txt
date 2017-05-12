@@ -1,90 +1,90 @@
-Play;32 MB ROM;Black, Blue, Lime, Red, White;32 MB RAM;1.77
-Ram 6;128 MB;Black, Black/Orange;64 MB RAM;2.4
-Compass;8 GB;Black, Blue, Red, Gold, White;1 GB RAM;5.0
-Hero;32 MB ROM;Black, White, Red, Blue, Pink, Orange, Lime;32 MB RAM;1.8
-Gator 3;8 GB;Black, Orange/Silver;1 GB RAM;4.0
-Axe Plus 2;8 GB;Black, White, Blue;512 MB RAM;4.0
-Optimax 10;8 GB;Black, White;1 GB RAM;10.1
-Optimax 8.0;8 GB;Black, White;1 GB RAM;8.0
-Optimax 7.0;8 GB;Black, White;1 GB RAM;7.0
-Ram 4;32 MB;Black, Orange;32 MB RAM;2.4
-Star;32 MB ROM;Black, Blue, Lime, Orange, Pink, Red, White;32 MB RAM;1.8
-Might Plus II;4/8 GB;Black, White;512 MB RAM;5.0
-Axe LTE;8 GB;Black, White;1 GB RAM;4.0
-Check LTE;8 GB;Black, White;1 GB RAM;4.5
-Boot 2;128 MB ROM;Black, Blue, Red, White;64 MB RAM;1.77
-Ram 3G;64 MB RAM;Black, Orange;128 MB;2.4
-Sync 4.0b;512 MB;Black, White, Red, Blue;256 MB RAM;4.0
-Gator Plus II;4 GB;Black, Orange;512 MB RAM;3.5
-Ram Plus;128 Mb;Black/Silver, Black/Red;32 Mb RAM;2.0
-Coach Pro;16 GB;Black, White;1 GB RAM;6.0
-Trigger Plus III;512 MB;Black, White, Red, Blue;256 MB RAM;3.5
-Might LTE;8 GB;Black, White;1 GB RAM;5.0
-Sync 5.0;4 GB;Black/Gold, White/Silver, Pink/Silver, Blue/Silver;512 MB RAM;5.0
-Sync 4.0;512 MB;Black, White, Red, Blue;256 MB RAM;4.0
-Sync 3.5;512 MB;Black, White, Red, Blue, Pink;256 MB RAM;3.5
-Might Pro;16 GB;Black, White, Red, Blue;1 GB RAM;5.0
-Coach Plus II;4 GB;Black, White;512 MB RAM;6.0
-Link Plus;8 GB;Black, White;1 GB RAM;7.0
-Trigger Plus;2 GB;Black, White, Blue, Red, Pink;256 MB RAM;3.5
-Trigger Pro;4 GB;Black, White, Red, Blue;512 MB RAM;3.5
-Gator;4 GB;Black, Red;512 MB RAM;3.5
-Z708;16 GB;White;1 GB RAM;7.0
-Coach Plus;4 GB;Black, White;512 MB RAM;6.0
-Pilot Plus;8 GB;Black, White;1 GB RAM;5.5
-Might Plus;4 GB;White;512 MB RAM;5.0
-Check Plus;4 GB;White/Blue, White/Red, Black/Black, Black/Lime, Black/Red;512 MB RAM;4.5
-Axe Plus;4 GB;Black, White, Blue, Red;512 MB RAM;4.0
-Boot;64 MB ROM;Black, Blue, Red, Pink;64 MB RAM;1.77
-Slick;32 MB ROM;Black, White, Red, Blue;32 MB RAM;1.77
-Trigger Z104;512 MB;Black, White;256 MB RAM;3.5
-Bar 3G;128 MB;Black, White, Blue, Red;64 MB RAM;1.77
-Velocity II;512 MB;Black, White, Blue, Red;512 MB RAM;2.6
-Sync;512 MB;Black, White;256 MB RAM;3.5
-Axe II;4 GB;Black, White, Blue, Red;512 MB RAM;4.0
-Ten 3G;16 GB;Silver;1 GB RAM;10.1
-Link II;8 GB;Black, White;1 GB RAM;7.0
-Volt 3G;4 GB;Black/White;1 GB RAM;5.0
-Mouse;4 GB;Black, Red, Pink, Blue;ram;2.75
-Dazzle;4 GB;Black, Red, White, Blue;ram;2.4
-Ram;4 GB;Black, Orange, Red;ram;2.0
-Z710;16 GB;Black, White;1 GB RAM;7.0
-Trigger;512 MB;Black, White;256 MB RAM;3.5
-Glow;512 MB;Black, White;256 MB RAM;3.5
-Panther;64 MB ROM;White, Black, Red;32 MB RAM;1.44
-Caliber II;1 GB;Black, White;512 MB RAM;2.4
-Signal;32 MB ROM;White, Blue, Pink, Green, Red;32 MB RAM;1.8
-Hammer;64 MB ROM;Black, Orange, Camouflage;32 MB RAM;2.0
-Flipper;32 MB ROM;Black, Blue, Red;32 MB RAM;2.0
-Debut;4 GB;Black, White;512 MB RAM;7.0
-Link;4 GB;Black, White;512 MB RAM;7.0
-Might;1 GB;Black, White;512 MB RAM;5.3
-Axe;4 GB;Black, White;512 MB RAM;4.0
-Capacity;512 MB;Black, Red;256 MB RAM;3.5
-Wicked;512 MB;Black, White;256 MB RAM;2.8
-Flix;512 MB RAM;Various;256 MB;3.2
-Orbit;microSD;Black, White, Pink;up to 32 GB (dedicated slot);3.2
-Velocity;512 MB;Black, White;256 MB RAM;2.6
-Caliber;512 MB ROM;Black, Red, White;256 MB RAM;2.2
-Switch;1 GB ROM;Black, Blue, Green, White;512 MB RAM;1.77
-Galactic;1 GB ROM;Black blue, black orange, black purple, white blue, white orange, white purple;ram;2.55
-Tracer II;512 MB ROM;Black, white, red;256 MB RAM;2.8
-Geo;64 MB ROM;Black, White, Silver;32 MB RAM;2.6
-Tingle;128 MB ROM;Red, Black, Blue, Magenta;64 MB RAM;2.8
-Genius;64 MB ROM;Orange, Green, Orchid, Yellow, Sky Blue;32 MB RAM;2.0
-Blast;64 MB ROM;White, Yellow, Light Blue, Pink, Green, Dark Red;32 MB RAM;2.0
-Whiz;64 MB ROM;Black, Red, Blue, White;32 MB RAM;2.0
-Stubby;64 MB ROM;Black, white, Dark red, Silver, Yellow, Sky Blue, magenta, Violet, Green, Orange;32 MB RAM;1.77
-Stubby II;32 MB RAM;Blue, Magenta, Orange, Green, Red;32 MB ROM;2.0
-Strike;64 MB ROM;Black, white, red, blue, rose;32 MB RAM;2.0
-Profile;32 MB ROM;Orange, Red, Blue, Green, Purple, Black (with black and white);32 MB RAM;1.77
-Inspire;32 MB ROM;Black, white, orange, Magenta, light blue, dark red;ram;2.4
-Spare;32 MB ROM;Black, dark red, dark blue, light blue, light red, purple, pink, green, orange, champagne;ram;1.77
-Boom;64 MB ROM;Black, white, red, Orchid, Yellow, Dark Blue, Magenta, Coral, Green, Orange;32 MB RAM;1.77
-Snap;64 MB ROM;Black, Purple, Red, Magenta, Champagne, Apple Green;ram;1.8
-Buzz;64 MB ROM;Black, White, Red, Blue, Green, Purple;ram;1.77
-Tweek;32 MB ROM;Black, White, Red, Blue, Green, Purple;16 MB RAM;1.77
-Kazzom;128 MB ROM;Blue, Purple, Orange, Yellow, Orchid, Green ,White;32 MB RAM;1.77
-Trip;128 MB ROM;White, white black, white purple, white red, white blue, black orange, black red, black yellow, blac;ram;1.77
-Trion;32 MB ROM;Blue, Purple, Orange, Yellow, Orchid, Green, White, Red, Lime, Light Blue;16 MB RAM;1.77
-Bubby;32 MB ROM;Black, White, Red, Blue;16 MB RAM;1.77
+Play@#$%32 MB ROM@#$%Black, Blue, Lime, Red, White@#$%32 MB RAM@#$%1.77@#$%Available. Released 2017, January
+Ram 6@#$%128 MB@#$%Black, Black/Orange@#$%64 MB RAM@#$%2.4@#$%Available. Released 2017, February
+Compass@#$%8 GB@#$%Black, Blue, Red, Gold, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2017, January
+Hero@#$%32 MB ROM@#$%Black, White, Red, Blue, Pink, Orange, Lime@#$%32 MB RAM@#$%1.8@#$%Available. Released 2016, December
+Gator 3@#$%8 GB@#$%Black, Orange/Silver@#$%1 GB RAM@#$%4.0@#$%Available. Released 2016, November
+Axe Plus 2@#$%8 GB@#$%Black, White, Blue@#$%512 MB RAM@#$%4.0@#$%Available. Released 2016, May
+Optimax 10@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%10.1@#$%Available. Released 2016, April
+Optimax 8.0@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%8.0@#$%Available. Released 2016, April
+Optimax 7.0@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%7.0@#$%Available. Released 2016, April
+Ram 4@#$%32 MB@#$%Black, Orange@#$%32 MB RAM@#$%2.4@#$%Available. Released 2016, April
+Star@#$%32 MB ROM@#$%Black, Blue, Lime, Orange, Pink, Red, White@#$%32 MB RAM@#$%1.8@#$%Available. Released 2016, May
+Might Plus II@#$%4/8 GB@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2016, March
+Axe LTE@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, December
+Check LTE@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, December
+Boot 2@#$%128 MB ROM@#$%Black, Blue, Red, White@#$%64 MB RAM@#$%1.77@#$%Available. Released 2015, December
+Ram 3G@#$%64 MB RAM@#$%Black, Orange@#$%128 MB@#$%2.4@#$%Available. Released 2015, November
+Sync 4.0b@#$%512 MB@#$%Black, White, Red, Blue@#$%256 MB RAM@#$%4.0@#$%Available. Released 2015, July
+Gator Plus II@#$%4 GB@#$%Black, Orange@#$%512 MB RAM@#$%3.5@#$%Available. Released 2015, July
+Ram Plus@#$%128 Mb@#$%Black/Silver, Black/Red@#$%32 Mb RAM@#$%2.0@#$%Available. Released 2015, August
+Coach Pro@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%6.0@#$%Available. Released 2015, January
+Trigger Plus III@#$%512 MB@#$%Black, White, Red, Blue@#$%256 MB RAM@#$%3.5@#$%Available. Released 2015, January
+Might LTE@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, October
+Sync 5.0@#$%4 GB@#$%Black/Gold, White/Silver, Pink/Silver, Blue/Silver@#$%512 MB RAM@#$%5.0@#$%Available. Released 2014, August
+Sync 4.0@#$%512 MB@#$%Black, White, Red, Blue@#$%256 MB RAM@#$%4.0@#$%Available. Released 2014, August
+Sync 3.5@#$%512 MB@#$%Black, White, Red, Blue, Pink@#$%256 MB RAM@#$%3.5@#$%Available. Released 2014, August
+Might Pro@#$%16 GB@#$%Black, White, Red, Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, August
+Coach Plus II@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%6.0@#$%Available. Released 2014, August
+Link Plus@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, August
+Trigger Plus@#$%2 GB@#$%Black, White, Blue, Red, Pink@#$%256 MB RAM@#$%3.5@#$%Available. Released 2014, May
+Trigger Pro@#$%4 GB@#$%Black, White, Red, Blue@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, May
+Gator@#$%4 GB@#$%Black, Red@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, July
+Z708@#$%16 GB@#$%White@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, May
+Coach Plus@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%6.0@#$%Available. Released 2014, May
+Pilot Plus@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.5@#$%Available. Released 2014, May
+Might Plus@#$%4 GB@#$%White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2014, May
+Check Plus@#$%4 GB@#$%White/Blue, White/Red, Black/Black, Black/Lime, Black/Red@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, May
+Axe Plus@#$%4 GB@#$%Black, White, Blue, Red@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, May
+Boot@#$%64 MB ROM@#$%Black, Blue, Red, Pink@#$%64 MB RAM@#$%1.77@#$%Available. Released 2014, May
+Slick@#$%32 MB ROM@#$%Black, White, Red, Blue@#$%32 MB RAM@#$%1.77@#$%Available. Released 2014, May
+Trigger Z104@#$%512 MB@#$%Black, White@#$%256 MB RAM@#$%3.5@#$%Available. Released 2013
+Bar 3G@#$%128 MB@#$%Black, White, Blue, Red@#$%64 MB RAM@#$%1.77@#$%Available. Released 2013, September
+Velocity II@#$%512 MB@#$%Black, White, Blue, Red@#$%512 MB RAM@#$%2.6@#$%Available. Released 2013, September
+Sync@#$%512 MB@#$%Black, White@#$%256 MB RAM@#$%3.5@#$%Available. Released 2013, October
+Axe II@#$%4 GB@#$%Black, White, Blue, Red@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, October
+Ten 3G@#$%16 GB@#$%Silver@#$%1 GB RAM@#$%10.1@#$%Available. Released 2013, June
+Link II@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013
+Volt 3G@#$%4 GB@#$%Black/White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, June
+Mouse@#$%4 GB@#$%Black, Red, Pink, Blue@#$%ram@#$%2.75@#$%Available. Released 2013, June
+Dazzle@#$%4 GB@#$%Black, Red, White, Blue@#$%ram@#$%2.4@#$%Available. Released 2013, June
+Ram@#$%4 GB@#$%Black, Orange, Red@#$%ram@#$%2.0@#$%Available. Released 2013, June
+Z710@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, April
+Trigger@#$%512 MB@#$%Black, White@#$%256 MB RAM@#$%3.5@#$%Available. Released 2013, April
+Glow@#$%512 MB@#$%Black, White@#$%256 MB RAM@#$%3.5@#$%Available. Released 2013, April
+Panther@#$%64 MB ROM@#$%White, Black, Red@#$%32 MB RAM@#$%1.44@#$%Available. Released 2013, April
+Caliber II@#$%1 GB@#$%Black, White@#$%512 MB RAM@#$%2.4@#$%Available. Released 2013, April
+Signal@#$%32 MB ROM@#$%White, Blue, Pink, Green, Red@#$%32 MB RAM@#$%1.8@#$%Available. Released 2012, October
+Hammer@#$%64 MB ROM@#$%Black, Orange, Camouflage@#$%32 MB RAM@#$%2.0@#$%Available. Released 2012, December
+Flipper@#$%32 MB ROM@#$%Black, Blue, Red@#$%32 MB RAM@#$%2.0@#$%Available. Released 2012, December
+Debut@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%7.0@#$%Available. Released 2012, May
+Link@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%7.0@#$%Available. Released 2012, October
+Might@#$%1 GB@#$%Black, White@#$%512 MB RAM@#$%5.3@#$%Available. Released 2012, May
+Axe@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, May
+Capacity@#$%512 MB@#$%Black, Red@#$%256 MB RAM@#$%3.5@#$%Available. Released 2012, May
+Wicked@#$%512 MB@#$%Black, White@#$%256 MB RAM@#$%2.8@#$%Available. Released 2012, March
+Flix@#$%512 MB RAM@#$%Various@#$%256 MB@#$%3.2@#$%Available. Released 2012, May
+Orbit@#$%microSD@#$%Black, White, Pink@#$%up to 32 GB (dedicated slot)@#$%3.2@#$%Available. Released 2012, May
+Velocity@#$%512 MB@#$%Black, White@#$%256 MB RAM@#$%2.6@#$%Available. Released 2011, September
+Caliber@#$%512 MB ROM@#$%Black, Red, White@#$%256 MB RAM@#$%2.2@#$%Available. Released 2011, September
+Switch@#$%1 GB ROM@#$%Black, Blue, Green, White@#$%512 MB RAM@#$%1.77@#$%Available. Released 2012, August
+Galactic@#$%1 GB ROM@#$%Black blue, black orange, black purple, white blue, white orange, white purple@#$%ram@#$%2.55@#$%Available. Released 2011, September
+Tracer II@#$%512 MB ROM@#$%Black, white, red@#$%256 MB RAM@#$%2.8@#$%Available. Released 2011, September
+Geo@#$%64 MB ROM@#$%Black, White, Silver@#$%32 MB RAM@#$%2.6@#$%Available. Released 2012, September
+Tingle@#$%128 MB ROM@#$%Red, Black, Blue, Magenta@#$%64 MB RAM@#$%2.8@#$%Available. Released 2011, September
+Genius@#$%64 MB ROM@#$%Orange, Green, Orchid, Yellow, Sky Blue@#$%32 MB RAM@#$%2.0@#$%Available. Released 2011, July
+Blast@#$%64 MB ROM@#$%White, Yellow, Light Blue, Pink, Green, Dark Red@#$%32 MB RAM@#$%2.0@#$%Available. Released 2011, January
+Whiz@#$%64 MB ROM@#$%Black, Red, Blue, White@#$%32 MB RAM@#$%2.0@#$%Available. Released 2011, September
+Stubby@#$%64 MB ROM@#$%Black, white, Dark red, Silver, Yellow, Sky Blue, magenta, Violet, Green, Orange@#$%32 MB RAM@#$%1.77@#$%Available. Released 2011, May
+Stubby II@#$%32 MB RAM@#$%Blue, Magenta, Orange, Green, Red@#$%32 MB ROM@#$%2.0@#$%Available. Released 2011, November
+Strike@#$%64 MB ROM@#$%Black, white, red, blue, rose@#$%32 MB RAM@#$%2.0@#$%Available. Released 2011, September
+Profile@#$%32 MB ROM@#$%Orange, Red, Blue, Green, Purple, Black (with black and white)@#$%32 MB RAM@#$%1.77@#$%Available. Released 2011, November
+Inspire@#$%32 MB ROM@#$%Black, white, orange, Magenta, light blue, dark red@#$%ram@#$%2.4@#$%Discontinued
+Spare@#$%32 MB ROM@#$%Black, dark red, dark blue, light blue, light red, purple, pink, green, orange, champagne@#$%ram@#$%1.77@#$%Available. Released 2011, April
+Boom@#$%64 MB ROM@#$%Black, white, red, Orchid, Yellow, Dark Blue, Magenta, Coral, Green, Orange@#$%32 MB RAM@#$%1.77@#$%Available. Released 2011, April
+Snap@#$%64 MB ROM@#$%Black, Purple, Red, Magenta, Champagne, Apple Green@#$%ram@#$%1.8@#$%Discontinued
+Buzz@#$%64 MB ROM@#$%Black, White, Red, Blue, Green, Purple@#$%ram@#$%1.77@#$%Available. Released 2012, August
+Tweek@#$%32 MB ROM@#$%Black, White, Red, Blue, Green, Purple@#$%16 MB RAM@#$%1.77@#$%Available. Released 2012, September
+Kazzom@#$%128 MB ROM@#$%Blue, Purple, Orange, Yellow, Orchid, Green ,White@#$%32 MB RAM@#$%1.77@#$%Available. Released 2011, August
+Trip@#$%128 MB ROM@#$%White, white black, white purple, white red, white blue, black orange, black red, black yellow, blac@#$%ram@#$%1.77@#$%Available. Released 2011, September
+Trion@#$%32 MB ROM@#$%Blue, Purple, Orange, Yellow, Orchid, Green, White, Red, Lime, Light Blue@#$%16 MB RAM@#$%1.77@#$%Available. Released 2011, June
+Bubby@#$%32 MB ROM@#$%Black, White, Red, Blue@#$%16 MB RAM@#$%1.77@#$%Available. Released 2012, August

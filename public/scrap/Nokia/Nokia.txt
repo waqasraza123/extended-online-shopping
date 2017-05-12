@@ -1,446 +1,446 @@
-3;16 GB;Silver White, Matte Black, Tempered Blue, Copper White;2 GB RAM;5.0
-5;16 GB;Tempered Blue, Silver, Matte Black, Copper;2 GB RAM;5.2
-6;32 GB;Arte Black, Matte Black, Tempered Blue, Silver, Copper;3 GB RAM - Matte Black;5.5
-3310 (2017);32 GB;Warm Red (Glossy), Dark Blue (Matte), Yellow (Glossy), Grey (Matte);ram;2.4
-150;32 GB;Black, White;ram;2.4
-216;32 GB;Black, Gray, Mint;ram;2.4
-230 Dual SIM;32 GB;Black, White;ram;2.8
-230;32 GB;Black, White;ram;2.8
-222 Dual SIM;32 GB;Black, White;ram;2.4
-222;32 GB;Black, White;ram;2.4
-105 Dual SIM (2015);32 GB;Black, Cyan, White;ram;1.4
-105 (2015);32 GB;Black, Cyan, White;ram;1.4
-215;32 GB;Black, White, Green;ram;2.4
-215 Dual SIM;32 GB;Black, White, Green;ram;2.4
-Lumia 638;8 GB;Black;1 GB RAM;4.5
-N1;32 GB;Natural Aluminum, Lava Gray;2 GB RAM;7.9
-Lumia 730 Dual SIM;8 GB;Orange, green, white, black;1 GB RAM;4.7
-Lumia 735;8 GB;Orange, green, white, black;1 GB RAM;4.7
-Lumia 830;16 GB;Orange, green, white, black, gold;1 GB RAM;5.0
-130 Dual SIM;16 GB;Red, black, white;ram;1.8
-130;16 GB;Red, black, white;ram;1.8
-Lumia 530 Dual SIM;4 GB;Bright orange, Bright green, White, Dark grey;512 MB RAM;4.0
-Lumia 530;4 GB;Bright orange, Bright green, White, Dark grey;512 MB RAM;4.0
-X2 Dual SIM;4 GB;Glossy green, orange black, yellow, white, matt dark grey;1 GB RAM;4.3
-225;4 GB;Red, yellow, green, black, white;ram;2.8
-225 Dual SIM;4 GB;Red, yellow, green, black, white;ram;2.8
-Lumia 930;32 GB;Bright orange, bright green, white, black, gold;2 GB RAM;5.0
-Lumia 635;8 GB;Bright Orange, bright green, bright yellow, white, black;512 MB/ 1 GB RAM;4.5
-Lumia 630 Dual SIM;8 GB;Bright Orange, bright green, bright yellow, white, black;512 MB RAM;4.5
-Lumia 630;8 GB;Bright Orange, bright green, bright yellow, white, black;512 MB RAM;4.5
-XL;4 GB;Bright green, orange, cyan, yellow, black, white;768 MB RAM;5.0
-X+;4 GB;Bright green, bright red, cyan, yellow, black, white;768 MB RAM;4.0
-X;4 GB;Bright green, bright red, cyan, yellow, black, white;512 MB RAM;4.0
-Asha 230;4 GB;Bright Red, Yellow, Bright Green, White, Cyan, Black;ram;2.8
-220;4 GB;Red, black, white, yellow, cyan;ram;2.4
-Lumia Icon;32 GB;Black, White;2 GB RAM;5.0
-Lumia 525;8 GB;Black, White, Yellow, Red;1 GB RAM;4.0
-Lumia 1520;16 GB (RM-940 only)/32 GB;Yellow, white, black, red, green (AT&T);2 GB RAM;6.0
-Lumia 1320;8 GB;Yellow, white, black, red;1 GB RAM;6.0
-Lumia 2520;32 GB;Cyan , Red, Black, White;2 GB RAM;10.1
-Asha 503 Dual SIM;microSD;Yellow, black, green, red, blue, white;up to 32 GB (dedicated slot);3.0
-Asha 503;microSD;Yellow, black, green, red, blue, white;up to 32 GB (dedicated slot);3.0
-Asha 502 Dual SIM;microSD;Bright Red, Bright Green, Cyan, Yellow, White and Black;ram;3.0
-Asha 500 Dual SIM;microSD;Bright Red, Bright Green, Cyan, Yellow, White and Black;ram;2.8
-Asha 500;microSD;Bright Red, Bright Green, Cyan, Yellow, White and Black;ram;2.8
-108 Dual SIM;microSD;Black, White, Red, Blue, Yellow;ram;1.8
-515;256 MB;White, Black;64 MB RAM;2.4
-107 Dual SIM;256 MB;Black, White, Red;ram;1.8
-106;256 MB;Black, White, Red;ram;1.8
-Lumia 625;8 GB;Orange, Bright green, Yellow, Black and white;512 MB RAM;4.7
-Lumia 1020;32 GB;Yellow, white, black, red (AT&T exclusive);2 GB RAM / 64 GB (Telefonica exclusive);4.5
-208;256 MB;Cyan , Red, Yellow, Black, White;64 MB RAM;2.4
-207;256 MB;Cyan , Red, Yellow, Black, White;64 MB RAM;2.4
-Lumia 925;16 GB/ 32 GB (Vodafone only);Black, White, Gray;1 GB RAM;4.5
-Lumia 928;32 GB;Black, White;1 GB RAM;4.5
-Asha 501;128 MB;Bright Red, Bright Green, Cyan, Yellow, White and Black;64 MB RAM;3.0
-Asha 210;64 MB;Yellow, Black, White, Cyan, Magenta;32 MB RAM;2.4
-Lumia 720;8 GB;White, Red, Yellow, Cyan/Black;512 MB RAM;4.3
-Lumia 520;8 GB;Yellow, red, cyan, white/black;512 MB RAM;4.0
-301;256 MB ROM;Cyan, Black, Yellow, Magenta, White;64 MB RAM;2.4
-105;8 MB;Black, Cyan;384 kB;1.45
-Asha 310;20 MB;Black, White, Golden Light;128 MB ROM;3.0
-Lumia 505;4 GB;Black, White, Red, Pink;256 MB RAM;3.7
-Lumia 620;8 GB;Lime green, orange, magenta, yellow, cyan, white, black;512 MB RAM;3.8
-114;8 GB;Black, Magenta, Cyan;ram;1.8
-206;8 GB;Cyan , Magenta, Yellow, Black, White;ram;2.4
-Asha 205;8 GB;Cyan, Magenta, Orange, Pink, White;ram;2.4
-109;64 MB ROM;Black, Cyan;16 MB RAM;1.8
-Lumia 822;16 GB;Black, Gray, White, Red;1 GB RAM;4.3
-Lumia 510;4 GB;White, Cyan, Black, Red, Yellow;256 MB RAM;4.0
-Lumia 810;8 GB;Black, Cyan;1 GB RAM;4.3
-Asha 309;20 MB;Black, White;128 MB ROM;3.0
-Asha 308;20 MB;Black, Golden light;128 MB ROM;3.0
-Lumia 920;32 GB;Black, Gray, Red, Yellow, White;1 GB RAM;4.5
-Lumia 820;8 GB;Black, Gray, Red, Yellow, White, Blue, Violet;1 GB RAM;4.3
-Asha 311;140 MB;Dark Grey, Rose Red, Blue, Brown, Sand White;256 MB ROM;3.0
-Asha 306;10 MB;Silver White, Red, Mid Blue, Dark Grey;64 MB ROM;3.0
-Asha 305;10 MB;Silver White, Red, Mid Blue, Dark Grey;64 MB ROM;3.0
-113;10 MB;Black, Magenta, Lime Green, Cyan;ram;1.8
-112;10 MB;Dark Grey, White, Red, Cyan;ram;1.8
-111;10 MB;Black, Magenta, Lime Green, Cyan;ram;1.8
-110;10 MB;Black, Magenta, Lime Green, Cyan;ram;1.8
-Lumia 610 NFC;8 GB;Black, white;256 MB RAM;3.7
-103;8 GB;Blue/Orange;ram;1.36
-808 PureView;16 GB;Black, White, Red;1 GB ROM;4.0
-800c;16 GB;Black, Cyan;512 MB RAM;3.7
-Lumia 610;8 GB;White, Cyan, Magenta, Black;256 MB RAM;3.7
-Asha 302;100 MB;Dark Grey, Mid Blue, Plum Red, White, Golden Light;256 MB ROM;2.4
-Asha 203;10 MB; Dark Red, Dark Grey, Silver White;32 MB ROM;2.4
-Asha 202;10 MB;Dark Red, Black, Silver White, Dark Grey, Golden White;32 MB ROM;2.4
-Lumia 900;16 GB;Black, cyan, white, magenta;512 MB RAM;4.3
-Lumia 900 AT&T;16 GB;Matte black, cyan, pink;512 MB RAM;4.3
-801T;8 GB;Black;256 MB RAM;4.0
-X2-02;10 MB;Bright Red, Dark Silver, Orange, Violet, Ocean Blue;64 MB ROM;2.2
-Lumia 800;16 GB;Black, Cyan, Magenta, White;512 MB RAM;3.7
-Lumia 710 T-Mobile;8 GB;Black, white/black;512 MB RAM;3.7
-Lumia 710;8 GB;Black, White (front)/ black, white, cyan, fuchsia, yellow (back);512 MB RAM;3.7
-Asha 303;170 MB (100 MB user available);Red, Graphite, Silver White, Aqua, Green, Purple;256 MB ROM;2.6
-Asha 300;140 MB;Graphite, Night Shade, Gold, White Silver, Pink, Red;256 MB ROM;2.4
-Asha 201;10 MB;Graphite, Green, Blue, Aqua, Pearl White, Light Pink, Pink, Orange;64 MB ROM;2.4
-Asha 200;10 MB;Graphite, Green, Blue, Aqua, Pearl White, Light Pink, Pink, Orange;64 MB ROM;2.4
-603;2 GB (340 MB user available);Black, white (front panel)/ black, white, fuchsia, green, yellow, blue (back panel);512 MB RAM;3.5
-C2-05;2 GB (340 MB user available);Dynamic Gray, Peacock Blue, Pink;ram;2.0
-X2-05;2 GB (340 MB user available);Black, Silver, White, Bright Red;ram;2.2
-C5-06;40 MB;Graphite Black, Aluminium Grey, Red, Orange, Blue, Black Illuvial, White Illuvial, White/Red, White/Orange;128 MB RAM;3.2
-C5-05;40 MB;Black/Aluminium grey, Black Lilac, White Lilac, White/Graphite grey;128 MB RAM;3.2
-C5-04;60 MB;Graphite Black, Aluminium Grey, Red, Orange, Blue, Black Illuvial, White Illuvial, White/Red, White/Orange;128 MB RAM;3.2
-101;60 MB;Phantom Black, Coral Red;ram;1.8
-100;60 MB;Legion Blue, Festival  Pink, Ocean Blue Phantom Black, Coral Red;ram;1.8
-701;8 GB;Steel dark, silver light, amethyst violet, white;512 MB RAM;3.5
-700;2 GB;Cool Grey, Silver/White, Coral Red, Peacock Blue and  Purple;1 GB ROM;3.2
-600;2 GB;Black, White, Pink and Lime;ram;3.2
-C3-01 Gold Edition;140 MB;Gold;64 MB RAM;2.4
-500;2 GB;Black/White with covers in Black, Azure Blue, Coral Red, Purple, Khaki, Orange, Green, Pink, Silver;256 MB RAM;3.2
-N9;16/64 GB;Black, Cyan, Magenta, Glossy white;1 GB RAM;3.9
-C5 5MP;270 MB;White, Warm Grey, All Black;256 MB RAM;2.2
-C2-06;270 MB;Graphite;ram;2.6
-C2-03;270 MB;Chrome Black, Golden White;ram;2.6
-C2-02;270 MB;Chrome Black, Golden White;ram;2.6
-702T;8 GB;Black, White;256 MB RAM;2.46
-T7;290 MB;Black, Lime;256 MB RAM;3.5
-N950;8.5 GB user available;Black;1 GB RAM;4.0
-Oro;8 GB;Nokia Oro Light, Nokia Oro Dark;256 MB RAM;3.5
-X1-01;8 GB;Red, Dark Grey, Ocean Blue, Orange, White;ram;1.8
-X7-00;256 MB RAM;Dark steel, Silver steel;1 GB ROM;4.0
-E6;8 GB;Black, White, Silver;256 MB RAM;2.46
-C7 Astound;8 GB;Frosty metal;256 MB RAM;3.5
-X1-00;8 GB;Orange, Ocean blue, dark gray;ram;1.8
-X2-01;55 MB;Red, DeepGrey, Silver, Lilac, Azure;64 MB RAM;2.4
-C2-01;43 MB;Black, Warm silver, White;64 MB RAM;2.0
-C5-03;40 MB;Graphite Black, Lime Green, Petrol Blue, Aluminum Grey, Pink/black;128 MB RAM;3.2
-E7;16 GB;Dark Grey, Silver White, Green, Blue, Orange;256 MB RAM;4.0
-C6-01;340 MB;Silver Grey, Black;256 MB RAM;3.2
-C7;8 GB;Charcoal black, Frosty metal, Mahogany brown;256 MB RAM;3.5
-C3-01 Touch and Type;30 MB;Silver, Warm grey, Golden khaki;64 MB RAM;2.4
-5250;30 MB;Dark Grey, Blue, Red, Purple, White;ram;2.8
-X3 Touch and Type S;30 MB;Various;ram;
-X3-02 Touch and Type;256 MB ROM;White Silver, Dark Metal, Petrol Blue, Pink, Lilac;128 MB RAM (RM-775);2.4
-X6 8GB;8 GB;Azure, Black,  Amethyst;128 MB RAM;3.2
-X5-01;8 GB;Pink, Azure, Graphite Black, Yellow Green, Purple;ram;2.36
-5233;70 MB;Black, White; various back covers;128 MB RAM;3.2
-E73 Mode;70 MB;Titanium;ram;2.4
-C2-00;64 MB ROM;Dynamic Gray, Jet Black, Magenta, Dark Blue, Snow White;16 MB RAM;1.8
-C1-02;10 MB;Black, Dark Plum, Blue and Cool Grey;64 MB ROM;1.8
-C1-01;10 MB;Dark Grey, Warm Grey, Red and Midnight Blue;16 MB RAM;1.8
-C1-00;20 dialed;Medium Blue, Red, Light Gray, Sea Green;20 received;1.8
-N8;16 GB;Dark Grey, Silver White, Green, Blue, Orange, Pink, Bronze;256 MB RAM;3.5
-X2-00;48 MB;Red on Black, Blue on SIlver;128 MB ROM;2.2
-C6;48 MB;White, Black;ram;3.2
-E5;48 MB;Carbon Black, Chalk White, Sky Blue, Copper Brown, Silver Grey;ram;2.36
-C3;55 MB;Slate Grey, Golden White, Hot Pink, Black;64 MB RAM;2.4
-C5;50 MB;White, Warm Grey;128 MB RAM;2.2
-C5 TD-SCDMA;50 MB;White, Black;ram;2.4
-X5 TD-SCDMA;50 MB;Various;ram;2.4
-6303i classic;50 MB;Steel, Matt Black, Chestnut, Illuvial pink, White on Silver, Khaki on Gold;ram;2.2
-5132 XpressMusic;50 MB;Gray, Yellow;ram;2.0
-X6 16GB;16 GB;Black, Pink on White, Yellow on White;128 MB RAM;3.2
-2710 Navigation Edition;64 MB RAM;Jet Black, Warm Silver, White Silver;128 MB ROM;2.2
-X6;32 GB;Blue on White, Red on Black;128 MB RAM;3.2
-6700 slide;45 MB;Aluminum, Pink, Petrol-blue, Red, Lime, Purple;128 MB RAM;2.2
-7230;45 MB;Graphite, Hot Pink;ram;2.4
-5330 Mobile TV Edition;45 MB;Glossy Black, Glossy White;ram;2.4
-2690;20 dialed;Graphite, White silver, Hot pink, Blue;20 received;1.8
-2220 slide;20 dialed;Hot Pink, Graphite, Turquoise, Warm Silver, Purple, Blue;ram;1.8
-1800;20 dialed;Silver Grey, Black, Orchid Red, Ash Blue;20 received;1.8
-1616;20 dialed;Black, Dark Blue, Dark Gray, Dark Red;20 received;1.8
-1280;20 dialed;Black, Gray, Blue, Orchid;20 received;1.36
-5235 Comes With Music;20 dialed;Black, White;ram;3.2
-6788;4 GB;Black, Brown;128 MB RAM;2.8
-N97 mini;8 GB;Gold, Cherry Black, Garnet, White;128 MB RAM;3.2
-X3;8 GB;Red on Black, Blue on Silver;ram;2.2
-N900;32 GB;Black;256 MB RAM;3.5
-5230;70 MB;Black, White;128 MB RAM;3.2
-3208c;70 MB;Pearl White, Graphite Black;ram;2.4
-5800 Navigation Edition;81 MB;Chrome, Black;128 MB RAM;3.2
-6350;81 MB;Red, Graphite;ram;2.0
-Mural;81 MB;Gunmetal with cover illumination with six colors;ram;2.2
-6760 slide;81 MB;Black, Red, White;ram;2.4
-6790 Surge;81 MB;Black;ram;2.4
-3720 classic;81 MB;Gray, Yellow;ram;2.2
-5530 XpressMusic;70 MB;Red on black, Blue on white, Grey on black, Pink on white, Yellow on white;128 MB SDRAM;2.9
-E72;250 MB;White, Zodium Black, Metal Grey, Topaz Brown, Amethyst Purple, White Edition;128 MB RAM;2.36
-3710 fold;250 MB;Pink, Plum, Black;ram;2.2
-6730 classic;250 MB;Yes;ram;2.2
-6600i slide;250 MB;Black, Silver;ram;2.2
-7020;250 MB;Graphite, Hot Pink, Silver, Blue;ram;2.2
-2720 fold;250 MB;Black, Deep Red;ram;1.8
-2730 classic;250 MB;Black or Dark Magenta;ram;2.0
-E52;250 MB;Metal Grey Aluminium, Golden Aluminium, Graphite Grey, Black;ram;2.4
-6216 classic;250 MB;Coco Pearl;ram;2.0
-5730 XpressMusic;100 MB;Red, Monochrome, Blue, Pink;128 MB RAM;2.4
-5330 XpressMusic;100 MB;Black/Red, Silver/Blue;ram;2.4
-5030 XpressRadio;100 MB;Red, Graphite;ram;1.8
-N86 8MP;8 GB;Indigo Black, White;128 MB RAM;2.6
-E75;8 GB;Silver black, Red and Copper yellow;ram;2.4
-E55;8 GB;Black Aluminium, White Aluminium, Red;ram;2.4
-6720 classic;8 GB;Titanium, Grey, Brown;ram;2.2
-6710 Navigator;8 GB;Titanium, Brown, Black;ram;2.6
-5630 XpressMusic;60 MB;Red on black, Blue on grey, Chrome on grey;128 MB RAM;2.2
-6700 classic;60 MB;Gold, White Gold, Illuvial, Silver metallic, Matte metallic, Black metallic;ram;2.2
-6303 classic;60 MB;Steel, Matt Black;ram;2.2
-2700 classic;60 MB;Jet Black, Mahogany Red, Frost Gray;ram;2.0
-6208c;60 MB;Titanium Gray;ram;2.4
-8800 Gold Arte;60 MB;Gold;ram;2.0
-N97;32 GB;White, Black;128 MB RAM;3.5
-6260 slide;32 GB;Black, Beige;ram;2.4
-E63;32 GB;Ultramarine Blue, Ruby Red, Black;ram;2.36
-7100 Supernova;32 GB;Jelly red, Fresh blue, Black;ram;2.0
-5130 XpressMusic;32 GB;Red, Blue, White Aqua (T-Mobile exclusive);ram;2.0
-2330 classic;32 GB;Black, Deep red;ram;1.8
-2323 classic;32 GB;Black;ram;1.8
-1662;32 GB;Black, Blue;ram;1.8
-1661;32 GB;Black, Grey;ram;1.8
-1202;20 dialed;Midnight black, Violet blue, Silver grey (Nokia 1203);20 received;1.3
-5800 XpressMusic;81 MB;Black, Red, Blue;128 MB RAM;3.2
-N85;81 MB;Copper, Black;ram;2.6
-N79;81 MB;Canvas white, Seal grey, Petrol black;ram;2.4
-8800 Carbon Arte;81 MB;Black;ram;2.0
-3610 fold;81 MB;Blue, Red, Green, Rose;ram;2.0
-7610 Supernova;81 MB;Muted Gray, Steel Blue, Red, Bright Lilac, Pristine White, Graphite, Passionate Purple;ram;2.0
-7510 Supernova;81 MB;Storm Blue, Red, Emerald Green, Espresso Brown, Graphite, Passionate Purple;ram;2.2
-7310 Supernova;81 MB;Steel Blue, Wasabi Green, Candy Pink, Mushroom Silver, Plum Jam, Electric Blue, Yellow Mellow, Graph;ram;2.0
-7210 Supernova;81 MB;Bubble Gum Pink, Vivid Blue, Graphite, Passionate Purple;ram;2.0
-E71;110 MB;White Steel, Grey Steel, Black, Red;128 MB RAM;2.36
-E66;110 MB;White Steel, Grey Steel, Black, Red;128 MB RAM;2.4
-6600 fold;110 MB;Mysterious black, Sophisticated purple;ram;2.13
-703;8 GB;Various;512 MB RAM;3.7
-6600 slide;8 GB;Black;ram;2.2
-3600 slide;8 GB;Charcoal, Wine;ram;2.0
-5320 XpressMusic;8 GB;Blue, Red;ram;2.0
-5220 XpressMusic;8 GB;Blue, Red, Green;ram;2.0
-6212 classic;8 GB;Black;ram;2.0
-5000;8 GB;Cyber Green, Neon Blue, Perfect Purple;ram;2.0
-7070 Prism;8 GB;Black & Pink accent, Black & Blue accent;ram;1.8
-2680 slide;12 MB;Slate Gray, Night Blue, Orange, Violet;4 MB RAM;1.8
-1680 classic;12 MB;Black, Slate Gray, Wine Red, Deep Plum;ram;1.85
-6300i;12 MB;Grey;ram;2.0
-N96;16 GB;Black, Silver, Quartz;128 MB RAM;2.8
-N78;76 MB;Brown, Blue, White;96 MB RAM;2.4
-6220 classic;120 MB;Black and Cyan, Purple;128 MB RAM;2.2
-6210 Navigator;120 MB;Black, Red;128 MB RAM;2.4
-6124 classic;35 MB;Black, White;64 MB RAM;2.0
-6650 fold;35 MB;Silver, Black;ram;2.2
-3555;35 MB;Black, Blue, Gray;ram;1.8
-3120 classic;35 MB;Graphite, Plum/Powder White, Deep Red, Chestnut Brown;ram;2.0
-7900 Crystal Prism;35 MB;Black;ram;2.0
-2600 classic;35 MB;Black, Orange, Blue, Beige;ram;1.77
-1209;20 dialed;Blue, Gray;20 received;1.4
-3110 Evolve;20 dialed;Grey;ram;1.8
-N82;100 MB;Silver, Black;128 MB RAM;2.4
-8800 Sapphire Arte;100 MB;Brown;ram;2.0
-8800 Arte;100 MB;Black;ram;2.0
-6301;100 MB;Cocoa;ram;2.0
-E51;130 MB;Black, Silver;96 MB RAM;2.0
-E51 camera-free;130 MB;Black, Silver;96 MB RAM;2.0
-6263;20 dialed;Black;20 received;2.2
-N81 8GB;8 GB;Cocoa brown;96 MB RAM;2.4
-N81;12 MB;Cobalt blue, Graphite grey;96 MB RAM;2.4
-N95 8GB;8 GB;Black;128 MB RAM;2.8
-5610 XpressMusic;8 GB;Red, Blue;ram;2.2
-5310 XpressMusic;8 GB;Red, Blue, Pink, Black;ram;2.1
-6555;8 GB;Black, Red, Silver, Beige;ram;2.0
-7900 Prism;8 GB;Black;ram;2.0
-7500 Prism;8 GB;Black;ram;2.0
-8600 Luna;8 GB;Black;ram;2.0
-6500 slide;8 GB;Steel, Black;ram;2.2
-6500 classic;8 GB;Black, Bronze;ram;2.0
-N810;128 MB RAM;Silver, Black;256 MB ROM;4.13
-3500 classic;128 MB RAM;Grey, Pink, Mandarine, Azure Blue;ram;1.8
-2630;128 MB RAM;Black;ram;1.8
-N87;microSD;Black, Brown;up to 32 GB (dedicated slot);
-6267;microSD;Black, Orange, Lavender and Electric Blue;ram;2.2
-2760;microSD;Navy Blue, Velvet Red, Sandy Gold, Smoky Grey, Metallic Black;ram;1.9
-2660;microSD;Black;ram;1.85
-1650;microSD;Metallic Red, Metallic Black;ram;1.8
-1208;microSD;Red, Black;ram;1.5
-1200;microSD;Blue, Black;ram;1.5
-6120 classic;32 MB;Black, Pearl White;64 MB RAM;2.0
-6121 classic;32 MB;Black, Pearl White, Pink, Sand Gold;64 MB RAM;2.0
-5700;38 MB;Red, Gray, Black;64 MB RAM;2.2
-5070;38 MB;Red, Blue;ram;1.87
-E90;38 MB;Red, Mocha;ram;4.0
-E65;50 MB;Red, Mocca, Black, Full Black, Bronze Black, Pink, Plum, White;64 MB RAM;2.2
-E61i;60 MB;Silver, Mocca;64 MB RAM;2.8
-N77;20 MB;Black;64 MB RAM;2.4
-6110 Navigator;40 MB;White, Black;128 MB RAM;2.2
-N800;128 MB RAM;Silver, Black;256 MB ROM;4.13
-3109 classic;128 MB RAM;Grey;ram;1.8
-3110 classic;128 MB RAM;Black, Pink, Blue;ram;1.8
-N76;26 MB;Red, Black, White;96 MB RAM;2.4
-N93i;50 MB;Silver, Black;64 MB RAM;2.4
-6290;45 MB;Black, Light Blue;64 MB RAM;2.2
-6086;45 MB;Pearl Grey, Warm Grey;ram;1.8
-6300;45 MB;Silver, Black, Red-Silver, White-Silver;ram;2.0
-2626;45 MB;Fiery Red, Spatial Blue, Energetic Copper, WhiteNavy;ram;1.5
-N95;160 MB;Silver,  Plum, Black, Pink, Red;64 MB RAM;2.6
-N75;40 MB;Chocolate Black;64 MB RAM;2.4
-5300;40 MB;Red, Black;ram;2.1
-5200;40 MB;Red, Blue;ram;2.0
-6288;40 MB;White, Black, Red, Blue;ram;2.2
-6085;40 MB;;ram;1.8
-8800 Sirocco;40 MB;Silver, Black, Gold Edition;ram;1.7
-7390;40 MB;Bronze Black, Powder Pink;ram;2.3
-7373;40 MB;Bronze Black, Powder Pink;ram;2.0
-6151;40 MB;Black;ram;1.8
-6080;40 MB;Black, Gold;ram;1.78
-1110i;40 MB;Xpress-on covers;ram;
-E50;70 MB;Silver, Black;32 MB RAM;2.1
-5500 Sport;8 MB;Black and gray;64 MB RAM;1.7
-N93;50 MB;Black, Silver;64 MB RAM;2.4
-N73;42 MB;Silver Grey/Deep Plum, Frost White/Metallic Red, Black (Music Edition);64 MB RAM;2.4
-N72;42 MB;Gloss Black, Pearl Pink;ram;2.1
-2610;42 MB;Black, Brown;ram;1.6
-2310;42 MB;Red, Blue, White;ram;1.5
-1112;42 MB;Red, Blue, Black;ram;
-6136;42 MB;Black;ram;1.8
-6133;42 MB;Black;ram;2.2
-6131;42 MB;Black, White, Red, Sand;ram;2.2
-6126;42 MB;Black, White, Red, Sand;ram;2.2
-6070;42 MB;Silver;ram;1.8
-6125;42 MB;Black;ram;1.8
-6103;42 MB;Black, Red;ram;1.8
-6233;42 MB;Black;ram;2.0
-6234;42 MB;Silver;ram;2.0
-6282;42 MB;Black;ram;2.2
-9300i;42 MB;Silver;ram;4.0
-N92;40 MB;;64 MB RAM;2.8
-N80;40 MB;Silver, Black;64 MB RAM;2.1
-N71;40 MB;;ram;2.4
-7380;40 MB;White, Amber;ram;
-7370;40 MB;Coffee brown, Warm amber;ram;2.0
-7360;40 MB;Coffee brown, Warm amber, Black chrome, Poeder Pink;ram;1.9
-E70;64 MB;Silver, Black;64 MB RAM;2.1
-E62;80 MB;Silver;32 MB RAM;2.9
-E61;64 MB;Silver;64 MB RAM;2.9
-E60;64 MB;Silver;64 MB RAM;2.1
-3250;10 MB;Black, Green, Pink, Silver;64 MB RAM;2.1
-6708;10 MB;Grey;ram;2.7
-6280;10 MB;Carbon Black, Graphite grey;ram;2.2
-6270;10 MB;2 - Light Blue and Dark Brown;ram;2.2
-6111;10 MB;3 - Silver on Pearl White, Glossy Black on Silver, Dark;ram;1.8
-6060;10 MB;Black, Silver, Red, Blue;ram;1.8
-N91;4/8 GB;Light Blue Chrome, Dark Gray Chrome, Black (Music Edition);64 MB RAM;2.1
-N90;4/8 GB;;ram;2.1
-N70;4/8 GB;Silver, Ivory/Pearl, Black (Music Edition);ram;2.1
-2652;4/8 GB;Cell and Fleur motifs;ram;
-1600;4/8 GB;Xpress-on covers;ram;1.4
-1110;4/8 GB;Xpress-on covers;ram;
-1101;4/8 GB;Xpress-on covers;ram;
-5140i;4/8 GB;3 - Black, Orange and Dark Green Transceiver;ram;1.5
-8800;4/8 GB;Silver, Black Edition (for the Russian market);ram;1.7
-6230i;4/8 GB;Silver Grey, Black , White;ram;1.5
-6021;4/8 GB;Black;ram;1.56
-6030;4/8 GB;Black, Champagne;ram;1.5
-6680;4/8 GB;Bronze, Silver;ram;2.1
-6681;4/8 GB;Electric Blue, Pearl White;ram;2.1
-6101;4/8 GB;Black;ram;1.8
-6822;4/8 GB;;ram;1.5
-7710;4/8 GB;;ram;3.5
-6020;4/8 GB;Graphite;ram;1.5
-3230;4/8 GB;Black, Red;ram;2.1
-6670;4/8 GB;Deep Blue, Aluminum Grey;ram;2.1
-7280;4/8 GB;Black;ram;
-7270;4/8 GB;;ram;2.0
-7260;10 dialed;;10 received;1.6
-9300;10 dialed;;ram;4.0
-6630;10 dialed;Light Gray;ram;2.1
-6260;10 dialed;2 - Silver, Black;ram;2.1
-6170;10 dialed;Silver;ram;2.0
-3128;10 dialed;Gold, Red, Blue;ram;
-2650;10 dialed;Silver, Red, Brown;10 received;
-2600;10 dialed;Iron blue, Tree green;ram;1.5
-3220;10 dialed;Red, Blue;ram;1.5
-N-Gage QD;10 dialed;;ram;2.1
-3120;10 dialed;Lime Tree Green, Iron Blue;10 received;1.6
-7610;10 dialed;Ruby and Onyx;ram;2.1
-9500;10 dialed;Tin Grey;ram;4.5
-5140;10 dialed;;ram;1.5
-6610i;10 dialed;3 - Black, White, Grey;ram;1.5
-3108;10 dialed;;ram;1.45
-7700;10 dialed;2 - Black, White;ram;3.5
-7200;10 dialed;Grey Blue, Black, and Brown + White (limited edition);ram;1.5
-6230;10 dialed;2 - Graphite, Pearl White;ram;1.5
-6820;10 dialed;;ram;1.6
-6810;10 dialed;;ram;1.6
-3660;10 dialed;Red, Blue;ram;2.1
-7600;10 dialed;;ram;2.0
-3200;10 dialed;;ram;1.56
-2300;10 dialed;Xpress-on covers;10 received;
-1100;10 dialed;Xpress-on covers;ram;
-6620;10 dialed;Light Gray;ram;2.1
-6600;10 dialed;Light Gray;ram;2.1
-3100;- MMS;3 - Blue, Red, White;max 45 kB each;1.5
-7250i;- MMS;Blue, Plum, Brown, Olive, Grey, Green;ram;
-6108;- MMS;3 -  Silver Blue, Silver Yellow and Silver Rose;ram;
-6220;- MMS;2 - Blue and Plum;ram;1.5
-3300;- MMS;Orange and Black Blue;ram;1.7
-N-Gage;- Shared memory for images;;contact data;2.1
-7250;- Shared memory for images;2 - Blue and Plum,;ram;
-8910i;- Shared memory for images;;ram;1.25
-6800;- 10 predefined images;;replaceable;1.7
-6100;- 10 predefined images;3 -  Dark blue, Light blue and Yellowish beige;ram;1.5
-5100;- 10 predefined images;Xpress-on covers;ram;1.5
-2100;- 10 predefined images;3 (Yellow, Green, and Grey) + Xpress-on covers;ram;
-6650;- 10 predefined images;;ram;
-3650;- 10 predefined images;Dark Blue, Grey and Yellow;ram;2.1
-3530;- 10 predefined images;Xpress-on covers;ram;1.5
-3510i;- 10 predefined images;Xpress-on covers;ram;
-6610;- 10 predefined images;3 - Black, White, Grey;ram;1.5
-3610;- 10 predefined images;Ttranslucent Xpress-on covers;ram;
-9210i Communicator;40 MB;Black;8 MB RAM;4.5
-7210;40 MB;3 - Turquoise, Orange, and Brown;ram;1.5
-6310i;40 MB;3 - Jet Black, Mistral Beige, Lightning Silver;ram;
-3510;40 MB;Xpress-on covers;ram;
-3410;40 MB;Xpress-on front and back covers;ram;
-7650;40 MB;;ram;2.1
-8910;40 MB;2 - Natural Titanium and Black;ram;
-6510;40 MB;Beige, four Xpress-on front-back covers as accessories;ram;
-6500;40 MB;Beige, four Xpress-on front-back covers as accessories;ram;
-8855;40 MB;Black;ram;
-5210;40 MB;Burned Orange, four Xpress-on shells as accessories;ram;
-5510;40 MB;2 - Groove Red and Melody Blue;ram;
-8310;40 MB;9 Xpress-on covers;ram;
-6310;40 MB;3 - Jet Black, Lightening Silver and Laser Red;ram;
-3350;40 MB;User exchangeable front and back covers;ram;
-3330;40 MB;User exchangeable front and back covers;ram;
-8250;40 MB;Xpress-on covers;ram;
-9210 Communicator;40 MB;Black;ram;4.5
-3310;40 MB;User exchangeable front and back covers;ram;
-8890;40 MB;Metallic;ram;
-8210;40 MB;6 Xpress-on covers;ram;
-8850;40 MB;Metallic;ram;
-6250;40 MB;Black Night, Grey Dusk and Red Sunset;ram;
-8810;10 dialed;Metallic;10 received;
-6210;10 dialed;Black Night, Grey Dusk and Red Sunset;ram;
-7110;10 dialed;Dark green;ram;
-9110i Communicator;10 dialed;Black;ram;4.5
-9000 Communicator;10 dialed;Black;ram;
-3210;8 dialed;User exchangeable front and back covers;8 received;
-6150;10 dialed;2;10 received;
-6130;10 dialed;2;10 received;
-6110;10 dialed;2;10 received;
-5110;8 dialed;Xpress-On covers, 4 basic, 7 metallic;5 received;
-3110;10 dialed;Black;10 received;
-8110;10 dialed;black;10 received;
-2110;10 dialed;Black;10 received;
+3@#$%16 GB@#$%Silver White, Matte Black, Tempered Blue, Copper White@#$%2 GB RAM@#$%5.0@#$%Coming soon. Exp. release 2017, May
+5@#$%16 GB@#$%Tempered Blue, Silver, Matte Black, Copper@#$%2 GB RAM@#$%5.2@#$%Coming soon. Exp. release 2017, May
+6@#$%32 GB@#$%Arte Black, Matte Black, Tempered Blue, Silver, Copper@#$%3 GB RAM - Matte Black@#$%5.5@#$%Available. Released 2017, January
+3310 (2017)@#$%32 GB@#$%Warm Red (Glossy), Dark Blue (Matte), Yellow (Glossy), Grey (Matte)@#$%ram@#$%2.4@#$%Coming soon. Exp. release 2017, May
+150@#$%32 GB@#$%Black, White@#$%ram@#$%2.4@#$%Available. Released 2017, January
+216@#$%32 GB@#$%Black, Gray, Mint@#$%ram@#$%2.4@#$%Available. Released 2016, October
+230 Dual SIM@#$%32 GB@#$%Black, White@#$%ram@#$%2.8@#$%Available. Released 2015, December
+230@#$%32 GB@#$%Black, White@#$%ram@#$%2.8@#$%Available. Released 2015, December
+222 Dual SIM@#$%32 GB@#$%Black, White@#$%ram@#$%2.4@#$%Available. Released 2015, September
+222@#$%32 GB@#$%Black, White@#$%ram@#$%2.4@#$%Available. Released 2015, September
+105 Dual SIM (2015)@#$%32 GB@#$%Black, Cyan, White@#$%ram@#$%1.4@#$%Available. Released 2015, June
+105 (2015)@#$%32 GB@#$%Black, Cyan, White@#$%ram@#$%1.4@#$%Available. Released 2015, June
+215@#$%32 GB@#$%Black, White, Green@#$%ram@#$%2.4@#$%Available. Released 2015, May
+215 Dual SIM@#$%32 GB@#$%Black, White, Green@#$%ram@#$%2.4@#$%Available. Released 2015, February
+Lumia 638@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, December
+N1@#$%32 GB@#$%Natural Aluminum, Lava Gray@#$%2 GB RAM@#$%7.9@#$%Available. Released 2015, January
+Lumia 730 Dual SIM@#$%8 GB@#$%Orange, green, white, black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, September
+Lumia 735@#$%8 GB@#$%Orange, green, white, black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, September
+Lumia 830@#$%16 GB@#$%Orange, green, white, black, gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, September
+130 Dual SIM@#$%16 GB@#$%Red, black, white@#$%ram@#$%1.8@#$%Available. Released 2014, September
+130@#$%16 GB@#$%Red, black, white@#$%ram@#$%1.8@#$%Available. Released 2014, September
+Lumia 530 Dual SIM@#$%4 GB@#$%Bright orange, Bright green, White, Dark grey@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, August
+Lumia 530@#$%4 GB@#$%Bright orange, Bright green, White, Dark grey@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, August
+X2 Dual SIM@#$%4 GB@#$%Glossy green, orange black, yellow, white, matt dark grey@#$%1 GB RAM@#$%4.3@#$%Available. Released 2014, July
+225@#$%4 GB@#$%Red, yellow, green, black, white@#$%ram@#$%2.8@#$%Available. Released 2014, May
+225 Dual SIM@#$%4 GB@#$%Red, yellow, green, black, white@#$%ram@#$%2.8@#$%Available. Released 2014, May
+Lumia 930@#$%32 GB@#$%Bright orange, bright green, white, black, gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, July
+Lumia 635@#$%8 GB@#$%Bright Orange, bright green, bright yellow, white, black@#$%512 MB/ 1 GB RAM@#$%4.5@#$%Available. Released 2014, June
+Lumia 630 Dual SIM@#$%8 GB@#$%Bright Orange, bright green, bright yellow, white, black@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, May
+Lumia 630@#$%8 GB@#$%Bright Orange, bright green, bright yellow, white, black@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, May
+XL@#$%4 GB@#$%Bright green, orange, cyan, yellow, black, white@#$%768 MB RAM@#$%5.0@#$%Available. Released 2014, May
+X+@#$%4 GB@#$%Bright green, bright red, cyan, yellow, black, white@#$%768 MB RAM@#$%4.0@#$%Available. Released 2014, May
+X@#$%4 GB@#$%Bright green, bright red, cyan, yellow, black, white@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, March
+Asha 230@#$%4 GB@#$%Bright Red, Yellow, Bright Green, White, Cyan, Black@#$%ram@#$%2.8@#$%Available. Released 2014, February
+220@#$%4 GB@#$%Red, black, white, yellow, cyan@#$%ram@#$%2.4@#$%Available. Released 2014, February
+Lumia Icon@#$%32 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, February
+Lumia 525@#$%8 GB@#$%Black, White, Yellow, Red@#$%1 GB RAM@#$%4.0@#$%Available. Released 2014, January
+Lumia 1520@#$%16 GB (RM-940 only)/32 GB@#$%Yellow, white, black, red, green (AT&T)@#$%2 GB RAM@#$%6.0@#$%Available. Released 2013, November
+Lumia 1320@#$%8 GB@#$%Yellow, white, black, red@#$%1 GB RAM@#$%6.0@#$%Available. Released 2014, January
+Lumia 2520@#$%32 GB@#$%Cyan , Red, Black, White@#$%2 GB RAM@#$%10.1@#$%Available. Released 2013, December
+Asha 503 Dual SIM@#$%microSD@#$%Yellow, black, green, red, blue, white@#$%up to 32 GB (dedicated slot)@#$%3.0@#$%Available. Released 2013, November
+Asha 503@#$%microSD@#$%Yellow, black, green, red, blue, white@#$%up to 32 GB (dedicated slot)@#$%3.0@#$%Available. Released 2013, November
+Asha 502 Dual SIM@#$%microSD@#$%Bright Red, Bright Green, Cyan, Yellow, White and Black@#$%ram@#$%3.0@#$%Available. Released 2013, November
+Asha 500 Dual SIM@#$%microSD@#$%Bright Red, Bright Green, Cyan, Yellow, White and Black@#$%ram@#$%2.8@#$%Available. Released 2013, December
+Asha 500@#$%microSD@#$%Bright Red, Bright Green, Cyan, Yellow, White and Black@#$%ram@#$%2.8@#$%Available. Released 2013, December
+108 Dual SIM@#$%microSD@#$%Black, White, Red, Blue, Yellow@#$%ram@#$%1.8@#$%Available. Released 2013, October
+515@#$%256 MB@#$%White, Black@#$%64 MB RAM@#$%2.4@#$%Available. Released 2013, September
+107 Dual SIM@#$%256 MB@#$%Black, White, Red@#$%ram@#$%1.8@#$%Available. Released 2013, October
+106@#$%256 MB@#$%Black, White, Red@#$%ram@#$%1.8@#$%Available. Released 2013, November
+Lumia 625@#$%8 GB@#$%Orange, Bright green, Yellow, Black and white@#$%512 MB RAM@#$%4.7@#$%Available. Released 2013, August
+Lumia 1020@#$%32 GB@#$%Yellow, white, black, red (AT&T exclusive)@#$%2 GB RAM / 64 GB (Telefonica exclusive)@#$%4.5@#$%Available. Released 2013, July
+208@#$%256 MB@#$%Cyan , Red, Yellow, Black, White@#$%64 MB RAM@#$%2.4@#$%Available. Released 2013, July
+207@#$%256 MB@#$%Cyan , Red, Yellow, Black, White@#$%64 MB RAM@#$%2.4@#$%Available. Released 2013, October
+Lumia 925@#$%16 GB/ 32 GB (Vodafone only)@#$%Black, White, Gray@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, June
+Lumia 928@#$%32 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, May
+Asha 501@#$%128 MB@#$%Bright Red, Bright Green, Cyan, Yellow, White and Black@#$%64 MB RAM@#$%3.0@#$%Available. Released 2013, June
+Asha 210@#$%64 MB@#$%Yellow, Black, White, Cyan, Magenta@#$%32 MB RAM@#$%2.4@#$%Available. Released 2013, May
+Lumia 720@#$%8 GB@#$%White, Red, Yellow, Cyan/Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2013, April
+Lumia 520@#$%8 GB@#$%Yellow, red, cyan, white/black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, April
+301@#$%256 MB ROM@#$%Cyan, Black, Yellow, Magenta, White@#$%64 MB RAM@#$%2.4@#$%Available. Released 2013, April
+105@#$%8 MB@#$%Black, Cyan@#$%384 kB@#$%1.45@#$%Available. Released 2013, May
+Asha 310@#$%20 MB@#$%Black, White, Golden Light@#$%128 MB ROM@#$%3.0@#$%Available. Released 2013, March
+Lumia 505@#$%4 GB@#$%Black, White, Red, Pink@#$%256 MB RAM@#$%3.7@#$%Available. Released 2013, January
+Lumia 620@#$%8 GB@#$%Lime green, orange, magenta, yellow, cyan, white, black@#$%512 MB RAM@#$%3.8@#$%Available. Released 2013, January
+114@#$%8 GB@#$%Black, Magenta, Cyan@#$%ram@#$%1.8@#$%Available. Released 2012, December
+206@#$%8 GB@#$%Cyan , Magenta, Yellow, Black, White@#$%ram@#$%2.4@#$%Available. Released 2012, Q4
+Asha 205@#$%8 GB@#$%Cyan, Magenta, Orange, Pink, White@#$%ram@#$%2.4@#$%Available. Released 2012, Q4
+109@#$%64 MB ROM@#$%Black, Cyan@#$%16 MB RAM@#$%1.8@#$%Available. Released 2012, December
+Lumia 822@#$%16 GB@#$%Black, Gray, White, Red@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, November
+Lumia 510@#$%4 GB@#$%White, Cyan, Black, Red, Yellow@#$%256 MB RAM@#$%4.0@#$%Available. Released 2012, November
+Lumia 810@#$%8 GB@#$%Black, Cyan@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, November
+Asha 309@#$%20 MB@#$%Black, White@#$%128 MB ROM@#$%3.0@#$%Available. Released 2012, December
+Asha 308@#$%20 MB@#$%Black, Golden light@#$%128 MB ROM@#$%3.0@#$%Available. Released 2012, October
+Lumia 920@#$%32 GB@#$%Black, Gray, Red, Yellow, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, November
+Lumia 820@#$%8 GB@#$%Black, Gray, Red, Yellow, White, Blue, Violet@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, November
+Asha 311@#$%140 MB@#$%Dark Grey, Rose Red, Blue, Brown, Sand White@#$%256 MB ROM@#$%3.0@#$%Available. Released 2012, August
+Asha 306@#$%10 MB@#$%Silver White, Red, Mid Blue, Dark Grey@#$%64 MB ROM@#$%3.0@#$%Available. Released 2012, July
+Asha 305@#$%10 MB@#$%Silver White, Red, Mid Blue, Dark Grey@#$%64 MB ROM@#$%3.0@#$%Available. Released 2012, July
+113@#$%10 MB@#$%Black, Magenta, Lime Green, Cyan@#$%ram@#$%1.8@#$%Available. Released 2012, September
+112@#$%10 MB@#$%Dark Grey, White, Red, Cyan@#$%ram@#$%1.8@#$%Available. Released 2012, September
+111@#$%10 MB@#$%Black, Magenta, Lime Green, Cyan@#$%ram@#$%1.8@#$%Available. Released 2012, September
+110@#$%10 MB@#$%Black, Magenta, Lime Green, Cyan@#$%ram@#$%1.8@#$%Available. Released 2012, June
+Lumia 610 NFC@#$%8 GB@#$%Black, white@#$%256 MB RAM@#$%3.7@#$%Available. Released 2012, September
+103@#$%8 GB@#$%Blue/Orange@#$%ram@#$%1.36@#$%Available. Released 2012, Q4
+808 PureView@#$%16 GB@#$%Black, White, Red@#$%1 GB ROM@#$%4.0@#$%Available. Released 2012, June
+800c@#$%16 GB@#$%Black, Cyan@#$%512 MB RAM@#$%3.7@#$%Available. Released 2012, September
+Lumia 610@#$%8 GB@#$%White, Cyan, Magenta, Black@#$%256 MB RAM@#$%3.7@#$%Available. Released 2012, April
+Asha 302@#$%100 MB@#$%Dark Grey, Mid Blue, Plum Red, White, Golden Light@#$%256 MB ROM@#$%2.4@#$%Available. Released 2012, March
+Asha 203@#$%10 MB@#$% Dark Red, Dark Grey, Silver White@#$%32 MB ROM@#$%2.4@#$%Available. Released 2012, May
+Asha 202@#$%10 MB@#$%Dark Red, Black, Silver White, Dark Grey, Golden White@#$%32 MB ROM@#$%2.4@#$%Available. Released 2012, June
+Lumia 900@#$%16 GB@#$%Black, cyan, white, magenta@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, May
+Lumia 900 AT&T@#$%16 GB@#$%Matte black, cyan, pink@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, April
+801T@#$%8 GB@#$%Black@#$%256 MB RAM@#$%4.0@#$%Available. Released 2012, September
+X2-02@#$%10 MB@#$%Bright Red, Dark Silver, Orange, Violet, Ocean Blue@#$%64 MB ROM@#$%2.2@#$%Available. Released 2012, January
+Lumia 800@#$%16 GB@#$%Black, Cyan, Magenta, White@#$%512 MB RAM@#$%3.7@#$%Available. Released 2011, November
+Lumia 710 T-Mobile@#$%8 GB@#$%Black, white/black@#$%512 MB RAM@#$%3.7@#$%Available. Released 2012, January
+Lumia 710@#$%8 GB@#$%Black, White (front)/ black, white, cyan, fuchsia, yellow (back)@#$%512 MB RAM@#$%3.7@#$%Available. Released 2011, December
+Asha 303@#$%170 MB (100 MB user available)@#$%Red, Graphite, Silver White, Aqua, Green, Purple@#$%256 MB ROM@#$%2.6@#$%Available. Released 2011, December
+Asha 300@#$%140 MB@#$%Graphite, Night Shade, Gold, White Silver, Pink, Red@#$%256 MB ROM@#$%2.4@#$%Available. Released 2011, November
+Asha 201@#$%10 MB@#$%Graphite, Green, Blue, Aqua, Pearl White, Light Pink, Pink, Orange@#$%64 MB ROM@#$%2.4@#$%Available. Released 2012, February
+Asha 200@#$%10 MB@#$%Graphite, Green, Blue, Aqua, Pearl White, Light Pink, Pink, Orange@#$%64 MB ROM@#$%2.4@#$%Available. Released 2011, December
+603@#$%2 GB (340 MB user available)@#$%Black, white (front panel)/ black, white, fuchsia, green, yellow, blue (back panel)@#$%512 MB RAM@#$%3.5@#$%Available. Released 2011, October
+C2-05@#$%2 GB (340 MB user available)@#$%Dynamic Gray, Peacock Blue, Pink@#$%ram@#$%2.0@#$%Available. Released 2011, December
+X2-05@#$%2 GB (340 MB user available)@#$%Black, Silver, White, Bright Red@#$%ram@#$%2.2@#$%Available. Released 2011, December
+C5-06@#$%40 MB@#$%Graphite Black, Aluminium Grey, Red, Orange, Blue, Black Illuvial, White Illuvial, White/Red, White/Orange@#$%128 MB RAM@#$%3.2@#$%Available. Released 2012, March
+C5-05@#$%40 MB@#$%Black/Aluminium grey, Black Lilac, White Lilac, White/Graphite grey@#$%128 MB RAM@#$%3.2@#$%Available. Released 2011, December
+C5-04@#$%60 MB@#$%Graphite Black, Aluminium Grey, Red, Orange, Blue, Black Illuvial, White Illuvial, White/Red, White/Orange@#$%128 MB RAM@#$%3.2@#$%Available. Released 2011, December
+101@#$%60 MB@#$%Phantom Black, Coral Red@#$%ram@#$%1.8@#$%Available. Released 2011, October
+100@#$%60 MB@#$%Legion Blue, Festival  Pink, Ocean Blue Phantom Black, Coral Red@#$%ram@#$%1.8@#$%Available. Released 2011, November
+701@#$%8 GB@#$%Steel dark, silver light, amethyst violet, white@#$%512 MB RAM@#$%3.5@#$%Available. Released 2011, September
+700@#$%2 GB@#$%Cool Grey, Silver/White, Coral Red, Peacock Blue and  Purple@#$%1 GB ROM@#$%3.2@#$%Available. Released 2011, September
+600@#$%2 GB@#$%Black, White, Pink and Lime@#$%ram@#$%3.2@#$%Cancelled
+C3-01 Gold Edition@#$%140 MB@#$%Gold@#$%64 MB RAM@#$%2.4@#$%Available. Released 2011, August
+500@#$%2 GB@#$%Black/White with covers in Black, Azure Blue, Coral Red, Purple, Khaki, Orange, Green, Pink, Silver@#$%256 MB RAM@#$%3.2@#$%Available. Released 2011, September
+N9@#$%16/64 GB@#$%Black, Cyan, Magenta, Glossy white@#$%1 GB RAM@#$%3.9@#$%Available. Released 2011, September
+C5 5MP@#$%270 MB@#$%White, Warm Grey, All Black@#$%256 MB RAM@#$%2.2@#$%Available. Released 2011, September
+C2-06@#$%270 MB@#$%Graphite@#$%ram@#$%2.6@#$%Available. Released 2011, November
+C2-03@#$%270 MB@#$%Chrome Black, Golden White@#$%ram@#$%2.6@#$%Discontinued
+C2-02@#$%270 MB@#$%Chrome Black, Golden White@#$%ram@#$%2.6@#$%Available. Released 2011, August
+702T@#$%8 GB@#$%Black, White@#$%256 MB RAM@#$%2.46@#$%Available. Released 2011, Q3
+T7@#$%290 MB@#$%Black, Lime@#$%256 MB RAM@#$%3.5@#$%Available. Released 2011, Q3
+N950@#$%8.5 GB user available@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available
+Oro@#$%8 GB@#$%Nokia Oro Light, Nokia Oro Dark@#$%256 MB RAM@#$%3.5@#$%Available. Released 2011, August
+X1-01@#$%8 GB@#$%Red, Dark Grey, Ocean Blue, Orange, White@#$%ram@#$%1.8@#$%Available. Released 2011, June
+X7-00@#$%256 MB RAM@#$%Dark steel, Silver steel@#$%1 GB ROM@#$%4.0@#$%Available. Released 2011, June
+E6@#$%8 GB@#$%Black, White, Silver@#$%256 MB RAM@#$%2.46@#$%Available. Released 2011, June
+C7 Astound@#$%8 GB@#$%Frosty metal@#$%256 MB RAM@#$%3.5@#$%Discontinued
+X1-00@#$%8 GB@#$%Orange, Ocean blue, dark gray@#$%ram@#$%1.8@#$%Discontinued
+X2-01@#$%55 MB@#$%Red, DeepGrey, Silver, Lilac, Azure@#$%64 MB RAM@#$%2.4@#$%Available. Released 2011, January
+C2-01@#$%43 MB@#$%Black, Warm silver, White@#$%64 MB RAM@#$%2.0@#$%Available. Released 2011, March
+C5-03@#$%40 MB@#$%Graphite Black, Lime Green, Petrol Blue, Aluminum Grey, Pink/black@#$%128 MB RAM@#$%3.2@#$%Discontinued
+E7@#$%16 GB@#$%Dark Grey, Silver White, Green, Blue, Orange@#$%256 MB RAM@#$%4.0@#$%Available. Released 2011, February
+C6-01@#$%340 MB@#$%Silver Grey, Black@#$%256 MB RAM@#$%3.2@#$%Discontinued
+C7@#$%8 GB@#$%Charcoal black, Frosty metal, Mahogany brown@#$%256 MB RAM@#$%3.5@#$%Discontinued
+C3-01 Touch and Type@#$%30 MB@#$%Silver, Warm grey, Golden khaki@#$%64 MB RAM@#$%2.4@#$%Discontinued
+5250@#$%30 MB@#$%Dark Grey, Blue, Red, Purple, White@#$%ram@#$%2.8@#$%Discontinued
+X3 Touch and Type S@#$%30 MB@#$%Various@#$%ram@#$%@#$%Discontinued
+X3-02 Touch and Type@#$%256 MB ROM@#$%White Silver, Dark Metal, Petrol Blue, Pink, Lilac@#$%128 MB RAM (RM-775)@#$%2.4@#$%Discontinued
+X6 8GB@#$%8 GB@#$%Azure, Black,  Amethyst@#$%128 MB RAM@#$%3.2@#$%Discontinued
+X5-01@#$%8 GB@#$%Pink, Azure, Graphite Black, Yellow Green, Purple@#$%ram@#$%2.36@#$%Discontinued
+5233@#$%70 MB@#$%Black, White; various back covers@#$%128 MB RAM@#$%3.2@#$%Discontinued
+E73 Mode@#$%70 MB@#$%Titanium@#$%ram@#$%2.4@#$%Discontinued
+C2-00@#$%64 MB ROM@#$%Dynamic Gray, Jet Black, Magenta, Dark Blue, Snow White@#$%16 MB RAM@#$%1.8@#$%Discontinued
+C1-02@#$%10 MB@#$%Black, Dark Plum, Blue and Cool Grey@#$%64 MB ROM@#$%1.8@#$%Available. Released 2011, January
+C1-01@#$%10 MB@#$%Dark Grey, Warm Grey, Red and Midnight Blue@#$%16 MB RAM@#$%1.8@#$%Discontinued
+C1-00@#$%20 dialed@#$%Medium Blue, Red, Light Gray, Sea Green@#$%20 received@#$%1.8@#$%Discontinued
+N8@#$%16 GB@#$%Dark Grey, Silver White, Green, Blue, Orange, Pink, Bronze@#$%256 MB RAM@#$%3.5@#$%Discontinued
+X2-00@#$%48 MB@#$%Red on Black, Blue on SIlver@#$%128 MB ROM@#$%2.2@#$%Discontinued
+C6@#$%48 MB@#$%White, Black@#$%ram@#$%3.2@#$%Discontinued
+E5@#$%48 MB@#$%Carbon Black, Chalk White, Sky Blue, Copper Brown, Silver Grey@#$%ram@#$%2.36@#$%Discontinued
+C3@#$%55 MB@#$%Slate Grey, Golden White, Hot Pink, Black@#$%64 MB RAM@#$%2.4@#$%Discontinued
+C5@#$%50 MB@#$%White, Warm Grey@#$%128 MB RAM@#$%2.2@#$%Discontinued
+C5 TD-SCDMA@#$%50 MB@#$%White, Black@#$%ram@#$%2.4@#$%Discontinued
+X5 TD-SCDMA@#$%50 MB@#$%Various@#$%ram@#$%2.4@#$%Discontinued
+6303i classic@#$%50 MB@#$%Steel, Matt Black, Chestnut, Illuvial pink, White on Silver, Khaki on Gold@#$%ram@#$%2.2@#$%Discontinued
+5132 XpressMusic@#$%50 MB@#$%Gray, Yellow@#$%ram@#$%2.0@#$%Discontinued
+X6 16GB@#$%16 GB@#$%Black, Pink on White, Yellow on White@#$%128 MB RAM@#$%3.2@#$%Discontinued
+2710 Navigation Edition@#$%64 MB RAM@#$%Jet Black, Warm Silver, White Silver@#$%128 MB ROM@#$%2.2@#$%Discontinued
+X6@#$%32 GB@#$%Blue on White, Red on Black@#$%128 MB RAM@#$%3.2@#$%Discontinued
+6700 slide@#$%45 MB@#$%Aluminum, Pink, Petrol-blue, Red, Lime, Purple@#$%128 MB RAM@#$%2.2@#$%Discontinued
+7230@#$%45 MB@#$%Graphite, Hot Pink@#$%ram@#$%2.4@#$%Discontinued
+5330 Mobile TV Edition@#$%45 MB@#$%Glossy Black, Glossy White@#$%ram@#$%2.4@#$%Discontinued
+2690@#$%20 dialed@#$%Graphite, White silver, Hot pink, Blue@#$%20 received@#$%1.8@#$%Discontinued
+2220 slide@#$%20 dialed@#$%Hot Pink, Graphite, Turquoise, Warm Silver, Purple, Blue@#$%ram@#$%1.8@#$%Discontinued
+1800@#$%20 dialed@#$%Silver Grey, Black, Orchid Red, Ash Blue@#$%20 received@#$%1.8@#$%Discontinued
+1616@#$%20 dialed@#$%Black, Dark Blue, Dark Gray, Dark Red@#$%20 received@#$%1.8@#$%Discontinued
+1280@#$%20 dialed@#$%Black, Gray, Blue, Orchid@#$%20 received@#$%1.36@#$%Discontinued
+5235 Comes With Music@#$%20 dialed@#$%Black, White@#$%ram@#$%3.2@#$%Discontinued
+6788@#$%4 GB@#$%Black, Brown@#$%128 MB RAM@#$%2.8@#$%Discontinued
+N97 mini@#$%8 GB@#$%Gold, Cherry Black, Garnet, White@#$%128 MB RAM@#$%3.2@#$%Discontinued
+X3@#$%8 GB@#$%Red on Black, Blue on Silver@#$%ram@#$%2.2@#$%Discontinued
+N900@#$%32 GB@#$%Black@#$%256 MB RAM@#$%3.5@#$%Discontinued
+5230@#$%70 MB@#$%Black, White@#$%128 MB RAM@#$%3.2@#$%Discontinued
+3208c@#$%70 MB@#$%Pearl White, Graphite Black@#$%ram@#$%2.4@#$%Discontinued
+5800 Navigation Edition@#$%81 MB@#$%Chrome, Black@#$%128 MB RAM@#$%3.2@#$%Discontinued
+6350@#$%81 MB@#$%Red, Graphite@#$%ram@#$%2.0@#$%Discontinued
+Mural@#$%81 MB@#$%Gunmetal with cover illumination with six colors@#$%ram@#$%2.2@#$%Discontinued
+6760 slide@#$%81 MB@#$%Black, Red, White@#$%ram@#$%2.4@#$%Discontinued
+6790 Surge@#$%81 MB@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+3720 classic@#$%81 MB@#$%Gray, Yellow@#$%ram@#$%2.2@#$%Discontinued
+5530 XpressMusic@#$%70 MB@#$%Red on black, Blue on white, Grey on black, Pink on white, Yellow on white@#$%128 MB SDRAM@#$%2.9@#$%Discontinued
+E72@#$%250 MB@#$%White, Zodium Black, Metal Grey, Topaz Brown, Amethyst Purple, White Edition@#$%128 MB RAM@#$%2.36@#$%Discontinued
+3710 fold@#$%250 MB@#$%Pink, Plum, Black@#$%ram@#$%2.2@#$%Discontinued
+6730 classic@#$%250 MB@#$%Yes@#$%ram@#$%2.2@#$%Discontinued
+6600i slide@#$%250 MB@#$%Black, Silver@#$%ram@#$%2.2@#$%Discontinued
+7020@#$%250 MB@#$%Graphite, Hot Pink, Silver, Blue@#$%ram@#$%2.2@#$%Discontinued
+2720 fold@#$%250 MB@#$%Black, Deep Red@#$%ram@#$%1.8@#$%Discontinued
+2730 classic@#$%250 MB@#$%Black or Dark Magenta@#$%ram@#$%2.0@#$%Discontinued
+E52@#$%250 MB@#$%Metal Grey Aluminium, Golden Aluminium, Graphite Grey, Black@#$%ram@#$%2.4@#$%Discontinued
+6216 classic@#$%250 MB@#$%Coco Pearl@#$%ram@#$%2.0@#$%Cancelled
+5730 XpressMusic@#$%100 MB@#$%Red, Monochrome, Blue, Pink@#$%128 MB RAM@#$%2.4@#$%Discontinued
+5330 XpressMusic@#$%100 MB@#$%Black/Red, Silver/Blue@#$%ram@#$%2.4@#$%Discontinued
+5030 XpressRadio@#$%100 MB@#$%Red, Graphite@#$%ram@#$%1.8@#$%Discontinued
+N86 8MP@#$%8 GB@#$%Indigo Black, White@#$%128 MB RAM@#$%2.6@#$%Discontinued
+E75@#$%8 GB@#$%Silver black, Red and Copper yellow@#$%ram@#$%2.4@#$%Discontinued
+E55@#$%8 GB@#$%Black Aluminium, White Aluminium, Red@#$%ram@#$%2.4@#$%Discontinued
+6720 classic@#$%8 GB@#$%Titanium, Grey, Brown@#$%ram@#$%2.2@#$%Discontinued
+6710 Navigator@#$%8 GB@#$%Titanium, Brown, Black@#$%ram@#$%2.6@#$%Discontinued
+5630 XpressMusic@#$%60 MB@#$%Red on black, Blue on grey, Chrome on grey@#$%128 MB RAM@#$%2.2@#$%Discontinued
+6700 classic@#$%60 MB@#$%Gold, White Gold, Illuvial, Silver metallic, Matte metallic, Black metallic@#$%ram@#$%2.2@#$%Discontinued
+6303 classic@#$%60 MB@#$%Steel, Matt Black@#$%ram@#$%2.2@#$%Discontinued
+2700 classic@#$%60 MB@#$%Jet Black, Mahogany Red, Frost Gray@#$%ram@#$%2.0@#$%Discontinued
+6208c@#$%60 MB@#$%Titanium Gray@#$%ram@#$%2.4@#$%Discontinued
+8800 Gold Arte@#$%60 MB@#$%Gold@#$%ram@#$%2.0@#$%Discontinued
+N97@#$%32 GB@#$%White, Black@#$%128 MB RAM@#$%3.5@#$%Discontinued
+6260 slide@#$%32 GB@#$%Black, Beige@#$%ram@#$%2.4@#$%Discontinued
+E63@#$%32 GB@#$%Ultramarine Blue, Ruby Red, Black@#$%ram@#$%2.36@#$%Discontinued
+7100 Supernova@#$%32 GB@#$%Jelly red, Fresh blue, Black@#$%ram@#$%2.0@#$%Discontinued
+5130 XpressMusic@#$%32 GB@#$%Red, Blue, White Aqua (T-Mobile exclusive)@#$%ram@#$%2.0@#$%Discontinued
+2330 classic@#$%32 GB@#$%Black, Deep red@#$%ram@#$%1.8@#$%Discontinued
+2323 classic@#$%32 GB@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+1662@#$%32 GB@#$%Black, Blue@#$%ram@#$%1.8@#$%Discontinued
+1661@#$%32 GB@#$%Black, Grey@#$%ram@#$%1.8@#$%Discontinued
+1202@#$%20 dialed@#$%Midnight black, Violet blue, Silver grey (Nokia 1203)@#$%20 received@#$%1.3@#$%Discontinued
+5800 XpressMusic@#$%81 MB@#$%Black, Red, Blue@#$%128 MB RAM@#$%3.2@#$%Discontinued
+N85@#$%81 MB@#$%Copper, Black@#$%ram@#$%2.6@#$%Discontinued
+N79@#$%81 MB@#$%Canvas white, Seal grey, Petrol black@#$%ram@#$%2.4@#$%Discontinued
+8800 Carbon Arte@#$%81 MB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+3610 fold@#$%81 MB@#$%Blue, Red, Green, Rose@#$%ram@#$%2.0@#$%Discontinued
+7610 Supernova@#$%81 MB@#$%Muted Gray, Steel Blue, Red, Bright Lilac, Pristine White, Graphite, Passionate Purple@#$%ram@#$%2.0@#$%Discontinued
+7510 Supernova@#$%81 MB@#$%Storm Blue, Red, Emerald Green, Espresso Brown, Graphite, Passionate Purple@#$%ram@#$%2.2@#$%Discontinued
+7310 Supernova@#$%81 MB@#$%Steel Blue, Wasabi Green, Candy Pink, Mushroom Silver, Plum Jam, Electric Blue, Yellow Mellow, Graph@#$%ram@#$%2.0@#$%Discontinued
+7210 Supernova@#$%81 MB@#$%Bubble Gum Pink, Vivid Blue, Graphite, Passionate Purple@#$%ram@#$%2.0@#$%Discontinued
+E71@#$%110 MB@#$%White Steel, Grey Steel, Black, Red@#$%128 MB RAM@#$%2.36@#$%Discontinued
+E66@#$%110 MB@#$%White Steel, Grey Steel, Black, Red@#$%128 MB RAM@#$%2.4@#$%Discontinued
+6600 fold@#$%110 MB@#$%Mysterious black, Sophisticated purple@#$%ram@#$%2.13@#$%Discontinued
+703@#$%8 GB@#$%Various@#$%512 MB RAM@#$%3.7@#$%Discontinued
+6600 slide@#$%8 GB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+3600 slide@#$%8 GB@#$%Charcoal, Wine@#$%ram@#$%2.0@#$%Discontinued
+5320 XpressMusic@#$%8 GB@#$%Blue, Red@#$%ram@#$%2.0@#$%Discontinued
+5220 XpressMusic@#$%8 GB@#$%Blue, Red, Green@#$%ram@#$%2.0@#$%Discontinued
+6212 classic@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+5000@#$%8 GB@#$%Cyber Green, Neon Blue, Perfect Purple@#$%ram@#$%2.0@#$%Discontinued
+7070 Prism@#$%8 GB@#$%Black & Pink accent, Black & Blue accent@#$%ram@#$%1.8@#$%Discontinued
+2680 slide@#$%12 MB@#$%Slate Gray, Night Blue, Orange, Violet@#$%4 MB RAM@#$%1.8@#$%Discontinued
+1680 classic@#$%12 MB@#$%Black, Slate Gray, Wine Red, Deep Plum@#$%ram@#$%1.85@#$%Discontinued
+6300i@#$%12 MB@#$%Grey@#$%ram@#$%2.0@#$%Discontinued
+N96@#$%16 GB@#$%Black, Silver, Quartz@#$%128 MB RAM@#$%2.8@#$%Discontinued
+N78@#$%76 MB@#$%Brown, Blue, White@#$%96 MB RAM@#$%2.4@#$%Discontinued
+6220 classic@#$%120 MB@#$%Black and Cyan, Purple@#$%128 MB RAM@#$%2.2@#$%Discontinued
+6210 Navigator@#$%120 MB@#$%Black, Red@#$%128 MB RAM@#$%2.4@#$%Discontinued
+6124 classic@#$%35 MB@#$%Black, White@#$%64 MB RAM@#$%2.0@#$%Discontinued
+6650 fold@#$%35 MB@#$%Silver, Black@#$%ram@#$%2.2@#$%Discontinued
+3555@#$%35 MB@#$%Black, Blue, Gray@#$%ram@#$%1.8@#$%Discontinued
+3120 classic@#$%35 MB@#$%Graphite, Plum/Powder White, Deep Red, Chestnut Brown@#$%ram@#$%2.0@#$%Discontinued
+7900 Crystal Prism@#$%35 MB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+2600 classic@#$%35 MB@#$%Black, Orange, Blue, Beige@#$%ram@#$%1.77@#$%Discontinued
+1209@#$%20 dialed@#$%Blue, Gray@#$%20 received@#$%1.4@#$%Discontinued
+3110 Evolve@#$%20 dialed@#$%Grey@#$%ram@#$%1.8@#$%Discontinued
+N82@#$%100 MB@#$%Silver, Black@#$%128 MB RAM@#$%2.4@#$%Discontinued
+8800 Sapphire Arte@#$%100 MB@#$%Brown@#$%ram@#$%2.0@#$%Discontinued
+8800 Arte@#$%100 MB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+6301@#$%100 MB@#$%Cocoa@#$%ram@#$%2.0@#$%Discontinued
+E51@#$%130 MB@#$%Black, Silver@#$%96 MB RAM@#$%2.0@#$%Discontinued
+E51 camera-free@#$%130 MB@#$%Black, Silver@#$%96 MB RAM@#$%2.0@#$%Discontinued
+6263@#$%20 dialed@#$%Black@#$%20 received@#$%2.2@#$%Discontinued
+N81 8GB@#$%8 GB@#$%Cocoa brown@#$%96 MB RAM@#$%2.4@#$%Discontinued
+N81@#$%12 MB@#$%Cobalt blue, Graphite grey@#$%96 MB RAM@#$%2.4@#$%Discontinued
+N95 8GB@#$%8 GB@#$%Black@#$%128 MB RAM@#$%2.8@#$%Discontinued
+5610 XpressMusic@#$%8 GB@#$%Red, Blue@#$%ram@#$%2.2@#$%Discontinued
+5310 XpressMusic@#$%8 GB@#$%Red, Blue, Pink, Black@#$%ram@#$%2.1@#$%Discontinued
+6555@#$%8 GB@#$%Black, Red, Silver, Beige@#$%ram@#$%2.0@#$%Discontinued
+7900 Prism@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+7500 Prism@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+8600 Luna@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+6500 slide@#$%8 GB@#$%Steel, Black@#$%ram@#$%2.2@#$%Discontinued
+6500 classic@#$%8 GB@#$%Black, Bronze@#$%ram@#$%2.0@#$%Discontinued
+N810@#$%128 MB RAM@#$%Silver, Black@#$%256 MB ROM@#$%4.13@#$%Discontinued
+3500 classic@#$%128 MB RAM@#$%Grey, Pink, Mandarine, Azure Blue@#$%ram@#$%1.8@#$%Discontinued
+2630@#$%128 MB RAM@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+N87@#$%microSD@#$%Black, Brown@#$%up to 32 GB (dedicated slot)@#$%@#$%Cancelled
+6267@#$%microSD@#$%Black, Orange, Lavender and Electric Blue@#$%ram@#$%2.2@#$%Discontinued
+2760@#$%microSD@#$%Navy Blue, Velvet Red, Sandy Gold, Smoky Grey, Metallic Black@#$%ram@#$%1.9@#$%Discontinued
+2660@#$%microSD@#$%Black@#$%ram@#$%1.85@#$%Discontinued
+1650@#$%microSD@#$%Metallic Red, Metallic Black@#$%ram@#$%1.8@#$%Discontinued
+1208@#$%microSD@#$%Red, Black@#$%ram@#$%1.5@#$%Discontinued
+1200@#$%microSD@#$%Blue, Black@#$%ram@#$%1.5@#$%Discontinued
+6120 classic@#$%32 MB@#$%Black, Pearl White@#$%64 MB RAM@#$%2.0@#$%Discontinued
+6121 classic@#$%32 MB@#$%Black, Pearl White, Pink, Sand Gold@#$%64 MB RAM@#$%2.0@#$%Discontinued
+5700@#$%38 MB@#$%Red, Gray, Black@#$%64 MB RAM@#$%2.2@#$%Discontinued
+5070@#$%38 MB@#$%Red, Blue@#$%ram@#$%1.87@#$%Discontinued
+E90@#$%38 MB@#$%Red, Mocha@#$%ram@#$%4.0@#$%Discontinued
+E65@#$%50 MB@#$%Red, Mocca, Black, Full Black, Bronze Black, Pink, Plum, White@#$%64 MB RAM@#$%2.2@#$%Discontinued
+E61i@#$%60 MB@#$%Silver, Mocca@#$%64 MB RAM@#$%2.8@#$%Discontinued
+N77@#$%20 MB@#$%Black@#$%64 MB RAM@#$%2.4@#$%Discontinued
+6110 Navigator@#$%40 MB@#$%White, Black@#$%128 MB RAM@#$%2.2@#$%Discontinued
+N800@#$%128 MB RAM@#$%Silver, Black@#$%256 MB ROM@#$%4.13@#$%Discontinued
+3109 classic@#$%128 MB RAM@#$%Grey@#$%ram@#$%1.8@#$%Discontinued
+3110 classic@#$%128 MB RAM@#$%Black, Pink, Blue@#$%ram@#$%1.8@#$%Discontinued
+N76@#$%26 MB@#$%Red, Black, White@#$%96 MB RAM@#$%2.4@#$%Discontinued
+N93i@#$%50 MB@#$%Silver, Black@#$%64 MB RAM@#$%2.4@#$%Discontinued
+6290@#$%45 MB@#$%Black, Light Blue@#$%64 MB RAM@#$%2.2@#$%Discontinued
+6086@#$%45 MB@#$%Pearl Grey, Warm Grey@#$%ram@#$%1.8@#$%Discontinued
+6300@#$%45 MB@#$%Silver, Black, Red-Silver, White-Silver@#$%ram@#$%2.0@#$%Discontinued
+2626@#$%45 MB@#$%Fiery Red, Spatial Blue, Energetic Copper, WhiteNavy@#$%ram@#$%1.5@#$%Discontinued
+N95@#$%160 MB@#$%Silver,  Plum, Black, Pink, Red@#$%64 MB RAM@#$%2.6@#$%Discontinued
+N75@#$%40 MB@#$%Chocolate Black@#$%64 MB RAM@#$%2.4@#$%Discontinued
+5300@#$%40 MB@#$%Red, Black@#$%ram@#$%2.1@#$%Discontinued
+5200@#$%40 MB@#$%Red, Blue@#$%ram@#$%2.0@#$%Discontinued
+6288@#$%40 MB@#$%White, Black, Red, Blue@#$%ram@#$%2.2@#$%Discontinued
+6085@#$%40 MB@#$%@#$%ram@#$%1.8@#$%Discontinued
+8800 Sirocco@#$%40 MB@#$%Silver, Black, Gold Edition@#$%ram@#$%1.7@#$%Discontinued
+7390@#$%40 MB@#$%Bronze Black, Powder Pink@#$%ram@#$%2.3@#$%Discontinued
+7373@#$%40 MB@#$%Bronze Black, Powder Pink@#$%ram@#$%2.0@#$%Discontinued
+6151@#$%40 MB@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+6080@#$%40 MB@#$%Black, Gold@#$%ram@#$%1.78@#$%Discontinued
+1110i@#$%40 MB@#$%Xpress-on covers@#$%ram@#$%@#$%Discontinued
+E50@#$%70 MB@#$%Silver, Black@#$%32 MB RAM@#$%2.1@#$%Discontinued
+5500 Sport@#$%8 MB@#$%Black and gray@#$%64 MB RAM@#$%1.7@#$%Discontinued
+N93@#$%50 MB@#$%Black, Silver@#$%64 MB RAM@#$%2.4@#$%Discontinued
+N73@#$%42 MB@#$%Silver Grey/Deep Plum, Frost White/Metallic Red, Black (Music Edition)@#$%64 MB RAM@#$%2.4@#$%Discontinued
+N72@#$%42 MB@#$%Gloss Black, Pearl Pink@#$%ram@#$%2.1@#$%Discontinued
+2610@#$%42 MB@#$%Black, Brown@#$%ram@#$%1.6@#$%Discontinued
+2310@#$%42 MB@#$%Red, Blue, White@#$%ram@#$%1.5@#$%Discontinued
+1112@#$%42 MB@#$%Red, Blue, Black@#$%ram@#$%@#$%Discontinued
+6136@#$%42 MB@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+6133@#$%42 MB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+6131@#$%42 MB@#$%Black, White, Red, Sand@#$%ram@#$%2.2@#$%Discontinued
+6126@#$%42 MB@#$%Black, White, Red, Sand@#$%ram@#$%2.2@#$%Discontinued
+6070@#$%42 MB@#$%Silver@#$%ram@#$%1.8@#$%Discontinued
+6125@#$%42 MB@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+6103@#$%42 MB@#$%Black, Red@#$%ram@#$%1.8@#$%Discontinued
+6233@#$%42 MB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+6234@#$%42 MB@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+6282@#$%42 MB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+9300i@#$%42 MB@#$%Silver@#$%ram@#$%4.0@#$%Discontinued
+N92@#$%40 MB@#$%@#$%64 MB RAM@#$%2.8@#$%Discontinued
+N80@#$%40 MB@#$%Silver, Black@#$%64 MB RAM@#$%2.1@#$%Discontinued
+N71@#$%40 MB@#$%@#$%ram@#$%2.4@#$%Discontinued
+7380@#$%40 MB@#$%White, Amber@#$%ram@#$%@#$%Discontinued
+7370@#$%40 MB@#$%Coffee brown, Warm amber@#$%ram@#$%2.0@#$%Discontinued
+7360@#$%40 MB@#$%Coffee brown, Warm amber, Black chrome, Poeder Pink@#$%ram@#$%1.9@#$%Discontinued
+E70@#$%64 MB@#$%Silver, Black@#$%64 MB RAM@#$%2.1@#$%Discontinued
+E62@#$%80 MB@#$%Silver@#$%32 MB RAM@#$%2.9@#$%Discontinued
+E61@#$%64 MB@#$%Silver@#$%64 MB RAM@#$%2.9@#$%Discontinued
+E60@#$%64 MB@#$%Silver@#$%64 MB RAM@#$%2.1@#$%Discontinued
+3250@#$%10 MB@#$%Black, Green, Pink, Silver@#$%64 MB RAM@#$%2.1@#$%Discontinued
+6708@#$%10 MB@#$%Grey@#$%ram@#$%2.7@#$%Discontinued
+6280@#$%10 MB@#$%Carbon Black, Graphite grey@#$%ram@#$%2.2@#$%Discontinued
+6270@#$%10 MB@#$%2 - Light Blue and Dark Brown@#$%ram@#$%2.2@#$%Discontinued
+6111@#$%10 MB@#$%3 - Silver on Pearl White, Glossy Black on Silver, Dark@#$%ram@#$%1.8@#$%Discontinued
+6060@#$%10 MB@#$%Black, Silver, Red, Blue@#$%ram@#$%1.8@#$%Discontinued
+N91@#$%4/8 GB@#$%Light Blue Chrome, Dark Gray Chrome, Black (Music Edition)@#$%64 MB RAM@#$%2.1@#$%Discontinued
+N90@#$%4/8 GB@#$%@#$%ram@#$%2.1@#$%Discontinued
+N70@#$%4/8 GB@#$%Silver, Ivory/Pearl, Black (Music Edition)@#$%ram@#$%2.1@#$%Discontinued
+2652@#$%4/8 GB@#$%Cell and Fleur motifs@#$%ram@#$%@#$%Discontinued
+1600@#$%4/8 GB@#$%Xpress-on covers@#$%ram@#$%1.4@#$%Discontinued
+1110@#$%4/8 GB@#$%Xpress-on covers@#$%ram@#$%@#$%Discontinued
+1101@#$%4/8 GB@#$%Xpress-on covers@#$%ram@#$%@#$%Discontinued
+5140i@#$%4/8 GB@#$%3 - Black, Orange and Dark Green Transceiver@#$%ram@#$%1.5@#$%Discontinued
+8800@#$%4/8 GB@#$%Silver, Black Edition (for the Russian market)@#$%ram@#$%1.7@#$%Discontinued
+6230i@#$%4/8 GB@#$%Silver Grey, Black , White@#$%ram@#$%1.5@#$%Discontinued
+6021@#$%4/8 GB@#$%Black@#$%ram@#$%1.56@#$%Discontinued
+6030@#$%4/8 GB@#$%Black, Champagne@#$%ram@#$%1.5@#$%Discontinued
+6680@#$%4/8 GB@#$%Bronze, Silver@#$%ram@#$%2.1@#$%Discontinued
+6681@#$%4/8 GB@#$%Electric Blue, Pearl White@#$%ram@#$%2.1@#$%Discontinued
+6101@#$%4/8 GB@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+6822@#$%4/8 GB@#$%@#$%ram@#$%1.5@#$%Discontinued
+7710@#$%4/8 GB@#$%@#$%ram@#$%3.5@#$%Discontinued
+6020@#$%4/8 GB@#$%Graphite@#$%ram@#$%1.5@#$%Discontinued
+3230@#$%4/8 GB@#$%Black, Red@#$%ram@#$%2.1@#$%Discontinued
+6670@#$%4/8 GB@#$%Deep Blue, Aluminum Grey@#$%ram@#$%2.1@#$%Discontinued
+7280@#$%4/8 GB@#$%Black@#$%ram@#$%@#$%Discontinued
+7270@#$%4/8 GB@#$%@#$%ram@#$%2.0@#$%Discontinued
+7260@#$%10 dialed@#$%@#$%10 received@#$%1.6@#$%Discontinued
+9300@#$%10 dialed@#$%@#$%ram@#$%4.0@#$%Discontinued
+6630@#$%10 dialed@#$%Light Gray@#$%ram@#$%2.1@#$%Discontinued
+6260@#$%10 dialed@#$%2 - Silver, Black@#$%ram@#$%2.1@#$%Discontinued
+6170@#$%10 dialed@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+3128@#$%10 dialed@#$%Gold, Red, Blue@#$%ram@#$%@#$%Discontinued
+2650@#$%10 dialed@#$%Silver, Red, Brown@#$%10 received@#$%@#$%Discontinued
+2600@#$%10 dialed@#$%Iron blue, Tree green@#$%ram@#$%1.5@#$%Discontinued
+3220@#$%10 dialed@#$%Red, Blue@#$%ram@#$%1.5@#$%Discontinued
+N-Gage QD@#$%10 dialed@#$%@#$%ram@#$%2.1@#$%Discontinued
+3120@#$%10 dialed@#$%Lime Tree Green, Iron Blue@#$%10 received@#$%1.6@#$%Discontinued
+7610@#$%10 dialed@#$%Ruby and Onyx@#$%ram@#$%2.1@#$%Discontinued
+9500@#$%10 dialed@#$%Tin Grey@#$%ram@#$%4.5@#$%Discontinued
+5140@#$%10 dialed@#$%@#$%ram@#$%1.5@#$%Discontinued
+6610i@#$%10 dialed@#$%3 - Black, White, Grey@#$%ram@#$%1.5@#$%Discontinued
+3108@#$%10 dialed@#$%@#$%ram@#$%1.45@#$%Discontinued
+7700@#$%10 dialed@#$%2 - Black, White@#$%ram@#$%3.5@#$%Cancelled
+7200@#$%10 dialed@#$%Grey Blue, Black, and Brown + White (limited edition)@#$%ram@#$%1.5@#$%Discontinued
+6230@#$%10 dialed@#$%2 - Graphite, Pearl White@#$%ram@#$%1.5@#$%Discontinued
+6820@#$%10 dialed@#$%@#$%ram@#$%1.6@#$%Discontinued
+6810@#$%10 dialed@#$%@#$%ram@#$%1.6@#$%Discontinued
+3660@#$%10 dialed@#$%Red, Blue@#$%ram@#$%2.1@#$%Discontinued
+7600@#$%10 dialed@#$%@#$%ram@#$%2.0@#$%Discontinued
+3200@#$%10 dialed@#$%@#$%ram@#$%1.56@#$%Discontinued
+2300@#$%10 dialed@#$%Xpress-on covers@#$%10 received@#$%@#$%Discontinued
+1100@#$%10 dialed@#$%Xpress-on covers@#$%ram@#$%@#$%Discontinued
+6620@#$%10 dialed@#$%Light Gray@#$%ram@#$%2.1@#$%Discontinued
+6600@#$%10 dialed@#$%Light Gray@#$%ram@#$%2.1@#$%Discontinued
+3100@#$%- MMS@#$%3 - Blue, Red, White@#$%max 45 kB each@#$%1.5@#$%Discontinued
+7250i@#$%- MMS@#$%Blue, Plum, Brown, Olive, Grey, Green@#$%ram@#$%@#$%Discontinued
+6108@#$%- MMS@#$%3 -  Silver Blue, Silver Yellow and Silver Rose@#$%ram@#$%@#$%Discontinued
+6220@#$%- MMS@#$%2 - Blue and Plum@#$%ram@#$%1.5@#$%Discontinued
+3300@#$%- MMS@#$%Orange and Black Blue@#$%ram@#$%1.7@#$%Discontinued
+N-Gage@#$%- Shared memory for images@#$%@#$%contact data@#$%2.1@#$%Discontinued
+7250@#$%- Shared memory for images@#$%2 - Blue and Plum,@#$%ram@#$%@#$%Discontinued
+8910i@#$%- Shared memory for images@#$%@#$%ram@#$%1.25@#$%Discontinued
+6800@#$%- 10 predefined images@#$%@#$%replaceable@#$%1.7@#$%Discontinued
+6100@#$%- 10 predefined images@#$%3 -  Dark blue, Light blue and Yellowish beige@#$%ram@#$%1.5@#$%Discontinued
+5100@#$%- 10 predefined images@#$%Xpress-on covers@#$%ram@#$%1.5@#$%Discontinued
+2100@#$%- 10 predefined images@#$%3 (Yellow, Green, and Grey) + Xpress-on covers@#$%ram@#$%@#$%Discontinued
+6650@#$%- 10 predefined images@#$%@#$%ram@#$%@#$%Discontinued
+3650@#$%- 10 predefined images@#$%Dark Blue, Grey and Yellow@#$%ram@#$%2.1@#$%Discontinued
+3530@#$%- 10 predefined images@#$%Xpress-on covers@#$%ram@#$%1.5@#$%Discontinued
+3510i@#$%- 10 predefined images@#$%Xpress-on covers@#$%ram@#$%@#$%Discontinued
+6610@#$%- 10 predefined images@#$%3 - Black, White, Grey@#$%ram@#$%1.5@#$%Discontinued
+3610@#$%- 10 predefined images@#$%Ttranslucent Xpress-on covers@#$%ram@#$%@#$%Discontinued
+9210i Communicator@#$%40 MB@#$%Black@#$%8 MB RAM@#$%4.5@#$%Discontinued
+7210@#$%40 MB@#$%3 - Turquoise, Orange, and Brown@#$%ram@#$%1.5@#$%Discontinued
+6310i@#$%40 MB@#$%3 - Jet Black, Mistral Beige, Lightning Silver@#$%ram@#$%@#$%Discontinued
+3510@#$%40 MB@#$%Xpress-on covers@#$%ram@#$%@#$%Discontinued
+3410@#$%40 MB@#$%Xpress-on front and back covers@#$%ram@#$%@#$%Discontinued
+7650@#$%40 MB@#$%@#$%ram@#$%2.1@#$%Discontinued
+8910@#$%40 MB@#$%2 - Natural Titanium and Black@#$%ram@#$%@#$%Discontinued
+6510@#$%40 MB@#$%Beige, four Xpress-on front-back covers as accessories@#$%ram@#$%@#$%Discontinued
+6500@#$%40 MB@#$%Beige, four Xpress-on front-back covers as accessories@#$%ram@#$%@#$%Discontinued
+8855@#$%40 MB@#$%Black@#$%ram@#$%@#$%Discontinued
+5210@#$%40 MB@#$%Burned Orange, four Xpress-on shells as accessories@#$%ram@#$%@#$%Discontinued
+5510@#$%40 MB@#$%2 - Groove Red and Melody Blue@#$%ram@#$%@#$%Discontinued
+8310@#$%40 MB@#$%9 Xpress-on covers@#$%ram@#$%@#$%Discontinued
+6310@#$%40 MB@#$%3 - Jet Black, Lightening Silver and Laser Red@#$%ram@#$%@#$%Discontinued
+3350@#$%40 MB@#$%User exchangeable front and back covers@#$%ram@#$%@#$%Discontinued
+3330@#$%40 MB@#$%User exchangeable front and back covers@#$%ram@#$%@#$%Discontinued
+8250@#$%40 MB@#$%Xpress-on covers@#$%ram@#$%@#$%Discontinued
+9210 Communicator@#$%40 MB@#$%Black@#$%ram@#$%4.5@#$%Discontinued
+3310@#$%40 MB@#$%User exchangeable front and back covers@#$%ram@#$%@#$%Discontinued
+8890@#$%40 MB@#$%Metallic@#$%ram@#$%@#$%Discontinued
+8210@#$%40 MB@#$%6 Xpress-on covers@#$%ram@#$%@#$%Discontinued
+8850@#$%40 MB@#$%Metallic@#$%ram@#$%@#$%Discontinued
+6250@#$%40 MB@#$%Black Night, Grey Dusk and Red Sunset@#$%ram@#$%@#$%Discontinued
+8810@#$%10 dialed@#$%Metallic@#$%10 received@#$%@#$%Discontinued
+6210@#$%10 dialed@#$%Black Night, Grey Dusk and Red Sunset@#$%ram@#$%@#$%Discontinued
+7110@#$%10 dialed@#$%Dark green@#$%ram@#$%@#$%Discontinued
+9110i Communicator@#$%10 dialed@#$%Black@#$%ram@#$%4.5@#$%Discontinued
+9000 Communicator@#$%10 dialed@#$%Black@#$%ram@#$%@#$%Discontinued
+3210@#$%8 dialed@#$%User exchangeable front and back covers@#$%8 received@#$%@#$%Discontinued
+6150@#$%10 dialed@#$%2@#$%10 received@#$%@#$%Discontinued
+6130@#$%10 dialed@#$%2@#$%10 received@#$%@#$%Discontinued
+6110@#$%10 dialed@#$%2@#$%10 received@#$%@#$%Discontinued
+5110@#$%8 dialed@#$%Xpress-On covers, 4 basic, 7 metallic@#$%5 received@#$%@#$%Discontinued
+3110@#$%10 dialed@#$%Black@#$%10 received@#$%@#$%Discontinued
+8110@#$%10 dialed@#$%black@#$%10 received@#$%@#$%Discontinued
+2110@#$%10 dialed@#$%Black@#$%10 received@#$%@#$%Discontinued

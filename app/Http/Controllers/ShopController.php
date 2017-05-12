@@ -36,7 +36,16 @@ class ShopController extends Controller
             'user_id' => Auth::user()->id,
             'city' => $data['city'],
         ]);
-        return redirect('/home');
+        if(!$shop){
+            return response()->json([
+                'error' => 'Unable To Create Shop.'
+            ]);
+        }
+        else{
+            return response()->json([
+                'success' => 'Shop Created Successfully'
+            ]);
+        }
     }
 
 
@@ -74,5 +83,10 @@ class ShopController extends Controller
         $homeController->setShopId($request);
 
         return redirect()->action('HomeController@index');
+    }
+
+
+    public function showShopSettings(){
+
     }
 }

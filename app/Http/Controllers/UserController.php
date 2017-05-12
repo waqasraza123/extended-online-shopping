@@ -6,10 +6,24 @@ use App\Http\Controllers\Auth\LoginController;
 use App\User;
 use App\UserVerification;
 use Carbon\Carbon;
+use Faker\Provider\Image;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Input;
 
 class UserController extends Controller
 {
+
+    /**
+     * UserController constructor.
+     */
+    public function __construct()
+    {
+        $this->middleware(['auth', 'verified', 'has-shop'], ['only' => ['showProfile', 'updateProfile']]);
+    }
+
+
+
     /**
      * @param User $user
      * @return mixed
@@ -35,6 +49,8 @@ class UserController extends Controller
 
         return $user->token;
     }
+
+
 
     /**
      * @param Request $request
@@ -65,6 +81,8 @@ class UserController extends Controller
         return view('auth.email-verification')->with('email', $user->email_phone);
     }
 
+
+
     /**
      * @param $exists
      * @param Request $request
@@ -94,5 +112,52 @@ class UserController extends Controller
         $user = User::where('email_phone', $request->input('email'))->first();
         $user->verified = 1;
         $user->save();
+    }
+
+
+
+    /**
+     * shows the user profile
+     * form to update the information
+     *
+     *
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public function showProfile(){
+        $user = Auth::user();
+        return view('user.profile', compact('user'));
+    }
+
+
+
+    public function updateProfile(Request $request){
+        //dd($request->all());
+        $user = Auth::user();
+        $this->validate($request, [
+            'name' => 'required|max:255',
+            'user_name' => 'required|email|max:255|unique:users,email_phone,'.$user->id,
+            'phone' => 'phone|max:11|unique:users,phone,'.$user->id
+        ]);
+        $data = $request->all();
+        //move the image
+        if(Input::file('image'))
+        {
+            $image = Input::file('image');
+            $filename  = strtolower(preg_replace("/\\s/", "_", $user->name)) . time() . '.' . $image->getClientOriginalExtension();
+
+            $image->move(public_path().'/users/',$filename);
+            $user->image = url('/'). '/users/' . $filename;
+        }
+
+        $user->name = $data['name'];
+        $user->email_phone = $data['user_name'];
+        $user->email = $data['email'];
+        $user->phone = $data['phone'];
+        if(isset($data['password'])) {
+            $user->password = bcrypt($data['password']);
+        }
+
+        $user->save();
+        return redirect()->back();
     }
 }

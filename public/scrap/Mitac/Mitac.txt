@@ -1,12 +1,12 @@
-MIO Explora K75;128 MB RAM;Black;256 MB ROM;3.5
-MIO Explora K70;128 MB RAM;Black;256 MB ROM;3.5
-MIO Leap G50;128 MB RAM;Black;ram;2.8
-MIO Leap K1;64 MB RAM;Black;1 GB;2.6
-MIO A502;64 MB RAM;Gray;ROM varies by region;2.7
-MIO A501;256 MB;Gray;64 MB RAM;2.7
-MIO A702;64 MB RAM;;256 MB to 2 GB (depends on region);2.7
-MIO A701;64 MB RAM;;128 MB ROM;2.7
-MIO 8870;64 MB RAM;;ram;2.2
-MIO 8860;64 MB RAM;;ram;2.2
-MIO 8390;16 MB RAM;Dazzling silver, opulent red;32 MB ROM;2.2
-MIO 8380;16 MB RAM;Silver;32 MB ROM;2.2
+MIO Explora K75@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%3.5@#$%Discontinued
+MIO Explora K70@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%3.5@#$%Discontinued
+MIO Leap G50@#$%128 MB RAM@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+MIO Leap K1@#$%64 MB RAM@#$%Black@#$%1 GB@#$%2.6@#$%Discontinued
+MIO A502@#$%64 MB RAM@#$%Gray@#$%ROM varies by region@#$%2.7@#$%Cancelled
+MIO A501@#$%256 MB@#$%Gray@#$%64 MB RAM@#$%2.7@#$%Cancelled
+MIO A702@#$%64 MB RAM@#$%@#$%256 MB to 2 GB (depends on region)@#$%2.7@#$%Discontinued
+MIO A701@#$%64 MB RAM@#$%@#$%128 MB ROM@#$%2.7@#$%Discontinued
+MIO 8870@#$%64 MB RAM@#$%@#$%ram@#$%2.2@#$%Discontinued
+MIO 8860@#$%64 MB RAM@#$%@#$%ram@#$%2.2@#$%Cancelled
+MIO 8390@#$%16 MB RAM@#$%Dazzling silver, opulent red@#$%32 MB ROM@#$%2.2@#$%Discontinued
+MIO 8380@#$%16 MB RAM@#$%Silver@#$%32 MB ROM@#$%2.2@#$%Discontinued

@@ -1,27 +1,27 @@
-SF71;10 dialed;Black;ram;2.0
-E52;10 dialed;TransSilver;ram;1.8
-C32;20 dialed;Liquid aura;20 received;2.0
-C31;20 dialed;SilverShine, GraphiteGloss;ram;1.8
-SL80;20 dialed;Mauve Sensation;ram;1.8
-AL26;20 dialed;Pink;ram;
-A53;20 dialed;Black, Blue, Pink;20 received;
-SL91;20 dialed;Magic Black;ram;2.0
-E81;20 dialed;Lucent Black;ram;1.8
-E71;20 dialed;Dark Silver, Onyx Black;ram;2.1
-EF61;20 dialed;Whisper;ram;
-M81;20 dialed;Graphite Black, Steel Blue;ram;1.8
-A58;20 dialed;Mercury Silver, Carbon Black;ram;
-A38;20 dialed;Bold Charcoal, X-treme Gray;ram;1.4
-EF71;20 dialed;Stellar Aluminum;ram;2.2
-P51;64 MB RAM;;192 MB ROM;2.8
-EL71;64 MB RAM;Vibrant grey;ram;2.0
-CL71;64 MB RAM;Black;ram;
-CF61;64 MB RAM;Silver;ram;1.8
-C81;64 MB RAM;Piano Black;ram;1.8
-E61;64 MB RAM;Silver, Orange;ram;1.8
-EF91;64 MB RAM;Arctic Silver;ram;2.0
-S81;64 MB RAM;Black/Silver;ram;2.0
-EF51;64 MB RAM;Flashy White, Black;ram;2.2
-EF81;64 MB RAM;Titanium Silver;ram;2.2
-S88;64 MB RAM;Cosmic Black, Astral White;ram;2.0
-S68;64 MB RAM;Brushed Aluminum;ram;1.8
+SF71@#$%10 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+E52@#$%10 dialed@#$%TransSilver@#$%ram@#$%1.8@#$%Cancelled
+C32@#$%20 dialed@#$%Liquid aura@#$%20 received@#$%2.0@#$%Cancelled
+C31@#$%20 dialed@#$%SilverShine, GraphiteGloss@#$%ram@#$%1.8@#$%Cancelled
+SL80@#$%20 dialed@#$%Mauve Sensation@#$%ram@#$%1.8@#$%Cancelled
+AL26@#$%20 dialed@#$%Pink@#$%ram@#$%@#$%Cancelled
+A53@#$%20 dialed@#$%Black, Blue, Pink@#$%20 received@#$%@#$%Discontinued
+SL91@#$%20 dialed@#$%Magic Black@#$%ram@#$%2.0@#$%Discontinued
+E81@#$%20 dialed@#$%Lucent Black@#$%ram@#$%1.8@#$%Discontinued
+E71@#$%20 dialed@#$%Dark Silver, Onyx Black@#$%ram@#$%2.1@#$%Discontinued
+EF61@#$%20 dialed@#$%Whisper@#$%ram@#$%@#$%Discontinued
+M81@#$%20 dialed@#$%Graphite Black, Steel Blue@#$%ram@#$%1.8@#$%Discontinued
+A58@#$%20 dialed@#$%Mercury Silver, Carbon Black@#$%ram@#$%@#$%Cancelled
+A38@#$%20 dialed@#$%Bold Charcoal, X-treme Gray@#$%ram@#$%1.4@#$%Discontinued
+EF71@#$%20 dialed@#$%Stellar Aluminum@#$%ram@#$%2.2@#$%Discontinued
+P51@#$%64 MB RAM@#$%@#$%192 MB ROM@#$%2.8@#$%Discontinued
+EL71@#$%64 MB RAM@#$%Vibrant grey@#$%ram@#$%2.0@#$%Discontinued
+CL71@#$%64 MB RAM@#$%Black@#$%ram@#$%@#$%Discontinued
+CF61@#$%64 MB RAM@#$%Silver@#$%ram@#$%1.8@#$%Discontinued
+C81@#$%64 MB RAM@#$%Piano Black@#$%ram@#$%1.8@#$%Discontinued
+E61@#$%64 MB RAM@#$%Silver, Orange@#$%ram@#$%1.8@#$%Discontinued
+EF91@#$%64 MB RAM@#$%Arctic Silver@#$%ram@#$%2.0@#$%Discontinued
+S81@#$%64 MB RAM@#$%Black/Silver@#$%ram@#$%2.0@#$%Discontinued
+EF51@#$%64 MB RAM@#$%Flashy White, Black@#$%ram@#$%2.2@#$%Discontinued
+EF81@#$%64 MB RAM@#$%Titanium Silver@#$%ram@#$%2.2@#$%Discontinued
+S88@#$%64 MB RAM@#$%Cosmic Black, Astral White@#$%ram@#$%2.0@#$%Discontinued
+S68@#$%64 MB RAM@#$%Brushed Aluminum@#$%ram@#$%1.8@#$%Discontinued

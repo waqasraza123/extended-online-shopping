@@ -1,143 +1,143 @@
-Zenfone Live ZB501KL;16/32 GB;Shimmer Gold/Rose, Pink/Navy Black;2 GB RAM;5.0
-Zenfone 3s Max ZC521TL;32 GB;Gold, Black;3 GB RAM;5.2
-Zenpad 3S 10 Z500KL;32 GB;Silver, Grey;4 GB RAM;9.7
-Zenfone AR ZS571KL;64/128/256 GB;Black;GB;5.7
-Zenfone 3 Zoom ZE553KL;32/64/128 GB;Navy Black, Glacier Silver, Rose Gold;4 GB RAM;5.5
-Zenfone Go ZB690KG;8 GB;Glacier Grey, Pearl White;1 GB RAM;6.9
-Zenpad 3 8.0 Z581KL;32 GB;Black;4 GB RAM;7.9
-Zenfone Go ZB500KL;16 GB;Glacier Gray, Sheer Gold, Silver Blue, Glamour Red, Charcoal Black, Pearl White;2 GB RAM;5.0
-Zenfone 3 Max ZC553KL;32 GB;Titanium Gray, Glacier Silver, Rose Pink, Sand Gold;2/3/4 GB RAM;5.5
-Zenfone 3 Deluxe 5.5 ZS550KL;64 GB;Shimmer Gold;4 GB RAM;5.5
-Zenpad Z10 ZT500KL;32 GB;Gray;3 GB RAM;9.7
-Zenpad 3S 10 Z500M;32/64 GB;Silver, Grey;4 GB RAM;9.7
-Zenfone 3 Max ZC520TL;16 GB;Titanium Grey, Glacier Silver, Sand Gold;2 GB RAM or 32 GB;5.2
-Zenfone 3 Laser ZC551KL;32 GB;Sand Gold, Glacier Silver;2 GB RAM or 64 GB;5.5
-Zenfone 3 ZE520KL;32 GB;Sapphire Black, Moonlight White, Shimmer Gold;3 GB RAM or 64 GB;5.2
-Zenfone Pegasus 3;16 GB;Gold, silver, gray, rose gold;2 GB RAM or 32 GB;5.2
-Zenpad Z8;16 GB;Black;2 GB RAM;7.9
-Zenfone 3 Ultra ZU680KL;32/64/128 GB;Glacier Silver, Titanium Gray, Metallic Pink;3/4 GB RAM;6.8
-Zenfone 3 Deluxe ZS570KL;64/128/256 GB;Glacier Silver, Titanium Gray, Shimmer Gold;4/6 GB RAM;5.7
-Zenfone 3 ZE552KL;32 GB;Sapphire Black, Moonlight White, Shimmer Gold;3 GB RAM or 64 GB;5.5
-Zenfone Max ZC550KL (2016);32 GB;Black, White, Orange, Blue;2 GB RAM or 3 GB RAM;5.5
-Zenfone Go ZB450KL;8 GB;Glacier Grey/Silver, Blue/Sheer Gold, Charcoal Black, Pearl White, Glamor Red, Lemon Yellow;1 GB RAM;4.5
-Zenfone Go ZB452KG;8 GB;Lemon Yellow, Charcoal Black, Pearl White, Glacier Gray, Sheer Gold, Glamour Red, Silver Blue;1 GB RAM;4.5
-Zenfone Go ZB551KL;16/32 GB;Charcoal Black, Pearl White, Lake Blue, Glacier Gray, Sheer Gold, Glamour Red, Floral Pink, Silver Blue;2 GB RAM;5.5
-Zenfone Go T500;16 GB;Black, White;2 GB RAM;5.0
-Zenfone Go ZC451TG;8 GB;Charcoal Black, Pearl White, Rouge Pink, Flash Blue;1 GB RAM;4.5
-Live G500TG;16 GB;Rosa, Azul, Yellow;2 GB RAM;5.0
-Zenfone 2 Laser ZE551KL;16/32 GB;Silver;3 GB RAM;5.5
-Zenfone Zoom ZX551ML;32/64/128 GB;Pure Black, Ceramic White;4 GB RAM;5.5
-Zenpad 8.0 Z380M;8 GB;Dark Gray, Pearl White, Rose Gold;1 GB RAM;8.0
-Zenpad 10 Z300M;16/32 GB;Dark Gray, Pearl White, Rose Gold;2 GB RAM;10.1
-Zenpad 10 Z300C;8/16/32 GB;Black, White, Aurora Metallic;2 GB RAM;10.1
-Zenfone Go ZC500TG;8/16 GB;Black, White, Red;2 GB RAM;5.0
-Zenfone Max ZC550KL;8/16 GB;Black, White;2 GB RAM;5.5
-Zenfone 2 Deluxe ZE551ML;64/128 GB;White, Pink, Purple;4 GB RAM;5.5
-Zenfone 2 Laser ZE601KL;16 GB;Glacier Gray, Sheer Gold, Glamour Red;2 GB RAM;6.0
-Zenfone 2 Laser ZE600KL;16 GB;Glacier Gray, Sheer Gold, Glamour Red;2 GB RAM;6.0
-Zenfone 2 Laser ZE550KL;16 GB;Black, White, Red, Silver, Gold;2 GB RAM or 32 GB;5.5
-Zenfone 2 Laser ZE500KG;8/16 GB;Black, Ceramic White, Silver, Sheer Gold, Glamour Red;2 GB RAM;5.0
-Zenfone 2 Laser ZE500KL;8/16 GB;Black/Ceramic White/Silver/Purple/Aqua Blue/Sheer Gold/Glamour Red;2 GB RAM;5.0
-Zenpad 7.0 Z370CG;16 GB;Black, White, Aurora Metallic;2 GB RAM;7.0
-Zenfone 2E;8 GB;Charcoal Black, Pearl White;1 GB RAM;5.0
-Pegasus 2 Plus;32 GB;Rose Gold, White;3 GB RAM;5.5
-Zenpad S 8.0 Z580CA;16/32/64 GB;Black, White;2/4 GB RAM;8.0
-Zenpad S 8.0 Z580C;16/32 GB;Black, White;2 GB RAM;8.0
-Zenpad 8.0 Z380KL;8 GB;Black, White, Aurora Metallic;1 GB RAM;8.0
-Zenpad 8.0 Z380C;8 GB;Black, White, Aurora Metallic;1 GB RAM;8.0
-Zenpad C 7.0 Z170MG;8/16 GB;Black, White;1 GB RAM;7.0
-Zenpad C 7.0;8/16 GB;Black, White, Red, Aurora Metallic;1 GB RAM;7.0
-Zenfone Selfie ZD551KL;16/32 GB;Pure White, Chic Pink, Aqua Blue;2/3 GB RAM;5.5
-Zenfone 2 ZE500CL;16 GB;Charcoal Black, Pearl White, Cherry Red;2 GB RAM;5.0
-Zenfone 2 ZE550ML;16 GB;Osmium Black, Glamor Red, Ceramic White;2 GB RAM;5.5
-Zenfone 2 ZE551ML;16/32/64 GB;Osmium Black, Sheer Gold, Glacier Gray, Glamor Red, Ceramic White;2/4 GB RAM;5.5
-Fonepad 7 FE375CL;8/16 GB;Black, White;2 GB RAM;7.0
-Zenfone C ZC451CG;8 GB;Charcoal Black, Pearl White, Cherry Red;1 GB RAM;4.5
-Fonepad 7 FE171CG;8/16 GB;Black, White, Gold, Red;1/2 GB RAM;7.0
-Zenfone Zoom ZX550;16/32/64/128 GB;Meteorite black, Glacier white;2/4 GB RAM;5.5
-Pegasus;8/16 GB;Black, White, Red, Gold;2 GB RAM;5.0
-Zenfone 5 Lite A502CG;8/16 GB;Charcoal Black, Pearl White, Cherry Red;ram;5.0
-Memo Pad 10 ME103K;8/16/32 GB;White, Black;1 GB RAM;10.1
-PadFone X mini;8 GB;Black;1 GB RAM;4.5
-Memo Pad 7 ME572CL;16/32 GB;Burgundy Red, Champagne Gold,Gentle Black;2 GB RAM;7.0
-Memo Pad 7 ME572C;16/32 GB;Burgundy Red, Champagne Gold,Gentle Black;2 GB RAM;7.0
-Zenfone 5 A500KL;8/16/32 GB;Charcoal Black, Pearl White, Cherry Red, Champagne Gold, Twilight Purple;1/2 GB RAM;5.0
-Zenfone 4 A450CG;8 GB;Charcoal Black, Pearl White, Cherry Red, Sky Blue, Solar Yellow;1 GB RAM;4.5
-Memo Pad 8 ME581CL;16/32 GB;White, Pink, Blue;2 GB RAM;8.0
-Memo Pad 8 ME181C;16 GB;Black, White, Purple, Gold;1 GB RAM;8.0
-Memo Pad 7 ME176C;8/16 GB;Black, White, Red, Blue, Yellow;1 GB RAM;7.0
-Fonepad 8 FE380CG;8/16 GB;Black, White, Red, Gold;1/2 GB RAM;8.0
-Fonepad 7 FE375CXG;8/16 GB;Black, White, Red, Gold;1 GB RAM;7.0
-Fonepad 7 FE375CG;8/16 GB;Black, White, Red, Gold;1 GB RAM;7.0
-Transformer Pad TF303CL;16/32 GB;Blue, Gold;2 GB RAM;10.1
-Transformer Pad TF103C;8/16 GB;Black, White;1 GB RAM;10.1
-Fonepad 7 (2014);4/8 GB;Black, White, Red, Blue (Dual SIM)/ White (Single SIM);1 GB RAM;7.0
-PadFone X;16 GB;Titanium Black, Platinum White;2 GB RAM;5.0
-PadFone S;16 GB;Titanium Black, Platinum White, Dark Ruby;2 GB RAM;5.0
-PadFone Infinity Lite;16/32 GB;Titanium Black, Platinum White;2 GB RAM;5.0
-PadFone E;16/32 GB;Black, White;ram;4.7
-Zenfone 6 A601CG;16/32 GB;Charcoal Black, Pearl White, Cherry Red, Champagne Gold;2 GB RAM;6.0
-Zenfone 6 A600CG;16/32 GB;Charcoal Black, Pearl White, Cherry Red, Champagne Gold;2 GB RAM;6.0
-Zenfone 5 A501CG;8 GB;Charcoal Black, Pearl White, Cherry Red;2 GB RAM;5.0
-Zenfone 5 A500CG;8/16/32 GB;Charcoal Black, Pearl White, Cherry Red, Champagne Gold, Twilight Purple;2 GB RAM;5.0
-Zenfone 4;4/8 GB;Charcoal Black, Pearl White, Cherry Red, Sky Blue, Solar Yellow;1 GB RAM;4.0
-PadFone mini 4G (Intel);8 GB;Charcoal Black, Pearl White, Cherry Red;1 GB RAM;4.5
-PadFone mini (Intel);8 GB;Black, White, Red, Blue, Yellow;1 GB RAM;4.0
-PadFone mini;16 GB;Titanium Black, Platinum White, Soft Pink;1 GB RAM;4.3
-Transformer Book Trio;16/32/64 GB;Black;2 GB RAM;11.6
-PadFone Infinity 2;16/32 GB;Titanium Black, Platinum White;2 GB RAM;5.0
-Memo Pad 10;8/16 GB;Gray, White, Pink;1 GB RAM;10.1
-Memo Pad 8 ME180A;16 GB;Gray, White, Pink;1 GB RAM;8.0
-Fonepad 7;8/16/32 GB;Sapphire black, Diamond white;1 GB RAM;7.0
-Google Nexus 7 (2013);16/32 GB;Black;2 GB RAM;7.0
-Fonepad Note FHD6;16/32 GB;White, Black;2 GB RAM;6.0
-Transformer Pad TF701T;32/64 GB;Silver;2 GB RAM;10.1
-Memo Pad FHD10;16/32 GB;Royal Blue, Silk White, Vivid Pink;2 GB RAM;10.0
-Memo Pad HD7 8 GB;8 GB;Black, Gray, White, Pink, Green;1 GB RAM;7.0
-Memo Pad HD7 16 GB;16 GB;Black, Gray, White, Pink, Green;1 GB RAM;7.0
-Fonepad;8/16 GB;Titanium Gray, Champagne Gold;1 GB RAM;7.0
-PadFone Infinity;32/64 GB;Titanium Gray, Champagne Gold, Hot Pink;2 GB RAM;5.0
-Memo Pad Smart 10;16 GB;Crystal White, Midnight Blue, Fuchsia Pink;1 GB RAM;10.1
-Memo Pad ME172V;8/16 GB;Sugar White, Titanium Gray, Cherry Pink;1 GB RAM;7.0
-Google Nexus 7 Cellular;16/32 GB;Black;1 GB RAM;7.0
-VivoTab RT TF600T;32/64 GB;Gray;2 GB RAM;10.1
-PadFone 2;16/32/64 GB;Black, White;2 GB RAM;4.7
-Google Nexus 7;8/16/32 GB;Black;1 GB RAM;7.0
-Transformer Pad Infinity 700 LTE;32/64 GB;Amethyst Gray, Champagne Gold;1 GB RAM;10.1
-Transformer Pad Infinity 700 3G;32/64 GB;Amethyst Gray, Champagne Gold;1 GB RAM;10.1
-Transformer Pad TF300TG;16/32 GB;Royal Blue, Iceberg White, Torch Red;1 GB RAM;10.1
-Transformer Pad TF300T;16/32 GB;Royal Blue, Iceberg White, Torch Red;1 GB RAM;10.1
-Transformer Pad Infinity 700;32/64 GB;Amethyst Gray, Champagne Gold;1 GB RAM;10.1
-Memo;16/32 GB;Black;1 GB RAM;7.0
-Transformer Prime TF700T;32/64 GB;Silver, Purple;1 GB RAM;10.1
-Transformer Prime TF201;32/64 GB;Amethyst Gray, Champagne Gold;1 GB RAM;10.1
-PadFone;16/32/64 GB;Black;1 GB RAM;4.3
-P835;4 GB;Black;288 MB RAM;3.5
-Transformer TF101;16/32 GB;Black;1 GB RAM;10.1
-E600;16/32 GB;Black;ram;4.0
-P565;128 MB RAM;Black;256 MB ROM;2.8
-P552w;128 MB RAM;Black, White;256 MB ROM;2.8
-P320;64 MB RAM;;128 MB ROM;2.6
-M930;256 MB;Black;64 MB RAM;2.6
-P550;256 MB;Silver;64 MB RAM;3.5
-P750;256 MB;Black;ram;2.6
-P527;128 MB;Silver;64 MB RAM;2.6
-Z801;128 MB;Silver;ram;2.0
-J502;128 MB;Black, Red;ram;2.4
-V88i;128 MB;Black;ram;
-M530w;256 MB;Black, White;64 MB RAM;2.4
-P526;256 MB;Silver;ram;2.6
-J501;256 MB;Black, White;ram;2.2
-P735;256 MB;Silver;64 MB RAM;2.8
-Z810;256 MB;Silver;ram;2.0
-P535;256 MB;Silver, White;64 MB RAM;2.8
-P525;256 MB;Silver;ram;2.8
-P505;64 MB RAM;Silver;64 MB ROM;2.8
-M303;20 received;Silver, Pink, Black;dialed and missed calls;1.8
-M307;20 received;White, Silver;ram;1.8
-M310;20 received;White, Silver;ram;2.2
-V80;20 received;Black, White, Reddish Gold;ram;2.0
-V75;20 received;White, Blue;ram;1.8
-V66;20 received;Silver, Blue, Orange;ram;1.8
-V55;20 received;Black, Blue;dialed and missed calls;1.5
-Zenfone Pegasus 3s;32/64 GB;Gold, silver, gray, rose gold;3 GB RAM;5.2
+Zenfone Live ZB501KL@#$%16/32 GB@#$%Shimmer Gold/Rose, Pink/Navy Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2017, March
+Zenfone 3s Max ZC521TL@#$%32 GB@#$%Gold, Black@#$%3 GB RAM@#$%5.2@#$%Available. Released 2017, February
+Zenpad 3S 10 Z500KL@#$%32 GB@#$%Silver, Grey@#$%4 GB RAM@#$%9.7@#$%Available. Released 2017, January
+Zenfone AR ZS571KL@#$%64/128/256 GB@#$%Black@#$%GB@#$%5.7@#$%Coming soon. Exp. release 2017, Q2
+Zenfone 3 Zoom ZE553KL@#$%32/64/128 GB@#$%Navy Black, Glacier Silver, Rose Gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2017, February
+Zenfone Go ZB690KG@#$%8 GB@#$%Glacier Grey, Pearl White@#$%1 GB RAM@#$%6.9@#$%Available. Released 2016, December
+Zenpad 3 8.0 Z581KL@#$%32 GB@#$%Black@#$%4 GB RAM@#$%7.9@#$%Available. Released 2017, January
+Zenfone Go ZB500KL@#$%16 GB@#$%Glacier Gray, Sheer Gold, Silver Blue, Glamour Red, Charcoal Black, Pearl White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, October
+Zenfone 3 Max ZC553KL@#$%32 GB@#$%Titanium Gray, Glacier Silver, Rose Pink, Sand Gold@#$%2/3/4 GB RAM@#$%5.5@#$%Available. Released 2016, November
+Zenfone 3 Deluxe 5.5 ZS550KL@#$%64 GB@#$%Shimmer Gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, October
+Zenpad Z10 ZT500KL@#$%32 GB@#$%Gray@#$%3 GB RAM@#$%9.7@#$%Available. Released 2016, October
+Zenpad 3S 10 Z500M@#$%32/64 GB@#$%Silver, Grey@#$%4 GB RAM@#$%9.7@#$%Available. Released 2016, August
+Zenfone 3 Max ZC520TL@#$%16 GB@#$%Titanium Grey, Glacier Silver, Sand Gold@#$%2 GB RAM or 32 GB@#$%5.2@#$%Available. Released 2016, August
+Zenfone 3 Laser ZC551KL@#$%32 GB@#$%Sand Gold, Glacier Silver@#$%2 GB RAM or 64 GB@#$%5.5@#$%Available. Released 2016, August
+Zenfone 3 ZE520KL@#$%32 GB@#$%Sapphire Black, Moonlight White, Shimmer Gold@#$%3 GB RAM or 64 GB@#$%5.2@#$%Available. Released 2016, August
+Zenfone Pegasus 3@#$%16 GB@#$%Gold, silver, gray, rose gold@#$%2 GB RAM or 32 GB@#$%5.2@#$%Available. Released 2016, June
+Zenpad Z8@#$%16 GB@#$%Black@#$%2 GB RAM@#$%7.9@#$%Available. Released 2016, June
+Zenfone 3 Ultra ZU680KL@#$%32/64/128 GB@#$%Glacier Silver, Titanium Gray, Metallic Pink@#$%3/4 GB RAM@#$%6.8@#$%Available. Released 2016, August
+Zenfone 3 Deluxe ZS570KL@#$%64/128/256 GB@#$%Glacier Silver, Titanium Gray, Shimmer Gold@#$%4/6 GB RAM@#$%5.7@#$%Available. Released 2016, August
+Zenfone 3 ZE552KL@#$%32 GB@#$%Sapphire Black, Moonlight White, Shimmer Gold@#$%3 GB RAM or 64 GB@#$%5.5@#$%Available. Released 2016, August
+Zenfone Max ZC550KL (2016)@#$%32 GB@#$%Black, White, Orange, Blue@#$%2 GB RAM or 3 GB RAM@#$%5.5@#$%Available. Released 2016, May
+Zenfone Go ZB450KL@#$%8 GB@#$%Glacier Grey/Silver, Blue/Sheer Gold, Charcoal Black, Pearl White, Glamor Red, Lemon Yellow@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, August
+Zenfone Go ZB452KG@#$%8 GB@#$%Lemon Yellow, Charcoal Black, Pearl White, Glacier Gray, Sheer Gold, Glamour Red, Silver Blue@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, April
+Zenfone Go ZB551KL@#$%16/32 GB@#$%Charcoal Black, Pearl White, Lake Blue, Glacier Gray, Sheer Gold, Glamour Red, Floral Pink, Silver Blue@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, May
+Zenfone Go T500@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, April
+Zenfone Go ZC451TG@#$%8 GB@#$%Charcoal Black, Pearl White, Rouge Pink, Flash Blue@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, December
+Live G500TG@#$%16 GB@#$%Rosa, Azul, Yellow@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, February
+Zenfone 2 Laser ZE551KL@#$%16/32 GB@#$%Silver@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, November
+Zenfone Zoom ZX551ML@#$%32/64/128 GB@#$%Pure Black, Ceramic White@#$%4 GB RAM@#$%5.5@#$%Available. Released 2015, December
+Zenpad 8.0 Z380M@#$%8 GB@#$%Dark Gray, Pearl White, Rose Gold@#$%1 GB RAM@#$%8.0@#$%Available. Released 2016, May
+Zenpad 10 Z300M@#$%16/32 GB@#$%Dark Gray, Pearl White, Rose Gold@#$%2 GB RAM@#$%10.1@#$%Available. Released 2016, May
+Zenpad 10 Z300C@#$%8/16/32 GB@#$%Black, White, Aurora Metallic@#$%2 GB RAM@#$%10.1@#$%Available. Released 2015, June
+Zenfone Go ZC500TG@#$%8/16 GB@#$%Black, White, Red@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Zenfone Max ZC550KL@#$%8/16 GB@#$%Black, White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, January
+Zenfone 2 Deluxe ZE551ML@#$%64/128 GB@#$%White, Pink, Purple@#$%4 GB RAM@#$%5.5@#$%Available. Released 2015, September
+Zenfone 2 Laser ZE601KL@#$%16 GB@#$%Glacier Gray, Sheer Gold, Glamour Red@#$%2 GB RAM@#$%6.0@#$%Available. Released 2015, December
+Zenfone 2 Laser ZE600KL@#$%16 GB@#$%Glacier Gray, Sheer Gold, Glamour Red@#$%2 GB RAM@#$%6.0@#$%Available. Released 2016, January
+Zenfone 2 Laser ZE550KL@#$%16 GB@#$%Black, White, Red, Silver, Gold@#$%2 GB RAM or 32 GB@#$%5.5@#$%Available. Released 2015, September
+Zenfone 2 Laser ZE500KG@#$%8/16 GB@#$%Black, Ceramic White, Silver, Sheer Gold, Glamour Red@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, October
+Zenfone 2 Laser ZE500KL@#$%8/16 GB@#$%Black/Ceramic White/Silver/Purple/Aqua Blue/Sheer Gold/Glamour Red@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Zenpad 7.0 Z370CG@#$%16 GB@#$%Black, White, Aurora Metallic@#$%2 GB RAM@#$%7.0@#$%Available. Released 2015, August
+Zenfone 2E@#$%8 GB@#$%Charcoal Black, Pearl White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, July
+Pegasus 2 Plus@#$%32 GB@#$%Rose Gold, White@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, December
+Zenpad S 8.0 Z580CA@#$%16/32/64 GB@#$%Black, White@#$%2/4 GB RAM@#$%8.0@#$%Available. Released 2015, August
+Zenpad S 8.0 Z580C@#$%16/32 GB@#$%Black, White@#$%2 GB RAM@#$%8.0@#$%Available. Released 2015, August
+Zenpad 8.0 Z380KL@#$%8 GB@#$%Black, White, Aurora Metallic@#$%1 GB RAM@#$%8.0@#$%Available. Released 2015, July
+Zenpad 8.0 Z380C@#$%8 GB@#$%Black, White, Aurora Metallic@#$%1 GB RAM@#$%8.0@#$%Available. Released 2015, July
+Zenpad C 7.0 Z170MG@#$%8/16 GB@#$%Black, White@#$%1 GB RAM@#$%7.0@#$%Available. Released 2015, August
+Zenpad C 7.0@#$%8/16 GB@#$%Black, White, Red, Aurora Metallic@#$%1 GB RAM@#$%7.0@#$%Available. Released 2015, July
+Zenfone Selfie ZD551KL@#$%16/32 GB@#$%Pure White, Chic Pink, Aqua Blue@#$%2/3 GB RAM@#$%5.5@#$%Available. Released 2015, August
+Zenfone 2 ZE500CL@#$%16 GB@#$%Charcoal Black, Pearl White, Cherry Red@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, March
+Zenfone 2 ZE550ML@#$%16 GB@#$%Osmium Black, Glamor Red, Ceramic White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, March
+Zenfone 2 ZE551ML@#$%16/32/64 GB@#$%Osmium Black, Sheer Gold, Glacier Gray, Glamor Red, Ceramic White@#$%2/4 GB RAM@#$%5.5@#$%Available. Released 2015, March
+Fonepad 7 FE375CL@#$%8/16 GB@#$%Black, White@#$%2 GB RAM@#$%7.0@#$%Available. Released 2015, March
+Zenfone C ZC451CG@#$%8 GB@#$%Charcoal Black, Pearl White, Cherry Red@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, February
+Fonepad 7 FE171CG@#$%8/16 GB@#$%Black, White, Gold, Red@#$%1/2 GB RAM@#$%7.0@#$%Available. Released 2015, January
+Zenfone Zoom ZX550@#$%16/32/64/128 GB@#$%Meteorite black, Glacier white@#$%2/4 GB RAM@#$%5.5@#$%Available. Released 2015, December
+Pegasus@#$%8/16 GB@#$%Black, White, Red, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, May
+Zenfone 5 Lite A502CG@#$%8/16 GB@#$%Charcoal Black, Pearl White, Cherry Red@#$%ram@#$%5.0@#$%Available. Released 2014, November
+Memo Pad 10 ME103K@#$%8/16/32 GB@#$%White, Black@#$%1 GB RAM@#$%10.1@#$%Available. Released 2014, November
+PadFone X mini@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, October
+Memo Pad 7 ME572CL@#$%16/32 GB@#$%Burgundy Red, Champagne Gold,Gentle Black@#$%2 GB RAM@#$%7.0@#$%Available. Released 2014, November
+Memo Pad 7 ME572C@#$%16/32 GB@#$%Burgundy Red, Champagne Gold,Gentle Black@#$%2 GB RAM@#$%7.0@#$%Available. Released 2014, November
+Zenfone 5 A500KL@#$%8/16/32 GB@#$%Charcoal Black, Pearl White, Cherry Red, Champagne Gold, Twilight Purple@#$%1/2 GB RAM@#$%5.0@#$%Available. Released 2014, July
+Zenfone 4 A450CG@#$%8 GB@#$%Charcoal Black, Pearl White, Cherry Red, Sky Blue, Solar Yellow@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, July
+Memo Pad 8 ME581CL@#$%16/32 GB@#$%White, Pink, Blue@#$%2 GB RAM@#$%8.0@#$%Available. Released 2014, Q3
+Memo Pad 8 ME181C@#$%16 GB@#$%Black, White, Purple, Gold@#$%1 GB RAM@#$%8.0@#$%Available. Released 2014, August
+Memo Pad 7 ME176C@#$%8/16 GB@#$%Black, White, Red, Blue, Yellow@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, August
+Fonepad 8 FE380CG@#$%8/16 GB@#$%Black, White, Red, Gold@#$%1/2 GB RAM@#$%8.0@#$%Available. Released 2014, Q3
+Fonepad 7 FE375CXG@#$%8/16 GB@#$%Black, White, Red, Gold@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, September
+Fonepad 7 FE375CG@#$%8/16 GB@#$%Black, White, Red, Gold@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, Q3
+Transformer Pad TF303CL@#$%16/32 GB@#$%Blue, Gold@#$%2 GB RAM@#$%10.1@#$%Available. Released 2014, Q3
+Transformer Pad TF103C@#$%8/16 GB@#$%Black, White@#$%1 GB RAM@#$%10.1@#$%Available. Released 2014, June
+Fonepad 7 (2014)@#$%4/8 GB@#$%Black, White, Red, Blue (Dual SIM)/ White (Single SIM)@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, May
+PadFone X@#$%16 GB@#$%Titanium Black, Platinum White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, July
+PadFone S@#$%16 GB@#$%Titanium Black, Platinum White, Dark Ruby@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, July
+PadFone Infinity Lite@#$%16/32 GB@#$%Titanium Black, Platinum White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, March
+PadFone E@#$%16/32 GB@#$%Black, White@#$%ram@#$%4.7@#$%Available. Released 2014, March
+Zenfone 6 A601CG@#$%16/32 GB@#$%Charcoal Black, Pearl White, Cherry Red, Champagne Gold@#$%2 GB RAM@#$%6.0@#$%Available. Released 2014, May
+Zenfone 6 A600CG@#$%16/32 GB@#$%Charcoal Black, Pearl White, Cherry Red, Champagne Gold@#$%2 GB RAM@#$%6.0@#$%Available. Released 2014, May
+Zenfone 5 A501CG@#$%8 GB@#$%Charcoal Black, Pearl White, Cherry Red@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, January
+Zenfone 5 A500CG@#$%8/16/32 GB@#$%Charcoal Black, Pearl White, Cherry Red, Champagne Gold, Twilight Purple@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, April
+Zenfone 4@#$%4/8 GB@#$%Charcoal Black, Pearl White, Cherry Red, Sky Blue, Solar Yellow@#$%1 GB RAM@#$%4.0@#$%Available. Released 2014, May
+PadFone mini 4G (Intel)@#$%8 GB@#$%Charcoal Black, Pearl White, Cherry Red@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, September
+PadFone mini (Intel)@#$%8 GB@#$%Black, White, Red, Blue, Yellow@#$%1 GB RAM@#$%4.0@#$%Available. Released 2014, June
+PadFone mini@#$%16 GB@#$%Titanium Black, Platinum White, Soft Pink@#$%1 GB RAM@#$%4.3@#$%Available. Released 2014, December
+Transformer Book Trio@#$%16/32/64 GB@#$%Black@#$%2 GB RAM@#$%11.6@#$%Available. Released 2013, September
+PadFone Infinity 2@#$%16/32 GB@#$%Titanium Black, Platinum White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, October
+Memo Pad 10@#$%8/16 GB@#$%Gray, White, Pink@#$%1 GB RAM@#$%10.1@#$%Available. Released 2013, November
+Memo Pad 8 ME180A@#$%16 GB@#$%Gray, White, Pink@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013, November
+Fonepad 7@#$%8/16/32 GB@#$%Sapphire black, Diamond white@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, October
+Google Nexus 7 (2013)@#$%16/32 GB@#$%Black@#$%2 GB RAM@#$%7.0@#$%Available. Released 2013, July
+Fonepad Note FHD6@#$%16/32 GB@#$%White, Black@#$%2 GB RAM@#$%6.0@#$%Available. Released 2013, November
+Transformer Pad TF701T@#$%32/64 GB@#$%Silver@#$%2 GB RAM@#$%10.1@#$%Available. Released 2013, November
+Memo Pad FHD10@#$%16/32 GB@#$%Royal Blue, Silk White, Vivid Pink@#$%2 GB RAM@#$%10.0@#$%Available. Released 2013, August
+Memo Pad HD7 8 GB@#$%8 GB@#$%Black, Gray, White, Pink, Green@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, July
+Memo Pad HD7 16 GB@#$%16 GB@#$%Black, Gray, White, Pink, Green@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, July
+Fonepad@#$%8/16 GB@#$%Titanium Gray, Champagne Gold@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, April
+PadFone Infinity@#$%32/64 GB@#$%Titanium Gray, Champagne Gold, Hot Pink@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, April
+Memo Pad Smart 10@#$%16 GB@#$%Crystal White, Midnight Blue, Fuchsia Pink@#$%1 GB RAM@#$%10.1@#$%Available. Released 2013, May
+Memo Pad ME172V@#$%8/16 GB@#$%Sugar White, Titanium Gray, Cherry Pink@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, January
+Google Nexus 7 Cellular@#$%16/32 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2012, November 
+VivoTab RT TF600T@#$%32/64 GB@#$%Gray@#$%2 GB RAM@#$%10.1@#$%Available. Released 2012, November
+PadFone 2@#$%16/32/64 GB@#$%Black, White@#$%2 GB RAM@#$%4.7@#$%Available. Released 2012, December
+Google Nexus 7@#$%8/16/32 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2012, July
+Transformer Pad Infinity 700 LTE@#$%32/64 GB@#$%Amethyst Gray, Champagne Gold@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, Q4
+Transformer Pad Infinity 700 3G@#$%32/64 GB@#$%Amethyst Gray, Champagne Gold@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, Q3
+Transformer Pad TF300TG@#$%16/32 GB@#$%Royal Blue, Iceberg White, Torch Red@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012
+Transformer Pad TF300T@#$%16/32 GB@#$%Royal Blue, Iceberg White, Torch Red@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, April
+Transformer Pad Infinity 700@#$%32/64 GB@#$%Amethyst Gray, Champagne Gold@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, July
+Memo@#$%16/32 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2012, September
+Transformer Prime TF700T@#$%32/64 GB@#$%Silver, Purple@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, July
+Transformer Prime TF201@#$%32/64 GB@#$%Amethyst Gray, Champagne Gold@#$%1 GB RAM@#$%10.1@#$%Available. Released 2011, December
+PadFone@#$%16/32/64 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, June
+P835@#$%4 GB@#$%Black@#$%288 MB RAM@#$%3.5@#$%Discontinued
+Transformer TF101@#$%16/32 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Discontinued
+E600@#$%16/32 GB@#$%Black@#$%ram@#$%4.0@#$%Cancelled
+P565@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+P552w@#$%128 MB RAM@#$%Black, White@#$%256 MB ROM@#$%2.8@#$%Discontinued
+P320@#$%64 MB RAM@#$%@#$%128 MB ROM@#$%2.6@#$%Discontinued
+M930@#$%256 MB@#$%Black@#$%64 MB RAM@#$%2.6@#$%Discontinued
+P550@#$%256 MB@#$%Silver@#$%64 MB RAM@#$%3.5@#$%Discontinued
+P750@#$%256 MB@#$%Black@#$%ram@#$%2.6@#$%Discontinued
+P527@#$%128 MB@#$%Silver@#$%64 MB RAM@#$%2.6@#$%Discontinued
+Z801@#$%128 MB@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+J502@#$%128 MB@#$%Black, Red@#$%ram@#$%2.4@#$%Discontinued
+V88i@#$%128 MB@#$%Black@#$%ram@#$%@#$%Discontinued
+M530w@#$%256 MB@#$%Black, White@#$%64 MB RAM@#$%2.4@#$%Discontinued
+P526@#$%256 MB@#$%Silver@#$%ram@#$%2.6@#$%Discontinued
+J501@#$%256 MB@#$%Black, White@#$%ram@#$%2.2@#$%Discontinued
+P735@#$%256 MB@#$%Silver@#$%64 MB RAM@#$%2.8@#$%Discontinued
+Z810@#$%256 MB@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+P535@#$%256 MB@#$%Silver, White@#$%64 MB RAM@#$%2.8@#$%Discontinued
+P525@#$%256 MB@#$%Silver@#$%ram@#$%2.8@#$%Discontinued
+P505@#$%64 MB RAM@#$%Silver@#$%64 MB ROM@#$%2.8@#$%Discontinued
+M303@#$%20 received@#$%Silver, Pink, Black@#$%dialed and missed calls@#$%1.8@#$%Discontinued
+M307@#$%20 received@#$%White, Silver@#$%ram@#$%1.8@#$%Discontinued
+M310@#$%20 received@#$%White, Silver@#$%ram@#$%2.2@#$%Discontinued
+V80@#$%20 received@#$%Black, White, Reddish Gold@#$%ram@#$%2.0@#$%Discontinued
+V75@#$%20 received@#$%White, Blue@#$%ram@#$%1.8@#$%Discontinued
+V66@#$%20 received@#$%Silver, Blue, Orange@#$%ram@#$%1.8@#$%Discontinued
+V55@#$%20 received@#$%Black, Blue@#$%dialed and missed calls@#$%1.5@#$%Discontinued
+Zenfone Pegasus 3s@#$%32/64 GB@#$%Gold, silver, gray, rose gold@#$%3 GB RAM@#$%5.2@#$%Cancelled

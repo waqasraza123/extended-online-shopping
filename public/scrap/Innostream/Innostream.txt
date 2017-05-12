@@ -1,18 +1,18 @@
-INNO A20;512 MB;;ram;
-INNO P10;20 received;Black, Silver, Red;dialed and missed calls;
-INNO A10;20 received;Silver, Blue;ram;
-INNO 75;20 received;;dialed and missed calls;
-INNO 50;20 received;Silver;ram;
-INNO 36;20 received;Silver, Red;dialed and missed calls;
-INNO 79;20 received;;dialed and missed calls;
-INNO 78;20 received;;dialed and missed calls;
-INNO 30;20 received;;dialed and missed calls;
-INNO 55;20 received;;dialed and missed calls;
-INNO 70;20 received;;ram;
-INNO 99;20 received;;dialed and missed calls;
-INNO 90;20 received;Pearl White, Silver;ram;
-INNO 89;20 received;silver, white, blue;dialed and missed calls;
-INNO 80;20 received;Black, White, Silver;dialed and missed calls;
-INNO 120;10 dialed;;10 received;
-INNO 110;10 dialed;;10 received;
-INNO 100;10 dialed;;10 received;
+INNO A20@#$%512 MB@#$%@#$%ram@#$%@#$%Discontinued
+INNO P10@#$%20 received@#$%Black, Silver, Red@#$%dialed and missed calls@#$%@#$%Discontinued
+INNO A10@#$%20 received@#$%Silver, Blue@#$%ram@#$%@#$%Discontinued
+INNO 75@#$%20 received@#$%@#$%dialed and missed calls@#$%@#$%Discontinued
+INNO 50@#$%20 received@#$%Silver@#$%ram@#$%@#$%Discontinued
+INNO 36@#$%20 received@#$%Silver, Red@#$%dialed and missed calls@#$%@#$%Cancelled
+INNO 79@#$%20 received@#$%@#$%dialed and missed calls@#$%@#$%Discontinued
+INNO 78@#$%20 received@#$%@#$%dialed and missed calls@#$%@#$%Discontinued
+INNO 30@#$%20 received@#$%@#$%dialed and missed calls@#$%@#$%Discontinued
+INNO 55@#$%20 received@#$%@#$%dialed and missed calls@#$%@#$%Discontinued
+INNO 70@#$%20 received@#$%@#$%ram@#$%@#$%Discontinued
+INNO 99@#$%20 received@#$%@#$%dialed and missed calls@#$%@#$%Discontinued
+INNO 90@#$%20 received@#$%Pearl White, Silver@#$%ram@#$%@#$%Discontinued
+INNO 89@#$%20 received@#$%silver, white, blue@#$%dialed and missed calls@#$%@#$%Discontinued
+INNO 80@#$%20 received@#$%Black, White, Silver@#$%dialed and missed calls@#$%@#$%Discontinued
+INNO 120@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+INNO 110@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+INNO 100@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued

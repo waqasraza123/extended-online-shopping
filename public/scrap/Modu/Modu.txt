@@ -1,8 +1,8 @@
-T;16 MB RAM;Black;ram;2.2
-Night jacket;16 MB RAM;Ultra Violet;ram;1.3
-Sport jacket;16 MB RAM;White, Black;ram;1.3
-Speedy jacket;16 MB RAM;Red on Black;ram;1.3
-Shiny jacket;16 MB RAM;Black;ram;1.3
-Mini jacket;16 MB RAM;Black;ram;1.3
-Express jacket;16 MB RAM;6 patterns variety;ram;1.3
-Phone;16 MB RAM;Black;ram;1.3
+T@#$%16 MB RAM@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+Night jacket@#$%16 MB RAM@#$%Ultra Violet@#$%ram@#$%1.3@#$%Discontinued
+Sport jacket@#$%16 MB RAM@#$%White, Black@#$%ram@#$%1.3@#$%Discontinued
+Speedy jacket@#$%16 MB RAM@#$%Red on Black@#$%ram@#$%1.3@#$%Discontinued
+Shiny jacket@#$%16 MB RAM@#$%Black@#$%ram@#$%1.3@#$%Discontinued
+Mini jacket@#$%16 MB RAM@#$%Black@#$%ram@#$%1.3@#$%Discontinued
+Express jacket@#$%16 MB RAM@#$%6 patterns variety@#$%ram@#$%1.3@#$%Discontinued
+Phone@#$%16 MB RAM@#$%Black@#$%ram@#$%1.3@#$%Discontinued

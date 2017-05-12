@@ -1,30 +1,30 @@
-t800;10 dialed;Red;ram;
-t250;10 dialed;Black;ram;
-t650;10 dialed;Black;ram;
-t200;10 dialed;Red;ram;
-GU1100;10 dialed;Silver;ram;
-SP600;10 dialed;Silver;ram;
-t550;10 received;Black;dialed and missed calls;
-t420;10 received;Black;dialed and missed calls;
-t180;10 received;Navy Blue, Lacquered White;ram;
-t410;10 received;Black;dialed and missed calls;
-t130;10 received;Black;ram;1.37
-t110;10 received;Black;ram;1.8
-t210;10 received;Black;ram;1.8
-T510;10 received;Silver, Blue;ram;1.8
-C1000;10 received;;ram;
-T91;10 received;;ram;
-T90;10 received;;ram;
-NEO;10 received;;ram;
-X60i;10 received;Silver, Blue;ram;
-G90;10 received;Silver;ram;2.2
-G83;10 received;;ram;
-G80;10 received;;ram;
-G82;10 received;;ram;
-G40;10 received;;ram;
-GM 882;10 received;;ram;
-GM 830;10 dialed;4;10 received;
-GM 810;10 dialed;4;ram;
-Estremo;10 dialed;3;ram;
-GM 710;10 dialed;4;ram;
-GM 410;10 dialed;3;ram;
+t800@#$%10 dialed@#$%Red@#$%ram@#$%@#$%Cancelled
+t250@#$%10 dialed@#$%Black@#$%ram@#$%@#$%Cancelled
+t650@#$%10 dialed@#$%Black@#$%ram@#$%@#$%Cancelled
+t200@#$%10 dialed@#$%Red@#$%ram@#$%@#$%Discontinued
+GU1100@#$%10 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+SP600@#$%10 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+t550@#$%10 received@#$%Black@#$%dialed and missed calls@#$%@#$%Discontinued
+t420@#$%10 received@#$%Black@#$%dialed and missed calls@#$%@#$%Discontinued
+t180@#$%10 received@#$%Navy Blue, Lacquered White@#$%ram@#$%@#$%Discontinued
+t410@#$%10 received@#$%Black@#$%dialed and missed calls@#$%@#$%Discontinued
+t130@#$%10 received@#$%Black@#$%ram@#$%1.37@#$%Discontinued
+t110@#$%10 received@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+t210@#$%10 received@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+T510@#$%10 received@#$%Silver, Blue@#$%ram@#$%1.8@#$%Discontinued
+C1000@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+T91@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+T90@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+NEO@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+X60i@#$%10 received@#$%Silver, Blue@#$%ram@#$%@#$%Discontinued
+G90@#$%10 received@#$%Silver@#$%ram@#$%2.2@#$%Discontinued
+G83@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G80@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G82@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G40@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+GM 882@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+GM 830@#$%10 dialed@#$%4@#$%10 received@#$%@#$%Discontinued
+GM 810@#$%10 dialed@#$%4@#$%ram@#$%@#$%Discontinued
+Estremo@#$%10 dialed@#$%3@#$%ram@#$%@#$%Discontinued
+GM 710@#$%10 dialed@#$%4@#$%ram@#$%@#$%Discontinued
+GM 410@#$%10 dialed@#$%3@#$%ram@#$%@#$%Discontinued

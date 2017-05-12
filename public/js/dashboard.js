@@ -124,7 +124,7 @@ $(function () {
 
     /* Morris.js Charts */
     // Sales chart
-    var area = new Morris.Area({
+    /*var area = new Morris.Area({
         element: 'revenue-chart',
         resize: true,
         data: [
@@ -144,53 +144,132 @@ $(function () {
         labels: ['Item 1', 'Item 2'],
         lineColors: ['#a0d0e0', '#3c8dbc'],
         hideHover: 'auto'
-    });
-    var line = new Morris.Line({
-        element: 'line-chart',
-        resize: true,
-        data: [
-            {y: '2011 Q1', item1: 2666},
-            {y: '2011 Q2', item1: 2778},
-            {y: '2011 Q3', item1: 4912},
-            {y: '2011 Q4', item1: 3767},
-            {y: '2012 Q1', item1: 6810},
-            {y: '2012 Q2', item1: 5670},
-            {y: '2012 Q3', item1: 4820},
-            {y: '2012 Q4', item1: 15073},
-            {y: '2013 Q1', item1: 10687},
-            {y: '2013 Q2', item1: 8432}
-        ],
-        xkey: 'y',
-        ykeys: ['item1'],
-        labels: ['Item 1'],
-        lineColors: ['#efefef'],
-        lineWidth: 2,
-        hideHover: 'auto',
-        gridTextColor: "#fff",
-        gridStrokeWidth: 0.4,
-        pointSize: 4,
-        pointStrokeColors: ["#efefef"],
-        gridLineColor: "#efefef",
-        gridTextFamily: "Open Sans",
-        gridTextSize: 10
-    });
+    });*/
+    function getDayOfWeek(dayOfWeek) {
+        dayOfWeek = dayOfWeek == -1 ? 6 : dayOfWeek
+        dayOfWeek = dayOfWeek == -2 ? 5 : dayOfWeek
+        dayOfWeek = dayOfWeek == -3 ? 4 : dayOfWeek
+        dayOfWeek = dayOfWeek == -4 ? 3 : dayOfWeek
+        dayOfWeek = dayOfWeek == -5 ? 2 : dayOfWeek
+        //var dayOfWeek = new Date(date).getDay();
+        //console.log(isNaN(dayOfWeek) ? null : ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][dayOfWeek])
+        return isNaN(dayOfWeek) ? null : ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'][dayOfWeek];
+    }
+
+    var date = new Date();
+    function line(){
+
+        $.ajax({
+            url: '/line',
+            type: 'POST',
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            success: function (d){
+                var line = new Morris.Line({
+                    element: 'revenue-chart',
+                    resize: true,
+                    data: [
+                        {y: getDayOfWeek(date.getDay()), a: ((d[0] == null) ? 0 : d[0].revenue)},
+                        {y: getDayOfWeek(date.getDay()-1), a: ((d[1] == null) ? 0 : d[1].revenue)},
+                        {y: getDayOfWeek(date.getDay()-2), a: ((d[2] == null) ? 0 : d[2].revenue)},
+                        {y: getDayOfWeek(date.getDay()-3), a: ((d[3] == null) ? 0 : d[3].revenue)},
+                        {y: getDayOfWeek(date.getDay()-4), a: ((d[4] == null) ? 0 : d[4].revenue)},
+                        {y: getDayOfWeek(date.getDay()-5), a: ((d[5] == null) ? 0 : d[5].revenue)},
+                        {y: getDayOfWeek(date.getDay()-6), a: ((d[6] == null) ? 0 : d[6].revenue)},
+                    ],
+                    xkey: 'y',
+                    ykeys: ['a'],
+                    labels: ['Current Week Sales'],
+                    lineColors: ['#efefef'],
+                    lineWidth: 2,
+                    hideHover: 'auto',
+                    gridTextColor: "#fff",
+                    gridStrokeWidth: 0.4,
+                    pointSize: 4,
+                    pointStrokeColors: ["#efefef"],
+                    gridLineColor: "#efefef",
+                    gridTextFamily: "Open Sans",
+                    gridTextSize: 10,
+                    parseTime:false
+                });
+            },
+            error: function (error) {
+                
+            }
+        })
+        setTimeout(line, 5000)
+    }
+    line()
+
+    function lineMonth(){
+
+        $.ajax({
+            url: '/line/month',
+            type: 'POST',
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            success: function (d){
+                var morrisData = [];
+
+                $.each(d, function(key, val){
+                    morrisData.push({y: val.date, a : val.revenue});
+                });
+                console.log(morrisData)
+                var line = new Morris.Line({
+                    element: 'line-chart',
+                    resize: true,
+                    data: morrisData,
+                    xkey: 'y',
+                    ykeys: ['a'],
+                    labels: ['Current Week Sales'],
+                    lineColors: ['#efefef'],
+                    lineWidth: 2,
+                    hideHover: 'auto',
+                    gridTextColor: "#fff",
+                    gridStrokeWidth: 0.4,
+                    pointSize: 4,
+                    pointStrokeColors: ["#efefef"],
+                    gridLineColor: "#efefef",
+                    gridTextFamily: "Open Sans",
+                    gridTextSize: 10,
+                    parseTime:false
+                });
+            },
+            error: function (error) {
+
+            }
+        })
+        setTimeout(lineMonth, 5000)
+    }
+    lineMonth()
 
     //Donut Chart
-    //get the data fro morris chart
-    $.ajax({
+    //get the data for morris chart
 
-    })
-    var donut = new Morris.Donut({
-        element: 'sales-chart',
-        resize: true,
-        colors: ["#3c8dbc", "#f56954", "#00a65a"],
-        data: [
-            {label: "Download Sales", value: 12},
-            {label: "In-Store Sales", value: 30},
-            {label: "Mail-Order Sales", value: 20}
-        ],
-        hideHover: 'auto'
-    });
+    function donut() {
+        $.ajax({
+            'url' : '/donut',
+            type: 'POST',
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            success: function (data){
+                var donut = new Morris.Donut({
+                    element: 'sales-chart',
+                    resize: true,
+                    colors: ["#3c8dbc", "#f56954", "#00a65a"],
+                    data: [
+                        {label: "Today's Sales", value: data[0] == null ? 0 : data[0].revenue},
+                        {label: "Yesterday's Sales", value: data[1] == null ? 0 : data[1].revenue},
+                        {label: "Day Before Yesterday", value: data[2] == null ? 0 :  data[2].revenue}
+                    ],
+                    hideHover: 'auto'
+                });
+            },
+            error: function () {
+
+            }
+        })
+        setTimeout(donut, 5000);
+    }
+    donut()
+
 
     //Fix for charts under tabs
     $('.box ul.nav a').on('shown.bs.tab', function () {
@@ -210,5 +289,4 @@ $(function () {
             return ele;
         }
     });
-
 });

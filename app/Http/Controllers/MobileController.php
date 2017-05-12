@@ -3,20 +3,15 @@
 namespace App\Http\Controllers;
 
 use App\Brand;
-use App\Http\Requests;
-use App\Http\Controllers\Controller;
 use App\ProductData;
 use App\Shop;
 use App\Storage;
 use Illuminate\Http\Request;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Facades\Auth;
-use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Input;
 use App\Mobile;
 use App\Http\Requests\SaveMobileRequest;
-use Illuminate\Support\Facades\File;
-use Illuminate\Support\Facades\Response;
 use Maatwebsite\Excel\Facades\Excel;
 use Session;
 use App\Color;
@@ -540,8 +535,6 @@ class MobileController extends Controller
     public function compareData($excelData){
         $dataController = new DataController();
         $c = new Controller();
-        $shopName = $c->currentShop->shop_name;
-
 
         //sort the online data files
         //based on brand name
@@ -656,7 +649,7 @@ class MobileController extends Controller
                             /*echo 'color pass '. $dataController->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $dataController->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .
                                 $dataController->returnTrueFalse($overallPass).'<br>' . 'exact match ' . $dataController->returnTrueFalse($exactMatch). '<br>';
                             echo $gsmTitle . ' = ' . $ed[0] . '<br>';*/
-                            $this->saveComparedData($mobile->id, $ed, $c->currentShop->id);
+                            $this->saveComparedData($mobile->id, $ed, $c->shopId);
                             $mobileMatched = true;
                         } else {
                             /*echo 'All of the passes failed';
@@ -723,5 +716,22 @@ class MobileController extends Controller
             $product->colors()->sync($colorIds);
             $product->storages()->sync($storageIds);
         }
+    }
+
+
+    /**
+     * returns the out of
+     * stock items for the
+     * current shop
+     */
+    public function outOfStock(){
+        $c = new Controller();
+        $shopId = $c->shopId;
+        $outOfStockItems = Shop::where('id', $shopId)->first();
+        if($outOfStockItems){
+            $outOfStockItems = $outOfStockItems->products()->where('product_data.stock', 0)->paginate(24);
+        }
+
+        return view('shopkeepers.mobile.out-of-stock')->with(['mobiles' => $outOfStockItems, 'shop_id' => $shopId]);
     }
 }

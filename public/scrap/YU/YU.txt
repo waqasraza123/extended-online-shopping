@@ -1,9 +1,9 @@
-Yunique Plus;8 GB;Black;2 GB RAM;4.7
-Yureka S;16 GB;Dark Grey, Rose Gold, White;3 GB RAM;5.2
-Yunicorn;32 GB;Silver, graphite, gold;4 GB RAM;5.5
-Yureka Note;16 GB;Black;3 GB RAM;6.0
-Yutopia;32 GB;Silver;4 GB RAM;5.2
-Yunique;8 GB;Black;1 GB RAM;4.7
-Yuphoria;16 GB;White/Gold, Black/Silver;2 GB RAM;5.0
-Yureka Plus;16 GB;Moondust Gray, Alabaster White;2 GB RAM;5.5
-Yureka;16 GB;Moonstone Grey;2 GB RAM;5.5
+Yunique Plus@#$%8 GB@#$%Black@#$%2 GB RAM@#$%4.7@#$%Available. Released 2016, August
+Yureka S@#$%16 GB@#$%Dark Grey, Rose Gold, White@#$%3 GB RAM@#$%5.2@#$%Available. Released 2016, August
+Yunicorn@#$%32 GB@#$%Silver, graphite, gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, June
+Yureka Note@#$%16 GB@#$%Black@#$%3 GB RAM@#$%6.0@#$%Available. Released 2016, May
+Yutopia@#$%32 GB@#$%Silver@#$%4 GB RAM@#$%5.2@#$%Available. Released 2015, December
+Yunique@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, September
+Yuphoria@#$%16 GB@#$%White/Gold, Black/Silver@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, May
+Yureka Plus@#$%16 GB@#$%Moondust Gray, Alabaster White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, July
+Yureka@#$%16 GB@#$%Moonstone Grey@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, January

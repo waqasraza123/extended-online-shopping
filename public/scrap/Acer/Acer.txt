@@ -1,99 +1,99 @@
-Iconia Talk S;16/32 GB;Black;2 GB RAM;7.0
-Liquid Z6 Plus;32 GB;Black, White;3 GB RAM;5.5
-Liquid Z6;8 GB;Black, White;1 GB RAM;5.0
-Iconia Tab 10 A3-A40;16/32/64 GB;Black;2 GB RAM;10.1
-Liquid X2;32 GB;Black, Gold;3 GB RAM;5.5
-Liquid Jade 2;32 GB;Black;3 GB RAM;5.5
-Liquid Zest Plus;16 GB;Blue, White;2 GB RAM;5.5
-Liquid Zest;8 GB;Black, White;1 GB RAM;5.0
-Predator 8;32/64 GB;Black/Silver;2 GB RAM;8.0
-Liquid Jade Primo;32 GB;Black;3 GB RAM;5.5
-Liquid Z330;8 GB;Mystic Black, Pure White;1 GB RAM;4.5
-Liquid Z320;8 GB;Pure White;1 GB RAM;4.5
-Liquid Z630S;32 GB;Black, Gold;3 GB RAM;5.5
-Liquid Z630;8 GB;Black;1 GB RAM;5.5
-Liquid Z530S;32 GB;Black, White;3 GB RAM;5.0
-Liquid Z530;8 GB;Black, White;1 GB RAM;5.0
-Liquid M330;8 GB;Mystic Black, Pure White;1 GB RAM;4.5
-Liquid M320;8 GB;Mystic Black, Pure White;1 GB RAM;4.5
-Iconia Tab 10 A3-A30;16/32/64 GB;Various;2 GB RAM;10.1
-Iconia One 8 B1-820;16/32 GB;Various;1 GB RAM;8.0
-Iconia Tab A3-A20;16 GB;Black, White;1 GB RAM;10.1
-Iconia Tab A3-A20FHD;32 GB;Black, White;2 GB RAM;10.1
-Liquid Jade Z;8 GB;Black, White;1 GB RAM - Liquid Jade Z;5.0
-Liquid Z520;8 GB;Black, White;1 GB RAM;5.0
-Liquid Z220;8 GB;Black, White;1 GB RAM;4.0
-Liquid M220;4 GB;Mystic Black, Pure White;512 MB RAM - Liquid M220;4.0
-Liquid Z410;8 GB;Black;1 GB RAM;4.5
-Liquid Jade S;16 GB;Black, White, Red, Pink;2 GB RAM;5.0
-Liquid Z500;4 GB;Aquamarine Green, Sandy Silver, Titanium Black;1 GB RAM;5.0
-Liquid X1;16 GB;Graphite black, Wine red;2 GB RAM;5.7
-Liquid Jade;8 GB;Black, White, Green, Pink, Gray;1 GB RAM - Liquid Jade;5.0
-Liquid E700;16 GB;Titan Black, Burgundy Red;2 GB RAM or 4 GB;5.0
-Liquid E600;4 GB;Black, Green, Dark red;1 GB RAM;5.0
-Liquid Z200;4 GB;Titanium Black, Essential White, Fragrant Pink, Sky Blue, Sunshine Yellow;512 MB RAM;4.0
-Iconia Tab 8 A1-840FHD;16/32 GB;Silver;2 GB RAM;8.0
-Iconia Tab 7 A1-713;16 GB;Black;1 GB RAM;7.0
-Iconia Tab 7 A1-713HD;16 GB;Black;1 GB RAM;7.0
-Iconia One 7 B1-730;8 GB;Red, white, black, blue, pink;1 GB RAM;7.0
-Liquid E3 Duo Plus;16 GB;Black;2 GB RAM;4.7
-Liquid E3;4 GB;Black/White;1 GB RAM;4.7
-Liquid Z4;4 GB;Black/White;512 MB RAM;4.0
-Iconia B1-721;16 GB;Black/Red;1 GB RAM;7.0
-Iconia B1-720;8/16 GB;Various;1 GB RAM;7.0
-Iconia A1-830;16 GB;White;1 GB RAM;7.9
-Liquid Z5;4 GB;Essential White, Gentle Grey;512 MB RAM;5.0
-Liquid S2;16 GB;Black, Red;2 GB RAM;6.0
-Liquid Z3;4 GB;Rock Black, Classic White;512 MB RAM;3.5
-Liquid S1;8 GB;White, Black;1 GB RAM;5.7
-Iconia Tab A3;16/32 GB;Black/Silver, White;1 GB RAM;10.1
-Iconia Tab A1-811;8 GB;White;1 GB RAM;7.9
-Iconia Tab A1-810;8/16 GB;Black;1 GB RAM;7.9
-Liquid E2;4 GB;Black, White;1 GB RAM;4.5
-Liquid Z2;4 GB;Black, Black/White;512 MB RAM;3.5
-Liquid C1;4 GB;Black, White;1 GB RAM;4.3
-Liquid E1;4 GB;Black, White;1 GB RAM;4.5
-Iconia Tab B1-710;8 GB;White;1 GB RAM;7.0
-Iconia Tab B1-A71;8/16 GB;Black;512 MB RAM;7.0
-Iconia Tab A110;8 GB;Black/Silver;1 GB RAM;7.0
-Liquid Z110;4 GB;Black, White;512 MB RAM;3.5
-Liquid Gallant E350;4 GB;Gentle Black, Ceramic White;1 GB RAM;4.3
-Liquid Gallant Duo;4 GB;Gentle Black, Ceramic White;1 GB RAM;4.3
-Liquid Glow E330;1 GB;Black, White, Pink;512 MB RAM;3.7
-CloudMobile S500;8 GB;Black;1 GB RAM;4.3
-Iconia Tab A210;8/16 GB;Titanium Gray;1 GB RAM;10.1
-Iconia Tab A200;8/16 GB;Black;1 GB RAM;10.1
-Iconia Tab A701;16/32/64 GB;Titanium Gray;1 GB RAM;10.1
-Iconia Tab A700;16/32/64 GB;Titanium Gray, Metallic Red;1 GB RAM;10.1
-Iconia Tab A511;16/32 GB;Black, Silver;1 GB RAM;10.1
-Iconia Tab A510;16/32 GB;Black, Silver;1 GB RAM;10.1
-Allegro;16/32 GB;Black, White;ram;3.6
-Liquid Express E320;512 MB RAM;Black;512 MB;3.5
-Iconia Tab A501;16/32/64 GB;Black;1 GB RAM;10.1
-Iconia Smart;8 GB;Silver;512 MB RAM;4.8
-Iconia Tab A500;16/32 GB;Black;1 GB RAM;10.1
-Iconia Tab A101;8/16 GB;Black/Red, Black/Blue;1 GB RAM;7.0
-Iconia Tab A100;8/16 GB;Black/Red, Black/Blue;1 GB RAM;7.0
-Liquid mini E310;512 MB RAM;blue, pink, silver, black, green, lagoon, cherry, pearl, steel;512 MB;3.2
-beTouch E210;256 MB RAM;Black, White;512 MB;2.6
-beTouch E140;256 MB RAM;Black;512 MB;2.8
-beTouch T500;256 MB RAM;Black;512 MB;3.2
-Liquid mt;512 MB RAM;Silver;512 MB;3.6
-beTouch E130;256 MB RAM;Black, White;512 MB;2.6
-beTouch E120;256 MB RAM;Black, White;512 MB;2.8
-Stream;2 GB;Black;512 MB RAM;3.7
-Liquid E;512 MB RAM;Black, White, Red, Ferrari edition;512 MB;3.5
-neoTouch P400;256 MB RAM;Black;512 MB ROM;3.2
-beTouch E400;256 MB RAM;Soft-touch Black, Ceramic White and Pearl Red with 3 exchangeable battery covers;512 MB;3.2
-neoTouch P300;256 MB RAM;Black;512 MB ROM;3.2
-beTouch E110;256 MB RAM;Black, Dark Blue;256 MB;2.8
-Liquid;256 MB RAM;Black, White, Red;512 MB;3.5
-neoTouch;256 MB RAM;Black;512 MB ROM;3.8
-beTouch E200;256 MB RAM;Black, White;512 MB ROM;3.0
-beTouch E100;256 MB RAM;Black;512 MB ROM;3.2
-beTouch E101;256 MB RAM;Black;512 MB ROM;3.2
-DX650;256 MB RAM;Black;ram;2.8
-M900;256 MB RAM;Black;ram;3.8
-F900;128 MB RAM;Black;256 MB ROM;3.8
-X960;128 MB RAM;Black;256 MB ROM;2.8
-DX900;128 MB RAM;Black;256 MB ROM;2.8
+Iconia Talk S@#$%16/32 GB@#$%Black@#$%2 GB RAM@#$%7.0@#$%Available. Released 2016, October
+Liquid Z6 Plus@#$%32 GB@#$%Black, White@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, December
+Liquid Z6@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, December
+Iconia Tab 10 A3-A40@#$%16/32/64 GB@#$%Black@#$%2 GB RAM@#$%10.1@#$%Available. Released 2016, June
+Liquid X2@#$%32 GB@#$%Black, Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, February
+Liquid Jade 2@#$%32 GB@#$%Black@#$%3 GB RAM@#$%5.5@#$%Available
+Liquid Zest Plus@#$%16 GB@#$%Blue, White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, July
+Liquid Zest@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, April
+Predator 8@#$%32/64 GB@#$%Black/Silver@#$%2 GB RAM@#$%8.0@#$%Available. Released 2015, November
+Liquid Jade Primo@#$%32 GB@#$%Black@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, April
+Liquid Z330@#$%8 GB@#$%Mystic Black, Pure White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, October
+Liquid Z320@#$%8 GB@#$%Pure White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, November
+Liquid Z630S@#$%32 GB@#$%Black, Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, September
+Liquid Z630@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.5@#$%Available. Released 2015, September
+Liquid Z530S@#$%32 GB@#$%Black, White@#$%3 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Liquid Z530@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, October
+Liquid M330@#$%8 GB@#$%Mystic Black, Pure White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, November
+Liquid M320@#$%8 GB@#$%Mystic Black, Pure White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, November
+Iconia Tab 10 A3-A30@#$%16/32/64 GB@#$%Various@#$%2 GB RAM@#$%10.1@#$%Available. Released 2015, June
+Iconia One 8 B1-820@#$%16/32 GB@#$%Various@#$%1 GB RAM@#$%8.0@#$%Available. Released 2015, May
+Iconia Tab A3-A20@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%10.1@#$%Available. Released 2014, October
+Iconia Tab A3-A20FHD@#$%32 GB@#$%Black, White@#$%2 GB RAM@#$%10.1@#$%Available. Released 2014, October
+Liquid Jade Z@#$%8 GB@#$%Black, White@#$%1 GB RAM - Liquid Jade Z@#$%5.0@#$%Available. Released 2015, April
+Liquid Z520@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, April
+Liquid Z220@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, April
+Liquid M220@#$%4 GB@#$%Mystic Black, Pure White@#$%512 MB RAM - Liquid M220@#$%4.0@#$%Available. Released 2015, May
+Liquid Z410@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, February
+Liquid Jade S@#$%16 GB@#$%Black, White, Red, Pink@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, December
+Liquid Z500@#$%4 GB@#$%Aquamarine Green, Sandy Silver, Titanium Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, Septeber
+Liquid X1@#$%16 GB@#$%Graphite black, Wine red@#$%2 GB RAM@#$%5.7@#$%Available. Released 2014, September
+Liquid Jade@#$%8 GB@#$%Black, White, Green, Pink, Gray@#$%1 GB RAM - Liquid Jade@#$%5.0@#$%Available. Released 2014, July
+Liquid E700@#$%16 GB@#$%Titan Black, Burgundy Red@#$%2 GB RAM or 4 GB@#$%5.0@#$%Available. Released 2014, August
+Liquid E600@#$%4 GB@#$%Black, Green, Dark red@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, September
+Liquid Z200@#$%4 GB@#$%Titanium Black, Essential White, Fragrant Pink, Sky Blue, Sunshine Yellow@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, September
+Iconia Tab 8 A1-840FHD@#$%16/32 GB@#$%Silver@#$%2 GB RAM@#$%8.0@#$%Available. Released 2014, September
+Iconia Tab 7 A1-713@#$%16 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, August
+Iconia Tab 7 A1-713HD@#$%16 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, August
+Iconia One 7 B1-730@#$%8 GB@#$%Red, white, black, blue, pink@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, June
+Liquid E3 Duo Plus@#$%16 GB@#$%Black@#$%2 GB RAM@#$%4.7@#$%Available. Released 2014, Q3
+Liquid E3@#$%4 GB@#$%Black/White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, April
+Liquid Z4@#$%4 GB@#$%Black/White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, April
+Iconia B1-721@#$%16 GB@#$%Black/Red@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, January
+Iconia B1-720@#$%8/16 GB@#$%Various@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, January
+Iconia A1-830@#$%16 GB@#$%White@#$%1 GB RAM@#$%7.9@#$%Available. Released 2014, March
+Liquid Z5@#$%4 GB@#$%Essential White, Gentle Grey@#$%512 MB RAM@#$%5.0@#$%Available. Released 2014, January
+Liquid S2@#$%16 GB@#$%Black, Red@#$%2 GB RAM@#$%6.0@#$%Available. Released 2013, December
+Liquid Z3@#$%4 GB@#$%Rock Black, Classic White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2013, September
+Liquid S1@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%5.7@#$%Available. Released 2013, August
+Iconia Tab A3@#$%16/32 GB@#$%Black/Silver, White@#$%1 GB RAM@#$%10.1@#$%Available. Released 2013, November
+Iconia Tab A1-811@#$%8 GB@#$%White@#$%1 GB RAM@#$%7.9@#$%Available. Released 2013, Q2
+Iconia Tab A1-810@#$%8/16 GB@#$%Black@#$%1 GB RAM@#$%7.9@#$%Available. Released 2013, May
+Liquid E2@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, May
+Liquid Z2@#$%4 GB@#$%Black, Black/White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2013, March
+Liquid C1@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013, March
+Liquid E1@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, March
+Iconia Tab B1-710@#$%8 GB@#$%White@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, November
+Iconia Tab B1-A71@#$%8/16 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013, January
+Iconia Tab A110@#$%8 GB@#$%Black/Silver@#$%1 GB RAM@#$%7.0@#$%Available. Released 2012, October
+Liquid Z110@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, October
+Liquid Gallant E350@#$%4 GB@#$%Gentle Black, Ceramic White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, September
+Liquid Gallant Duo@#$%4 GB@#$%Gentle Black, Ceramic White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, September
+Liquid Glow E330@#$%1 GB@#$%Black, White, Pink@#$%512 MB RAM@#$%3.7@#$%Available. Released 2012, August
+CloudMobile S500@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, September
+Iconia Tab A210@#$%8/16 GB@#$%Titanium Gray@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, November
+Iconia Tab A200@#$%8/16 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, January
+Iconia Tab A701@#$%16/32/64 GB@#$%Titanium Gray@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, July
+Iconia Tab A700@#$%16/32/64 GB@#$%Titanium Gray, Metallic Red@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, August
+Iconia Tab A511@#$%16/32 GB@#$%Black, Silver@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, August
+Iconia Tab A510@#$%16/32 GB@#$%Black, Silver@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, April
+Allegro@#$%16/32 GB@#$%Black, White@#$%ram@#$%3.6@#$%Available. Released 2011, November
+Liquid Express E320@#$%512 MB RAM@#$%Black@#$%512 MB@#$%3.5@#$%Available. Released 2011, November
+Iconia Tab A501@#$%16/32/64 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Discontinued
+Iconia Smart@#$%8 GB@#$%Silver@#$%512 MB RAM@#$%4.8@#$%Available. Released 2011, August
+Iconia Tab A500@#$%16/32 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Discontinued
+Iconia Tab A101@#$%8/16 GB@#$%Black/Red, Black/Blue@#$%1 GB RAM@#$%7.0@#$%Discontinued
+Iconia Tab A100@#$%8/16 GB@#$%Black/Red, Black/Blue@#$%1 GB RAM@#$%7.0@#$%Available. Released 2011, April
+Liquid mini E310@#$%512 MB RAM@#$%blue, pink, silver, black, green, lagoon, cherry, pearl, steel@#$%512 MB@#$%3.2@#$%Available. Released 2011, April
+beTouch E210@#$%256 MB RAM@#$%Black, White@#$%512 MB@#$%2.6@#$%Available. Released 2011, Q2
+beTouch E140@#$%256 MB RAM@#$%Black@#$%512 MB@#$%2.8@#$%Discontinued
+beTouch T500@#$%256 MB RAM@#$%Black@#$%512 MB@#$%3.2@#$%Discontinued
+Liquid mt@#$%512 MB RAM@#$%Silver@#$%512 MB@#$%3.6@#$%Discontinued
+beTouch E130@#$%256 MB RAM@#$%Black, White@#$%512 MB@#$%2.6@#$%Discontinued
+beTouch E120@#$%256 MB RAM@#$%Black, White@#$%512 MB@#$%2.8@#$%Discontinued
+Stream@#$%2 GB@#$%Black@#$%512 MB RAM@#$%3.7@#$%Discontinued
+Liquid E@#$%512 MB RAM@#$%Black, White, Red, Ferrari edition@#$%512 MB@#$%3.5@#$%Discontinued
+neoTouch P400@#$%256 MB RAM@#$%Black@#$%512 MB ROM@#$%3.2@#$%Discontinued
+beTouch E400@#$%256 MB RAM@#$%Soft-touch Black, Ceramic White and Pearl Red with 3 exchangeable battery covers@#$%512 MB@#$%3.2@#$%Discontinued
+neoTouch P300@#$%256 MB RAM@#$%Black@#$%512 MB ROM@#$%3.2@#$%Discontinued
+beTouch E110@#$%256 MB RAM@#$%Black, Dark Blue@#$%256 MB@#$%2.8@#$%Discontinued
+Liquid@#$%256 MB RAM@#$%Black, White, Red@#$%512 MB@#$%3.5@#$%Discontinued
+neoTouch@#$%256 MB RAM@#$%Black@#$%512 MB ROM@#$%3.8@#$%Discontinued
+beTouch E200@#$%256 MB RAM@#$%Black, White@#$%512 MB ROM@#$%3.0@#$%Discontinued
+beTouch E100@#$%256 MB RAM@#$%Black@#$%512 MB ROM@#$%3.2@#$%Discontinued
+beTouch E101@#$%256 MB RAM@#$%Black@#$%512 MB ROM@#$%3.2@#$%Discontinued
+DX650@#$%256 MB RAM@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+M900@#$%256 MB RAM@#$%Black@#$%ram@#$%3.8@#$%Discontinued
+F900@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%3.8@#$%Discontinued
+X960@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+DX900@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued

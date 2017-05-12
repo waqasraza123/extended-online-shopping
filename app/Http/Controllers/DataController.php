@@ -9,6 +9,7 @@ use App\Mobile;
 use App\ProductData;
 use App\Shop;
 use App\Storage;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
@@ -24,7 +25,7 @@ class DataController extends Controller
     public $shopName = null;
     protected $dir = null;
     protected $dirName = null;
-
+    protected $months = null;
 
     /**
      * DataController constructor.
@@ -36,13 +37,27 @@ class DataController extends Controller
         $this->years = range(2000, date('Y'));
         $this->shopName = 'Telemart';
         $this->dir = public_path() . '/online';
+        $this->months = [
+            'January' => '01',
+            'February' => '02',
+            'March' => '03',
+            'April' => '04',
+            'May' => '05',
+            'June' => '06',
+            'July' => '07',
+            'August' => '08',
+            'September' => '09',
+            'October' => '10',
+            'November' => '11',
+            'December' => '12',
+            'Septeber' => '09'
+        ];
     }
 
     public function readAndStoreGsmData(){
         $di = new \RecursiveDirectoryIterator(public_path().'/scrap/');
 
         foreach (new \RecursiveIteratorIterator($di) as $filename => $file) {
-
             if($file->getExtension() == 'txt' && $file->isFile()){
                 try
                 {
@@ -52,7 +67,7 @@ class DataController extends Controller
                 }
                 catch (FileNotFoundException $exception)
                 {
-                    die("The file doesn't exist");
+                    echo ("The file doesn't exist");
                 }
             }
         }
@@ -80,7 +95,7 @@ class DataController extends Controller
         //based on brand name
         usort($onlineLines, function($a, $b)
         {
-            return strcmp(explode(";", $a)[0], explode(";", $b)[0]);
+            return strcmp(explode("@#$%", $a)[0], explode("@#$%", $b)[0]);
         });
 
         $colors = $this->colors;
@@ -91,10 +106,10 @@ class DataController extends Controller
             if($onlineLine == ""){
                 continue;
             }
-            $onlineTitle = explode(";", $onlineLine)[1];
+            $onlineTitle = explode("@#$%", $onlineLine)[1];
 
             //get the brand name from every line
-            $brandName = strtolower(explode(";", $onlineLine)[0]);
+            $brandName = strtolower(explode("@#$%", $onlineLine)[0]);
 
             //if brand name not already in array
             //then fetch the data
@@ -173,14 +188,14 @@ class DataController extends Controller
                         }
                     }
 
-                    /*if(!($exactMatch == true || $overallPass == true || $yearPass == true)) {
+                    if(!($exactMatch == true || $overallPass == true || $yearPass == true)) {
                         foreach ($colors as $c){
                             $c = preg_replace('/\\W/', '', $c);
                             if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($c)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
                                 $colorPass = true;
                             }
                         }
-                    }*/
+                    }
 
                     if($yearPass || $overallPass || $exactMatch){
                         echo 'color pass '. $this->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $this->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .
@@ -213,7 +228,26 @@ class DataController extends Controller
         $brand = Brand::firstOrCreate(['name' => ucwords($brandName)]);
         foreach($content as $line){
 
-            $data = explode(";", $line);
+            //check if line is empty
+            if($line == '' || $line == '\n' || $line == null){
+                continue;
+            }
+
+            $data = explode("@#$%", $line);
+            $releaseDate = null;
+            if(isset($data[5])) {
+                if (preg_match('/^Released|Discontinued/im', $data[5])) {
+                    $releaseDate = '2000-01-01';
+                } else {
+                    $releaseMonth = !isset(explode(",", $data[5])[1]) ? 01 : $this->monthNumber(trim(explode(",", $data[5])[1]));
+                    $releaseYear = !isset(explode(",", $data[5])[0]) ? 2000 : preg_replace('/[a-zA-Z.\\s]/i', "", explode(",", $data[5])[0]) == null ? 2000 : preg_replace('/[a-zA-Z.\\s]/i', "", explode(",", $data[5])[0]);
+                    $releaseDate = $releaseYear . '-' . $releaseMonth . '-01';
+                    echo $data[0] . ' = ' . $data[5] .' : after :  ' . $releaseDate . '<br>';
+                }
+            }
+            else{
+                $releaseDate = '2000-01-01';
+            }
 
             //if more than one storages start a loop
             //make sure to save only storage at storage place
@@ -254,10 +288,8 @@ class DataController extends Controller
                 'title' => $data[0],
                 'brand_id' => $brand->id,
                 'image' => url('/').'/scrap/'.$brandName . '/' .$data[0].'.png',
-                /*'storage' => $s == 1024 ? 1 : $s,
-                //replace the special char from color
-                'color' => preg_replace ('/[^\p{L}\p{N}]/u', ' ', $c) == null ? "no color" : preg_replace ('/[^\p{L}\p{N}]/u', '_', $c),
-                */'model' => $this->getModel($gsmTitle)
+                'release_date' => $releaseDate,
+                'model' => $this->getModel($gsmTitle)
             ]);
 
             /*insert colors and storages*/
@@ -294,7 +326,7 @@ class DataController extends Controller
     public function saveComparedData($gsmTitle, $onlineData, $shopName, $mobileId){
 
         $mobileController = new MobileController();
-        $onlineData = explode(";", $onlineData);
+        $onlineData = explode("@#$%", $onlineData);
         $unmodifiedTitle = $gsmTitle;
         $oldPrice = $onlineData[3];
         $newPrice = $onlineData[4];
@@ -374,6 +406,26 @@ class DataController extends Controller
                     $this->dir = $fileInfo->getPathname();
                     $this->listFolderFiles();
                 }
+            }
+        }
+    }
+
+
+
+    /**
+     * get the month number
+     * accepts month name
+     *
+     * @param $monthName
+     * @return mixed
+     */
+    public function monthNumber($monthName){
+        foreach ($this->months as $key => $value){
+            if(strtolower($monthName) == strtolower($key)){
+                return $value;
+            }
+            else{
+                return '01';
             }
         }
     }

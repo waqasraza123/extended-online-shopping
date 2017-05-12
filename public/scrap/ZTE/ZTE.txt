@@ -1,212 +1,214 @@
-nubia Z17 mini;64 GB;Black, Gold;4 GB RAM - Standard edition;5.2
-Blade A520;16 GB;Gray;2 GB RAM;5.0
-nubia N1 lite;16 GB;Black;2 GB RAM;5.5
-Blade V8 Mini;16 GB;Various;2 GB RAM;5.0
-Blade V8 Lite;16 GB;Various;2 GB RAM;5.0
-Blade A2 Plus;32 GB;Gold;4 GB RAM;5.5
-Hawkeye;32 GB;Black;3 GB RAM;5.5
-Blade V8 Pro;32 GB;Black;3 GB RAM;5.5
-Blade V8;16 GB;Rose Gold, Silver, Dark Grey, Champagne Gold;2 GB RAM or 32 GB;5.2
-Axon 7 Max;64 GB;Gold;4 GB RAM;6.0
-Grand X4;16 GB;Black;2 GB RAM;5.5
-Blade V7 Max;32 GB;Black, Silver, Gold;3/4 GB RAM;5.5
-nubia Z11 mini S;64/128 GB;Black, White, Gold;4 GB RAM;5.2
-Axon 7 mini;32 GB;Ion Gold, Platinum Gray;3 GB RAM;5.2
-Warp 7;16 GB;Black;2 GB RAM;5.5
-Zmax Pro;32 GB;Black;2 GB RAM;6.0
-nubia N1;32/64 GB;Silver, Gold;3 GB RAM;5.5
-nubia Z11 Max;64 GB;Silver, Gray, Gold;4 GB RAM;6.0
-Axon 7;64 GB;Ion Gold, Quartz Grey, Chromium Silver;4 GB RAM;5.5
-nubia Z11;64 GB;Silver, Gray, Gold, Rose Gold;4/6 GB RAM;5.5
-Blade L110;4 GB;Black;512 MB RAM;4.0
-Grand X Max 2;16 GB;Blue;2 GB RAM;6.0
-nubia Z11 mini;64 GB;Black, White, Gold;3 GB RAM;5.0
-Blade L5 Plus;8 GB;Gray, White;1 GB RAM;5.0
-Blade V Plus;16 GB;Silver;2 GB RAM;5.5
-Blade A610;8 GB;Shining Silver, Honor Gold, Space Grey;1 GB RAM or 16 GB;5.0
-Blade A512;16 GB;White, Black, Pink;2 GB RAM;5.2
-Blade A452;8 GB;Ion Gold, Black, White;1 GB RAM;5.0
-Blade V7;16 GB;Gold, Gray;2 GB RAM;5.2
-Blade A2;16 GB;Silver;2 GB RAM;5.0
-Blade V7 Lite;16 GB;Silver;2 GB RAM;5.0
-Axon Max;32 GB;Gold;3 GB RAM;6.0
-nubia Prague S;64 GB;White, Rose Gold;3 GB RAM;5.2
-Grand X 3;16 GB;Black;2 GB RAM;5.5
-Avid Plus;8 GB;Black;1 GB RAM;5.0
-Blade X9;16 GB;White/Silver;2 GB RAM;5.5
-Blade X5;8 GB;Various;1 GB RAM;5.0
-Blade X3;8 GB;Various;1 GB RAM;5.0
-Axon;32 GB;Ion Gold, Chromium Silver, Phthalo Blue;2 GB RAM;5.5
-Blade S7;32 GB;Various;3 GB RAM;5.0
-Axon mini;32 GB;Gold, Chromium Silver, Rose Gold;3 GB RAM;5.2
-Zmax 2;16 GB;Black;2 GB RAM;5.5
-Axon Elite;32 GB;Ion Gold;3 GB RAM;5.5
-nubia My Prague;16 GB;White/Silver, White/Gold;2 GB RAM - White/Silver;5.2
-Axon Lux;128 GB;Ion Gold, Chromium Silver, Phthalo Blue;4 GB RAM;5.5
-Boost Max+;16 GB;Gold;2 GB RAM;5.7
-Blade A460;8 GB;Black;1 GB RAM;5.0
-Blade D6;16 GB;Pink, Gold, Gray, Silver;2 GB RAM;5.0
-Axon Pro;32/64 GB;Ion Gold, Chromium Silver, Phthalo Blue;4 GB RAM;5.5
-Blade A410;8 GB;Black;1 GB RAM;4.0
-Obsidian;4 GB;Black;1 GB RAM;4.5
-Grand X2;16 GB;Black;2 GB RAM;5.0
-Sonata 2;4 GB;Black;1 GB RAM;4.0
-Blade Apex 3;8 GB;Black;1 GB RAM;4.5
-Maven;8 GB;Black;1 GB RAM;4.5
-Blade Q Pro;8 GB;Silver, Black;1 GB RAM;4.5
-Blade Qlux 4G;8 GB;Black;1 GB RAM;4.5
-nubia Z9;64 GB;Black, White, Gold;4 GB RAM - Exclusive & Elite editions;5.2
-Blade S6 Plus;16 GB;Silver;2 GB RAM;5.5
-nubia Z9 Max;16 GB;Black, White;3 GB RAM;5.5
-nubia Z9 mini;16 GB;Black, White;2 GB RAM;5.0
-Open L;8 GB;Black;1 GB RAM;5.0
-Grand S3;16 GB;Silver;3 GB RAM;5.5
-Blade L3 Plus;8 GB;Black, White, Yellow, Blue;1 GB RAM;5.0
-Blade L3;8 GB;Black, White;1 GB RAM;5.0
-Blade G Lux;4 GB;Black, White;512 MB RAM;4.5
-Blade G;4 GB;Black, White;512 MB RAM;4.0
-V5 Lux;8 GB;Black;1 GB RAM;5.0
-Blade S6;16 GB;White, Aurora purple, Tahiti brown, Venice gold, Baroque red;2 GB RAM;5.0
-Imperial II;8 GB;White;1 GB RAM;5.0
-Grand X Max+;16 GB;Black;2 GB RAM;6.0
-Star 2;16 GB;Black, White;2 GB RAM;5.0
-Grand X Plus Z826;8 GB;Black/Silver;2 GB RAM;5.0
-Speed;8 GB;Black;1 GB RAM;4.5
-Grand S II;16 GB;Silver;2 GB RAM;5.5
-Grand S Pro;8 GB;Black/White;2 GB RAM;5.0
-Zinger;4 GB;Black;512 MB RAM;3.5
-Grand Xmax;8 GB;Black;1 GB RAM;6.0
-Zmax;16 GB;Black;2 GB RAM;5.7
-Blade Vec 4G;16 GB;Black;1 GB RAM;5.0
-Blade Vec 3G;8 GB;Black;1 GB RAM;5.0
-Kis 3 Max;4 GB;Black, White;512 MB RAM;4.5
-nubia Z5S mini NX405H;16 GB;Black, White;2 GB RAM;4.7
-nubia Z7;32 GB;Black, White;3 GB RAM;5.5
-nubia Z7 Max;32 GB;Black, White;2 GB RAM;5.5
-nubia Z7 mini;16 GB;Black, White, Red, Green, Yellow;2 GB RAM;5.0
-Blade L2;4 GB;White;1 GB RAM;5.0
-Kis 3;512 MB;Black, Blue;256 MB RAM;4.0
-Blade G2;4 GB;Black;512 MB RAM;4.5
-Redbull V5 V9180;4 GB;Black/White, Black/Blue, Black/Yellow, Black/Red;1 GB RAM;5.0
-Star 1;16 GB;Pink, Black, White;2 GB RAM;5.0
-nubia X6;32/64 GB;White, Gold;2 GB RAM/ 128 GB;6.44
-Grand Memo II LTE;16 GB;White;2 GB RAM;6.0
-Open C;4 GB;Orange, Black;512 MB RAM;4.0
-Open II;2 GB;Black;256 MB RAM;3.5
-Iconic Phablet;8 GB;Black;1 GB RAM;5.7
-Sonata 4G;4 GB;Black;1 GB RAM;4.0
-Grand S II S291;16 GB;Silver;2 GB RAM;5.5
-nubia Z5S;16/32 GB;Black, White;2 GB RAM;5.0
-nubia Z5S mini NX403A;16 GB;White, Green, Pink, Yellow, Blue;2 GB RAM;4.7
-Grand S Flex;16 GB;Black/Silver;1 GB RAM;5.0
-Blade Q Maxi;4 GB;White;1 GB RAM;5.0
-Blade Q;4 GB;Black, White;1 GB RAM;4.5
-Blade Q Mini;4 GB;White, Black;1 GB RAM;4.0
-Warp 4G;8 GB;Black;1 GB RAM;4.5
-Blade V;4 GB;Black/Blue;1 GB RAM;4.0
-Blade G V880G;4 GB (1.9 GB accessible);Black, Blue;512 MB RAM;4.5
-Reef;4 GB;Black;1 GB RAM;4.0
-Imperial;4 GB;Black;1 GB RAM;4.0
-Vital N9810;8 GB;Black/Blue;1 GB RAM;5.0
-Grand X Pro;4 GB;Black, Red, Blue, Yellow;1 GB RAM;4.5
-Grand X2 In;8 GB;Blue;1 GB RAM;4.5
-Grand X Quad V987;4 GB;White;1 GB RAM;5.0
-Blade III Pro;4 GB;Black, White;ram;4.0
-Geek V975;8 GB;Black;2 GB RAM/ 16 GB;5.0
-Grand Memo V9815;16 GB;Black;2 GB RAM;5.7
-Open;512 MB ROM;Blue, Orange;256 MB RAM;3.5
-Blade C V807;4 GB;Black;512 MB RAM;4.0
-Director;4 GB;Black;512 MB RAM;3.5
-V81;4 GB;Black;1 GB RAM;8.0
-Grand S;16 GB;Black/Silver, Black/Red, Black/Blue, Black/White;2 GB RAM;5.0
-Avid 4G;4 GB (2.3 GB user available);Black;512 MB RAM;4.0
-V889M;4 GB;Black;512 MB RAM;4.0
-V887;4 GB;White;512 MB RAM;5.0
-Kis III V790;512 MB;Black;256 MB RAM;3.5
-Groove X501;1 GB;Black;512 MB RAM;3.2
-nubia Z5;32 GB;White, Black;2 GB RAM;5.0
-Flash;8 GB;Black;1 GB RAM;4.5
-Anthem 4G;4 GB (2.3 GB user available);Black;512 MB RAM;4.3
-Warp Sequent;4 GB (2.6 GB user available);Black;768 MB RAM;4.3
-Grand Era U895;4 GB;Black;1 GB RAM;4.5
-Blade III;4 GB (2.5 GB user available);Black, White;512 MB RAM;4.0
-Grand X IN;4/16 GB;Black;1 GB RAM;4.3
-N880E;4 GB;Black;512 MB RAM;4.0
-Grand X LTE T82;4 GB;White, Black;1 GB RAM;4.3
-Grand X V970;4 GB;Black;1 GB RAM;4.3
-U880E;4 GB;Black;512 MB RAM;4.0
-Score M;4 GB;Black;ram;3.5
-Light Tab 300;4 GB;Black;ram;7.0
-V96;16 GB;Black;1 GB RAM;10.1
-PF 100;16 GB;Black;1 GB RAM;10.1
-T98;16 GB;Black;1 GB RAM;7.0
-Light Tab 3 V9S;16 GB;Black;1 GB RAM;7.0
-Era;8 GB;Black;1 GB RAM;4.3
-PF112 HD;8 GB;Black;1 GB RAM;4.5
-Skate Acqua;4 GB;Black, White;512 MB RAM;4.0
-Orbit;4 GB;Black;512 MB RAM;4.0
-Kis V788;512 MB;Black;256 MB RAM;3.5
-V880E;4 GB (2.5 GB user available);Black;512 MB RAM;4.0
-Nova 3.5;512 MB;Black;256 MB RAM;3.5
-Nova 4 V8000;4 GB;Black;512 MB RAM;4.0
-Nova Messenger;1 GB ROM;Black;256 MB RAM;2.0
-Style Q;microSD;Black;up to 32 GB (dedicated slot);2.8
-Style Messanger;microSD;Black;ram;2.4
-V875;microSD;Black;up to 32 GB (dedicated slot);3.2
-Blade II V880+;512 MB RAM;Black, White;512 MB;3.5
-N910;512 MB RAM;Black;ram;,
-PF200;512 MB RAM;Brown;ram;4.3
-Optik;16 GB;Black;1 GB RAM;7.0
-Light Tab 2 V9A;4 GB;Black;512 MB RAM;7.0
-Light Tab V9C;512 MB;Black;512 MB RAM;7.0
-FTV Phone;512 MB RAM;White, Black, Gold;512 MB;3.5
-Chorus;512 MB (152 MB user available);Black;256 MB RAM;3.2
-Memo;512 MB (152 MB user available);Gray;ram;2.4
-Tania;4 GB;White, Black;512 MB RAM;4.3
-Warp;4 GB;Black;512 MB RAM;4.3
-Score;4 GB;Black;ram;3.5
-Avail;512 MB;Black;512 MB RAM;3.5
-V9+;4 GB;Black;512 MB RAM;7.0
-V9;512 MB;Black;512 MB RAM;7.0
-N721;512 MB;Black;ram;2.8
-Skate;512 MB;Black;ram;4.3
-V821;512 MB;Black;ram;
-Amigo;512 MB;Black;ram;3.2
-Racer II;256 MB;Black;512 MB RAM;2.8
-U900;256 MB;White;ram;3.5
-Libra;256 MB;Black, Silver;ram;3.5
-Rio;256 MB;Black, Pink;ram;2.4
-Blade;512 MB RAM;Black;512 MB;3.5
-Sage;512 MB RAM;Black;ram;
-X990D;512 MB RAM;White;ram;2.5
-N290;512 MB RAM;Black;ram;3.2
-N280;512 MB RAM;Black;ram;2.8
-R230;512 MB RAM;Black;ram;1.8
-R228 Dual SIM;512 MB RAM;Black, Pink;ram;2.0
-R228;512 MB RAM;Black, Pink;ram;2.0
-R221;512 MB RAM;Black;ram;1.8
-R220;512 MB RAM;Black;ram;1.8
-S213;512 MB RAM;Red, Black, Pink;ram;1.5
-Salute F350;512 MB RAM;Black;ram;2.4
-F107;512 MB RAM;Black;ram;2.0
-E N72;512 MB RAM;Black;ram;2.5
-Racer;256 MB RAM;Black;256 MB;2.8
-F951;256 MB RAM;Black;ram;3.2
-X990;256 MB RAM;White;ram;2.5
-Bingo;256 MB RAM;Black;ram;3.2
-X760;30 dialed;Black, Pink;30 received;2.4
-E811;30 dialed;Black;ram;2.5
-Raise;microSD;Black;up to 8 GB (dedicated slot);3.2
-Xiang;256 MB RAM;Black, Silver;128 MB ROM;2.5
-A261;10 dialed;Black;10 received;
-S302;20 dialed;Black, White on Orange;20 received;
-F233;20 dialed;Various;ram;2.0
-F912;20 dialed;Various;ram;2.2
-F952;20 dialed;Black;ram;3.2
-F928;20 dialed;Black;ram;
-F870;20 dialed;Black, Red, Brown;ram;3.2
-F600;20 dialed;Black;ram;2.4
-F103;20 dialed;Black, Silver;ram;2.0
-F101;20 dialed;White, Red, Green;ram;2.0
-F100;20 dialed;White, Red, Green;ram;2.0
-Coral200 Sollar;20 dialed;Black;ram;
+Axon 7s@#$%128 GB@#$%Gold@#$%6 GB RAM@#$%5.5@#$%Coming soon. Exp. release 2017, May
+Max XL@#$%16 GB@#$%Black@#$%2 GB RAM or 32 GB@#$%6.0@#$%Available. Released 2017, April
+nubia Z17 mini@#$%64 GB@#$%Elegant Black, Gold Black, Champagne Gold, Red@#$%4 GB RAM - Standard edition@#$%5.2@#$%Available. Released 2017, April
+Blade A520@#$%16 GB@#$%Gray@#$%2 GB RAM@#$%5.0@#$%Coming soon. Exp. release 2017, May
+nubia N1 lite@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2017, April
+Blade V8 Mini@#$%16 GB@#$%Various@#$%2 GB RAM@#$%5.0@#$%Coming soon. Exp. release 2017, May
+Blade V8 Lite@#$%16 GB@#$%Various@#$%2 GB RAM@#$%5.0@#$%Coming soon. Exp. release 2017, May
+Blade A2 Plus@#$%32 GB@#$%Gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2017, February
+Hawkeye@#$%32 GB@#$%Black@#$%3 GB RAM@#$%5.5@#$%Cancelled
+Blade V8 Pro@#$%32 GB@#$%Black@#$%3 GB RAM@#$%5.5@#$%Available. Released 2017, February
+Blade V8@#$%16 GB@#$%Rose Gold, Silver, Dark Grey, Champagne Gold@#$%2 GB RAM or 32 GB@#$%5.2@#$%Available. Released 2017, March
+Axon 7 Max@#$%64 GB@#$%Gold@#$%4 GB RAM@#$%6.0@#$%Available. Released 2017, February
+Grand X4@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, September
+Blade V7 Max@#$%32 GB@#$%Black, Silver, Gold@#$%3/4 GB RAM@#$%5.5@#$%Available. Released 2016, August
+nubia Z11 mini S@#$%64/128 GB@#$%Black, White, Gold@#$%4 GB RAM@#$%5.2@#$%Available. Released 2016, October
+Axon 7 mini@#$%32 GB@#$%Ion Gold, Platinum Gray@#$%3 GB RAM@#$%5.2@#$%Available. Released 2016, October
+Warp 7@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, September
+Zmax Pro@#$%32 GB@#$%Black@#$%2 GB RAM@#$%6.0@#$%Available. Released 2016, July
+nubia N1@#$%32/64 GB@#$%Silver, Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, July
+nubia Z11 Max@#$%64 GB@#$%Silver, Gray, Gold@#$%4 GB RAM@#$%6.0@#$%Available. Released 2016, June
+Axon 7@#$%64 GB@#$%Ion Gold, Quartz Grey, Chromium Silver@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, June
+nubia Z11@#$%64 GB@#$%Silver, Gray, Gold, Rose Gold@#$%4/6 GB RAM@#$%5.5@#$%Available. Released 2016, July
+Blade L110@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2016, July
+Grand X Max 2@#$%16 GB@#$%Blue@#$%2 GB RAM@#$%6.0@#$%Available. Released 2016, May
+nubia Z11 mini@#$%64 GB@#$%Black, White, Gold@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, May
+Blade L5 Plus@#$%8 GB@#$%Gray, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, April
+Blade V Plus@#$%16 GB@#$%Silver@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, February
+Blade A610@#$%8 GB@#$%Shining Silver, Honor Gold, Space Grey@#$%1 GB RAM or 16 GB@#$%5.0@#$%Available. Released 2016, September
+Blade A512@#$%16 GB@#$%White, Black, Pink@#$%2 GB RAM@#$%5.2@#$%Available. Released 2016, July
+Blade A452@#$%8 GB@#$%Ion Gold, Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, Q1
+Blade V7@#$%16 GB@#$%Gold, Gray@#$%2 GB RAM@#$%5.2@#$%Available
+Blade A2@#$%16 GB@#$%Silver@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, June
+Blade V7 Lite@#$%16 GB@#$%Silver@#$%2 GB RAM@#$%5.0@#$%Available
+Axon Max@#$%32 GB@#$%Gold@#$%3 GB RAM@#$%6.0@#$%Available. Released 2015, December
+nubia Prague S@#$%64 GB@#$%White, Rose Gold@#$%3 GB RAM@#$%5.2@#$%Available. Released 2016, January
+Grand X 3@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, January
+Avid Plus@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, January
+Blade X9@#$%16 GB@#$%White/Silver@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, December
+Blade X5@#$%8 GB@#$%Various@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Blade X3@#$%8 GB@#$%Various@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Axon@#$%32 GB@#$%Ion Gold, Chromium Silver, Phthalo Blue@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, October
+Blade S7@#$%32 GB@#$%Various@#$%3 GB RAM@#$%5.0@#$%Available. Released 2015, October
+Axon mini@#$%32 GB@#$%Gold, Chromium Silver, Rose Gold@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, November
+Zmax 2@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, September
+Axon Elite@#$%32 GB@#$%Ion Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, September
+nubia My Prague@#$%16 GB@#$%White/Silver, White/Gold@#$%2 GB RAM - White/Silver@#$%5.2@#$%Available. Released 2015, August
+Axon Lux@#$%128 GB@#$%Ion Gold, Chromium Silver, Phthalo Blue@#$%4 GB RAM@#$%5.5@#$%Available. Released 2015, November
+Boost Max+@#$%16 GB@#$%Gold@#$%2 GB RAM@#$%5.7@#$%Available. Released 2015, July
+Blade A460@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, July
+Blade D6@#$%16 GB@#$%Pink, Gold, Gray, Silver@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Axon Pro@#$%32/64 GB@#$%Ion Gold, Chromium Silver, Phthalo Blue@#$%4 GB RAM@#$%5.5@#$%Available. Released 2015, August
+Blade A410@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, June
+Obsidian@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, September
+Grand X2@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Sonata 2@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, June
+Blade Apex 3@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, June
+Maven@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, June
+Blade Q Pro@#$%8 GB@#$%Silver, Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015
+Blade Qlux 4G@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, June
+nubia Z9@#$%64 GB@#$%Black, White, Gold@#$%4 GB RAM - Exclusive & Elite editions@#$%5.2@#$%Available. Released 2015, June
+Blade S6 Plus@#$%16 GB@#$%Silver@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, April
+nubia Z9 Max@#$%16 GB@#$%Black, White@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, April
+nubia Z9 mini@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, April
+Open L@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Cancelled
+Grand S3@#$%16 GB@#$%Silver@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, March
+Blade L3 Plus@#$%8 GB@#$%Black, White, Yellow, Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, April
+Blade L3@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, May
+Blade G Lux@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2015, February
+Blade G@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, February
+V5 Lux@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, February
+Blade S6@#$%16 GB@#$%White, Aurora purple, Tahiti brown, Venice gold, Baroque red@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, February
+Imperial II@#$%8 GB@#$%White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, January
+Grand X Max+@#$%16 GB@#$%Black@#$%2 GB RAM@#$%6.0@#$%Available. Released 2015, January
+Star 2@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, December
+Grand X Plus Z826@#$%8 GB@#$%Black/Silver@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, December
+Speed@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, December
+Grand S II@#$%16 GB@#$%Silver@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, December
+Grand S Pro@#$%8 GB@#$%Black/White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, June
+Zinger@#$%4 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, October
+Grand Xmax@#$%8 GB@#$%Black@#$%1 GB RAM@#$%6.0@#$%Available. Released 2014, October
+Zmax@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.7@#$%Available. Released 2014, September
+Blade Vec 4G@#$%16 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, November
+Blade Vec 3G@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, November
+Kis 3 Max@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, November
+nubia Z5S mini NX405H@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%4.7@#$%Available. Released 2014, August
+nubia Z7@#$%32 GB@#$%Black, White@#$%3 GB RAM@#$%5.5@#$%Available. Released 2014, July
+nubia Z7 Max@#$%32 GB@#$%Black, White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, July
+nubia Z7 mini@#$%16 GB@#$%Black, White, Red, Green, Yellow@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, July
+Blade L2@#$%4 GB@#$%White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, May
+Kis 3@#$%512 MB@#$%Black, Blue@#$%256 MB RAM@#$%4.0@#$%Available. Released 2014, May
+Blade G2@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013, September
+Redbull V5 V9180@#$%4 GB@#$%Black/White, Black/Blue, Black/Yellow, Black/Red@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, April
+Star 1@#$%16 GB@#$%Pink, Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, April
+nubia X6@#$%32/64 GB@#$%White, Gold@#$%2 GB RAM/ 128 GB@#$%6.44@#$%Available. Released 2014, April
+Grand Memo II LTE@#$%16 GB@#$%White@#$%2 GB RAM@#$%6.0@#$%Available. Released 2014, May
+Open C@#$%4 GB@#$%Orange, Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, May
+Open II@#$%2 GB@#$%Black@#$%256 MB RAM@#$%3.5@#$%Available. Released 2014, June
+Iconic Phablet@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.7@#$%Available. Released 2014, Q1
+Sonata 4G@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2014, Q1
+Grand S II S291@#$%16 GB@#$%Silver@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, April
+nubia Z5S@#$%16/32 GB@#$%Black, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, December
+nubia Z5S mini NX403A@#$%16 GB@#$%White, Green, Pink, Yellow, Blue@#$%2 GB RAM@#$%4.7@#$%Available. Released 2013, December
+Grand S Flex@#$%16 GB@#$%Black/Silver@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, November
+Blade Q Maxi@#$%4 GB@#$%White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, January
+Blade Q@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, January
+Blade Q Mini@#$%4 GB@#$%White, Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2014, January
+Warp 4G@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, September
+Blade V@#$%4 GB@#$%Black/Blue@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, October
+Blade G V880G@#$%4 GB (1.9 GB accessible)@#$%Black, Blue@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013, April
+Reef@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, August
+Imperial@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, June
+Vital N9810@#$%8 GB@#$%Black/Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, June
+Grand X Pro@#$%4 GB@#$%Black, Red, Blue, Yellow@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, April
+Grand X2 In@#$%8 GB@#$%Blue@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, Q3
+Grand X Quad V987@#$%4 GB@#$%White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, July
+Blade III Pro@#$%4 GB@#$%Black, White@#$%ram@#$%4.0@#$%Available. Released 2013, May
+Geek V975@#$%8 GB@#$%Black@#$%2 GB RAM/ 16 GB@#$%5.0@#$%Available. Released 2013, August
+Grand Memo V9815@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.7@#$%Available. Released 2013, March
+Open@#$%512 MB ROM@#$%Blue, Orange@#$%256 MB RAM@#$%3.5@#$%Available. Released 2013, July
+Blade C V807@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, April
+Director@#$%4 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2013, April
+V81@#$%4 GB@#$%Black@#$%1 GB RAM@#$%8.0@#$%Discontinued
+Grand S@#$%16 GB@#$%Black/Silver, Black/Red, Black/Blue, Black/White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, March
+Avid 4G@#$%4 GB (2.3 GB user available)@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, December
+V889M@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, December
+V887@#$%4 GB@#$%White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2012, December
+Kis III V790@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.5@#$%Available. Released 2012, November
+Groove X501@#$%1 GB@#$%Black@#$%512 MB RAM@#$%3.2@#$%Available. Released 2012, November
+nubia Z5@#$%32 GB@#$%White, Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2012, December
+Flash@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, November
+Anthem 4G@#$%4 GB (2.3 GB user available)@#$%Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, September
+Warp Sequent@#$%4 GB (2.6 GB user available)@#$%Black@#$%768 MB RAM@#$%4.3@#$%Available. Released 2012, September
+Grand Era U895@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, September
+Blade III@#$%4 GB (2.5 GB user available)@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, September
+Grand X IN@#$%4/16 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, September
+N880E@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, May
+Grand X LTE T82@#$%4 GB@#$%White, Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, November
+Grand X V970@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, July
+U880E@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, September
+Score M@#$%4 GB@#$%Black@#$%ram@#$%3.5@#$%Available. Released 2012, March
+Light Tab 300@#$%4 GB@#$%Black@#$%ram@#$%7.0@#$%Available. Released 2012, September
+V96@#$%16 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Available. Released 2012, Q4
+PF 100@#$%16 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Cancelled
+T98@#$%16 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2012, Q4
+Light Tab 3 V9S@#$%16 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2012, Q4
+Era@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, December
+PF112 HD@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Cancelled
+Skate Acqua@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, Q4
+Orbit@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, September
+Kis V788@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.5@#$%Available. Released 2012, July
+V880E@#$%4 GB (2.5 GB user available)@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, May
+Nova 3.5@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.5@#$%Available. Released 2013, Q3
+Nova 4 V8000@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, Q1
+Nova Messenger@#$%1 GB ROM@#$%Black@#$%256 MB RAM@#$%2.0@#$%Available. Released 2013, Q3
+Style Q@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%2.8@#$%Available. Released 2012
+Style Messanger@#$%microSD@#$%Black@#$%ram@#$%2.4@#$%Cancelled
+V875@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%3.2@#$%Available. Released 2012, Q4
+Blade II V880+@#$%512 MB RAM@#$%Black, White@#$%512 MB@#$%3.5@#$%Available. Released 2012, March
+N910@#$%512 MB RAM@#$%Black@#$%ram@#$%,@#$%Available. Released 2012, December
+PF200@#$%512 MB RAM@#$%Brown@#$%ram@#$%4.3@#$%Available. Released 2012, Q4
+Optik@#$%16 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2012, February
+Light Tab 2 V9A@#$%4 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2012, February
+Light Tab V9C@#$%512 MB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2011, December
+FTV Phone@#$%512 MB RAM@#$%White, Black, Gold@#$%512 MB@#$%3.5@#$%Available. Released 2011, December 
+Chorus@#$%512 MB (152 MB user available)@#$%Black@#$%256 MB RAM@#$%3.2@#$%Available. Released 2011, November
+Memo@#$%512 MB (152 MB user available)@#$%Gray@#$%ram@#$%2.4@#$%Available. Released 2011, October
+Tania@#$%4 GB@#$%White, Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, February
+Warp@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2011, October
+Score@#$%4 GB@#$%Black@#$%ram@#$%3.5@#$%Available. Released 2011, September
+Avail@#$%512 MB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2011, December
+V9+@#$%4 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Discontinued
+V9@#$%512 MB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2011, Q1
+N721@#$%512 MB@#$%Black@#$%ram@#$%2.8@#$%Available
+Skate@#$%512 MB@#$%Black@#$%ram@#$%4.3@#$%Available. Released 2011, September
+V821@#$%512 MB@#$%Black@#$%ram@#$%@#$%Available. Released 2011, June
+Amigo@#$%512 MB@#$%Black@#$%ram@#$%3.2@#$%Available. Released 2011, Q3
+Racer II@#$%256 MB@#$%Black@#$%512 MB RAM@#$%2.8@#$%Available. Released 2011, September
+U900@#$%256 MB@#$%White@#$%ram@#$%3.5@#$%Available. Released 2011, Q3
+Libra@#$%256 MB@#$%Black, Silver@#$%ram@#$%3.5@#$%Available. Released 2011, September
+Rio@#$%256 MB@#$%Black, Pink@#$%ram@#$%2.4@#$%Available. Released 2011
+Blade@#$%512 MB RAM@#$%Black@#$%512 MB@#$%3.5@#$%Discontinued
+Sage@#$%512 MB RAM@#$%Black@#$%ram@#$%@#$%Discontinued
+X990D@#$%512 MB RAM@#$%White@#$%ram@#$%2.5@#$%Discontinued
+N290@#$%512 MB RAM@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+N280@#$%512 MB RAM@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+R230@#$%512 MB RAM@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+R228 Dual SIM@#$%512 MB RAM@#$%Black, Pink@#$%ram@#$%2.0@#$%Available
+R228@#$%512 MB RAM@#$%Black, Pink@#$%ram@#$%2.0@#$%Available
+R221@#$%512 MB RAM@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+R220@#$%512 MB RAM@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+S213@#$%512 MB RAM@#$%Red, Black, Pink@#$%ram@#$%1.5@#$%Discontinued
+Salute F350@#$%512 MB RAM@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+F107@#$%512 MB RAM@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+E N72@#$%512 MB RAM@#$%Black@#$%ram@#$%2.5@#$%Discontinued
+Racer@#$%256 MB RAM@#$%Black@#$%256 MB@#$%2.8@#$%Discontinued
+F951@#$%256 MB RAM@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+X990@#$%256 MB RAM@#$%White@#$%ram@#$%2.5@#$%Discontinued
+Bingo@#$%256 MB RAM@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+X760@#$%30 dialed@#$%Black, Pink@#$%30 received@#$%2.4@#$%Discontinued
+E811@#$%30 dialed@#$%Black@#$%ram@#$%2.5@#$%Discontinued
+Raise@#$%microSD@#$%Black@#$%up to 8 GB (dedicated slot)@#$%3.2@#$%Discontinued
+Xiang@#$%256 MB RAM@#$%Black, Silver@#$%128 MB ROM@#$%2.5@#$%Discontinued
+A261@#$%10 dialed@#$%Black@#$%10 received@#$%@#$%Discontinued
+S302@#$%20 dialed@#$%Black, White on Orange@#$%20 received@#$%@#$%Discontinued
+F233@#$%20 dialed@#$%Various@#$%ram@#$%2.0@#$%Discontinued
+F912@#$%20 dialed@#$%Various@#$%ram@#$%2.2@#$%Discontinued
+F952@#$%20 dialed@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+F928@#$%20 dialed@#$%Black@#$%ram@#$%@#$%Discontinued
+F870@#$%20 dialed@#$%Black, Red, Brown@#$%ram@#$%3.2@#$%Discontinued
+F600@#$%20 dialed@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+F103@#$%20 dialed@#$%Black, Silver@#$%ram@#$%2.0@#$%Discontinued
+F101@#$%20 dialed@#$%White, Red, Green@#$%ram@#$%2.0@#$%Discontinued
+F100@#$%20 dialed@#$%White, Red, Green@#$%ram@#$%2.0@#$%Discontinued
+Coral200 Sollar@#$%20 dialed@#$%Black@#$%ram@#$%@#$%Discontinued

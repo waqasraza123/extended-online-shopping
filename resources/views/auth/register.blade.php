@@ -133,17 +133,8 @@
                                    placeholder="Market/Plaza Name">
                         </div>
                     </div>
-                    <div class="input-group">
-                    <span class="input-group-addon">
-                        <i class="material-icons">location_on</i>
-                    </span>
-                        <div class="form-line">
-                            <input id="city" type="text" class="form-control" name="city"
-                                   value="{{ old('city') }}" required autofocus
-                                   placeholder="City">
-                        </div>
-                    </div>
-
+                    <input id="city" type="hidden" class="form-control" name="city"
+                           value="Islamabad, Pakistan">
                     <div class="input-group">
                     <span class="input-group-addon">
                         <i class="material-icons">call_split</i>

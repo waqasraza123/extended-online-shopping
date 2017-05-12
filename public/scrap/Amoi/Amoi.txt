@@ -1,47 +1,47 @@
-E860;8 GB;Black;ram;2.8
-E78;8 GB;Black;ram;2.46
-E76;8 GB;Black;ram;2.2
-E72;8 GB;Black;ram;2.0
-WMA8701A;8 GB;Black;ram;2.2
-WMA8703;8 GB;Black;ram;2.2
-WMA8508;8 GB;Black;ram;2.0
-CMA8170;8 GB;Black;ram;2.0
-M33;8 GB;Silver;ram;1.8
-A203;8 GB;Black;ram;1.5
-A200;8 GB;Black & Silver, Pink & White;ram;1.5
-A102;10 dialed;Black;10 received;1.5
-A100;10 dialed;Black;10 received;1.5
-A10;10 dialed;Black;10 received;1.5
-E850;64 MB RAM;Black;128 MB ROM;2.4
-V810;64 MB RAM;Silver;ram;2.0
-H815;64 MB RAM;Silver;ram;2.0
-H812;64 MB RAM;Silver black;ram;2.0
-H810;64 MB RAM;Silver black;ram;2.0
-H802;64 MB RAM;Silver black;ram;2.0
-H801;64 MB RAM;Silver;ram;2.0
-H8;64 MB RAM;Black-silver;ram;2.0
-H80;64 MB RAM;Black;ram;2.0
-A675;64 MB RAM;Black;ram;2.0
-M636;64 MB RAM;Silver, Black;ram;2.0
-A865;64 MB RAM;Silver;ram;2.0
-A869;64 MB RAM;Silver;ram;2.0
-6201;64 MB RAM;Silver;ram;2.0
-M360;64 MB RAM;Silver;ram;1.8
-M650;64 MB RAM;Black silver;ram;1.8
-M630;64 MB RAM;Black;ram;2.0
-F620;64 MB RAM;Silver pink, Silver blue;ram;1.5
-A320;64 MB RAM;Silver;ram;1.8
-F320;64 MB RAM;Silver;ram;1.5
-A310;64 MB RAM;Silver black;ram;1.5
-A211;64 MB RAM;Black-silver;ram;1.8
-A210;20 dialed;Silver, Grey;20 received;1.8
-2561;10 dialed;;10 received;
-CS6;10 dialed;;10 received;
-2560;10 dialed;;10 received;
-A90;10 dialed;;10 received;
-F99b;10 dialed;;10 received;
-A9B;10 dialed;;10 received;
-CA8;10 dialed;;10 received;
-CA6;10 dialed;;10 received;
-A90B;10 dialed;;10 received;
-S6;10 dialed;;10 received;
+E860@#$%8 GB@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+E78@#$%8 GB@#$%Black@#$%ram@#$%2.46@#$%Discontinued
+E76@#$%8 GB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+E72@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+WMA8701A@#$%8 GB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+WMA8703@#$%8 GB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+WMA8508@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Cancelled
+CMA8170@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+M33@#$%8 GB@#$%Silver@#$%ram@#$%1.8@#$%Cancelled
+A203@#$%8 GB@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+A200@#$%8 GB@#$%Black & Silver, Pink & White@#$%ram@#$%1.5@#$%Discontinued
+A102@#$%10 dialed@#$%Black@#$%10 received@#$%1.5@#$%Discontinued
+A100@#$%10 dialed@#$%Black@#$%10 received@#$%1.5@#$%Discontinued
+A10@#$%10 dialed@#$%Black@#$%10 received@#$%1.5@#$%Discontinued
+E850@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.4@#$%Discontinued
+V810@#$%64 MB RAM@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+H815@#$%64 MB RAM@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+H812@#$%64 MB RAM@#$%Silver black@#$%ram@#$%2.0@#$%Discontinued
+H810@#$%64 MB RAM@#$%Silver black@#$%ram@#$%2.0@#$%Discontinued
+H802@#$%64 MB RAM@#$%Silver black@#$%ram@#$%2.0@#$%Discontinued
+H801@#$%64 MB RAM@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+H8@#$%64 MB RAM@#$%Black-silver@#$%ram@#$%2.0@#$%Discontinued
+H80@#$%64 MB RAM@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+A675@#$%64 MB RAM@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+M636@#$%64 MB RAM@#$%Silver, Black@#$%ram@#$%2.0@#$%Discontinued
+A865@#$%64 MB RAM@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+A869@#$%64 MB RAM@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+6201@#$%64 MB RAM@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+M360@#$%64 MB RAM@#$%Silver@#$%ram@#$%1.8@#$%Discontinued
+M650@#$%64 MB RAM@#$%Black silver@#$%ram@#$%1.8@#$%Discontinued
+M630@#$%64 MB RAM@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+F620@#$%64 MB RAM@#$%Silver pink, Silver blue@#$%ram@#$%1.5@#$%Discontinued
+A320@#$%64 MB RAM@#$%Silver@#$%ram@#$%1.8@#$%Discontinued
+F320@#$%64 MB RAM@#$%Silver@#$%ram@#$%1.5@#$%Discontinued
+A310@#$%64 MB RAM@#$%Silver black@#$%ram@#$%1.5@#$%Discontinued
+A211@#$%64 MB RAM@#$%Black-silver@#$%ram@#$%1.8@#$%Discontinued
+A210@#$%20 dialed@#$%Silver, Grey@#$%20 received@#$%1.8@#$%Discontinued
+2561@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+CS6@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+2560@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+A90@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+F99b@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+A9B@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+CA8@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+CA6@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+A90B@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+S6@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued

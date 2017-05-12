@@ -1,56 +1,56 @@
-MultiPhone 5508 Duo;16 GB;Black/metal;1 GB RAM;5.0
-MultiPhone 5504 Duo;8 GB;Black, metal, white;1 GB RAM;5.0
-MultiPhone 5503 Duo;4 GB;Black;1 GB RAM;5.0
-MultiPhone 8500 Duo;8 GB;Black, White;1 GB RAM;5.0
-MultiPhone 8400 Duo;4 GB;Black, White;512 MB RAM;4.0
-MultiPad 4 Quantum 10.1 3G;16 GB;Black/Deep Blue;1 GB RAM;10.1
-MultiPad 4 Quantum 9.7 Colombia;16 GB;Black/Deep Blue;2 GB RAM;9.7
-MultiPad 4 Ultra Quad 8.0 3G;16 GB;Black, White;1 GB RAM;8.0
-MultiPhone 7600 Duo;4 GB;Black;1 GB RAM;6.0
-MultiPhone 7500;16 GB;Black, White;1 GB RAM / 32 GB;5.0
-MultiPhone 5501 Duo;4 GB;Blue;512 MB RAM;5.0
-MultiPhone 5500 Duo;4 GB;Black/ color back panels;512 MB RAM;5.0
-MultiPhone 5451 Duo;4 GB;Black, White;512 MB RAM;4.5
-MultiPhone 5450 Duo;4 GB;Black/ color back panels;512 MB RAM;4.5
-MultiPhone 3400 Duo;4 GB;Black;512 MB RAM;4.0
-MultiPhone 5430 Duo;4 GB;White;1 GB RAM;4.3
-MultiPhone 5400 Duo;4 GB;White;512 MB RAM;4.0
-MultiPhone 5300 Duo;4 GB;White;1 GB RAM;5.3
-MultiPhone 5044 Duo;4 GB;Black;1 GB RAM;5.0
-MultiPhone 5000 Duo;4 GB;White;512 MB RAM;5.0
-MultiPhone 4505 Duo;4 GB;Black;512 MB RAM;4.5
-MultiPhone 4500 Duo;4 GB;White;1 GB RAM;4.5
-MultiPhone 4322 Duo;4 GB;White;512 MB RAM;4.3
-MultiPhone 4300 Duo;4 GB;Black;512 MB RAM;4.3
-MultiPhone 4055 Duo;4 GB;Black;512 MB RAM;4.0
-MultiPhone 4044 Duo;4 GB;White;512 MB RAM;4.0
-MultiPhone 4040 Duo;4 GB;Black;512 MB RAM;4.0
-MultiPhone 3540 Duo;4 GB;White;512 MB RAM;3.5
-MultiPad 4 Ultimate 8.0 3G;16 GB;Black;1 GB RAM;8.0
-MultiPad 7.0 Prime Duo 3G;4 GB;Black;512 MB RAM;7.0
-Multipad 4 Quantum 10.1;8 GB;Black/Deep Blue;1 GB RAM;10.1
-Multipad 4 Quantum 9.7;8 GB;Black/Deep Blue;2 GB RAM;9.7
-Multipad 4 Quantum 7.85;8 GB;Black/Deep Blue;1 GB RAM;7.85
-MultiPad Note 8.0 3G;16 GB;Black;1 GB RAM;8.0
-MultiPad 2 Pro Duo 8.0 3G;16 GB;Black/Silver;1 GB RAM;8.0
-MultiPad 2 Ultra Duo 8.0 3G;8 GB;Black, White;1 GB RAM;8.0
-MultiPad 2 Ultra Duo 8.0;8 GB;Black, White;1 GB RAM;8.0
-MultiPad 10.1 Ultimate 3G;16 GB;Black;1 GB RAM;10.1
-MultiPad 10.1 Ultimate;16 GB;Gray;1 GB RAM;10.1
-MultiPad 7.0 Prime 3G;4 GB;Black;512 MB RAM;7.0
-MultiPad 2 Prime Duo 8.0;16 GB;Gray;1 GB RAM;8.0
-MultiPad 7.0 Ultra Duo;8 GB;Black;1 GB RAM;7.0
-MultiPad 8.0 Ultra Duo;16 GB;Black;1 GB RAM;8.0
-MultiPad 9.7 Ultra Duo;16 GB;Black, Red;1 GB RAM;9.7
-MultiPad 7.0 Prime Duo;16 GB;Gray;1 GB RAM;7.0
-MultiPad 8.0 Pro Duo;8 GB;Black;1 GB RAM;8.0
-MultiPad 7.0 Pro Duo;8 GB;Black;1 GB RAM;7.0
-MultiPad 8.0 HD;8 GB;Black;1 GB RAM;8.0
-MultiPad 7.0 Ultra + New;4 GB;White, Black, Red;512 MB RAM;7.0
-MultiPad 7.0 HD +;8 GB;Black;1 GB RAM;7.0
-MultiPad 7.0 HD;4 GB;Black;1 GB RAM;7.0
-MultiPad 7.0 Ultra +;8 GB;Black;512 MB RAM;7.0
-MultiPad 7.0 Ultra;4 GB;Black;512 MB RAM;7.0
-MultiPad 7.0 Prime +;4 GB;Black;512 MB RAM;7.0
-MultiPad 7.0 Prime;4 GB;Black;512 MB RAM;7.0
-MultiPad 7.0 Pro;4 GB;Gray;512 MB RAM;7.0
+MultiPhone 5508 Duo@#$%16 GB@#$%Black/metal@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014
+MultiPhone 5504 Duo@#$%8 GB@#$%Black, metal, white@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014
+MultiPhone 5503 Duo@#$%4 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014
+MultiPhone 8500 Duo@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, August
+MultiPhone 8400 Duo@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, August
+MultiPad 4 Quantum 10.1 3G@#$%16 GB@#$%Black/Deep Blue@#$%1 GB RAM@#$%10.1@#$%Available. Released 2014, Q1
+MultiPad 4 Quantum 9.7 Colombia@#$%16 GB@#$%Black/Deep Blue@#$%2 GB RAM@#$%9.7@#$%Available. Released 2014, Q1
+MultiPad 4 Ultra Quad 8.0 3G@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%8.0@#$%Available. Released 2014, Q1
+MultiPhone 7600 Duo@#$%4 GB@#$%Black@#$%1 GB RAM@#$%6.0@#$%Available. Released 2014, Q1
+MultiPhone 7500@#$%16 GB@#$%Black, White@#$%1 GB RAM / 32 GB@#$%5.0@#$%Available. Released 2014, Q1
+MultiPhone 5501 Duo@#$%4 GB@#$%Blue@#$%512 MB RAM@#$%5.0@#$%Available. Released 2014, Q1
+MultiPhone 5500 Duo@#$%4 GB@#$%Black/ color back panels@#$%512 MB RAM@#$%5.0@#$%Available. Released 2014, Q1
+MultiPhone 5451 Duo@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, Q1
+MultiPhone 5450 Duo@#$%4 GB@#$%Black/ color back panels@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, Q1
+MultiPhone 3400 Duo@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013
+MultiPhone 5430 Duo@#$%4 GB@#$%White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013
+MultiPhone 5400 Duo@#$%4 GB@#$%White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013
+MultiPhone 5300 Duo@#$%4 GB@#$%White@#$%1 GB RAM@#$%5.3@#$%Available. Released 2013
+MultiPhone 5044 Duo@#$%4 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013
+MultiPhone 5000 Duo@#$%4 GB@#$%White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2013
+MultiPhone 4505 Duo@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013
+MultiPhone 4500 Duo@#$%4 GB@#$%White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013
+MultiPhone 4322 Duo@#$%4 GB@#$%White@#$%512 MB RAM@#$%4.3@#$%Available. Released 2013
+MultiPhone 4300 Duo@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2013
+MultiPhone 4055 Duo@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013
+MultiPhone 4044 Duo@#$%4 GB@#$%White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013
+MultiPhone 4040 Duo@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013
+MultiPhone 3540 Duo@#$%4 GB@#$%White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2013
+MultiPad 4 Ultimate 8.0 3G@#$%16 GB@#$%Black@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013
+MultiPad 7.0 Prime Duo 3G@#$%4 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013
+Multipad 4 Quantum 10.1@#$%8 GB@#$%Black/Deep Blue@#$%1 GB RAM@#$%10.1@#$%Available. Released 2013
+Multipad 4 Quantum 9.7@#$%8 GB@#$%Black/Deep Blue@#$%2 GB RAM@#$%9.7@#$%Available. Released 2013
+Multipad 4 Quantum 7.85@#$%8 GB@#$%Black/Deep Blue@#$%1 GB RAM@#$%7.85@#$%Available. Released 2013
+MultiPad Note 8.0 3G@#$%16 GB@#$%Black@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013
+MultiPad 2 Pro Duo 8.0 3G@#$%16 GB@#$%Black/Silver@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013
+MultiPad 2 Ultra Duo 8.0 3G@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013
+MultiPad 2 Ultra Duo 8.0@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013
+MultiPad 10.1 Ultimate 3G@#$%16 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Available. Released 2013
+MultiPad 10.1 Ultimate@#$%16 GB@#$%Gray@#$%1 GB RAM@#$%10.1@#$%Available. Released 2013
+MultiPad 7.0 Prime 3G@#$%4 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 2 Prime Duo 8.0@#$%16 GB@#$%Gray@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013
+MultiPad 7.0 Ultra Duo@#$%8 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 8.0 Ultra Duo@#$%16 GB@#$%Black@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013
+MultiPad 9.7 Ultra Duo@#$%16 GB@#$%Black, Red@#$%1 GB RAM@#$%9.7@#$%Available. Released 2013
+MultiPad 7.0 Prime Duo@#$%16 GB@#$%Gray@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 8.0 Pro Duo@#$%8 GB@#$%Black@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013
+MultiPad 7.0 Pro Duo@#$%8 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 8.0 HD@#$%8 GB@#$%Black@#$%1 GB RAM@#$%8.0@#$%Available. Released 2013
+MultiPad 7.0 Ultra + New@#$%4 GB@#$%White, Black, Red@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 7.0 HD +@#$%8 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 7.0 HD@#$%4 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 7.0 Ultra +@#$%8 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 7.0 Ultra@#$%4 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 7.0 Prime +@#$%4 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 7.0 Prime@#$%4 GB@#$%Black@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013
+MultiPad 7.0 Pro@#$%4 GB@#$%Gray@#$%512 MB RAM@#$%7.0@#$%Available. Released 2013

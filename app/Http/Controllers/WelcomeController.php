@@ -15,84 +15,31 @@ class WelcomeController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index(Request $request)
+    public function index()
     {
-        $offset = $request->input('page');
-        $offset = 10*($offset - 1);
         $brands = Brand::all();
+        $locationController = new LocationController();
+        $controller = new Controller();
         $searchText = "";
         $location = null;
-
-        //get the first mobile and then get the first mobile data
-        $mobiles = Mobile::select('title')
-            ->where([
-                ['title', '<>', ''],
-                ['title', '<>', ':) Smiley'],
-                ['brand_id', '<>', '6']
-            ])
-            ->groupBy('title')
-            ->offset($offset)
-            ->limit(48)
-            ->get();
-        $count = Mobile::count();
+        $latest = $this->getMobilesSeparatedInSections('latest', $locationController, $controller);
+        $apple = $this->getMobilesSeparatedInSections('apple', $locationController, $controller);
+        $samsung = $this->getMobilesSeparatedInSections('samsung', $locationController, $controller);
+        $htc = $this->getMobilesSeparatedInSections('htc', $locationController, $controller);
+        $lg = $this->getMobilesSeparatedInSections('lg', $locationController, $controller);
         $data = array();
-        foreach ($mobiles as $index => $m){
-            $mobile = Mobile::where('title', $m->title)->first();
+        array_push($data, [
+            'latest' => collect($latest),
+            'apple' => collect($apple),
+            'samsung' => collect($samsung),
+            'htc' => collect($htc),
+            'lg' => collect($lg)
+        ]);
 
-
-            //get mobile data
-            //contains the shop id as well
-            //would return collection
-            $mobileData = $mobile->data;
-            $price = 999999999999;
-            $l = null;
-            $o = null;
-            $available = null;
-            //there are multiple items per phone
-            //i.e. iphone 5 may have 5 rows in product data table
-            //since item can be on different shops
-            foreach ($mobileData as $item){
-                $price = $item->current_price < $price ? $item->current_price : $price;
-
-                //check if the item is available
-                //online or local or both
-                if ($item->local_online == 'l'){
-                    $l = $item->shop->location;
-                }else {
-                    $o = 'online';
-                }
-            }
-            if(!empty($l) && !empty($o)){
-                $available = 'both';
-            }
-            elseif (!empty($o) && $o == 'online')
-                $available = 'online';
-            elseif (!empty($l))
-                $available = 'local';
-
-            $data[$index]['mobile'] = $mobile;
-            $data[$index]['data'] = $mobileData;
-            $data[$index]['price'] = $price;
-            $data[$index]['available'] = $available;
-            $data[$index]['location'] = $l;
-        }
-
-        //Get current page form url e.g. &page=6
-        $currentPage = LengthAwarePaginator::resolveCurrentPage();
-
-        //Create a new Laravel collection from the array data
-        $collection = new Collection($data);
-
-        //Define how many items we want to be visible in each page
-        $perPage = 48;
-
-        //Slice the collection to get the items to display in current page
-        $currentPageSearchResults = $collection->slice(($currentPage - 1) * $perPage, $perPage)->all();
-
-        //Create our paginator and pass it to the view
-        $paginatedSearchResults = new LengthAwarePaginator($data, $count, $perPage);
-
-        return view('welcome')->with(['brands' => $brands, 'mobiles' => $paginatedSearchResults, 'searchText' => $searchText]);
+        return view('welcome')->with([
+            'brands' => $brands, 'searchText' => $searchText,
+            'data' => $data
+        ]);
     }
 
     /**
@@ -112,7 +59,105 @@ class WelcomeController extends Controller
         }
 
         $data = collect($data);
-        //return response()->json($data);
-        return view('frontend.single', compact('mobile', 'data'));
+        $userLat = session('user_lat');
+        $userLong = session('user_long');
+        return view('frontend.single', compact('mobile', 'data', 'userLat', 'userLong'));
+    }
+
+
+    /**
+     * returns the mobiles for welcome page
+     *
+     * @param $category
+     * @param LocationController $locationController
+     * @param Controller $controller
+     *
+     * @return array
+     */
+    public function getMobilesSeparatedInSections($category, LocationController $locationController, Controller $controller){
+        if($category == 'latest'){
+
+            $mobiles = Mobile::join('product_data', 'mobiles.id', '=', 'product_data.mobile_id')
+                ->orderBy('mobiles.release_date', 'DESC')
+                ->select('mobiles.*')
+                ->distinct()
+                ->limit(8)
+                ->get();
+        }
+
+        if($category == 'apple'){
+            $mobiles = Brand::where('name', $category)->first()->mobiles()->orderBy('release_date', 'DESC')->limit(8)->get();
+        }
+
+        if($category == 'samsung'){
+            $mobiles = Brand::where('name', $category)->first()->mobiles()->orderBy('release_date', 'DESC')->limit(8)->get();
+        }
+
+        if($category == 'htc'){
+            $mobiles = Brand::where('name', $category)->first()->mobiles()->orderBy('release_date', 'DESC')->limit(8)->get();
+        }
+
+        if($category == 'lg'){
+            $mobiles = Brand::where('name', $category)->first()->mobiles()->orderBy('release_date', 'DESC')->limit(8)->get();
+        }
+
+        $data = array();
+        foreach ($mobiles as $index => $mobile){
+
+
+            //get mobile data
+            //contains the shop id as well
+            //would return collection
+            $mobileData = $mobile->data;
+            $price = 999999999999;
+            $distance = 999999999999;
+            $l = null;
+            $o = null;
+            $available = null;
+            $shopLat = null;
+            $shopLong = null;
+
+            //there are multiple items per phone
+            //i.e. iphone 5 may have 5 rows in product data table
+            //since item can be on different shops
+            foreach ($mobileData as $item){
+                $price = $item->current_price < $price ? $item->current_price : $price;
+                //check if the item is available
+                //online or local or both
+                if ($item->local_online == 'l'){
+                    $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
+                    //echo $item->shop->shop_name . ' ' . $temp . ' < ' . $distance . ' = ' . '<br>';
+                    if($temp < $distance){
+                        $l = $item->shop->location;
+                        $distance = $temp;
+                        $shopLat = $item->shop->lat;
+                        $shopLong = $item->shop->long;
+                    }
+                }else {
+                    $o = 'online';
+                }
+            }
+            if(!empty($l) && !empty($o)){
+                $available = 'both';
+            }
+            elseif (!empty($o) && $o == 'online')
+                $available = 'online';
+            elseif (!empty($l))
+                $available = 'local';
+
+            /*if($available == null){
+                continue;
+            }*/
+            $mobile->shop_lat = $shopLat;
+            $mobile->shop_long = $shopLong;
+            $data[$index]['mobile'] = $mobile;
+            $data[$index]['data'] = $mobileData;
+            $data[$index]['price'] = $price;
+            $data[$index]['available'] = $available;
+            $data[$index]['location'] = $l;
+            $data[$index]['distance'] = $distance;
+        }
+
+        return $data;
     }
 }

@@ -1,20 +1,20 @@
-Venue 10 7000;32 GB;Black;2 GB RAM;10.5
-Venue 8 7000;16/32 GB;Black;2 GB RAM;8.4
-Venue 8;16/32 GB;Black;2 GB RAM;8.0
-Venue 7 8 GB;8 GB;Black, Red;1 GB RAM;7.0
-Venue 7;16 GB;Black, Red;2 GB RAM;7.0
-XPS 10;16 GB;Black;ram;10.1
-Streak Pro D43;8 GB ROM;Black;1 GB RAM;4.3
-Streak 10 Pro;16 GB;Black;1 GB RAM;10.1
-Streak 7;16 GB;Gray;ram;7.0
-Streak 7 Wi-Fi;16 GB;Gray;ram;7.0
-Venue;1 GB;Black;512 MB RAM;4.1
-XCD35;256 MB RAM;Black;512 MB;3.5
-XCD28;256 MB RAM;Black;256 MB;2.8
-Smoke;microSD;Black;up to 32 GB;2.8
-Flash;512 MB RAM;Black, White;512 MB;3.5
-Venue Pro;8/16 GB;Black;512 MB RAM;4.1
-Streak;16 GB;Black, Red, white;512 MB RAM;5.0
-Aero;microSD;Black;up to 32 GB (dedicated slot);3.5
-Mini 3i;microSD;Passion Red, Oiled Bronze;ram;3.5
-Mini 3iX;microSD;Oiled Bronze and Ocean Blue;ram;3.5
+Venue 10 7000@#$%32 GB@#$%Black@#$%2 GB RAM@#$%10.5@#$%Available. Released 2015, May
+Venue 8 7000@#$%16/32 GB@#$%Black@#$%2 GB RAM@#$%8.4@#$%Available. Released 2015, January
+Venue 8@#$%16/32 GB@#$%Black@#$%2 GB RAM@#$%8.0@#$%Available. Released 2013, October
+Venue 7 8 GB@#$%8 GB@#$%Black, Red@#$%1 GB RAM@#$%7.0@#$%Available. Released 2013, October
+Venue 7@#$%16 GB@#$%Black, Red@#$%2 GB RAM@#$%7.0@#$%Available. Released 2013, October
+XPS 10@#$%16 GB@#$%Black@#$%ram@#$%10.1@#$%Available. Released 2012, December
+Streak Pro D43@#$%8 GB ROM@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, Q3
+Streak 10 Pro@#$%16 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Available
+Streak 7@#$%16 GB@#$%Gray@#$%ram@#$%7.0@#$%Available. Released 2011, March
+Streak 7 Wi-Fi@#$%16 GB@#$%Gray@#$%ram@#$%7.0@#$%Available. Released 2011, April
+Venue@#$%1 GB@#$%Black@#$%512 MB RAM@#$%4.1@#$%Discontinued
+XCD35@#$%256 MB RAM@#$%Black@#$%512 MB@#$%3.5@#$%Discontinued
+XCD28@#$%256 MB RAM@#$%Black@#$%256 MB@#$%2.8@#$%Discontinued
+Smoke@#$%microSD@#$%Black@#$%up to 32 GB@#$%2.8@#$%Cancelled
+Flash@#$%512 MB RAM@#$%Black, White@#$%512 MB@#$%3.5@#$%Discontinued
+Venue Pro@#$%8/16 GB@#$%Black@#$%512 MB RAM@#$%4.1@#$%Discontinued
+Streak@#$%16 GB@#$%Black, Red, white@#$%512 MB RAM@#$%5.0@#$%Discontinued
+Aero@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%3.5@#$%Discontinued
+Mini 3i@#$%microSD@#$%Passion Red, Oiled Bronze@#$%ram@#$%3.5@#$%Discontinued
+Mini 3iX@#$%microSD@#$%Oiled Bronze and Ocean Blue@#$%ram@#$%3.5@#$%Discontinued

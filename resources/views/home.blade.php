@@ -71,7 +71,7 @@
                 <!-- small box -->
                 <div class="small-box bg-red">
                     <div class="inner">
-                        <h3>{{$count}}</h3>
+                        <h3>{{$count->count or 0}}</h3>
 
                         <p>Visitors Today</p>
                     </div>
@@ -98,7 +98,7 @@
                     </ul>
                     <div class="tab-content no-padding">
                         <!-- Morris chart - Sales -->
-                        <div class="chart tab-pane active" id="revenue-chart" style="position: relative; height: 300px;"></div>
+                        <div class="chart tab-pane active box box-solid bg-green-gradient" id="revenue-chart" style="position: relative; height: 300px;"></div>
                         <div class="chart tab-pane" id="sales-chart" style="position: relative; height: 300px;"></div>
                     </div>
                 </div>
@@ -390,7 +390,7 @@
                     <div class="box-header">
                         <i class="fa fa-th"></i>
 
-                        <h3 class="box-title">Sales Graph</h3>
+                        <h3 class="box-title">Monthly Sales Graph</h3>
 
                         <div class="box-tools pull-right">
                             <button type="button" class="btn bg-teal btn-sm" data-widget="collapse"><i class="fa fa-minus"></i>

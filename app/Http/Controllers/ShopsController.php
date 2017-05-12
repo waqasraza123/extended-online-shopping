@@ -6,17 +6,20 @@ use App\Shop;
 use App\Visit;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
-use App\Mobile;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Database\Eloquent\Collection;
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Session;
 
 class ShopsController extends Controller
 {
+
     /**
      * list all the shops
      * @return mixed
      */
     public function index(){
+        //$c = new Controller();
         $data = Shop::all();
 
         return view('shops.index')->withData($data);
@@ -67,7 +70,7 @@ class ShopsController extends Controller
         //Create our paginator and pass it to the view
         $paginatedSearchResults = new LengthAwarePaginator($mobiles, $count, $perPage);
 
-        return view('shops.single')->with(['mobiles' => $paginatedSearchResults]);
+        return view('shops.single')->with(['mobiles' => $paginatedSearchResults, 'shop_id' => $shopId]);
     }
 
 

@@ -1,580 +1,580 @@
-G6;32/64 GB;Mystic white, astro black, ice platinum;4 GB RAM;5.7
-X power2;16 GB;Black Titan, Shiny Titan, Shiny Gold, Shiny Blue;1.5 GB RAM or 2 GB RAM;5.5
-Stylus 3;16 GB;Titan, Pink gold;3 GB RAM (M400DK) or 2 GB RAM (K10 Pro;5.7
-K10 (2017);16 GB;Black, Gold, Titan;2 GB RAM;5.3
-K8 (2017);16 GB;Silver, Titan, Gold, Dark Blue;1.5 GB RAM;5.0
-K4 (2017);8 GB/ 16 GB (AT&T;Black, Titan;Cricket);5.0
-K3 (2017);8 GB;Black;1 GB RAM;4.5
-G Pad III 10.1 FHD;32 GB;Black;2 GB RAM;10.1
-U;32 GB;White, black, pink;2 GB RAM;5.2
-V20;32/64 GB;Titan, Silver, Pink;4 GB RAM;5.7
-X Skin;16 GB;Gold, Titanium;1.5 GB RAM;5.0
-X5;16 GB;White, Indigo Black;2 GB RAM;5.5
-X max;16 GB;Dark Blue;ram;5.5
-X mach;32 GB;Titan, White;3 GB RAM;5.5
-G Pad III 8.0 FHD;16 GB;Dark Blue;2 GB RAM;8.0
-G Pad X 8.0;16 GB;White/Gold;2 GB RAM;8.0
-X power;16 GB;Indigo, White, Gold;2 GB RAM;5.3
-X style;16 GB;Black, White, Titan;1.5 GB RAM;5.0
-Stylus 2 Plus;16/32 GB;Titan, Gold, Brown;2 GB RAM - K530;5.7
-Stylo 2;16 GB;Black;2 GB RAM;5.7
-K5;8 GB;Gold, Silver, Titan;1 GB RAM;5.0
-K3;8 GB;Black/Dark BLue;1 GB RAM;4.5
-G5 SE;32 GB;Silver, Titan, Gold;3 GB RAM;5.3
-G5;32 GB;Silver, Titan, Gold, Pink;4 GB RAM;5.3
-X cam;16 GB;Titan Silver, White, Gold, Pink Gold;2 GB RAM;5.2
-X screen;16 GB;Black, White, Pink Gold;2 GB RAM;4.93
-K8;8/16 GB;Black, White;1.5 GB RAM;5.0
-Stylus 2;16 GB;Titan, White, Brown;1.5 GB RAM or 16 GB;5.7
-K10;16 GB;White, Indigo, Gold;1 GB RAM - K430DSF/ 1.5 GB RAM - K420N;5.3
-K7;8 GB;White, Black, Gold; Titan (LTE model);1 GB RAM (3G model;5.0
-K4;8 GB;White, Indigo;1 GB RAM;4.5
-G Pad II 8.3 LTE;16 GB;Brown Gold;2 GB RAM;8.3
-Ray;16 GB;Silver, Gold, Titan Black;1 GB RAM;5.5
-G Vista 2;16 GB;Metallic Black;2 GB RAM;5.7
-V10;32/64 GB;Space Black, Luxe White, Modern Beige, Ocean Blue, Opal Blue;4 GB RAM;5.7
-Nexus 5X;16/32 GB;Carbon, Quartz, Ice;2 GB RAM;5.2
-Zero;16 GB;Gold, Silver, Blue, Black;1.5 GB RAM (H650E);5.0
-G Pad II 10.1;16 GB;Brilliant Bronze;2 GB RAM;10.1
-G Pad II 8.0 LTE;32 GB;Black, White;1.5 GB RAM;8.0
-Wine Smart;4 GB;Navy, Burgundy;1 GB RAM;3.2
-Tribute 2;8 GB;BLue;1 GB RAM;4.5
-Bello II;8 GB;White, Titan, Gold;1 GB RAM;5.0
-G4 Beat;8 GB;Metallic Gray, Ceramic White, Shiny Gold;1.5 GB RAM;5.2
-G360;32 MB;Wine Red;8 MB RAM;3.0
-G350;32 MB;Titan;8 MB RAM;3.0
-G4c;8 GB;Metallic Gray, Ceramic White, Shiny Gold;1 GB RAM;5.0
-G4 Dual;32 GB;Grey, White, Gold, Leather Black, Leather Brown, Leather Red;3 GB RAM;5.5
-G4;32 GB;Grey, White, Gold, Leather Black, Leather Brown, Leather Red, White/Gold;3 GB RAM;5.5
-G Stylo;8 GB;Black;1 GB RAM;5.7
-G4 Stylus;8 GB;Metallic Silver, Floral White;1 GB RAM (H635;5.7
-AKA;16 GB;White, Pink, Yellow, Navy;1.5 GB RAM;5.0
-Magna;8 GB;Black, White, Gold;1 GB RAM;5.0
-Spirit;8 GB;Titan, Gold, White;1 GB RAM;4.7
-Leon;8 GB;Titan, Gold;1 GB RAM;4.5
-Joy;4 GB;Dark blue, White;512 MB RAM;4.0
-G Flex2;16 GB;Platinum Silver, Flamenco Red;2 GB RAM/ 32 GB;5.5
-Tribute;4 GB;White;1 GB RAM;4.5
-L Prime;8 GB;White, Titanium, Gold;1 GB RAM;5.0
-G2 Lite;4 GB;White, Black, Gold;1 GB RAM;4.5
-G3 Dual-LTE;32 GB;Metallic Black, Silk White;3 GB RAM;5.5
-G3 Screen;32 GB;Black, White;2 GB RAM;5.9
-F60;4/8 GB;White, Black;1 GB RAM;4.5
-L60;4 GB;Black, White;512 MB RAM;4.3
-L60 Dual;4 GB;Black, White;512 MB RAM;4.3
-G3 Stylus;8 GB;Black, White, Gold;1 GB RAM;5.5
-L Bello;8 GB;White, Black, Gold;1 GB RAM;5.0
-L Fino;4 GB;White, Black, Gold, Red, Green;1 GB RAM;4.5
-G Pad 8.0 LTE;16/32 GB;Black, White, Luminous Orange, Luminous Blue;1 GB RAM;8.0
-G Vista;8 GB;Metallic Black;1.5 GB RAM;5.7
-G3 A;32 GB;White, Titanium;2 GB RAM;5.2
-G Pad 7.0 LTE;16 GB;Black;1 GB RAM;7.0
-L50;4 GB;Various;512 MB RAM;4.0
-L30;4 GB;Various;512 MB RAM;3.2
-L20;4 GB;Various;512 MB RAM;3.0
-G Vista (CDMA);8 GB;Metallic Black;1.5 GB RAM;5.7
-G3 LTE-A;32 GB;Silk White, Shine Gold, Metallic Black, Wine, Moon Violet;3 GB RAM;5.5
-G3 S Dual;8 GB;Metallic Black, Silk White;1 GB RAM;5.0
-G3 S;8 GB;Metallic Black, Silk White, Shine Gold;1 GB RAM;5.0
-L65 D280;4 GB;White, Black;1 GB RAM;4.3
-G3 (CDMA);32 GB;Metallic Black, Silk White (Verizon), Shine Gold (Sprint);3 GB RAM;5.5
-G3;16 GB;Metallic Black, Silk White, Shine Gold, Moon Violet, Burgundy Red, Blue Steel;2 GB RAM/ 32 GB;5.5
-450;256 MB;Black;128 MB RAM;2.2
-L35;4 GB;White, Black;512 MB RAM;3.2
-Volt;8 GB;Blue (Boost Mobile), White (Virgin Mobile);1 GB RAM;4.7
-G Pad 10.1 LTE;16 GB;Black;1 GB RAM;10.1
-G Pad 10.1;16 GB;Black, red;1 GB RAM;10.1
-G Pad 8.0;16 GB;Black, White, Luminous Orange, Luminous Blue;1 GB RAM;8.0
-G Pad 7.0;8 GB;Black, White, Luminous Orange, Luminous Blue;1 GB RAM;7.0
-L80;8 GB;White, Black;1 GB RAM;5.0
-L80 Dual;4 GB;White, Black;1 GB RAM;5.0
-Lucid 3 VS876;8 GB;Black;1 GB RAM;4.7
-L65 Dual D285;4 GB;White, Black;1 GB RAM;4.3
-G Pad 8.3 LTE;16 GB;Black;2 GB RAM;8.3
-F70 D315;4/8 GB;White, Black;1 GB RAM;4.5
-G2 mini LTE (Tegra);8 GB;Titan Black, Lunar White, Red, Gold;1 GB RAM;4.7
-G2 mini LTE;8 GB;Titan Black, Lunar White, Red, Gold;1 GB RAM;4.7
-G2 mini;8 GB;Titan Black, Lunar White, Red, Gold;1 GB RAM;4.7
-L90 Dual D410;8 GB;White, Black;1 GB RAM;4.7
-L90 D405;8 GB;White, Black;1 GB RAM;4.7
-L70 D320N;4 GB;White, Black;1 GB RAM;4.5
-L70 Dual D325;4 GB;White, Black;1 GB RAM;4.5
-L45 Dual X132;4 GB;White, Black;512 MB RAM;3.5
-L40 D160;4 GB;White, Black;512 MB RAM;3.5
-L40 Dual D170;4 GB;White, Black;512 MB RAM;3.5
-G Pro 2;16/32 GB;Titan, White, Silver, Burgundy;3 GB RAM;5.9
-Optimus L4 II Tri E470;4 GB;Black, White;512 MB RAM;3.8
-Optimus L1 II Tri E475;4 GB;Black, White, Pink;512 MB RAM;3.0
-Optimus F3Q;4 GB;Blue;1 GB RAM;4.0
-GX F310L;32 GB;Black, White;2 GB RAM;5.5
-Nexus 5;16/32 GB;Black, White, Red;2 GB RAM;4.95
-G Flex;32 GB;Titan silver;2 GB RAM;6.0
-Fireweb;32 GB;Black;ram;4.0
-G Pro Lite;8 GB;White, Black;1 GB RAM;5.5
-G Pro Lite Dual;8 GB;White, Black;1 GB RAM;5.5
-Optimus L2 II E435;4 GB (1.8 GB user available);Black, White;512 MB RAM;3.2
-Vu 3 F300L;16 GB;Black, White;2 GB RAM;5.2
-G Pad 8.3;16 GB;Black, White;2 GB RAM;8.3
-G2;16/32 GB;Black, White, Red, Gold;2 GB RAM;5.2
-Optimus L9 II;8 GB;White, Black;1 GB RAM;4.7
-Enact VS890;8 GB;Black;1 GB RAM;4.0
-Optimus GJ E975W;16 GB;Black, Red;2 GB RAM;4.7
-Optimus L4 II Dual E445;4 GB;Black, White;512 MB RAM;3.8
-Optimus L4 II E440;4 GB;Black, White;512 MB RAM;3.8
-Optimus Zone VS410;4 GB;Black;512 MB RAM;3.2
-Optimus F3;4 GB;Purple, Titanium, Black (T-Mobile);1 GB RAM;4.0
-Lucid2 VS870;8 GB;Black;1 GB RAM;4.3
-Optimus F7;8 GB;Black, White;1 GB RAM;4.7
-Optimus F6;4 GB;Black, White;1 GB RAM (D500)/ 8 GB;4.5
-Optimus F5;8 GB;Black, White;1 GB RAM;4.3
-Optimus G Pro E985;16/32 GB;Black, White;2 GB RAM;5.5
-Optimus L7 II Dual P715;4 GB;Black, White;768 MB RAM;4.3
-Optimus L7 II P710;4 GB;Black, White;768 MB RAM;4.3
-Optimus L5 II Dual E455;4 GB (1.75 GB user available);Indigo Black, White, Pink, Titan;512 MB RAM;4.0
-Optimus L5 II E460;4 GB (1.4 GB user available);Indigo Black, White, Pink, Titan;512 MB RAM;4.0
-Optimus L3 II Dual E435;4 GB (1.6 GB user available);Indigo Black, Titanium silver, White;512 MB RAM;3.2
-Optimus L3 II E430;4 GB (1.6 GB user available);Indigo Black, Titanium silver, White;512 MB RAM;3.2
-Optimus L1 II E410;4 GB (1.6 GB user available);Black, White;512 MB RAM;3.0
-Nexus 4 E960;8/16 GB;Black, White;2 GB RAM;4.7
-A390;8/16 GB;Black;ram;2.2
-A395;8/16 GB;Black, Silver;ram;2.2
-C299;8/16 GB;Gray;ram;2.2
-Tri Chip C333;8/16 GB;Black;ram;2.3
-Spectrum II 4G VS930;16 GB;Black;1 GB RAM;4.7
-Mach LS860;8 GB;Black;1 GB RAM;4.0
-Optimus L9 P769;4 GB;White, Black;1 GB RAM;4.5
-Optimus Vu II;16 GB;Black, White, Pink;2 GB RAM;5.0
-Optimus Vu II F200;16 GB;Black, White, Pink;ram;5.0
-Optimus G E970;16 GB;Black;2 GB RAM;4.7
-Optimus G LS970;32 GB;Black;2 GB RAM;4.7
-Optimus G E975;32 GB (25 GB user available);Black, White;2 GB RAM;4.7
-Intuition VS950;32 GB;Black, White;1 GB RAM;5.0
-Splendor US730;4 GB;Black;768 MB RAM;4.3
-Escape P870;4 GB;Black;1 GB RAM;4.3
-Optimus L5 Dual E615;4 GB (2.6 GB user available);Black, White;512 MB RAM;4.0
-Optimus L9 P760;4 GB;White, Black;1 GB RAM;4.7
-Motion 4G MS770;8 GB (5 GB user available);Black;1 GB RAM;3.5
-Optimus Vu P895;32 GB;Black, White;1 GB RAM;5.0
-Optimus L3 E405;1 GB;Black, White;384 MB RAM;3.2
-C199;1 GB;Black/Silver;ram;2.3
-T385;50 MB;Black;128 MB ROM;3.2
-T375 Cookie Smart;50 MB;White, Black, Red;128 MB ROM;3.2
-Optimus Elite LS696;4 GB;Silver, white;512 MB RAM;3.5
-T370 Cookie Smart;50 MB;Black, White, Red;128 MB ROM;3.2
-Optimus LTE2;16 GB;Black, white;2 GB RAM;4.7
-Optimus True HD LTE P936;4 GB;Black;1 GB RAM;4.5
-Xpression C395;4 GB;Black/Red;ram;3.0
-Lucid 4G VS840;8 GB;Black;1 GB RAM;4.0
-Optimus M+ MS695;4 GB;Black;512 MB RAM;3.5
-Optimus 4X HD P880;16 GB (12 GB user available);Black, White;1 GB RAM;4.7
-Optimus 3D Max P720;8 GB (5.3 GB user available);Black;1 GB RAM;4.3
-Optimus 3D Cube SU870;16 GB;Black, White;1 GB RAM;4.3
-Optimus L7 P700;4 GB (2.4 GB user available);Black, White;512 MB RAM;4.3
-Optimus L5 E610;4 GB (2.5 GB user available);Black, White;512 MB RAM;4.0
-Optimus Vu F100S;32 GB;Black, White;1 GB RAM;5.0
-Optimus LTE Tag;16 GB;Black, White;1 GB RAM;4.3
-Optimus L3 E400;1 GB;Black, White;384 MB RAM;3.2
-Optimus Pad LTE;1 GB;Black;ram;8.9
-Rumor Reflex  LN272;480 MB;Titan Grey;256 MB RAM;3.0
-Connect 4G MS840;4 GB (1.9 GB user available);Black;1 GB RAM;4.0
-Viper 4G LTE LS840;4 GB (1.7 GB user available);Black;1 GB RAM;4.0
-Spectrum VS920;4 GB;Black;1 GB RAM;4.5
-X350;4 GB;Black;ram;2.3
-Prada 3.0;8 GB;Black;1 GB RAM;4.3
-Nitro HD;4 GB;Black;1 GB RAM;4.5
-Optimus 4G LTE P935;2 GB;Black;1 GB RAM;4.5
-Optimus 2 AS680;2 GB;Black;ram;3.2
-Extravert VN271;2 GB;Black;ram;2.8
-DoublePlay;2 GB;Black/Silver;512 MB RAM;3.5
-Enlighten VS700;2 GB;Black;ram;3.2
-S367;2 GB;Black;ram;2.4
-Jil Sander Mobile;2 GB;Black;ram;3.8
-Optimus Slider;512 MB RAM;Black;512 MB;3.2
-Optimus LTE SU640;4 GB;Black, White;1 GB RAM;4.5
-Optimus LTE LU6200;4 GB;Black, White;1 GB RAM;4.5
-Optimus EX SU880;8 GB;Black & Silver, White & Champagne Gold;1 GB RAM;4.0
-Optimus Q2 LU6500;8 GB;Black, White;1 GB RAM;4.0
-Optimus Hub E510;512 MB;Black, white;512 MB RAM;3.5
-Optimus Sol E730;2 GB;Black, titan, white;512 MB RAM;3.8
-Optimus Net Dual;150 MB;Black;512 MB RAM;3.2
-Optimus Net;512 MB;Black;512 MB RAM;3.2
-Esteem MS910;8 GB;Black;512 MB RAM;4.3
-Marquee LS855;4 GB;Black;512 MB RAM;4.0
-Optimus Black (White version);2 GB;White;512 MB RAM;4.0
-Optimus Pro C660;512 MB;Black;256 MB RAM;2.8
-S365;512 MB;Black;ram;2.4
-A350;59 MB;Black;128 MB RAM;2.2
-A258;59 MB;Black;ram;2.2
-A250;59 MB;Black;ram;2.2
-A270;59 MB;Black;ram;1.45
-A230;59 MB;Black;ram;1.77
-A290;59 MB;Gray, Black, White;ram;2.2
-A190;59 MB;Black;ram;1.52
-A200;64 MB RAM;Black;128 MB ROM;2.2
-T515 Cookie Duo;64 MB RAM;Black;ram;2.8
-T510;64 MB RAM;Black;ram;2.8
-T505;64 MB RAM;Black;ram;2.8
-EGO T500;64 MB RAM;White, Black, Red, Pink;ram;2.8
-EGO Wi-Fi;64 MB RAM;White;ram;2.8
-C375 Cookie Tweet;64 MB RAM;Black/Silver;ram;2.3
-C365;64 MB RAM;Black;ram;2.3
-C360;64 MB RAM;Black;ram;2.3
-A100;64 MB RAM;Dark Grey, Brown White, Black;ram;1.5
-Optimus Big LU6800;64 MB RAM;Black;ram;4.3
-Cosmos 2;64 MB RAM;Black;ram;2.0
-US760 Genesis;64 MB RAM;Black;ram;3.5
-Phoenix P505;64 MB RAM;Violet;ram;3.2
-Thrive P506;64 MB RAM;Silver;ram;3.2
-Thrill 4G P925;8 GB;Dark blue;512 MB RAM;4.3
-T315;8 GB;Black, White;ram;2.8
-Optimus 3D P920;8 GB;Black, White;512 MB RAM;4.3
-Optimus Pad V900;8 GB;Black;ram;8.9
-A180;8 GB;Graphite;ram;1.52
-A165;8 GB;Black;ram;2.0
-A160;8 GB;Black;ram;2.0
-A140;8 GB;Black;ram;1.7
-Optimus Chat C550;8 GB;Black, silver, blue, red, pink;ram;2.8
-Optimus Me P350;8 GB;Black, silver, blue, red, pink;ram;2.8
-Optimus Black P970;2 GB (1 GB user available);Black, Pink, Silver, White, Brown;512 MB RAM;4.0
-Optimus 2X SU660;8 GB;Black, white;512 MB RAM;4.0
-Optimus 2X;8 GB;Black;512 MB RAM;4.0
-Optimus Mach LU3000;8 GB;Black, white;ram;3.8
-Revolution;8 GB;Black;ram;4.3
-X335;8 GB;Black;ram;2.3
-C310;8 GB;Black/Red;ram;2.4
-Cookie WiFi T310i;8 GB;Black&Red, White&Organge, Black&Titan Silver, Pink&White;ram;2.8
-GU200;8 GB;Black;ram;1.77
-A120;8 GB;Black;ram;1.77
-A155;8 GB;Black;ram;2.0
-S310;8 GB;Black, White;ram;2.2
-P525;15 MB;Black;32 MB RAM;2.8
-P520;15 MB;Black;32 MB RAM;2.8
-Axis;512 MB;Black;256 MB RAM;3.2
-Apex;512 MB;Black;256 MB RAM;3.2
-Cosmos Touch VN270;512 MB;Black;ram;2.8
-Vortex VS660;512 MB;Black;ram;3.2
-C320 InTouch Lady;512 MB;Black, White, Pink, Orange;ram;2.4
-GT550 Encore;512 MB;Black;ram;3.0
-GS390 Prime;512 MB;Black;ram;3.0
-Quantum;16 GB;Black;512 MB RAM;3.5
-C900 Optimus 7Q ;16 GB;Black;512 MB RAM;3.5
-E900 Optimus 7;16 GB;Black;512 MB RAM;3.8
-Town C300;16 GB;Black, White;ram;2.4
-Optimus Chic E720;16 GB;Black, White;ram;3.2
-Octane;16 GB;Black;ram;2.6
-Optimus M;16 GB;Gray;ram;3.2
-Optimus S;microSD;Gray;up to 32 GB (dedicated slot);3.2
-Optimus T;microSD;Burgundy, Titanium;ram;3.2
-Optimus One P500;170 MB;Black, wine, titan, blue, silver, purple;512 MB RAM;3.2
-GW910;170 MB;Black;ram;3.5
-A130;170 MB;Silver, Black;ram;2.0
-GW370 Rumour Plus;170 MB;Blue on Black, Red on Black;ram;2.4
-GD550 Pure;170 MB;Black;ram;2.4
-KS365;50 dialed;Blue, Red, Pink;50 received;2.4
-GM650s;50 dialed;Black;ram;3.0
-Scarlet II TV;50 dialed;Black;ram;3.0
-Flick T320;50 dialed;Black;ram;2.8
-Cookie 3G T320;50 dialed;Black&Red, Black&Titan Silver, Black&Pink, Black&Aqua Blue;ram;2.8
-Wink 3G T320;50 dialed;Black&Red, Black&Titan Silver, Black&Pink, Black&Aqua Blue;ram;2.8
-C710 Aloha;512 MB;Black;256 MB RAM;3.2
-Cookie Style T310;512 MB;Black&Red, White&Organge, Black&Titan Silver, Pink&White;ram;2.8
-Wink Style T310;512 MB;Black&Red, White&Organge, Black&Titan Silver, Pink&White;ram;2.8
-Cookie Lite T300;512 MB;Black&Red, White&Organge, Black&Titan Silver, Pink&White;ram;2.4
-C105;512 MB;Black, Silver, White, Blue, Red, Orange, Green;ram;2.2
-GX300;512 MB;Black;ram;2.2
-GU292;512 MB;Black, Silver;ram;2.0
-GM360 Viewty Snap;512 MB;Black, Silver;ram;3.0
-Fathom VS750;256 MB RAM;Black;512 MB ROM;3.2
-Vu Plus;256 MB RAM;Black;ram;3.0
-GT400 Viewty Smile;256 MB RAM;Black, White, Pink;ram;3.0
-SU420 Cafe;256 MB RAM;Black, White, Pink;ram;3.0
-Optimus Z;microSD;Black, White, Pink;up to 32 GB (dedicated slot);3.5
-SU920;microSD;Black, White, Pink;ram;3.0
-KM570 Cookie Gig;microSD;Silver Black, Prism violet, Blue;ram;3.0
-Optimus Q LU2300;microSD;Black;ram;3.5
-GX500;microSD;Black;ram;3.0
-GT950 Arena;microSD;Silver Grey;ram;3.0
-KH3900 Joypop;microSD;Hot pink, white;ram;2.8
-GB280;microSD;Various;ram;2.0
-GS155;microSD;Black, Silver, Red, Green, Wine Red;ram;1.5
-GS107;microSD;Black;ram;1.5
-GS106;50 dialed;Black;50 received;1.5
-KP108;50 dialed;Blue on Black, Red on Black;ram;1.52
-GD350;50 dialed;Black;ram;2.0
-KH5200 Andro-1;50 dialed;Black;ram;3.0
-GT540 Optimus;139 MB;Black, White, Pink;156 MB RAM;3.0
-GS290 Cookie Fresh;40 dialed;Silver, Orange/white, Purple/white, Blue/light silver;40 received;3.0
-GT405;40 dialed;Silver Grey, Black;ram;3.0
-GW990;40 dialed;Grey;ram;4.8
-GS500 Cookie Plus;40 dialed;Black, White Silver,Imperial Purple, Baby Pink, Wine Red, Brown ;ram;3.0
-GX200;40 dialed;Black;ram;2.0
-KF305;40 dialed;Black, Blue;ram;2.2
-GW880;512 MB;Black;256 MB RAM;3.5
-GD880 Mini;512 MB;Black;ram;3.2
-Wink Plus GT350i;512 MB;Aqua Blue, Purple, Light Silver, Black;ram;3.0
-Etna C330;512 MB;BLue, White;ram;2.4
-Town GT350;512 MB;Aqua Blue, Purple, Light Silver, Black;ram;3.0
-KU2100;microSD;Black;up to 16 GB (dedicated slot);3.0
-GD580 Lollipop;microSD;Blue, Pink, Black;ram;2.8
-GS200;50 dialed;Black;50 received;2.0
-GS190;50 dialed;Black;ram;2.0
-GW820 eXpo;512 ROM;Black;256 RAM;3.2
-GD710 Shine II;50 dialed;Silver;50 received;2.2
-GU230 Dimsun;50 dialed;Black, Silver, Pink;ram;2.2
-GB160;50 dialed;Black;ram;1.5
-GU285;50 dialed;Black, Silver, White & Red, White & Pink, Light Silver;ram;2.0
-8575 Samba;50 dialed;Black, Bronze;ram;3.0
-KM555E;50 dialed;Black, Silver, Violet;ram;3.0
-GD310 ;50 dialed;White, Black, Pink;ram;2.4
-GD510 Pop;50 dialed;Silver, Black, Twiilght;ram;3.0
-BL20 New Chocolate;50 dialed;Black;ram;2.4
-CF360;50 dialed;Red, Blue;ram;2.0
-GW620;50 dialed;Black, Gray, Blue;ram;3.0
-GM750;50 dialed;Black;ram;3.0
-BL40 New Chocolate;50 dialed;Black;ram;4.01
-GW300;50 dialed;Black, Blue;ram;2.4
-GB270;50 dialed;Black, Gray, Pink;ram;2.0
-GB190;50 dialed;Black;ram;1.5
-GB109;50 dialed;Black;ram;1.5
-GB170;50 dialed;Black, Red;ram;1.5
-GW550;50 dialed;Black;ram;2.4
-KB775 Scarlet;50 dialed;Black, Dark Red;ram;3.0
-GT500 Puccini;50 dialed;Black;ram;3.0
-GT505;50 dialed;Black;ram;3.0
-GW520;50 dialed;Blue on Black, Red on Black, Silver, Pearl White;ram;2.8
-GD900 Crystal;50 dialed;;ram;3.0
-GC900 Viewty Smart;50 dialed;Silver, Black;ram;3.0
-GB230 Julia;50 dialed;Black, Dark Blue;ram;2.0
-GD330;50 dialed;Black;ram;2.2
-KS660;50 dialed;Black;ram;3.0
-GB125;50 dialed;Yes;ram;1.5
-Xenon GR500;50 dialed;Black, Blue, Red;ram;2.8
-GB210;50 dialed;Black, Titan;ram;1.77
-GM200 Brio;50 dialed;Black, Silver, Gold (GM200); Black, Red (GM205);ram;2.0
-KC560;50 dialed;Black;ram;2.4
-KM900 Arena;50 dialed;Silver, Titan Black, Dusty Pink;ram;3.0
-GM730 Eigen;microSD;Black;up to 16 GB (dedicated slot);3.0
-KC910i Renoir;microSD;Black;ram;3.0
-GB250;microSD;Black;ram;2.0
-GB220;microSD;Silver, Pink;ram;1.76
-GB102;10 dialed;Black;10 received;1.5
-KT770;10 dialed;Black;ram;2.8
-GB130;10 dialed;Black;ram;2.0
-GM310;10 dialed;Black;ram;2.2
-GM210;10 dialed;Various;ram;2.0
-KM330;10 dialed;;ram;2.0
-GB110;10 dialed;Black;ram;1.5
-GB106;10 dialed;Black, White;ram;1.5
-GD910;10 dialed;White, Black;ram;1.43
-CT810 Incite;128 MB RAM;;256 MB ROM;3.0
-KP152;10 dialed;Black, Red;10 received;1.5
-KS500;10 dialed;Black;ram;2.0
-KF900 Prada;10 dialed;Black;ram;3.0
-KC780;10 dialed;Gray;ram;2.4
-KP500 Cookie;10 dialed;Black, Vandyke brown, Anodizing silver, Elegant gold, Delicious white, Pink;ram;3.0
-KP501 Cookie;10 dialed;Anodizing Silver, Capri Green, Pink, Black;ram;3.0
-KP502 Cookie;10 dialed;Black, Purple;ram;3.0
-KC910 Renoir;10 dialed;Black;ram;3.0
-KB770;10 dialed;Black;ram;3.0
-CB630 Invision;10 dialed;Black;ram;2.2
-KP270;10 dialed;Black Rose;ram;2.0
-KF311;10 dialed;Grey;ram;2.0
-CP150;10 dialed;Black, Red;10 received;1.5
-KP265;10 dialed;;ram;1.77
-KP260;10 dialed;Black;ram;1.77
-KP199;10 dialed;Black;ram;1.77
-KP170;10 dialed;Silver;ram;1.77
-GT365 Neon;10 dialed;White/Light green, Black/Grey, Aqua Blue, White;ram;2.4
-KS360;10 dialed;Black and red, Black and silver, White and soft pink, Titanium and bright blue;ram;2.4
-Univa E510;microSD;Black;up to 32 GB (dedicated slot);3.2
-KF390;microSD;Black;ram;2.0
-KF350;microSD;White-rosy, Blue, Pistachio, Pink;ram;2.2
-KF245;microSD;Black;ram;2.0
-KF240;microSD;Black;ram;2.0
-U370;microSD;Black;ram;2.0
-HB620T;microSD;Black;ram;2.0
-KC550;microSD;Black, Gray, Pink;ram;2.4
-KF757 Secret;microSD;Black, Ruby Violet, Titan Gold;ram;2.4
-KF750 Secret;microSD;Black, Ruby Violet, Titan Gold;ram;2.4
-KF755 Secret;40 dialed;Black;40 received;2.4
-CU915 Vu;40 dialed;Black;ram;3.0
-KF700;40 dialed;Black;ram;3.0
-KF600;40 dialed;Pastel Pink, Shiny Pink, Wine Red, Titan;ram;2.0
-KF510;40 dialed;Stardust Dark Grey, Sunset Red;ram;2.2
-KT610;40 dialed;Black;ram;2.4
-KP320;40 dialed;Black, Red;ram;2.0
-KT520;40 dialed;;ram;2.2
-KM710;40 dialed;White;ram;2.0
-MG295;20 dialed;Black;20 received;
-KF310;20 dialed;Black, White;ram;2.0
-KF300;20 dialed;Black;ram;2.2
-KM500;20 dialed;Black;ram;2.0
-KM386;20 dialed;White;ram;1.7
-KM380;20 dialed;Black;ram;2.0
-KM338;20 dialed;;ram;2.0
-KG375;20 dialed;Black, orange;10 received;
-KP235;20 dialed;;ram;1.7
-KP220;20 dialed;Silver;ram;1.7
-KP215;10 dialed;Black;10 received;1.77
-KP210;10 dialed;Silver;10 received;1.0
-KP130;10 dialed;;ram;1.5
-KP110;10 dialed;Black, Cherry, Silver, White;ram;1.5
-KP105;10 dialed;White, Black, Silver;10 received;1.5
-KP100;10 dialed;White, Black, Blue, Red;ram;1.5
-KU385;10 dialed;Blue, Brown;ram;1.9
-KU380;10 dialed;Black, White;ram;1.76
-U960;10 dialed;Black;ram;2.2
-KG290;10 dialed;Black, Gray;ram;1.77
-KG288;10 dialed;Black, Red;ram;1.7
-KS20;10 dialed;Black, Baby Pink ;ram;2.8
-KU990 Viewty;10 dialed;Black, Dark Silver, Purple, Pink, Hot Red, White;ram;3.0
-KE990 Viewty;10 dialed;Black, Silver;ram;3.0
-KE590;10 dialed;Black;ram;2.0
-KE500;10 dialed;Black, Gray;ram;2.0
-KG280;10 dialed;Black, Green, Pink, Dark Red, White;ram;1.86
-KG275;40 dialed;Black, Gray;40 received;1.5
-MG160;40 dialed;Black, Pink;40 received;1.5
-KU580;40 dialed;Black;ram;2.0
-KE850 Prada;40 dialed;Black;ram;3.0
-KE970 Shine;40 dialed;Silver, Titanium Black, Gold, Pink;ram;2.2
-KU970 Shine;40 dialed;Silver;ram;2.2
-KE770 Shine;40 dialed;Silver;ram;1.77
-CU720 Shine;40 dialed;Silver;ram;2.2
-KU950;40 dialed;Silver;ram;2.4
-KS10;40 dialed;Black;ram;2.4
-KU311;40 dialed;;ram;
-Trax CU575;10 dialed;Black, Gray;10 received;2.0
-CU515;10 dialed;Black;ram;2.0
-CU500V;10 dialed;Black;10 received;
-CE110;10 dialed;Black;10 received;1.56
-KU250;10 dialed;Black;ram;1.7
-KE260;10 dialed;Black;ram;1.8
-KE800;10 dialed;Black;ram;2.0
-KE820;10 dialed;Black;ram;2.0
-KU800;10 dialed;Black;ram;1.5
-U830;10 dialed;Black;ram;2.2
-L343i;10 dialed;Black;10 received;
-L600v;10 dialed;Silver;ram;2.0
-KP200;10 dialed;Pink, Black;ram;
-KP202;10 dialed;Black;ram;1.8
-CU500;40 dialed;Black;40 received;
-U400;40 dialed;Black, Silver;40 received;2.0
-U310;40 dialed;Orange, Green, Chameleon;40 received;2.0
-U300;40 dialed;Orange, Green, Chameleon;40 received;2.0
-KG800;40 dialed;Black, White, Pink, Wine;ram;2.0
-KG810;40 dialed;Black;ram;2.0
-KE600;40 dialed;Black;ram;2.0
-KG330;20 dialed;Black;10 received;2.0
-KG320;20 dialed;Black;ram;1.8
-KG300;20 dialed;Black;ram;2.0
-CG180;10 dialed;Black;10 received;1.5
-KG270;10 dialed;Pink, Black;10 received;
-KG200;10 dialed;Black;ram;1.8
-KG195;10 dialed;Black, White;ram;1.8
-KG920;10 dialed;Silver;ram;2.0
-KU730;10 dialed;Black;10 received;2.0
-U900;10 dialed;Silver, Black;ram;2.2
-V9000;10 dialed;Silver;10 received;2.2
-KG245;10 dialed;Black;ram;
-KG240;10 dialed;Black, Silver;ram;
-KG225;20 dialed;Black;10 received;
-KG220;20 dialed;Black, Pink;ram;
-KG210;20 dialed;Black;ram;
-KG190;20 dialed;Black;ram;1.3
-KG130;20 dialed;Black;ram;1.5
-KG120;20 dialed;Silver;ram;
-KG110;20 dialed;Silver;10 received;1.5
-C2600;20 dialed;Black;ram;1.6
-U890;20 dialed;;ram;2.2
-U8550;20 dialed;Orange, Green, Silver;ram;2.2
-M6100;20 dialed;Silver, Blue, Black;ram;1.3
-C2500;20 dialed;Black, Blue, Silver;ram;1.5
-C1150;20 dialed;Silver, Red, Black;ram;
-S5300;20 dialed;Black;ram;1.8
-S5200;20 dialed;Black;ram;1.8
-S5100;20 dialed;Black;ram;
-S5000;10 dialed;Black;10 received;
-U880;10 dialed;4 - glossy black, matt black, silver, pink;ram;2.0
-P7200;10 dialed;;ram;
-B2250;15 dialed;Silver;15 received;1.8
-B2070;15 dialed;Graphite Black;15 received;1.6
-B2050;15 dialed;;ram;1.5
-M4410;15 dialed;;ram;
-M4330;10 dialed;;10 received;
-M4300;10 dialed;;10 received;
-F3000;10 dialed;;ram;
-F2410;10 dialed;;ram;
-F2250;20 dialed;;10 received;
-L342i;20 dialed;Blue;ram;
-L341i;20 dialed;Titan Grey;ram;
-C3400;20 dialed;Silver;ram;
-C3380;20 dialed;Black, Orange, Green;ram;
-C3320;10 dialed;Silver;10 received;
-C3310;10 dialed;Silver;10 received;
-C3300;10 dialed;Silver;ram;
-U8380;10 dialed;Blue;ram;2.2
-U8360;10 dialed;Silver, Black, Green;ram;2.0
-U8330;10 dialed;Silver, Red, Electric Blue, Blue Black;ram;
-U8290;10 dialed;;ram;
-U8210;10 dialed;;ram;
-U8200;10 dialed;;ram;
-U8180;10 dialed;Silver, Orange;ram;
-B2150;10 dialed;;ram;1.6
-B2100;10 dialed;;ram;1.5
-B2000;15 dialed;;15 received;1.5
-F2400;15 dialed;;ram;
-F1200;15 dialed;;ram;
-F7250;15 dialed;;ram;1.9
-A7150;15 dialed;Silver;ram;
-L5100;15 dialed;Blue silver;ram;
-C2200;15 dialed;Dark blue satin;ram;
-C2100;15 dialed;;ram;
-G1800;15 dialed;;ram;1.6
-G1700;15 dialed;;15 received;1.6
-G1610;15 dialed;;ram;1.5
-F2300;15 dialed;;ram;
-F2100;15 dialed;;ram;
-L3100;15 dialed;;ram;
-C3100;15 dialed;DarkBlue, WineRed;ram;
-G3100;10 received;Silver;10 missed calls;
-L1100;10 received;Silver;ram;
-C1400;10 received;Blue silver;ram;
-C1200;10 received;;ram;
-C1100;10 received;Silver;ram;
-G1600;10 received;;ram;
-T5100;10 received;Silver;ram;
-G7200;10 received;;ram;
-G7120;10 received;Silver;ram;
-U8150;10 received;;ram;
-U8138;10 received;Silver, Blue;ram;
-U8120;10 received;Silver, Blue;ram;
-U8110;10 received;;ram;
-U8100;10 received;;ram;
-G7100;10 received;Silver, Red, Blue;ram;
-G7070;10 received;;ram;
-G7050;10 received;;ram;
-G7030;10 received;Silver;ram;
-G1500;10 received;;ram;
-G5500;10 received;;ram;
-G5400;10 received;Silver, Red, Blue;ram;
-G5310;10 received;;ram;
-G5300;10 received;Silver, Red, Blue;ram;
-G8000;10 received;Silver;ram;
-G7020;10 received;Silver, Blue, Red;ram;
-W7020;10 received;;ram;
-G7000;10 received;3 -Siver, Blue, Red;ram;
-W7000;10 received;Silver, Blue, Red;ram;
-G5200;10 received;1;ram;
-W5200;10 received;;ram;
-G3000;10 received;3 - Red, blue, gray;ram;
-W3000;10 received;White, Red, Blue;ram;
-B1200;20 dialed;Red, Cobalt Blue, Titaum;20 received;
-LG 510w;20 dialed;Metallic Cobalt, Metallic Blue, Metallic Red, Light Gray, Silver;ram;
-LG-600;20 dialed;;ram;
-LG-500;20 dialed;;ram;
-LG-200;10 dialed;;10 received;
-Fantasy E740;10 dialed;Black;ram;4.0
-E2;microSD;Black;up to 32 GB (dedicated slot);,
-X3;16 GB;Black;1 GB RAM;4.7
-Optimus LTE;16 GB;Black;ram;4.5
-G4 Pro;32/64 GB;Grey, White, Gold, Leather Black, Leather Brown, Leather Red;4 GB RAM;5.8
+G6@#$%32/64 GB@#$%Mystic white, astro black, ice platinum@#$%4 GB RAM@#$%5.7@#$%Available. Released 2017, March
+X power2@#$%16 GB@#$%Black Titan, Shiny Titan, Shiny Gold, Shiny Blue@#$%1.5 GB RAM or 2 GB RAM@#$%5.5@#$%Coming soon. Exp. release 2017, June
+Stylus 3@#$%16 GB@#$%Titan, Pink gold@#$%3 GB RAM (M400DK) or 2 GB RAM (K10 Pro@#$%5.7@#$%Available. Released 2017, March
+K10 (2017)@#$%16 GB@#$%Black, Gold, Titan@#$%2 GB RAM; 1.5 GB RAM - LG Harmony@#$%5.3@#$%Available. Released 2017, February
+K8 (2017)@#$%16 GB@#$%Silver, Titan, Gold, Dark Blue@#$%1.5 GB RAM@#$%5.0@#$%Coming soon. Exp. release 2017, Q1-Q2
+K4 (2017)@#$%8 GB/ 16 GB (AT&T@#$%Black, Titan@#$%Cricket)@#$%5.0@#$%Available. Released 2017, March
+K3 (2017)@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Coming soon. Exp. release 2017, Q1-Q2
+G Pad III 10.1 FHD@#$%32 GB@#$%Black@#$%2 GB RAM@#$%10.1@#$%Available. Released 2016, December
+U@#$%32 GB@#$%White, black, pink@#$%2 GB RAM@#$%5.2@#$%Available. Released 2016, November
+V20@#$%32/64 GB@#$%Titan, Silver, Pink@#$%4 GB RAM@#$%5.7@#$%Available. Released 2016, October
+X Skin@#$%16 GB@#$%Gold, Titanium@#$%1.5 GB RAM@#$%5.0@#$%Coming soon. Exp. release 2017, Q1-Q2
+X5@#$%16 GB@#$%White, Indigo Black@#$%2 GB RAM@#$%5.5@#$%Coming soon. Exp. release 2017, Q1-Q2
+X max@#$%16 GB@#$%Dark Blue@#$%ram@#$%5.5@#$%Available. Released 2016, December
+X mach@#$%32 GB@#$%Titan, White@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, September
+G Pad III 8.0 FHD@#$%16 GB@#$%Dark Blue@#$%2 GB RAM@#$%8.0@#$%Available. Released 2016, May
+G Pad X 8.0@#$%16 GB@#$%White/Gold@#$%2 GB RAM@#$%8.0@#$%Available. Released 2016, June
+X power@#$%16 GB@#$%Indigo, White, Gold@#$%2 GB RAM@#$%5.3@#$%Available. Released 2016, September
+X style@#$%16 GB@#$%Black, White, Titan@#$%1.5 GB RAM@#$%5.0@#$%Available. Released Exp. release 2016, September
+Stylus 2 Plus@#$%16/32 GB@#$%Titan, Gold, Brown@#$%2 GB RAM - K530@#$%5.7@#$%Available. Released 2016, July
+Stylo 2@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.7@#$%Available. Released 2016, April
+K5@#$%8 GB@#$%Gold, Silver, Titan@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, June
+K3@#$%8 GB@#$%Black/Dark BLue@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, September
+G5 SE@#$%32 GB@#$%Silver, Titan, Gold@#$%3 GB RAM@#$%5.3@#$%Available. Released 2016, June
+G5@#$%32 GB@#$%Silver, Titan, Gold, Pink@#$%4 GB RAM@#$%5.3@#$%Available. Released 2016, April
+X cam@#$%16 GB@#$%Titan Silver, White, Gold, Pink Gold@#$%2 GB RAM@#$%5.2@#$%Available. Released 2016, June
+X screen@#$%16 GB@#$%Black, White, Pink Gold@#$%2 GB RAM@#$%4.93@#$%Available. Released 2016, March
+K8@#$%8/16 GB@#$%Black, White@#$%1.5 GB RAM@#$%5.0@#$%Available. Released 2016, April
+Stylus 2@#$%16 GB@#$%Titan, White, Brown@#$%1.5 GB RAM or 16 GB@#$%5.7@#$%Available. Released 2016, June
+K10@#$%16 GB@#$%White, Indigo, Gold@#$%1 GB RAM - K430DSF/ 1.5 GB RAM - K420N@#$%5.3@#$%Available. Released 2016, January
+K7@#$%8 GB@#$%White, Black, Gold; Titan (LTE model)@#$%1 GB RAM (3G model@#$%5.0@#$%Available. Released 2016, February
+K4@#$%8 GB@#$%White, Indigo@#$%1 GB RAM@#$%4.5@#$%Available. Released 2016, February
+G Pad II 8.3 LTE@#$%16 GB@#$%Brown Gold@#$%2 GB RAM@#$%8.3@#$%Available. Released 2015, December
+Ray@#$%16 GB@#$%Silver, Gold, Titan Black@#$%1 GB RAM@#$%5.5@#$%Available. Released 2016, January
+G Vista 2@#$%16 GB@#$%Metallic Black@#$%2 GB RAM@#$%5.7@#$%Available. Released 2015, November
+V10@#$%32/64 GB@#$%Space Black, Luxe White, Modern Beige, Ocean Blue, Opal Blue@#$%4 GB RAM@#$%5.7@#$%Available. Released 2015, October
+Nexus 5X@#$%16/32 GB@#$%Carbon, Quartz, Ice@#$%2 GB RAM@#$%5.2@#$%Available. Released 2015, October
+Zero@#$%16 GB@#$%Gold, Silver, Blue, Black@#$%1.5 GB RAM (H650E)@#$%5.0@#$%Available. Released 2015, October
+G Pad II 10.1@#$%16 GB@#$%Brilliant Bronze@#$%2 GB RAM@#$%10.1@#$%Available. Released 2015, September
+G Pad II 8.0 LTE@#$%32 GB@#$%Black, White@#$%1.5 GB RAM@#$%8.0@#$%Available. Released 2015, October
+Wine Smart@#$%4 GB@#$%Navy, Burgundy@#$%1 GB RAM@#$%3.2@#$%Available. Released 2015, September
+Tribute 2@#$%8 GB@#$%BLue@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, July
+Bello II@#$%8 GB@#$%White, Titan, Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, September
+G4 Beat@#$%8 GB@#$%Metallic Gray, Ceramic White, Shiny Gold@#$%1.5 GB RAM@#$%5.2@#$%Available. Released 2015, August
+G360@#$%32 MB@#$%Wine Red@#$%8 MB RAM@#$%3.0@#$%Available. Released 2015, July
+G350@#$%32 MB@#$%Titan@#$%8 MB RAM@#$%3.0@#$%Available. Released 2015, July
+G4c@#$%8 GB@#$%Metallic Gray, Ceramic White, Shiny Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, June
+G4 Dual@#$%32 GB@#$%Grey, White, Gold, Leather Black, Leather Brown, Leather Red@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, May
+G4@#$%32 GB@#$%Grey, White, Gold, Leather Black, Leather Brown, Leather Red, White/Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, April
+G Stylo@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.7@#$%Available. Released 2015, May
+G4 Stylus@#$%8 GB@#$%Metallic Silver, Floral White@#$%1 GB RAM (H635@#$%5.7@#$%Available. Released 2015, May
+AKA@#$%16 GB@#$%White, Pink, Yellow, Navy@#$%1.5 GB RAM@#$%5.0@#$%Available. Released 2015, May
+Magna@#$%8 GB@#$%Black, White, Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, May
+Spirit@#$%8 GB@#$%Titan, Gold, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, March
+Leon@#$%8 GB@#$%Titan, Gold@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, April
+Joy@#$%4 GB@#$%Dark blue, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, May
+G Flex2@#$%16 GB@#$%Platinum Silver, Flamenco Red@#$%2 GB RAM/ 32 GB@#$%5.5@#$%Available. Released 2015, February
+Tribute@#$%4 GB@#$%White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, October
+L Prime@#$%8 GB@#$%White, Titanium, Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, November
+G2 Lite@#$%4 GB@#$%White, Black, Gold@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, November
+G3 Dual-LTE@#$%32 GB@#$%Metallic Black, Silk White@#$%3 GB RAM@#$%5.5@#$%Available. Released 2014, November
+G3 Screen@#$%32 GB@#$%Black, White@#$%2 GB RAM@#$%5.9@#$%Available. Released 2014, December
+F60@#$%4/8 GB@#$%White, Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, October
+L60@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.3@#$%Available. Released 2014, August
+L60 Dual@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.3@#$%Available. Released 2014, August
+G3 Stylus@#$%8 GB@#$%Black, White, Gold@#$%1 GB RAM@#$%5.5@#$%Available. Released 2014, October
+L Bello@#$%8 GB@#$%White, Black, Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, September
+L Fino@#$%4 GB@#$%White, Black, Gold, Red, Green@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, September
+G Pad 8.0 LTE@#$%16/32 GB@#$%Black, White, Luminous Orange, Luminous Blue@#$%1 GB RAM@#$%8.0@#$%Available. Released 2014, August
+G Vista@#$%8 GB@#$%Metallic Black@#$%1.5 GB RAM@#$%5.7@#$%Available. Released 2014, August
+G3 A@#$%32 GB@#$%White, Titanium@#$%2 GB RAM@#$%5.2@#$%Available. Released 2014, August
+G Pad 7.0 LTE@#$%16 GB@#$%Black@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, August
+L50@#$%4 GB@#$%Various@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, July
+L30@#$%4 GB@#$%Various@#$%512 MB RAM@#$%3.2@#$%Available. Released 2014, June
+L20@#$%4 GB@#$%Various@#$%512 MB RAM@#$%3.0@#$%Available. Released 2014, July
+G Vista (CDMA)@#$%8 GB@#$%Metallic Black@#$%1.5 GB RAM@#$%5.7@#$%Available. Released 2014, August
+G3 LTE-A@#$%32 GB@#$%Silk White, Shine Gold, Metallic Black, Wine, Moon Violet@#$%3 GB RAM@#$%5.5@#$%Available. Released 2014, July
+G3 S Dual@#$%8 GB@#$%Metallic Black, Silk White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, August
+G3 S@#$%8 GB@#$%Metallic Black, Silk White, Shine Gold@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, August
+L65 D280@#$%4 GB@#$%White, Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2014, June
+G3 (CDMA)@#$%32 GB@#$%Metallic Black, Silk White (Verizon), Shine Gold (Sprint)@#$%3 GB RAM@#$%5.5@#$%Available. Released 2014, July
+G3@#$%16 GB@#$%Metallic Black, Silk White, Shine Gold, Moon Violet, Burgundy Red, Blue Steel@#$%2 GB RAM/ 32 GB@#$%5.5@#$%Available. Released 2014, June
+450@#$%256 MB@#$%Black@#$%128 MB RAM@#$%2.2@#$%Available. Released 2014, Q4
+L35@#$%4 GB@#$%White, Black@#$%512 MB RAM@#$%3.2@#$%Available. Released 2014, June
+Volt@#$%8 GB@#$%Blue (Boost Mobile), White (Virgin Mobile)@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, May
+G Pad 10.1 LTE@#$%16 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Available. Released 2014, July
+G Pad 10.1@#$%16 GB@#$%Black, red@#$%1 GB RAM@#$%10.1@#$%Available. Released 2014, July
+G Pad 8.0@#$%16 GB@#$%Black, White, Luminous Orange, Luminous Blue@#$%1 GB RAM@#$%8.0@#$%Available. Released 2014, July
+G Pad 7.0@#$%8 GB@#$%Black, White, Luminous Orange, Luminous Blue@#$%1 GB RAM@#$%7.0@#$%Available. Released 2014, July
+L80@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, Q2
+L80 Dual@#$%4 GB@#$%White, Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, May
+Lucid 3 VS876@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, April
+L65 Dual D285@#$%4 GB@#$%White, Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2014, May
+G Pad 8.3 LTE@#$%16 GB@#$%Black@#$%2 GB RAM@#$%8.3@#$%Available. Released 2014, March
+F70 D315@#$%4/8 GB@#$%White, Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, May
+G2 mini LTE (Tegra)@#$%8 GB@#$%Titan Black, Lunar White, Red, Gold@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, May
+G2 mini LTE@#$%8 GB@#$%Titan Black, Lunar White, Red, Gold@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, March
+G2 mini@#$%8 GB@#$%Titan Black, Lunar White, Red, Gold@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, April
+L90 Dual D410@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, April
+L90 D405@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, March
+L70 D320N@#$%4 GB@#$%White, Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, April
+L70 Dual D325@#$%4 GB@#$%White, Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, May
+L45 Dual X132@#$%4 GB@#$%White, Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014
+L40 D160@#$%4 GB@#$%White, Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, April
+L40 Dual D170@#$%4 GB@#$%White, Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, May
+G Pro 2@#$%16/32 GB@#$%Titan, White, Silver, Burgundy@#$%3 GB RAM@#$%5.9@#$%Available. Released 2014, April
+Optimus L4 II Tri E470@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%3.8@#$%Available. Released 2013, October
+Optimus L1 II Tri E475@#$%4 GB@#$%Black, White, Pink@#$%512 MB RAM@#$%3.0@#$%Available. Released 2014, February
+Optimus F3Q@#$%4 GB@#$%Blue@#$%1 GB RAM@#$%4.0@#$%Available. Released 2014, February
+GX F310L@#$%32 GB@#$%Black, White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, January
+Nexus 5@#$%16/32 GB@#$%Black, White, Red@#$%2 GB RAM@#$%4.95@#$%Available. Released 2013, November
+G Flex@#$%32 GB@#$%Titan silver@#$%2 GB RAM@#$%6.0@#$%Available. Released 2013, November
+Fireweb@#$%32 GB@#$%Black@#$%ram@#$%4.0@#$%Available. Released 2013, October
+G Pro Lite@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%5.5@#$%Available. Released 2013, November
+G Pro Lite Dual@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%5.5@#$%Available. Released 2013, November
+Optimus L2 II E435@#$%4 GB (1.8 GB user available)@#$%Black, White@#$%512 MB RAM@#$%3.2@#$%Available. Released 2014, March
+Vu 3 F300L@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%5.2@#$%Available. Released 2013, October
+G Pad 8.3@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%8.3@#$%Available. Released 2013, October
+G2@#$%16/32 GB@#$%Black, White, Red, Gold@#$%2 GB RAM@#$%5.2@#$%Available. Released 2013, September
+Optimus L9 II@#$%8 GB@#$%White, Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2013, October
+Enact VS890@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, August
+Optimus GJ E975W@#$%16 GB@#$%Black, Red@#$%2 GB RAM@#$%4.7@#$%Available. Released 2013, June
+Optimus L4 II Dual E445@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%3.8@#$%Available. Released 2013, July
+Optimus L4 II E440@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%3.8@#$%Available. Released 2013, July
+Optimus Zone VS410@#$%4 GB@#$%Black@#$%512 MB RAM@#$%3.2@#$%Available. Released 2013, June
+Optimus F3@#$%4 GB@#$%Purple, Titanium, Black (T-Mobile)@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, June
+Lucid2 VS870@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013, April
+Optimus F7@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2013, June
+Optimus F6@#$%4 GB@#$%Black, White@#$%1 GB RAM (D500)/ 8 GB@#$%4.5@#$%Available. Released 2013, September
+Optimus F5@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013, May
+Optimus G Pro E985@#$%16/32 GB@#$%Black, White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2013, April
+Optimus L7 II Dual P715@#$%4 GB@#$%Black, White@#$%768 MB RAM@#$%4.3@#$%Available. Released 2013, March
+Optimus L7 II P710@#$%4 GB@#$%Black, White@#$%768 MB RAM@#$%4.3@#$%Available. Released 2013, March
+Optimus L5 II Dual E455@#$%4 GB (1.75 GB user available)@#$%Indigo Black, White, Pink, Titan@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, April
+Optimus L5 II E460@#$%4 GB (1.4 GB user available)@#$%Indigo Black, White, Pink, Titan@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, April
+Optimus L3 II Dual E435@#$%4 GB (1.6 GB user available)@#$%Indigo Black, Titanium silver, White@#$%512 MB RAM@#$%3.2@#$%Available. Released 2013, April
+Optimus L3 II E430@#$%4 GB (1.6 GB user available)@#$%Indigo Black, Titanium silver, White@#$%512 MB RAM@#$%3.2@#$%Available. Released 2013, April
+Optimus L1 II E410@#$%4 GB (1.6 GB user available)@#$%Black, White@#$%512 MB RAM@#$%3.0@#$%Available. Released 2013, April
+Nexus 4 E960@#$%8/16 GB@#$%Black, White@#$%2 GB RAM@#$%4.7@#$%Available. Released 2012, November
+A390@#$%8/16 GB@#$%Black@#$%ram@#$%2.2@#$%Available. Released 2013
+A395@#$%8/16 GB@#$%Black, Silver@#$%ram@#$%2.2@#$%Available. Released 2013
+C299@#$%8/16 GB@#$%Gray@#$%ram@#$%2.2@#$%Available. Released 2013
+Tri Chip C333@#$%8/16 GB@#$%Black@#$%ram@#$%2.3@#$%Available. Released 2012, September
+Spectrum II 4G VS930@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2012, October
+Mach LS860@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2012, December
+Optimus L9 P769@#$%4 GB@#$%White, Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, November
+Optimus Vu II@#$%16 GB@#$%Black, White, Pink@#$%2 GB RAM@#$%5.0@#$%Cancelled
+Optimus Vu II F200@#$%16 GB@#$%Black, White, Pink@#$%ram@#$%5.0@#$%Available. Released 2012, Q4
+Optimus G E970@#$%16 GB@#$%Black@#$%2 GB RAM@#$%4.7@#$%Available. Released 2012, November
+Optimus G LS970@#$%32 GB@#$%Black@#$%2 GB RAM@#$%4.7@#$%Available. Released 2012, Q4
+Optimus G E975@#$%32 GB (25 GB user available)@#$%Black, White@#$%2 GB RAM@#$%4.7@#$%Available. Released 2012, November
+Intuition VS950@#$%32 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2012, September
+Splendor US730@#$%4 GB@#$%Black@#$%768 MB RAM@#$%4.3@#$%Available. Released 2012, September
+Escape P870@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, September
+Optimus L5 Dual E615@#$%4 GB (2.6 GB user available)@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, September
+Optimus L9 P760@#$%4 GB@#$%White, Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2012, November
+Motion 4G MS770@#$%8 GB (5 GB user available)@#$%Black@#$%1 GB RAM@#$%3.5@#$%Available. Released 2012, August
+Optimus Vu P895@#$%32 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2012, November
+Optimus L3 E405@#$%1 GB@#$%Black, White@#$%384 MB RAM@#$%3.2@#$%Available. Released 2012, July
+C199@#$%1 GB@#$%Black/Silver@#$%ram@#$%2.3@#$%Available. Released 2012, Q2
+T385@#$%50 MB@#$%Black@#$%128 MB ROM@#$%3.2@#$%Available. Released 2012, Q3
+T375 Cookie Smart@#$%50 MB@#$%White, Black, Red@#$%128 MB ROM@#$%3.2@#$%Available. Released 2012, Q3
+Optimus Elite LS696@#$%4 GB@#$%Silver, white@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, May
+T370 Cookie Smart@#$%50 MB@#$%Black, White, Red@#$%128 MB ROM@#$%3.2@#$%Available. Released 2012, July
+Optimus LTE2@#$%16 GB@#$%Black, white@#$%2 GB RAM@#$%4.7@#$%Available. Released 2012, August
+Optimus True HD LTE P936@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, May
+Xpression C395@#$%4 GB@#$%Black/Red@#$%ram@#$%3.0@#$%Available. Released 2012, April
+Lucid 4G VS840@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2012, April
+Optimus M+ MS695@#$%4 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, April
+Optimus 4X HD P880@#$%16 GB (12 GB user available)@#$%Black, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2012, June
+Optimus 3D Max P720@#$%8 GB (5.3 GB user available)@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, May
+Optimus 3D Cube SU870@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, Q3
+Optimus L7 P700@#$%4 GB (2.4 GB user available)@#$%Black, White@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, May
+Optimus L5 E610@#$%4 GB (2.5 GB user available)@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, June
+Optimus Vu F100S@#$%32 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2012, March
+Optimus LTE Tag@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, Q3
+Optimus L3 E400@#$%1 GB@#$%Black, White@#$%384 MB RAM@#$%3.2@#$%Available. Released 2012, February
+Optimus Pad LTE@#$%1 GB@#$%Black@#$%ram@#$%8.9@#$%Available. Released 2012, Q4
+Rumor Reflex  LN272@#$%480 MB@#$%Titan Grey@#$%256 MB RAM@#$%3.0@#$%Available. Released 2012, March
+Connect 4G MS840@#$%4 GB (1.9 GB user available)@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2012, February
+Viper 4G LTE LS840@#$%4 GB (1.7 GB user available)@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2012, April
+Spectrum VS920@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, January
+X350@#$%4 GB@#$%Black@#$%ram@#$%2.3@#$%Available. Released 2011, December
+Prada 3.0@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, January
+Nitro HD@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2011, December
+Optimus 4G LTE P935@#$%2 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2011, November
+Optimus 2 AS680@#$%2 GB@#$%Black@#$%ram@#$%3.2@#$%Available
+Extravert VN271@#$%2 GB@#$%Black@#$%ram@#$%2.8@#$%Available. Released 2011, November
+DoublePlay@#$%2 GB@#$%Black/Silver@#$%512 MB RAM@#$%3.5@#$%Available. Released 2011, October
+Enlighten VS700@#$%2 GB@#$%Black@#$%ram@#$%3.2@#$%Available. Released 2011, September
+S367@#$%2 GB@#$%Black@#$%ram@#$%2.4@#$%Available. Released 2011, December
+Jil Sander Mobile@#$%2 GB@#$%Black@#$%ram@#$%3.8@#$%Available. Released 2011, October
+Optimus Slider@#$%512 MB RAM@#$%Black@#$%512 MB@#$%3.2@#$%Available. Released 2011, October
+Optimus LTE SU640@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, August
+Optimus LTE LU6200@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, January
+Optimus EX SU880@#$%8 GB@#$%Black & Silver, White & Champagne Gold@#$%1 GB RAM@#$%4.0@#$%Available. Released 2011, December
+Optimus Q2 LU6500@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.0@#$%Available. Released 2011, September
+Optimus Hub E510@#$%512 MB@#$%Black, white@#$%512 MB RAM@#$%3.5@#$%Available. Released 2011, October
+Optimus Sol E730@#$%2 GB@#$%Black, titan, white@#$%512 MB RAM@#$%3.8@#$%Available. Released 2011, September
+Optimus Net Dual@#$%150 MB@#$%Black@#$%512 MB RAM@#$%3.2@#$%Available
+Optimus Net@#$%512 MB@#$%Black@#$%512 MB RAM@#$%3.2@#$%Available. Released 2011, July
+Esteem MS910@#$%8 GB@#$%Black@#$%512 MB RAM@#$%4.3@#$%Available. Released 2011, October
+Marquee LS855@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2011, October
+Optimus Black (White version)@#$%2 GB@#$%White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2011, July
+Optimus Pro C660@#$%512 MB@#$%Black@#$%256 MB RAM@#$%2.8@#$%Available. Released 2011, September
+S365@#$%512 MB@#$%Black@#$%ram@#$%2.4@#$%Available. Released 2011, Q3
+A350@#$%59 MB@#$%Black@#$%128 MB RAM@#$%2.2@#$%Available. Released 2011, Q3
+A258@#$%59 MB@#$%Black@#$%ram@#$%2.2@#$%Available. Released 2011
+A250@#$%59 MB@#$%Black@#$%ram@#$%2.2@#$%Available. Released 2011, July
+A270@#$%59 MB@#$%Black@#$%ram@#$%1.45@#$%Available
+A230@#$%59 MB@#$%Black@#$%ram@#$%1.77@#$%Available. Released 2011, October
+A290@#$%59 MB@#$%Gray, Black, White@#$%ram@#$%2.2@#$%Available. Released 2012, February
+A190@#$%59 MB@#$%Black@#$%ram@#$%1.52@#$%Available. Released 2011, August
+A200@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.2@#$%Available. Released 2011, Q3
+T515 Cookie Duo@#$%64 MB RAM@#$%Black@#$%ram@#$%2.8@#$%Available
+T510@#$%64 MB RAM@#$%Black@#$%ram@#$%2.8@#$%Available
+T505@#$%64 MB RAM@#$%Black@#$%ram@#$%2.8@#$%Available
+EGO T500@#$%64 MB RAM@#$%White, Black, Red, Pink@#$%ram@#$%2.8@#$%Available. Released 2011, June
+EGO Wi-Fi@#$%64 MB RAM@#$%White@#$%ram@#$%2.8@#$%Discontinued
+C375 Cookie Tweet@#$%64 MB RAM@#$%Black/Silver@#$%ram@#$%2.3@#$%Available
+C365@#$%64 MB RAM@#$%Black@#$%ram@#$%2.3@#$%Available
+C360@#$%64 MB RAM@#$%Black@#$%ram@#$%2.3@#$%Available
+A100@#$%64 MB RAM@#$%Dark Grey, Brown White, Black@#$%ram@#$%1.5@#$%Available. Released 2011, Q2
+Optimus Big LU6800@#$%64 MB RAM@#$%Black@#$%ram@#$%4.3@#$%Discontinued
+Cosmos 2@#$%64 MB RAM@#$%Black@#$%ram@#$%2.0@#$%Available. Released 2011, July
+US760 Genesis@#$%64 MB RAM@#$%Black@#$%ram@#$%3.5@#$%Available. Released 2011, June
+Phoenix P505@#$%64 MB RAM@#$%Violet@#$%ram@#$%3.2@#$%Discontinued
+Thrive P506@#$%64 MB RAM@#$%Silver@#$%ram@#$%3.2@#$%Available. Released 2011, April 17th
+Thrill 4G P925@#$%8 GB@#$%Dark blue@#$%512 MB RAM@#$%4.3@#$%Discontinued
+T315@#$%8 GB@#$%Black, White@#$%ram@#$%2.8@#$%Available. Released 2011, April
+Optimus 3D P920@#$%8 GB@#$%Black, White@#$%512 MB RAM@#$%4.3@#$%Available. Released 2011, July
+Optimus Pad V900@#$%8 GB@#$%Black@#$%ram@#$%8.9@#$%Discontinued
+A180@#$%8 GB@#$%Graphite@#$%ram@#$%1.52@#$%Available. Released 2011, Q2
+A165@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Available. Released 2011
+A160@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Available. Released 2011, January
+A140@#$%8 GB@#$%Black@#$%ram@#$%1.7@#$%Available. Released 2011, Q1
+Optimus Chat C550@#$%8 GB@#$%Black, silver, blue, red, pink@#$%ram@#$%2.8@#$%Available. Released 2011, March
+Optimus Me P350@#$%8 GB@#$%Black, silver, blue, red, pink@#$%ram@#$%2.8@#$%Available. Released 2011, February
+Optimus Black P970@#$%2 GB (1 GB user available)@#$%Black, Pink, Silver, White, Brown@#$%512 MB RAM@#$%4.0@#$%Available. Released 2011, May
+Optimus 2X SU660@#$%8 GB@#$%Black, white@#$%512 MB RAM@#$%4.0@#$%Available. Released 2011, January
+Optimus 2X@#$%8 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2011, February
+Optimus Mach LU3000@#$%8 GB@#$%Black, white@#$%ram@#$%3.8@#$%Discontinued
+Revolution@#$%8 GB@#$%Black@#$%ram@#$%4.3@#$%Available. Released 2011, May
+X335@#$%8 GB@#$%Black@#$%ram@#$%2.3@#$%Discontinued
+C310@#$%8 GB@#$%Black/Red@#$%ram@#$%2.4@#$%Discontinued
+Cookie WiFi T310i@#$%8 GB@#$%Black&Red, White&Organge, Black&Titan Silver, Pink&White@#$%ram@#$%2.8@#$%Discontinued
+GU200@#$%8 GB@#$%Black@#$%ram@#$%1.77@#$%Discontinued
+A120@#$%8 GB@#$%Black@#$%ram@#$%1.77@#$%Discontinued
+A155@#$%8 GB@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+S310@#$%8 GB@#$%Black, White@#$%ram@#$%2.2@#$%Discontinued
+P525@#$%15 MB@#$%Black@#$%32 MB RAM@#$%2.8@#$%Discontinued
+P520@#$%15 MB@#$%Black@#$%32 MB RAM@#$%2.8@#$%Discontinued
+Axis@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.2@#$%Available. Released 2011, January
+Apex@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.2@#$%Discontinued
+Cosmos Touch VN270@#$%512 MB@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+Vortex VS660@#$%512 MB@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+C320 InTouch Lady@#$%512 MB@#$%Black, White, Pink, Orange@#$%ram@#$%2.4@#$%Discontinued
+GT550 Encore@#$%512 MB@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+GS390 Prime@#$%512 MB@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+Quantum@#$%16 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Discontinued
+C900 Optimus 7Q @#$%16 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Discontinued
+E900 Optimus 7@#$%16 GB@#$%Black@#$%512 MB RAM@#$%3.8@#$%Discontinued
+Town C300@#$%16 GB@#$%Black, White@#$%ram@#$%2.4@#$%Discontinued
+Optimus Chic E720@#$%16 GB@#$%Black, White@#$%ram@#$%3.2@#$%Discontinued
+Octane@#$%16 GB@#$%Black@#$%ram@#$%2.6@#$%Discontinued
+Optimus M@#$%16 GB@#$%Gray@#$%ram@#$%3.2@#$%Discontinued
+Optimus S@#$%microSD@#$%Gray@#$%up to 32 GB (dedicated slot)@#$%3.2@#$%Discontinued
+Optimus T@#$%microSD@#$%Burgundy, Titanium@#$%ram@#$%3.2@#$%Discontinued
+Optimus One P500@#$%170 MB@#$%Black, wine, titan, blue, silver, purple@#$%512 MB RAM@#$%3.2@#$%Discontinued
+GW910@#$%170 MB@#$%Black@#$%ram@#$%3.5@#$%Available. Released 2011, Q1
+A130@#$%170 MB@#$%Silver, Black@#$%ram@#$%2.0@#$%Discontinued
+GW370 Rumour Plus@#$%170 MB@#$%Blue on Black, Red on Black@#$%ram@#$%2.4@#$%Discontinued
+GD550 Pure@#$%170 MB@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+KS365@#$%50 dialed@#$%Blue, Red, Pink@#$%50 received@#$%2.4@#$%Discontinued
+GM650s@#$%50 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+Scarlet II TV@#$%50 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+Flick T320@#$%50 dialed@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+Cookie 3G T320@#$%50 dialed@#$%Black&Red, Black&Titan Silver, Black&Pink, Black&Aqua Blue@#$%ram@#$%2.8@#$%Discontinued
+Wink 3G T320@#$%50 dialed@#$%Black&Red, Black&Titan Silver, Black&Pink, Black&Aqua Blue@#$%ram@#$%2.8@#$%Discontinued
+C710 Aloha@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.2@#$%Cancelled
+Cookie Style T310@#$%512 MB@#$%Black&Red, White&Organge, Black&Titan Silver, Pink&White@#$%ram@#$%2.8@#$%Discontinued
+Wink Style T310@#$%512 MB@#$%Black&Red, White&Organge, Black&Titan Silver, Pink&White@#$%ram@#$%2.8@#$%Discontinued
+Cookie Lite T300@#$%512 MB@#$%Black&Red, White&Organge, Black&Titan Silver, Pink&White@#$%ram@#$%2.4@#$%Discontinued
+C105@#$%512 MB@#$%Black, Silver, White, Blue, Red, Orange, Green@#$%ram@#$%2.2@#$%Discontinued
+GX300@#$%512 MB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+GU292@#$%512 MB@#$%Black, Silver@#$%ram@#$%2.0@#$%Discontinued
+GM360 Viewty Snap@#$%512 MB@#$%Black, Silver@#$%ram@#$%3.0@#$%Discontinued
+Fathom VS750@#$%256 MB RAM@#$%Black@#$%512 MB ROM@#$%3.2@#$%Discontinued
+Vu Plus@#$%256 MB RAM@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+GT400 Viewty Smile@#$%256 MB RAM@#$%Black, White, Pink@#$%ram@#$%3.0@#$%Discontinued
+SU420 Cafe@#$%256 MB RAM@#$%Black, White, Pink@#$%ram@#$%3.0@#$%Discontinued
+Optimus Z@#$%microSD@#$%Black, White, Pink@#$%up to 32 GB (dedicated slot)@#$%3.5@#$%Discontinued
+SU920@#$%microSD@#$%Black, White, Pink@#$%ram@#$%3.0@#$%Discontinued
+KM570 Cookie Gig@#$%microSD@#$%Silver Black, Prism violet, Blue@#$%ram@#$%3.0@#$%Discontinued
+Optimus Q LU2300@#$%microSD@#$%Black@#$%ram@#$%3.5@#$%Discontinued
+GX500@#$%microSD@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+GT950 Arena@#$%microSD@#$%Silver Grey@#$%ram@#$%3.0@#$%Discontinued
+KH3900 Joypop@#$%microSD@#$%Hot pink, white@#$%ram@#$%2.8@#$%Discontinued
+GB280@#$%microSD@#$%Various@#$%ram@#$%2.0@#$%Discontinued
+GS155@#$%microSD@#$%Black, Silver, Red, Green, Wine Red@#$%ram@#$%1.5@#$%Discontinued
+GS107@#$%microSD@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+GS106@#$%50 dialed@#$%Black@#$%50 received@#$%1.5@#$%Discontinued
+KP108@#$%50 dialed@#$%Blue on Black, Red on Black@#$%ram@#$%1.52@#$%Discontinued
+GD350@#$%50 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KH5200 Andro-1@#$%50 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+GT540 Optimus@#$%139 MB@#$%Black, White, Pink@#$%156 MB RAM@#$%3.0@#$%Discontinued
+GS290 Cookie Fresh@#$%40 dialed@#$%Silver, Orange/white, Purple/white, Blue/light silver@#$%40 received@#$%3.0@#$%Discontinued
+GT405@#$%40 dialed@#$%Silver Grey, Black@#$%ram@#$%3.0@#$%Discontinued
+GW990@#$%40 dialed@#$%Grey@#$%ram@#$%4.8@#$%Cancelled
+GS500 Cookie Plus@#$%40 dialed@#$%Black, White Silver,Imperial Purple, Baby Pink, Wine Red, Brown @#$%ram@#$%3.0@#$%Discontinued
+GX200@#$%40 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KF305@#$%40 dialed@#$%Black, Blue@#$%ram@#$%2.2@#$%Discontinued
+GW880@#$%512 MB@#$%Black@#$%256 MB RAM@#$%3.5@#$%Discontinued
+GD880 Mini@#$%512 MB@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+Wink Plus GT350i@#$%512 MB@#$%Aqua Blue, Purple, Light Silver, Black@#$%ram@#$%3.0@#$%Discontinued
+Etna C330@#$%512 MB@#$%BLue, White@#$%ram@#$%2.4@#$%Discontinued
+Town GT350@#$%512 MB@#$%Aqua Blue, Purple, Light Silver, Black@#$%ram@#$%3.0@#$%Discontinued
+KU2100@#$%microSD@#$%Black@#$%up to 16 GB (dedicated slot)@#$%3.0@#$%Discontinued
+GD580 Lollipop@#$%microSD@#$%Blue, Pink, Black@#$%ram@#$%2.8@#$%Discontinued
+GS200@#$%50 dialed@#$%Black@#$%50 received@#$%2.0@#$%Discontinued
+GS190@#$%50 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+GW820 eXpo@#$%512 ROM@#$%Black@#$%256 RAM@#$%3.2@#$%Discontinued
+GD710 Shine II@#$%50 dialed@#$%Silver@#$%50 received@#$%2.2@#$%Discontinued
+GU230 Dimsun@#$%50 dialed@#$%Black, Silver, Pink@#$%ram@#$%2.2@#$%Discontinued
+GB160@#$%50 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+GU285@#$%50 dialed@#$%Black, Silver, White & Red, White & Pink, Light Silver@#$%ram@#$%2.0@#$%Discontinued
+8575 Samba@#$%50 dialed@#$%Black, Bronze@#$%ram@#$%3.0@#$%Discontinued
+KM555E@#$%50 dialed@#$%Black, Silver, Violet@#$%ram@#$%3.0@#$%Discontinued
+GD310 @#$%50 dialed@#$%White, Black, Pink@#$%ram@#$%2.4@#$%Discontinued
+GD510 Pop@#$%50 dialed@#$%Silver, Black, Twiilght@#$%ram@#$%3.0@#$%Discontinued
+BL20 New Chocolate@#$%50 dialed@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+CF360@#$%50 dialed@#$%Red, Blue@#$%ram@#$%2.0@#$%Discontinued
+GW620@#$%50 dialed@#$%Black, Gray, Blue@#$%ram@#$%3.0@#$%Discontinued
+GM750@#$%50 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+BL40 New Chocolate@#$%50 dialed@#$%Black@#$%ram@#$%4.01@#$%Discontinued
+GW300@#$%50 dialed@#$%Black, Blue@#$%ram@#$%2.4@#$%Discontinued
+GB270@#$%50 dialed@#$%Black, Gray, Pink@#$%ram@#$%2.0@#$%Discontinued
+GB190@#$%50 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+GB109@#$%50 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+GB170@#$%50 dialed@#$%Black, Red@#$%ram@#$%1.5@#$%Discontinued
+GW550@#$%50 dialed@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+KB775 Scarlet@#$%50 dialed@#$%Black, Dark Red@#$%ram@#$%3.0@#$%Discontinued
+GT500 Puccini@#$%50 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+GT505@#$%50 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+GW520@#$%50 dialed@#$%Blue on Black, Red on Black, Silver, Pearl White@#$%ram@#$%2.8@#$%Discontinued
+GD900 Crystal@#$%50 dialed@#$%@#$%ram@#$%3.0@#$%Discontinued
+GC900 Viewty Smart@#$%50 dialed@#$%Silver, Black@#$%ram@#$%3.0@#$%Discontinued
+GB230 Julia@#$%50 dialed@#$%Black, Dark Blue@#$%ram@#$%2.0@#$%Discontinued
+GD330@#$%50 dialed@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+KS660@#$%50 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+GB125@#$%50 dialed@#$%Yes@#$%ram@#$%1.5@#$%Discontinued
+Xenon GR500@#$%50 dialed@#$%Black, Blue, Red@#$%ram@#$%2.8@#$%Discontinued
+GB210@#$%50 dialed@#$%Black, Titan@#$%ram@#$%1.77@#$%Discontinued
+GM200 Brio@#$%50 dialed@#$%Black, Silver, Gold (GM200); Black, Red (GM205)@#$%ram@#$%2.0@#$%Discontinued
+KC560@#$%50 dialed@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+KM900 Arena@#$%50 dialed@#$%Silver, Titan Black, Dusty Pink@#$%ram@#$%3.0@#$%Discontinued
+GM730 Eigen@#$%microSD@#$%Black@#$%up to 16 GB (dedicated slot)@#$%3.0@#$%Discontinued
+KC910i Renoir@#$%microSD@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+GB250@#$%microSD@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+GB220@#$%microSD@#$%Silver, Pink@#$%ram@#$%1.76@#$%Discontinued
+GB102@#$%10 dialed@#$%Black@#$%10 received@#$%1.5@#$%Discontinued
+KT770@#$%10 dialed@#$%Black@#$%ram@#$%2.8@#$%Discontinued
+GB130@#$%10 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+GM310@#$%10 dialed@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+GM210@#$%10 dialed@#$%Various@#$%ram@#$%2.0@#$%Discontinued
+KM330@#$%10 dialed@#$%@#$%ram@#$%2.0@#$%Discontinued
+GB110@#$%10 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+GB106@#$%10 dialed@#$%Black, White@#$%ram@#$%1.5@#$%Discontinued
+GD910@#$%10 dialed@#$%White, Black@#$%ram@#$%1.43@#$%Discontinued
+CT810 Incite@#$%128 MB RAM@#$%@#$%256 MB ROM@#$%3.0@#$%Discontinued
+KP152@#$%10 dialed@#$%Black, Red@#$%10 received@#$%1.5@#$%Discontinued
+KS500@#$%10 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KF900 Prada@#$%10 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+KC780@#$%10 dialed@#$%Gray@#$%ram@#$%2.4@#$%Discontinued
+KP500 Cookie@#$%10 dialed@#$%Black, Vandyke brown, Anodizing silver, Elegant gold, Delicious white, Pink@#$%ram@#$%3.0@#$%Discontinued
+KP501 Cookie@#$%10 dialed@#$%Anodizing Silver, Capri Green, Pink, Black@#$%ram@#$%3.0@#$%Discontinued
+KP502 Cookie@#$%10 dialed@#$%Black, Purple@#$%ram@#$%3.0@#$%Discontinued
+KC910 Renoir@#$%10 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+KB770@#$%10 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+CB630 Invision@#$%10 dialed@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+KP270@#$%10 dialed@#$%Black Rose@#$%ram@#$%2.0@#$%Discontinued
+KF311@#$%10 dialed@#$%Grey@#$%ram@#$%2.0@#$%Discontinued
+CP150@#$%10 dialed@#$%Black, Red@#$%10 received@#$%1.5@#$%Discontinued
+KP265@#$%10 dialed@#$%@#$%ram@#$%1.77@#$%Discontinued
+KP260@#$%10 dialed@#$%Black@#$%ram@#$%1.77@#$%Discontinued
+KP199@#$%10 dialed@#$%Black@#$%ram@#$%1.77@#$%Discontinued
+KP170@#$%10 dialed@#$%Silver@#$%ram@#$%1.77@#$%Discontinued
+GT365 Neon@#$%10 dialed@#$%White/Light green, Black/Grey, Aqua Blue, White@#$%ram@#$%2.4@#$%Discontinued
+KS360@#$%10 dialed@#$%Black and red, Black and silver, White and soft pink, Titanium and bright blue@#$%ram@#$%2.4@#$%Discontinued
+Univa E510@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%3.2@#$%Discontinued
+KF390@#$%microSD@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KF350@#$%microSD@#$%White-rosy, Blue, Pistachio, Pink@#$%ram@#$%2.2@#$%Discontinued
+KF245@#$%microSD@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KF240@#$%microSD@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+U370@#$%microSD@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+HB620T@#$%microSD@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KC550@#$%microSD@#$%Black, Gray, Pink@#$%ram@#$%2.4@#$%Discontinued
+KF757 Secret@#$%microSD@#$%Black, Ruby Violet, Titan Gold@#$%ram@#$%2.4@#$%Discontinued
+KF750 Secret@#$%microSD@#$%Black, Ruby Violet, Titan Gold@#$%ram@#$%2.4@#$%Discontinued
+KF755 Secret@#$%40 dialed@#$%Black@#$%40 received@#$%2.4@#$%Discontinued
+CU915 Vu@#$%40 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+KF700@#$%40 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+KF600@#$%40 dialed@#$%Pastel Pink, Shiny Pink, Wine Red, Titan@#$%ram@#$%2.0@#$%Discontinued
+KF510@#$%40 dialed@#$%Stardust Dark Grey, Sunset Red@#$%ram@#$%2.2@#$%Discontinued
+KT610@#$%40 dialed@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+KP320@#$%40 dialed@#$%Black, Red@#$%ram@#$%2.0@#$%Discontinued
+KT520@#$%40 dialed@#$%@#$%ram@#$%2.2@#$%Discontinued
+KM710@#$%40 dialed@#$%White@#$%ram@#$%2.0@#$%Discontinued
+MG295@#$%20 dialed@#$%Black@#$%20 received@#$%@#$%Discontinued
+KF310@#$%20 dialed@#$%Black, White@#$%ram@#$%2.0@#$%Discontinued
+KF300@#$%20 dialed@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+KM500@#$%20 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KM386@#$%20 dialed@#$%White@#$%ram@#$%1.7@#$%Discontinued
+KM380@#$%20 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KM338@#$%20 dialed@#$%@#$%ram@#$%2.0@#$%Discontinued
+KG375@#$%20 dialed@#$%Black, orange@#$%10 received@#$%@#$%Discontinued
+KP235@#$%20 dialed@#$%@#$%ram@#$%1.7@#$%Discontinued
+KP220@#$%20 dialed@#$%Silver@#$%ram@#$%1.7@#$%Discontinued
+KP215@#$%10 dialed@#$%Black@#$%10 received@#$%1.77@#$%Discontinued
+KP210@#$%10 dialed@#$%Silver@#$%10 received@#$%1.0@#$%Discontinued
+KP130@#$%10 dialed@#$%@#$%ram@#$%1.5@#$%Discontinued
+KP110@#$%10 dialed@#$%Black, Cherry, Silver, White@#$%ram@#$%1.5@#$%Discontinued
+KP105@#$%10 dialed@#$%White, Black, Silver@#$%10 received@#$%1.5@#$%Discontinued
+KP100@#$%10 dialed@#$%White, Black, Blue, Red@#$%ram@#$%1.5@#$%Discontinued
+KU385@#$%10 dialed@#$%Blue, Brown@#$%ram@#$%1.9@#$%Discontinued
+KU380@#$%10 dialed@#$%Black, White@#$%ram@#$%1.76@#$%Discontinued
+U960@#$%10 dialed@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+KG290@#$%10 dialed@#$%Black, Gray@#$%ram@#$%1.77@#$%Discontinued
+KG288@#$%10 dialed@#$%Black, Red@#$%ram@#$%1.7@#$%Discontinued
+KS20@#$%10 dialed@#$%Black, Baby Pink @#$%ram@#$%2.8@#$%Discontinued
+KU990 Viewty@#$%10 dialed@#$%Black, Dark Silver, Purple, Pink, Hot Red, White@#$%ram@#$%3.0@#$%Discontinued
+KE990 Viewty@#$%10 dialed@#$%Black, Silver@#$%ram@#$%3.0@#$%Discontinued
+KE590@#$%10 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KE500@#$%10 dialed@#$%Black, Gray@#$%ram@#$%2.0@#$%Discontinued
+KG280@#$%10 dialed@#$%Black, Green, Pink, Dark Red, White@#$%ram@#$%1.86@#$%Discontinued
+KG275@#$%40 dialed@#$%Black, Gray@#$%40 received@#$%1.5@#$%Discontinued
+MG160@#$%40 dialed@#$%Black, Pink@#$%40 received@#$%1.5@#$%Discontinued
+KU580@#$%40 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KE850 Prada@#$%40 dialed@#$%Black@#$%ram@#$%3.0@#$%Discontinued
+KE970 Shine@#$%40 dialed@#$%Silver, Titanium Black, Gold, Pink@#$%ram@#$%2.2@#$%Discontinued
+KU970 Shine@#$%40 dialed@#$%Silver@#$%ram@#$%2.2@#$%Discontinued
+KE770 Shine@#$%40 dialed@#$%Silver@#$%ram@#$%1.77@#$%Discontinued
+CU720 Shine@#$%40 dialed@#$%Silver@#$%ram@#$%2.2@#$%Discontinued
+KU950@#$%40 dialed@#$%Silver@#$%ram@#$%2.4@#$%Discontinued
+KS10@#$%40 dialed@#$%Black@#$%ram@#$%2.4@#$%Discontinued
+KU311@#$%40 dialed@#$%@#$%ram@#$%@#$%Discontinued
+Trax CU575@#$%10 dialed@#$%Black, Gray@#$%10 received@#$%2.0@#$%Discontinued
+CU515@#$%10 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+CU500V@#$%10 dialed@#$%Black@#$%10 received@#$%@#$%Discontinued
+CE110@#$%10 dialed@#$%Black@#$%10 received@#$%1.56@#$%Discontinued
+KU250@#$%10 dialed@#$%Black@#$%ram@#$%1.7@#$%Discontinued
+KE260@#$%10 dialed@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+KE800@#$%10 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KE820@#$%10 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KU800@#$%10 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+U830@#$%10 dialed@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+L343i@#$%10 dialed@#$%Black@#$%10 received@#$%@#$%Discontinued
+L600v@#$%10 dialed@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+KP200@#$%10 dialed@#$%Pink, Black@#$%ram@#$%@#$%Discontinued
+KP202@#$%10 dialed@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+CU500@#$%40 dialed@#$%Black@#$%40 received@#$%@#$%Discontinued
+U400@#$%40 dialed@#$%Black, Silver@#$%40 received@#$%2.0@#$%Discontinued
+U310@#$%40 dialed@#$%Orange, Green, Chameleon@#$%40 received@#$%2.0@#$%Discontinued
+U300@#$%40 dialed@#$%Orange, Green, Chameleon@#$%40 received@#$%2.0@#$%Discontinued
+KG800@#$%40 dialed@#$%Black, White, Pink, Wine@#$%ram@#$%2.0@#$%Discontinued
+KG810@#$%40 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KE600@#$%40 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+KG330@#$%20 dialed@#$%Black@#$%10 received@#$%2.0@#$%Discontinued
+KG320@#$%20 dialed@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+KG300@#$%20 dialed@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+CG180@#$%10 dialed@#$%Black@#$%10 received@#$%1.5@#$%Discontinued
+KG270@#$%10 dialed@#$%Pink, Black@#$%10 received@#$%@#$%Discontinued
+KG200@#$%10 dialed@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+KG195@#$%10 dialed@#$%Black, White@#$%ram@#$%1.8@#$%Discontinued
+KG920@#$%10 dialed@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+KU730@#$%10 dialed@#$%Black@#$%10 received@#$%2.0@#$%Discontinued
+U900@#$%10 dialed@#$%Silver, Black@#$%ram@#$%2.2@#$%Cancelled
+V9000@#$%10 dialed@#$%Silver@#$%10 received@#$%2.2@#$%Discontinued
+KG245@#$%10 dialed@#$%Black@#$%ram@#$%@#$%Discontinued
+KG240@#$%10 dialed@#$%Black, Silver@#$%ram@#$%@#$%Discontinued
+KG225@#$%20 dialed@#$%Black@#$%10 received@#$%@#$%Discontinued
+KG220@#$%20 dialed@#$%Black, Pink@#$%ram@#$%@#$%Discontinued
+KG210@#$%20 dialed@#$%Black@#$%ram@#$%@#$%Discontinued
+KG190@#$%20 dialed@#$%Black@#$%ram@#$%1.3@#$%Discontinued
+KG130@#$%20 dialed@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+KG120@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+KG110@#$%20 dialed@#$%Silver@#$%10 received@#$%1.5@#$%Discontinued
+C2600@#$%20 dialed@#$%Black@#$%ram@#$%1.6@#$%Discontinued
+U890@#$%20 dialed@#$%@#$%ram@#$%2.2@#$%Discontinued
+U8550@#$%20 dialed@#$%Orange, Green, Silver@#$%ram@#$%2.2@#$%Discontinued
+M6100@#$%20 dialed@#$%Silver, Blue, Black@#$%ram@#$%1.3@#$%Discontinued
+C2500@#$%20 dialed@#$%Black, Blue, Silver@#$%ram@#$%1.5@#$%Discontinued
+C1150@#$%20 dialed@#$%Silver, Red, Black@#$%ram@#$%@#$%Discontinued
+S5300@#$%20 dialed@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+S5200@#$%20 dialed@#$%Black@#$%ram@#$%1.8@#$%Discontinued
+S5100@#$%20 dialed@#$%Black@#$%ram@#$%@#$%Discontinued
+S5000@#$%10 dialed@#$%Black@#$%10 received@#$%@#$%Discontinued
+U880@#$%10 dialed@#$%4 - glossy black, matt black, silver, pink@#$%ram@#$%2.0@#$%Discontinued
+P7200@#$%10 dialed@#$%@#$%ram@#$%@#$%Discontinued
+B2250@#$%15 dialed@#$%Silver@#$%15 received@#$%1.8@#$%Discontinued
+B2070@#$%15 dialed@#$%Graphite Black@#$%15 received@#$%1.6@#$%Discontinued
+B2050@#$%15 dialed@#$%@#$%ram@#$%1.5@#$%Discontinued
+M4410@#$%15 dialed@#$%@#$%ram@#$%@#$%Discontinued
+M4330@#$%10 dialed@#$%@#$%10 received@#$%@#$%Cancelled
+M4300@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+F3000@#$%10 dialed@#$%@#$%ram@#$%@#$%Discontinued
+F2410@#$%10 dialed@#$%@#$%ram@#$%@#$%Discontinued
+F2250@#$%20 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+L342i@#$%20 dialed@#$%Blue@#$%ram@#$%@#$%Discontinued
+L341i@#$%20 dialed@#$%Titan Grey@#$%ram@#$%@#$%Discontinued
+C3400@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+C3380@#$%20 dialed@#$%Black, Orange, Green@#$%ram@#$%@#$%Discontinued
+C3320@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+C3310@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+C3300@#$%10 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+U8380@#$%10 dialed@#$%Blue@#$%ram@#$%2.2@#$%Discontinued
+U8360@#$%10 dialed@#$%Silver, Black, Green@#$%ram@#$%2.0@#$%Discontinued
+U8330@#$%10 dialed@#$%Silver, Red, Electric Blue, Blue Black@#$%ram@#$%@#$%Discontinued
+U8290@#$%10 dialed@#$%@#$%ram@#$%@#$%Discontinued
+U8210@#$%10 dialed@#$%@#$%ram@#$%@#$%Discontinued
+U8200@#$%10 dialed@#$%@#$%ram@#$%@#$%Discontinued
+U8180@#$%10 dialed@#$%Silver, Orange@#$%ram@#$%@#$%Discontinued
+B2150@#$%10 dialed@#$%@#$%ram@#$%1.6@#$%Discontinued
+B2100@#$%10 dialed@#$%@#$%ram@#$%1.5@#$%Discontinued
+B2000@#$%15 dialed@#$%@#$%15 received@#$%1.5@#$%Discontinued
+F2400@#$%15 dialed@#$%@#$%ram@#$%@#$%Discontinued
+F1200@#$%15 dialed@#$%@#$%ram@#$%@#$%Discontinued
+F7250@#$%15 dialed@#$%@#$%ram@#$%1.9@#$%Discontinued
+A7150@#$%15 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+L5100@#$%15 dialed@#$%Blue silver@#$%ram@#$%@#$%Discontinued
+C2200@#$%15 dialed@#$%Dark blue satin@#$%ram@#$%@#$%Discontinued
+C2100@#$%15 dialed@#$%@#$%ram@#$%@#$%Discontinued
+G1800@#$%15 dialed@#$%@#$%ram@#$%1.6@#$%Discontinued
+G1700@#$%15 dialed@#$%@#$%15 received@#$%1.6@#$%Discontinued
+G1610@#$%15 dialed@#$%@#$%ram@#$%1.5@#$%Discontinued
+F2300@#$%15 dialed@#$%@#$%ram@#$%@#$%Discontinued
+F2100@#$%15 dialed@#$%@#$%ram@#$%@#$%Discontinued
+L3100@#$%15 dialed@#$%@#$%ram@#$%@#$%Discontinued
+C3100@#$%15 dialed@#$%DarkBlue, WineRed@#$%ram@#$%@#$%Discontinued
+G3100@#$%10 received@#$%Silver@#$%10 missed calls@#$%@#$%Discontinued
+L1100@#$%10 received@#$%Silver@#$%ram@#$%@#$%Discontinued
+C1400@#$%10 received@#$%Blue silver@#$%ram@#$%@#$%Discontinued
+C1200@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+C1100@#$%10 received@#$%Silver@#$%ram@#$%@#$%Discontinued
+G1600@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+T5100@#$%10 received@#$%Silver@#$%ram@#$%@#$%Discontinued
+G7200@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G7120@#$%10 received@#$%Silver@#$%ram@#$%@#$%Discontinued
+U8150@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+U8138@#$%10 received@#$%Silver, Blue@#$%ram@#$%@#$%Discontinued
+U8120@#$%10 received@#$%Silver, Blue@#$%ram@#$%@#$%Discontinued
+U8110@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+U8100@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G7100@#$%10 received@#$%Silver, Red, Blue@#$%ram@#$%@#$%Discontinued
+G7070@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G7050@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G7030@#$%10 received@#$%Silver@#$%ram@#$%@#$%Discontinued
+G1500@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G5500@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G5400@#$%10 received@#$%Silver, Red, Blue@#$%ram@#$%@#$%Discontinued
+G5310@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G5300@#$%10 received@#$%Silver, Red, Blue@#$%ram@#$%@#$%Discontinued
+G8000@#$%10 received@#$%Silver@#$%ram@#$%@#$%Discontinued
+G7020@#$%10 received@#$%Silver, Blue, Red@#$%ram@#$%@#$%Discontinued
+W7020@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G7000@#$%10 received@#$%3 -Siver, Blue, Red@#$%ram@#$%@#$%Discontinued
+W7000@#$%10 received@#$%Silver, Blue, Red@#$%ram@#$%@#$%Discontinued
+G5200@#$%10 received@#$%1@#$%ram@#$%@#$%Discontinued
+W5200@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+G3000@#$%10 received@#$%3 - Red, blue, gray@#$%ram@#$%@#$%Discontinued
+W3000@#$%10 received@#$%White, Red, Blue@#$%ram@#$%@#$%Discontinued
+B1200@#$%20 dialed@#$%Red, Cobalt Blue, Titaum@#$%20 received@#$%@#$%Discontinued
+LG 510w@#$%20 dialed@#$%Metallic Cobalt, Metallic Blue, Metallic Red, Light Gray, Silver@#$%ram@#$%@#$%Discontinued
+LG-600@#$%20 dialed@#$%@#$%ram@#$%@#$%Discontinued
+LG-500@#$%20 dialed@#$%@#$%ram@#$%@#$%Discontinued
+LG-200@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+Fantasy E740@#$%10 dialed@#$%Black@#$%ram@#$%4.0@#$%Cancelled
+E2@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%,@#$%Cancelled
+X3@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Cancelled
+Optimus LTE@#$%16 GB@#$%Black@#$%ram@#$%4.5@#$%Cancelled
+G4 Pro@#$%32/64 GB@#$%Grey, White, Gold, Leather Black, Leather Brown, Leather Red@#$%4 GB RAM@#$%5.8@#$%Cancelled

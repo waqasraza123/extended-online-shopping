@@ -165,7 +165,7 @@ header [role="progressbar"][aria-busy="true"]::after {
 }
 .product-data {
     padding: 20px 5px;
-    min-height: 100px;
+    min-height: 170px;
 }
 .frontend-content{background-color: #F1F5F7}
 .col-sm-6.col-md-3.product.mobile {
@@ -269,4 +269,13 @@ header [role="progressbar"][aria-busy="true"]::after {
     animation-direction: reverse; /* thx @HugoGiraudel */
 }
 .margin-bottom-20{margin-bottom: 20px}
-
+.white-block.product-box {
+    background-color: #F1F5F7;
+    border: 3px solid;
+    border-color: #fff;
+}
+.image_outer {
+    background-color: #fff;
+}
+.invisible{visibility: hidden}
+.black{color: #333}

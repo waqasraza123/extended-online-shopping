@@ -1,73 +1,73 @@
-Terrain;8 GB;Black;1 GB RAM;3.1
-804N;8 GB;Plumeria White, Coral Pink, Lapis Blue;ram;2.2
-e1108;8 GB;Fluorescent Green, Metallic Orange;ram;1.8
-N344i;8 GB;Black;ram;1.8
-e373;8 GB;Black;ram;1.9
-e636;8 GB;Black;ram;2.2
-N500i;8 GB;Black;ram;1.9
-N500iS;8 GB;Black;ram;
-N908;8 GB;Silver , Black;ram;2.2
-N938;8 GB;White;ram;
-e353;8 GB;Silver, Black;ram;
-e121;8 GB;Silver;ram;1.8
-e122;8 GB;Silver, Black;ram;
-e949/L1;8 GB;Black;ram;1.9
-N600i;8 GB;Silver;ram;2.0
-e540/N411i;8 GB;Silver;ram;1.9
-N401i;8 GB;;ram;1.9
-N343i;8 GB;;ram;
-N900iG;20 dialed;Ocean Blue;20 received;
-N200;20 dialed;;20 received;
-N160;20 dialed;Black;ram;
-N923;20 dialed;;ram;
-N150;20 dialed;Silver, Blue;ram;
-e238;20 dialed;Silver, Blue;ram;
-N940;20 dialed;Black, Silver;20 received;
-N930;20 dialed;Black, Silver;ram;
-N630;20 dialed;Silver;ram;
-N850;20 dialed;Silver;ram;1.9
-N840;20 dialed;Silver;ram;2.2
-N750;20 dialed;Silver;20 received;
-802;20 dialed;Royal bronze, Turquoise blue, Platinum silver;20 received;
-N342i;20 dialed;Silver;ram;
-N500;20 dialed;White, black;20 received;
-e101;20 dialed;Silver;ram;1.8
-N110;20 dialed;Silver, Blue;ram;
-N109;20 dialed;Silver, Black, Blue;ram;
-N100;20 dialed;;ram;
-N920;20 dialed;;ram;
-e338;20 dialed;;ram;2.0
-N620;20 dialed;Silver and Dark Blue;ram;
-N610;20 dialed;Red, Black, Silver;20 received;
-e228;20 dialed;;ram;2.2
-N410i;20 dialed;;ram;2.2
-N400i;20 dialed;;ram;2.2
-N331i;10 dialed;;10 received;
-e313;10 dialed;Silver;ram;
-N910;20 dialed;;20 received;
-N900;20 dialed;;ram;1.8
-N830;10 dialed;;10 received;2.2
-N820;10 dialed;;ram;2.2
-N710;10 dialed;Silver, Pink;ram;1.8
-N700;20 dialed;Silver, Gold;20 received;1.8
-N600;20 dialed;Silver;ram;
-c616v;20 dialed;Silver or Graphite;ram;2.2
-e616;20 dialed;Silver;ram;2.2
-e808y;20 dialed;2 - Gold, Black;ram;
-e808;20 dialed;2 - Gold, Black;ram;
-e606;20 dialed;;ram;
-e530;20 dialed;Silver;ram;
-e525;20 dialed;Silver;ram;
-e232;20 dialed;;ram;
-N341i;10 dialed;Silver;10 received;
-N223i;10 dialed;Silver;ram;
-N22i;10 dialed;Silver;ram;
-N21i;10 dialed;Silver;10 received;
-DB7000;10 dialed;Silver;10 received;
-DB6000;10 dialed;Silver;10 received;
-DB5000;10 dialed;Silver;10 received;
-DB4100;10 dialed;;10 received;
-DB4000;10 dialed;Metallic;10 received;
-DB2000;5 dialed;Metallic;5 received;
-DB500;5 dialed;4;5 received;
-G9D+;5 dialed;;ram;
+Terrain@#$%8 GB@#$%Black@#$%1 GB RAM@#$%3.1@#$%Available. Released 2013, June
+804N@#$%8 GB@#$%Plumeria White, Coral Pink, Lapis Blue@#$%ram@#$%2.2@#$%Discontinued
+e1108@#$%8 GB@#$%Fluorescent Green, Metallic Orange@#$%ram@#$%1.8@#$%Discontinued
+N344i@#$%8 GB@#$%Black@#$%ram@#$%1.8@#$%Cancelled
+e373@#$%8 GB@#$%Black@#$%ram@#$%1.9@#$%Discontinued
+e636@#$%8 GB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+N500i@#$%8 GB@#$%Black@#$%ram@#$%1.9@#$%Discontinued
+N500iS@#$%8 GB@#$%Black@#$%ram@#$%@#$%Discontinued
+N908@#$%8 GB@#$%Silver , Black@#$%ram@#$%2.2@#$%Discontinued
+N938@#$%8 GB@#$%White@#$%ram@#$%@#$%Discontinued
+e353@#$%8 GB@#$%Silver, Black@#$%ram@#$%@#$%Discontinued
+e121@#$%8 GB@#$%Silver@#$%ram@#$%1.8@#$%Discontinued
+e122@#$%8 GB@#$%Silver, Black@#$%ram@#$%@#$%Discontinued
+e949/L1@#$%8 GB@#$%Black@#$%ram@#$%1.9@#$%Discontinued
+N600i@#$%8 GB@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+e540/N411i@#$%8 GB@#$%Silver@#$%ram@#$%1.9@#$%Discontinued
+N401i@#$%8 GB@#$%@#$%ram@#$%1.9@#$%Discontinued
+N343i@#$%8 GB@#$%@#$%ram@#$%@#$%Discontinued
+N900iG@#$%20 dialed@#$%Ocean Blue@#$%20 received@#$%@#$%Discontinued
+N200@#$%20 dialed@#$%@#$%20 received@#$%@#$%Discontinued
+N160@#$%20 dialed@#$%Black@#$%ram@#$%@#$%Discontinued
+N923@#$%20 dialed@#$%@#$%ram@#$%@#$%Discontinued
+N150@#$%20 dialed@#$%Silver, Blue@#$%ram@#$%@#$%Discontinued
+e238@#$%20 dialed@#$%Silver, Blue@#$%ram@#$%@#$%Discontinued
+N940@#$%20 dialed@#$%Black, Silver@#$%20 received@#$%@#$%Discontinued
+N930@#$%20 dialed@#$%Black, Silver@#$%ram@#$%@#$%Discontinued
+N630@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+N850@#$%20 dialed@#$%Silver@#$%ram@#$%1.9@#$%Discontinued
+N840@#$%20 dialed@#$%Silver@#$%ram@#$%2.2@#$%Discontinued
+N750@#$%20 dialed@#$%Silver@#$%20 received@#$%@#$%Discontinued
+802@#$%20 dialed@#$%Royal bronze, Turquoise blue, Platinum silver@#$%20 received@#$%@#$%Discontinued
+N342i@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+N500@#$%20 dialed@#$%White, black@#$%20 received@#$%@#$%Discontinued
+e101@#$%20 dialed@#$%Silver@#$%ram@#$%1.8@#$%Discontinued
+N110@#$%20 dialed@#$%Silver, Blue@#$%ram@#$%@#$%Discontinued
+N109@#$%20 dialed@#$%Silver, Black, Blue@#$%ram@#$%@#$%Discontinued
+N100@#$%20 dialed@#$%@#$%ram@#$%@#$%Discontinued
+N920@#$%20 dialed@#$%@#$%ram@#$%@#$%Discontinued
+e338@#$%20 dialed@#$%@#$%ram@#$%2.0@#$%Discontinued
+N620@#$%20 dialed@#$%Silver and Dark Blue@#$%ram@#$%@#$%Discontinued
+N610@#$%20 dialed@#$%Red, Black, Silver@#$%20 received@#$%@#$%Discontinued
+e228@#$%20 dialed@#$%@#$%ram@#$%2.2@#$%Discontinued
+N410i@#$%20 dialed@#$%@#$%ram@#$%2.2@#$%Discontinued
+N400i@#$%20 dialed@#$%@#$%ram@#$%2.2@#$%Discontinued
+N331i@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+e313@#$%10 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+N910@#$%20 dialed@#$%@#$%20 received@#$%@#$%Discontinued
+N900@#$%20 dialed@#$%@#$%ram@#$%1.8@#$%Discontinued
+N830@#$%10 dialed@#$%@#$%10 received@#$%2.2@#$%Discontinued
+N820@#$%10 dialed@#$%@#$%ram@#$%2.2@#$%Discontinued
+N710@#$%10 dialed@#$%Silver, Pink@#$%ram@#$%1.8@#$%Discontinued
+N700@#$%20 dialed@#$%Silver, Gold@#$%20 received@#$%1.8@#$%Discontinued
+N600@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+c616v@#$%20 dialed@#$%Silver or Graphite@#$%ram@#$%2.2@#$%Discontinued
+e616@#$%20 dialed@#$%Silver@#$%ram@#$%2.2@#$%Discontinued
+e808y@#$%20 dialed@#$%2 - Gold, Black@#$%ram@#$%@#$%Discontinued
+e808@#$%20 dialed@#$%2 - Gold, Black@#$%ram@#$%@#$%Discontinued
+e606@#$%20 dialed@#$%@#$%ram@#$%@#$%Discontinued
+e530@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+e525@#$%20 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+e232@#$%20 dialed@#$%@#$%ram@#$%@#$%Discontinued
+N341i@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+N223i@#$%10 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+N22i@#$%10 dialed@#$%Silver@#$%ram@#$%@#$%Discontinued
+N21i@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+DB7000@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+DB6000@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+DB5000@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+DB4100@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+DB4000@#$%10 dialed@#$%Metallic@#$%10 received@#$%@#$%Discontinued
+DB2000@#$%5 dialed@#$%Metallic@#$%5 received@#$%@#$%Discontinued
+DB500@#$%5 dialed@#$%4@#$%5 received@#$%@#$%Discontinued
+G9D+@#$%5 dialed@#$%@#$%ram@#$%@#$%Discontinued

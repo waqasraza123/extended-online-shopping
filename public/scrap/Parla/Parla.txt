@@ -1,10 +1,10 @@
-Minu P124;4 MB;Black, White;4 MB RAM;1.8
-Sonic 3.5S;512 MB;Black, White;256 MB RAM;3.5
-Minu P123;512 MB;Black, White;ram;1.8
-Sonic 3.5;512 MB;Black, White;512 MB RAM;3.5
-Zum Bianco;512 MB;White;ram;1.8
-Minu;512 MB;Black, White;ram;1.8
-Gala;512 MB;Black;ram;2.3
-Spriz;512 MB;Black, White;ram;2.0
-Mist;512 MB;Black, White, Silver;ram;1.8
-Zum;512 MB;Black, White;ram;1.8
+Minu P124@#$%4 MB@#$%Black, White@#$%4 MB RAM@#$%1.8@#$%Available. Released 2016, February
+Sonic 3.5S@#$%512 MB@#$%Black, White@#$%256 MB RAM@#$%3.5@#$%Available. Released 2015, July
+Minu P123@#$%512 MB@#$%Black, White@#$%ram@#$%1.8@#$%Available. Released 2014, November
+Sonic 3.5@#$%512 MB@#$%Black, White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2013, Q4
+Zum Bianco@#$%512 MB@#$%White@#$%ram@#$%1.8@#$%Available. Released 2013, Q4
+Minu@#$%512 MB@#$%Black, White@#$%ram@#$%1.8@#$%Available. Released 2013, Q4
+Gala@#$%512 MB@#$%Black@#$%ram@#$%2.3@#$%Available. Released 2012, Q4
+Spriz@#$%512 MB@#$%Black, White@#$%ram@#$%2.0@#$%Available. Released 2012, Q4
+Mist@#$%512 MB@#$%Black, White, Silver@#$%ram@#$%1.8@#$%Available. Released 2012, Q4
+Zum@#$%512 MB@#$%Black, White@#$%ram@#$%1.8@#$%Available. Released 2012, Q4

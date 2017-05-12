@@ -1,247 +1,248 @@
-U Ultra;64/128 GB;Brilliant Black, Cosmetic Pink, Ice White, Sapphire Blue;4 GB RAM;5.7
-U Play;32 GB;Brilliant Black, Cosmetic Pink, Ice White, Sapphire Blue;3 RAM or 64 GB;5.2
-10 evo;32 GB;Silver, Black;3 GB RAM;5.5
-Desire 650;16 GB;Dark blue, White;2 GB RAM;5.0
-Desire 10 Pro;64 GB;Stone Black, Polar White, Royal Blue, Valentine Lux, Mint Green;4 GB RAM;5.5
-Desire 10 Lifestyle;32 GB;Stone Black, Polar White, Royal Blue, Valentine Lux;3 GB RAM;5.5
-One A9s;16 GB;Black, Silver, Gold;2 GB RAM or 32 GB;5.0
-Desire 728 Ultra;32 GB;Black Gold, Cappuccino Brown;3 GB RAM;5.5
-Desire 628;32 GB;Black, White;3 GB RAM;5.0
-One M9 Prime Camera;16 GB;Gunmetal Gray, Gold, Silver/Gold;2 GB RAM;5.0
-Desire 830;32 GB;White/Blue, White/Red;3 GB RAM;5.5
-One S9;16 GB;Silver, Gold;2 GB RAM;5.0
-10 Lifestyle;32 GB;Carbon Gray, Topaz Gold, Glacier Silver;3 GB RAM;5.2
-10;32/64 GB;Carbon Gray, Topaz Gold, Glacier Silver, Camellia Red;4 GB RAM;5.2
-Desire 825;16 GB;Various;2 GB RAM;5.5
-Desire 630;16 GB;Various;2 GB RAM;5.0
-Desire 530;16 GB;Various;1.5 GB RAM;5.0
-Desire 625;8 GB;Gray;1.5 GB RAM;5.0
-One X9;32 GB;Various;3 GB RAM;5.5
-One M9s;16 GB;Dazzling Gold;2 GB RAM;5.0
-Desire 828 dual sim;16 GB;White;2 GB RAM;5.5
-Desire 728 dual sim;16 GB;White, Black;2 GB RAM - Desire 728;5.5
-One E9s dual sim;16 GB;Meteor Gray, White Luxury, Roast Chestnut;2 GB RAM;5.5
-Butterfly 3;32 GB;Blue, Red, White;3 GB RAM;5.2
-One A9;16 GB;Carbon Gray, Opal Silver, Topaz Gold, Deep Garnet, Pink;2 GB RAM;5.0
-One M9+ Supreme Camera;32 GB;Gunmetal Gray, Silver Gold, Amber Gold;3 GB RAM;5.2
-Desire 626 (USA);16 GB;Various;1.5 GB RAM;5.0
-Desire 626s;8 GB;Various;1 GB RAM;5.0
-Desire 526;8 GB;Black;1.5 GB RAM;4.7
-Desire 520;8 GB;Slate Gray;1 GB RAM;4.5
-One ME;32 GB;Meteor Grey, Rose Gold, Gold Sepia;3 GB RAM;5.2
-Desire 820G+ dual sim;16 GB;Marble White, Dovetail gray;1 GB RAM;5.5
-Desire 326G dual sim;8 GB;White Birch, Black Onyx;1 GB RAM;4.5
-One M9+;32 GB;Gunmetal Gray, Silver Gold, Amber Gold;3 GB RAM;5.2
-One M8s;16/32 GB;Gunmetal Gray, Glacial Silver, Amber Gold;2 GB RAM;5.0
-One E9+;32 GB;Meteor Gray, Classic Rose Gold, Gold Sepia;3 GB RAM;5.5
-One E9;16 GB;Black, White;2 GB RAM;5.5
-One M9;32 GB;Gunmetal Gray, Amber Gold, Silver/Rose gold, Gold/Pink, Pink;3 GB RAM;5.0
-Desire 820s dual sim;16 GB;Marble White, Milkyway Gray, Monarch Orange, Santorini White, Tuxedo Gray;2 GB RAM;5.5
-Desire 626G+;8 GB;White Birch, Purple Fire, Blue Lagoon;1 GB RAM;5.0
-Desire 626;16 GB;Various;1/2 GB RAM;5.0
-Desire 526G+ dual sim ;8/16 GB;Glacier blue, Stealth black, Lacquer black, Fervor red - 526G+;1 GB RAM;4.7
-Desire 826 dual sim;16 GB;White Birch, Blue Lagoon, Marshmallow White, Dark Grey, Purple Fire;2 GB RAM;5.5
-Desire 320;4 GB;Meridian Gray, White;512 MB (North America);4.5
-Desire 620G dual sim;8 GB;Marble White, Milkyway Gray, Saffron Gray, Santorini White, Tangerine White, Tuxedo Gray;1 GB RAM;5.0
-Desire 620;8 GB;Blue, Black, Gray, White;1 GB RAM;5.0
-Nexus 9;16 GB (Wi-Fi)/ 32 GB (LTE);Indigo Black, Lunar White, Sand;2 GB RAM;8.9
-Desire 816G dual sim;8 GB (India model);Black, White;16 GB (SEA model);5.5
-One (M8 Eye);16 GB;Gunmetal Gray, Glacial Silver, Amber Gold;2 GB RAM;5.0
-Desire Eye;16 GB;Blue, Red, White;2 GB RAM;5.2
-Desire 612;8 GB;Black;1 GB RAM;4.7
-Desire 820q dual sim;16 GB;Santorini White, Tuxedo Gray, Milky-way Gray;1 GB RAM;5.5
-Desire 820 dual sim;16 GB;Marble White, Tuxedo Grey, Santorini White, Milky-way Grey, Tangerine White, Saffron Grey, Flamingo Grey, Blue Misty, Monarch Orange;2 GB RAM;5.5
-Desire 820;16 GB;Marble White, Tuxedo Grey, Santorini White, Milky-way Grey, Tangerine White, Saffron Grey, Flamingo Grey, Blue Misty, Monarch Orange;2 GB RAM;5.5
-One (E8) CDMA;16 GB;Polar White, Misty Gray;2 GB RAM;5.0
-Desire 510;8 GB;Vanilla White, Jet Black, Dark Grey, Deep Navy Blue;1 GB RAM;4.7
-One (M8) for Windows;32 GB;Gunmetal Gray;2 GB RAM;5.0
-One (M8) for Windows (CDMA);32 GB;Gunmetal Gray;2 GB RAM;5.0
-Butterfly 2;16/32 GB;Blue, Red, White;2 GB RAM;5.0
-One Remix;16 GB;Gunmetal Gray, Glacial Silver;1.5 GB RAM;4.5
-One (M8) dual sim;16 GB;Gunmetal Gray, Glacial Silver, Amber Gold;2 GB RAM;5.0
-Desire 516 dual sim;4 GB;Black, White;1 GB RAM;5.0
-One (E8);16 GB;White, red, black;2 GB RAM;5.0
-One mini 2;16 GB;Gunmetal Gray, Glacial Silver Amber Gold;1 GB RAM;4.5
-Desire 616 dual sim;4 GB;Black, White, Red;1 GB RAM;5.0
-Desire 210 dual sim;4 GB;Black, white, red;512 MB RAM;4.0
-One (M8) CDMA;32 GB;Gunmetal Gray, Glacial Silver;2 GB RAM;5.0
-One (M8);16/32 GB;Gunmetal Gray, Glacial Silver, Amber Gold;2 GB RAM;5.0
-Desire 310 dual sim;4 GB;Black, White, Red;512 MB;4.5
-Desire 310;4 GB;Black, White, Red;512 MB/ 1 GB RAM;4.5
-Desire 816 dual sim;8 GB;Black, White;1.5 GB RAM;5.5
-Desire 816;8 GB;Black, White, Red, Gray, Green;1.5 GB RAM;5.5
-Desire 610;8 GB;Black, White, Red, Gray, Green;1 GB RAM;4.7
-Desire 501 dual sim;8 GB;Black, White, Pink;1 GB RAM;4.3
-Desire 700;8 GB;Black;1 GB RAM;5.0
-Desire 700 dual sim;8 GB;Black;1 GB RAM;5.0
-Desire 601 dual sim;4 GB;Black, Red, White;1 GB RAM;4.5
-Desire 501;8 GB;Black, White, Pink;1 GB RAM;4.3
-One Max;16/32 GB;Silver, Black, Gold;2 GB RAM;5.9
-Desire 300;4 GB;Black, White;512 MB RAM;4.3
-Desire 601;8 GB;Black, Silver, Red;1 GB RAM;4.5
-Desire 500;4 GB;Black, Silver;1 GB RAM;4.3
-One mini;16 GB;Glacial Silver, Stealth Black, Blue;1 GB RAM;4.3
-Desire L;4 GB;White, Black, Pink;1 GB RAM;4.3
-Desire P;4 GB;White, Red;768 MB RAM;4.3
-Desire Q;4 GB;White, Black, Red;512 MB RAM;4.0
-8XT;8 GB;Violet;1 GB RAM;4.3
-Butterfly S;16 GB;Black, White, Red, Gray;2 GB RAM;5.0
-Desire 200;4 GB;Black, White;512 MB RAM;3.5
-Desire 600 dual sim;8 GB;Black, White;1 GB RAM;4.5
-First;16 GB;White, Black, Red, Pale Blue;1 GB RAM;4.3
-One Dual Sim;32 GB;Silver, Black;2 GB RAM;4.68
-One;32/64 GB;Black, Silver, Red, Blue, Gold;2 GB RAM;4.7
-Desire U;4 GB;White, Black, Orange;512 MB RAM;4.0
-Desire 400 dual sim;4 GB;Black, White, Blue;1 GB RAM;4.3
-Butterfly;16 GB (11 GB user available);Black;2 GB RAM;5.0
-DROID DNA;16 GB (11 GB user available);Black;2 GB RAM;5.0
-One SV CDMA;8 GB;Black, White;1 GB RAM;4.3
-One SV;8 GB;Black, White;1 GB RAM;4.3
-Desire SV;4 GB;Radical Yellow, Stealth Black;768 MB RAM;4.3
-One VX;8 GB;White, Black, Gray;1 GB RAM;4.5
-One X+;32/64 GB;Stealth Black, Polar White;1 GB RAM;4.7
-Windows Phone 8X CDMA;16 GB;California Blue, Graphite Black, Flame Red;1 GB RAM;4.3
-Windows Phone 8X;16 GB;California Blue, Graphite Black, Flame Red, Limelight Yellow;1 GB RAM;4.3
-Windows Phone 8S;4 GB;Domino, Fiesta Red, Atlantic Blue, High-Rise Gray;512 MB RAM;4.0
-One ST;4 GB;Black, White, Red;1 GB RAM;4.3
-One SC;4 GB;Black, White, Orange;1 GB RAM;4.3
-Desire X;4 GB;White/Black, Prussian Blue;768 MB RAM;4.0
-Desire VT;4 GB;Black, White;512 MB RAM;4.0
-Desire XC;4 GB;Black/White;768 MB RAM;4.0
-Desire VC;4 GB;Black, White;512 MB RAM;4.0
-Desire V;4 GB;Black, White;512 MB RAM;4.0
-Desire C;4 GB;Polar White, Stealth Black, Flamenco Red;512 MB RAM;3.5
-J;16 GB;Black, white, red;1 GB RAM;4.3
-DROID Incredible 4G LTE;8 GB;Black;1 GB RAM;4.0
-Evo 4G LTE;16 GB;Gray, White;1 GB RAM;4.7
-One XC;16 GB;Black;1 GB RAM;4.7
-One X;16/32 GB (26 GB user available);Gray, White;1 GB RAM;4.7
-One X AT&T;16 GB;Gray, White;1 GB RAM;4.7
-One XL;32 GB;Gray, White;1 GB RAM;4.7
-One S C2;16 GB;Black;1 GB RAM;4.3
-One S;16 GB;Black;1 GB RAM;4.3
-Velocity 4G Vodafone;16 GB;Black, White;1 GB RAM;4.5
-One V;4 GB (1 GB user available);Black, Brown;512 MB RAM;3.7
-Velocity 4G;16 GB (13 GB user available);Black;1 GB RAM;4.5
-Titan II;16 GB (13 GB user available);Black;ram;4.7
-Rezound;16 GB;Black;1 GB RAM;4.3
-Vivid;16 GB;Black, White;1 GB RAM;4.5
-EVO Design 4G;4 GB;Black;768 MB RAM;4.0
-Sensation XL;16 GB;White;768 MB RAM;4.7
-Explorer;512 MB;Active Black, Active Navy, Metallic Black, Metallic Navy;512 MB RAM;3.2
-Amaze 4G;16 GB;Black, White;1 GB RAM;4.3
-Raider 4G;16 GB;Black;1 GB RAM;4.5
-Rhyme;4 GB;Clearwater, Hourglass, Plum;768 MB RAM;3.7
-Hero S;4 GB;Black;768 MB RAM;4.0
-Rhyme CDMA;4 GB;Clearwater, Hourglass, Plum;768 MB RAM;3.7
-Sensation XE;4 GB (1 GB user available);Black, White;768 MB RAM;4.3
-Jetstream;32 GB;Black;1 GB RAM;10.1
-Lead;32 GB;Black;ram;4.3
-Titan;16 GB;Carbon Gray;512 MB RAM;4.7
-Radar;8 GB;Active White, Metal Silver;512 MB RAM;3.8
-Panache;8 GB (1.2 GB user available);Black;768 MB RAM;3.8
-Status;512 MB;Black, Silver;512 MB RAM;2.6
-Glacier;512 MB;Black;ram;3.8
-Trophy;16 GB;Black;576 MB RAM;3.8
-DROID Incredible 2;1.1 GB;Black, Red, White;768 MB RAM;4.0
-Sensation 4G;1 GB;Black;768 MB RAM;4.3
-EVO 3D;1 GB;Black;1 GB RAM;4.3
-Sensation;1 GB;Black, Ice White;768 MB RAM;4.3
-EVO 3D CDMA;4 GB;Black, plum;1 GB RAM;4.3
-HD7S;16 GB;Black;576 MB RAM;4.3
-Prime;16 GB;Black;ram;3.7
-Merge;2 GB;Black;512 MB RAM;3.8
-Incredible S;1.1 GB;Black, Red;768 MB RAM;4.0
-Desire S;1.1 GB;Black, Red;768 MB RAM;3.7
-Wildfire S;512 MB;Black, Silver, Brown, Lilac;512 MB RAM;3.2
-Salsa;512 MB;Black, Silver, Lilac;512 MB RAM;3.4
-ChaCha;512 MB;Black, Silver;512 MB RAM;2.6
-Flyer;16/32 GB;Silver;1 GB RAM;7.0
-Flyer Wi-Fi;16/32 GB;Silver;1 GB RAM;7.0
-EVO View 4G;32 GB;Silver;1 GB RAM;7.0
-Inspire 4G;4 GB;Black, Brown, Red;768 MB RAM;4.3
-Freestyle;150 MB;Gray;256 MB RAM;3.2
-ThunderBolt 4G;4 GB;Black;768 MB RAM;4.3
-EVO Shift 4G;2 GB;Black;512 MB RAM;3.6
-Gratia;512 MB;Black, White, Green;384 MB RAM;3.2
-HD7;8 GB (Europe) / 16 GB (Asia);Black;512 MB ROM;4.3
-7 Pro;8 GB;Black;576 MB RAM;3.6
-7 Surround;16 GB;Black;448 MB RAM;3.8
-7 Mozart;8 GB;Black;512 MB ROM;3.7
-7 Trophy;8 GB;Black;576 MB RAM;3.8
-Arrive;8/16 GB;Black;576 MB RAM;3.6
-Desire HD;8/16 GB;Black, Brown;ram;4.3
-Desire Z;8/16 GB;Black;ram;3.7
-Paradise;microSD;Black;up to 32 GB (dedicated slot);3.2
-Evo 4G+;4 GB (1.3 GB user available);Black;1 GB RAM;4.3
-Aria;512 MB;Black;384 MB RAM;3.2
-Wildfire CDMA;512 MB;Black;384 MB RAM;3.2
-Wildfire;512 MB;Black, Brown, White, Red, Silver;ram;3.2
-Desire;512 MB;Black, Brown, Silver, White;ram;3.7
-HD mini;384 MB RAM;Black;512 MB ROM;3.2
-Legend;384 MB RAM;Gray, Black;512 MB;3.2
-Rider;384 MB RAM;Black;ram;4.3
-Google Nexus One;512 MB RAM;Brown (teflon coating);512 MB;3.7
-Smart;256 MB RAM;Black;256 MB ROM;2.8
-HD2;448 MB RAM;Black;512 MB ROM;4.3
-Evo 4G;1 GB;Black, White;512 MB RAM;4.3
-Droid Incredible;1 GB;Black;ram;3.7
-DROID ERIS;1 GB;Black;ram;3.2
-Pure;288 MB RAM;Black;512 MB ROM;3.2
-Tattoo;256 MB RAM;Brown, White, Graphite, Black, Violet;512 MB;2.8
-Touch2;256 MB RAM;Black, Brown, Silver;512 MB ROM;2.8
-Hero CDMA;288 MB RAM;Silver;512 MB;3.2
-Hero;288 MB RAM;Brown, White (teflon coating), Graphite, Black, Pink;512 MB;3.2
-Ozone;192 MB RAM;Black;256 MB ROM;2.4
-Snap;192 MB RAM;Brown;256 MB ROM;2.4
-Schubert;192 MB RAM;Black;ram;
-Magic;288 MB RAM;White, Black;512 MB;3.2
-Tilt2;288 MB RAM;Black/Grey;512 MB ROM;3.6
-Touch Pro2 CDMA;288 MB RAM;Black/Grey;512 MB ROM;3.6
-Touch Pro2;288 MB RAM;Black/Grey;512 MB ROM;3.6
-Touch Diamond2 CDMA;288 MB RAM;Black;512 MB ROM;3.6
-Touch Diamond2;288 MB RAM;Black;512 MB ROM;3.2
-Dream;192 MB RAM;Black;256 MB;3.2
-Touch Cruise 09;256 MB RAM;Black;512 MB ROM;2.8
-MAX 4G;8 GB;Black;288 MB RAM;3.8
-Touch HD T8285;288 MB RAM;Black;512 MB ROM;3.8
-Touch HD;288 MB RAM;Black;512 MB ROM;3.8
-Touch 3G;192 MB RAM;Sophisticated black, Noble gold, Sparkle blue, Modern brown;256 MB ROM;2.8
-Touch Viva;128 MB RAM;Storm Gray;256 MB ROM;2.8
-S740;256 MB RAM;Black;256 MB ROM;2.4
-Touch Pro CDMA;288 MB RAM;Black;512 MB ROM;2.8
-Touch Pro;288 MB RAM;Black;512 MB ROM;2.8
-Touch Diamond CDMA;4 GB;Black;288 MB RAM;2.8
-Touch Diamond;4 GB;Black, White;192 MB RAM;2.8
-Advantage X7510;16 GB;Black;128 MB RAM;5.0
-P3470;128 MB RAM;Silver;256 MB ROM;2.8
-Touch Cruise;128 MB RAM;Yes;256 MB ROM;2.8
-Touch Dual;128 MB RAM;Silver;256 MB ROM;2.6
-P6500;128 MB RAM;Silver;ram;3.5
-S730;64 MB RAM;Metal grey;256 MB ROM;2.4
-TyTN II;128 MB RAM;Silver;256 MB ROM;2.8
-S630;64 MB RAM;;128 MB ROM;2.4
-Touch;64/128 MB RAM;Soft Black, Wasabi Green, White, Burgundy;128/256 MB ROM;2.8
-P6300;128 MB RAM;Silver;256 MB ROM;3.5
-Shift;40/80 GB (microdrive);;1 GB RAM;7.0
-Advantage X7500;8 GB (microdrive);Black;128 MB RAM;5.0
-S710;64 MB RAM;Black/Silver;128 MB ROM;2.4
-P3350;64 MB RAM;Silver;128 MB ROM;2.8
-P3400;64 MB RAM;Black;128 MB ROM;2.8
-P4350;64 MB RAM;Black;128 MB ROM;2.8
-P3600i;64 MB RAM;Silver, Black;256 MB ROM;2.8
-P3600;64 MB RAM;Silver, Black;128 MB ROM;2.8
-P3300;64 MB RAM;Silver;128 MB ROM;2.8
-S620;64 MB RAM;;128 MB ROM;2.4
-S310;64 MB RAM;Black, White, Grey.;64 MB ROM;2.0
-TyTN;64 MB RAM;Silver, Black;128 MB ROM;2.8
-MTeoR;64 MB RAM;Black;128 MB ROM;2.2
-A12;8 GB;Various;1 GB RAM;4.7
-Desire HD2;8 GB;Black;512 MB RAM;4.3
-Ignite;8 GB;Black;ram;3.7
-Ville;microSD;Black;up to 32 GB (dedicated slot);4.3
-Zeta;32 GB;Black;1 GB RAM;4.5
-Primo;32 GB;Black;ram;3.7
-Tiara;8 GB;Black, White;1 GB RAM;4.3
-One M8 Prime;16/32 GB;Gunmetal Gray, Glacial Silver, Amber Gold;3 GB RAM;5.5
-One (M8i);16/32 GB;Gunmetal Gray, Glacial Silver, Amber Gold;2 GB RAM;5.0
+One X10@#$%32 GB@#$%Black, Silver@#$%3 GB RAM@#$%5.5@#$%Coming soon. Exp. release 2017, May
+U Ultra@#$%64/128 GB@#$%Brilliant Black, Cosmetic Pink, Ice White, Sapphire Blue@#$%4 GB RAM@#$%5.7@#$%Available. Released 2017, February
+U Play@#$%32 GB@#$%Brilliant Black, Cosmetic Pink, Ice White, Sapphire Blue@#$%3 RAM or 64 GB@#$%5.2@#$%Available. Released 2017, February
+10 evo@#$%32 GB@#$%Silver, Black@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, November
+Desire 650@#$%16 GB@#$%Dark blue, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, December
+Desire 10 Pro@#$%64 GB@#$%Stone Black, Polar White, Royal Blue, Valentine Lux, Mint Green@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, December
+Desire 10 Lifestyle@#$%32 GB@#$%Stone Black, Polar White, Royal Blue, Valentine Lux@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, September
+One A9s@#$%16 GB@#$%Black, Silver, Gold@#$%2 GB RAM or 32 GB@#$%5.0@#$%Available. Released 2016, November
+Desire 728 Ultra@#$%32 GB@#$%Black Gold, Cappuccino Brown@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, October
+Desire 628@#$%32 GB@#$%Black, White@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, June
+One M9 Prime Camera@#$%16 GB@#$%Gunmetal Gray, Gold, Silver/Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, May
+Desire 830@#$%32 GB@#$%White/Blue, White/Red@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, May
+One S9@#$%16 GB@#$%Silver, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, June
+10 Lifestyle@#$%32 GB@#$%Carbon Gray, Topaz Gold, Glacier Silver@#$%3 GB RAM@#$%5.2@#$%Available. Released 2016, June
+10@#$%32/64 GB@#$%Carbon Gray, Topaz Gold, Glacier Silver, Camellia Red@#$%4 GB RAM@#$%5.2@#$%Available. Released 2016, May
+Desire 825@#$%16 GB@#$%Various@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, April
+Desire 630@#$%16 GB@#$%Various@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, June
+Desire 530@#$%16 GB@#$%Various@#$%1.5 GB RAM@#$%5.0@#$%Available. Released 2016, March
+Desire 625@#$%8 GB@#$%Gray@#$%1.5 GB RAM@#$%5.0@#$%Available. Released 2016, August
+One X9@#$%32 GB@#$%Various@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, January
+One M9s@#$%16 GB@#$%Dazzling Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Desire 828 dual sim@#$%16 GB@#$%White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, November
+Desire 728 dual sim@#$%16 GB@#$%White, Black@#$%2 GB RAM - Desire 728@#$%5.5@#$%Available. Released 2015, November
+One E9s dual sim@#$%16 GB@#$%Meteor Gray, White Luxury, Roast Chestnut@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, October
+Butterfly 3@#$%32 GB@#$%Blue, Red, White@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, October
+One A9@#$%16 GB@#$%Carbon Gray, Opal Silver, Topaz Gold, Deep Garnet, Pink@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, November
+One M9+ Supreme Camera@#$%32 GB@#$%Gunmetal Gray, Silver Gold, Amber Gold@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, October
+Desire 626 (USA)@#$%16 GB@#$%Various@#$%1.5 GB RAM@#$%5.0@#$%Available. Released 2015, August
+Desire 626s@#$%8 GB@#$%Various@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, July
+Desire 526@#$%8 GB@#$%Black@#$%1.5 GB RAM@#$%4.7@#$%Available. Released 2015, August
+Desire 520@#$%8 GB@#$%Slate Gray@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, November
+One ME@#$%32 GB@#$%Meteor Grey, Rose Gold, Gold Sepia@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, July
+Desire 820G+ dual sim@#$%16 GB@#$%Marble White, Dovetail gray@#$%1 GB RAM@#$%5.5@#$%Available. Released 2015, June
+Desire 326G dual sim@#$%8 GB@#$%White Birch, Black Onyx@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, June
+One M9+@#$%32 GB@#$%Gunmetal Gray, Silver Gold, Amber Gold@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, May
+One M8s@#$%16/32 GB@#$%Gunmetal Gray, Glacial Silver, Amber Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, May
+One E9+@#$%32 GB@#$%Meteor Gray, Classic Rose Gold, Gold Sepia@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, May
+One E9@#$%16 GB@#$%Black, White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, May
+One M9@#$%32 GB@#$%Gunmetal Gray, Amber Gold, Silver/Rose gold, Gold/Pink, Pink@#$%3 GB RAM@#$%5.0@#$%Available. Released 2015, March
+Desire 820s dual sim@#$%16 GB@#$%Marble White, Milkyway Gray, Monarch Orange, Santorini White, Tuxedo Gray@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, March
+Desire 626G+@#$%8 GB@#$%White Birch, Purple Fire, Blue Lagoon@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, April
+Desire 626@#$%16 GB@#$%Various@#$%1/2 GB RAM@#$%5.0@#$%Available. Released 2015, March
+Desire 526G+ dual sim @#$%8/16 GB@#$%Glacier blue, Stealth black, Lacquer black, Fervor red - 526G+@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, January
+Desire 826 dual sim@#$%16 GB@#$%White Birch, Blue Lagoon, Marshmallow White, Dark Grey, Purple Fire@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, March
+Desire 320@#$%4 GB@#$%Meridian Gray, White@#$%512 MB (North America)@#$%4.5@#$%Available. Released 2015, January
+Desire 620G dual sim@#$%8 GB@#$%Marble White, Milkyway Gray, Saffron Gray, Santorini White, Tangerine White, Tuxedo Gray@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, December
+Desire 620@#$%8 GB@#$%Blue, Black, Gray, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, December
+Nexus 9@#$%16 GB (Wi-Fi)/ 32 GB (LTE)@#$%Indigo Black, Lunar White, Sand@#$%2 GB RAM@#$%8.9@#$%Available. Released 2014, November
+Desire 816G dual sim@#$%8 GB (India model)@#$%Black, White@#$%16 GB (SEA model)@#$%5.5@#$%Available. Released 2014, October
+One (M8 Eye)@#$%16 GB@#$%Gunmetal Gray, Glacial Silver, Amber Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, October
+Desire Eye@#$%16 GB@#$%Blue, Red, White@#$%2 GB RAM@#$%5.2@#$%Available. Released 2014, November
+Desire 612@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, October
+Desire 820q dual sim@#$%16 GB@#$%Santorini White, Tuxedo Gray, Milky-way Gray@#$%1 GB RAM@#$%5.5@#$%Available. Released 2014, October
+Desire 820 dual sim@#$%16 GB@#$%Marble White, Tuxedo Grey, Santorini White, Milky-way Grey, Tangerine White, Saffron Grey, Flamingo Grey, Blue Misty, Monarch Orange@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, November
+Desire 820@#$%16 GB@#$%Marble White, Tuxedo Grey, Santorini White, Milky-way Grey, Tangerine White, Saffron Grey, Flamingo Grey, Blue Misty, Monarch Orange@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, November
+One (E8) CDMA@#$%16 GB@#$%Polar White, Misty Gray@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, August
+Desire 510@#$%8 GB@#$%Vanilla White, Jet Black, Dark Grey, Deep Navy Blue@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, September
+One (M8) for Windows@#$%32 GB@#$%Gunmetal Gray@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, November
+One (M8) for Windows (CDMA)@#$%32 GB@#$%Gunmetal Gray@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, September
+Butterfly 2@#$%16/32 GB@#$%Blue, Red, White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, September
+One Remix@#$%16 GB@#$%Gunmetal Gray, Glacial Silver@#$%1.5 GB RAM@#$%4.5@#$%Available. Released 2014, July
+One (M8) dual sim@#$%16 GB@#$%Gunmetal Gray, Glacial Silver, Amber Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, July
+Desire 516 dual sim@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, June
+One (E8)@#$%16 GB@#$%White, red, black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, June
+One mini 2@#$%16 GB@#$%Gunmetal Gray, Glacial Silver Amber Gold@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, May
+Desire 616 dual sim@#$%4 GB@#$%Black, White, Red@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, June
+Desire 210 dual sim@#$%4 GB@#$%Black, white, red@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, June
+One (M8) CDMA@#$%32 GB@#$%Gunmetal Gray, Glacial Silver@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, March
+One (M8)@#$%16/32 GB@#$%Gunmetal Gray, Glacial Silver, Amber Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, March
+Desire 310 dual sim@#$%4 GB@#$%Black, White, Red@#$%512 MB@#$%4.5@#$%Available. Released 2014, April
+Desire 310@#$%4 GB@#$%Black, White, Red@#$%512 MB/ 1 GB RAM@#$%4.5@#$%Available. Released 2014, April
+Desire 816 dual sim@#$%8 GB@#$%Black, White@#$%1.5 GB RAM@#$%5.5@#$%Available. Released 2014, May
+Desire 816@#$%8 GB@#$%Black, White, Red, Gray, Green@#$%1.5 GB RAM@#$%5.5@#$%Available. Released 2014, March
+Desire 610@#$%8 GB@#$%Black, White, Red, Gray, Green@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, May
+Desire 501 dual sim@#$%8 GB@#$%Black, White, Pink@#$%1 GB RAM@#$%4.3@#$%Available. Released 2014, February
+Desire 700@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, January
+Desire 700 dual sim@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, January
+Desire 601 dual sim@#$%4 GB@#$%Black, Red, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, December
+Desire 501@#$%8 GB@#$%Black, White, Pink@#$%1 GB RAM@#$%4.3@#$%Available. Released 2014, February
+One Max@#$%16/32 GB@#$%Silver, Black, Gold@#$%2 GB RAM@#$%5.9@#$%Available. Released 2013, October
+Desire 300@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.3@#$%Available. Released 2013, December
+Desire 601@#$%8 GB@#$%Black, Silver, Red@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, October
+Desire 500@#$%4 GB@#$%Black, Silver@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013, September
+One mini@#$%16 GB@#$%Glacial Silver, Stealth Black, Blue@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013, August
+Desire L@#$%4 GB@#$%White, Black, Pink@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013, April
+Desire P@#$%4 GB@#$%White, Red@#$%768 MB RAM@#$%4.3@#$%Available. Released 2013, April
+Desire Q@#$%4 GB@#$%White, Black, Red@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, April
+8XT@#$%8 GB@#$%Violet@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013, June
+Butterfly S@#$%16 GB@#$%Black, White, Red, Gray@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, July
+Desire 200@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2013, July
+Desire 600 dual sim@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, June
+First@#$%16 GB@#$%White, Black, Red, Pale Blue@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013, April
+One Dual Sim@#$%32 GB@#$%Silver, Black@#$%2 GB RAM@#$%4.68@#$%Available. Released 2013, August
+One@#$%32/64 GB@#$%Black, Silver, Red, Blue, Gold@#$%2 GB RAM@#$%4.7@#$%Available. Released 2013, March
+Desire U@#$%4 GB@#$%White, Black, Orange@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, June
+Desire 400 dual sim@#$%4 GB@#$%Black, White, Blue@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, December
+Butterfly@#$%16 GB (11 GB user available)@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, January
+DROID DNA@#$%16 GB (11 GB user available)@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2012, November
+One SV CDMA@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, December
+One SV@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2013, January
+Desire SV@#$%4 GB@#$%Radical Yellow, Stealth Black@#$%768 MB RAM@#$%4.3@#$%Available. Released 2012, November
+One VX@#$%8 GB@#$%White, Black, Gray@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, November
+One X+@#$%32/64 GB@#$%Stealth Black, Polar White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2012, November
+Windows Phone 8X CDMA@#$%16 GB@#$%California Blue, Graphite Black, Flame Red@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, November
+Windows Phone 8X@#$%16 GB@#$%California Blue, Graphite Black, Flame Red, Limelight Yellow@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, November
+Windows Phone 8S@#$%4 GB@#$%Domino, Fiesta Red, Atlantic Blue, High-Rise Gray@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, November
+One ST@#$%4 GB@#$%Black, White, Red@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, Q4
+One SC@#$%4 GB@#$%Black, White, Orange@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, Q4
+Desire X@#$%4 GB@#$%White/Black, Prussian Blue@#$%768 MB RAM@#$%4.0@#$%Available. Released 2012, October
+Desire VT@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, August
+Desire XC@#$%4 GB@#$%Black/White@#$%768 MB RAM@#$%4.0@#$%Available. Released 2013, July
+Desire VC@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, July
+Desire V@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2012, June
+Desire C@#$%4 GB@#$%Polar White, Stealth Black, Flamenco Red@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, June
+J@#$%16 GB@#$%Black, white, red@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, August
+DROID Incredible 4G LTE@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2012, July 
+Evo 4G LTE@#$%16 GB@#$%Gray, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2012, May
+One XC@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2012, August
+One X@#$%16/32 GB (26 GB user available)@#$%Gray, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2012, May
+One X AT&T@#$%16 GB@#$%Gray, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2012, May
+One XL@#$%32 GB@#$%Gray, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2012, May
+One S C2@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, June
+One S@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2012, April
+Velocity 4G Vodafone@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, May
+One V@#$%4 GB (1 GB user available)@#$%Black, Brown@#$%512 MB RAM@#$%3.7@#$%Available. Released 2012, April
+Velocity 4G@#$%16 GB (13 GB user available)@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2012, January
+Titan II@#$%16 GB (13 GB user available)@#$%Black@#$%ram@#$%4.7@#$%Available. Released 2012, April
+Rezound@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2011, November
+Vivid@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2011, November
+EVO Design 4G@#$%4 GB@#$%Black@#$%768 MB RAM@#$%4.0@#$%Available. Released 2011, October
+Sensation XL@#$%16 GB@#$%White@#$%768 MB RAM@#$%4.7@#$%Available. Released 2011, November
+Explorer@#$%512 MB@#$%Active Black, Active Navy, Metallic Black, Metallic Navy@#$%512 MB RAM@#$%3.2@#$%Available. Released 2011, October
+Amaze 4G@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%4.3@#$%Available. Released 2011, October
+Raider 4G@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Discontinued
+Rhyme@#$%4 GB@#$%Clearwater, Hourglass, Plum@#$%768 MB RAM@#$%3.7@#$%Available. Released 2011, October
+Hero S@#$%4 GB@#$%Black@#$%768 MB RAM@#$%4.0@#$%Available. Released Exp. release 2011, October
+Rhyme CDMA@#$%4 GB@#$%Clearwater, Hourglass, Plum@#$%768 MB RAM@#$%3.7@#$%Available. Released 2011, September
+Sensation XE@#$%4 GB (1 GB user available)@#$%Black, White@#$%768 MB RAM@#$%4.3@#$%Available. Released 2011, October
+Jetstream@#$%32 GB@#$%Black@#$%1 GB RAM@#$%10.1@#$%Available. Released 2011, September
+Lead@#$%32 GB@#$%Black@#$%ram@#$%4.3@#$%Discontinued
+Titan@#$%16 GB@#$%Carbon Gray@#$%512 MB RAM@#$%4.7@#$%Available. Released 2011, October
+Radar@#$%8 GB@#$%Active White, Metal Silver@#$%512 MB RAM@#$%3.8@#$%Available. Released 2011, October
+Panache@#$%8 GB (1.2 GB user available)@#$%Black@#$%768 MB RAM@#$%3.8@#$%Available. Released 2011, July
+Status@#$%512 MB@#$%Black, Silver@#$%512 MB RAM@#$%2.6@#$%Available. Released 2011, July 17th
+Glacier@#$%512 MB@#$%Black@#$%ram@#$%3.8@#$%Discontinued
+Trophy@#$%16 GB@#$%Black@#$%576 MB RAM@#$%3.8@#$%Available. Released 2011, May
+DROID Incredible 2@#$%1.1 GB@#$%Black, Red, White@#$%768 MB RAM@#$%4.0@#$%Available. Released 2011, April
+Sensation 4G@#$%1 GB@#$%Black@#$%768 MB RAM@#$%4.3@#$%Discontinued
+EVO 3D@#$%1 GB@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available. Released 2011, July
+Sensation@#$%1 GB@#$%Black, Ice White@#$%768 MB RAM@#$%4.3@#$%Discontinued
+EVO 3D CDMA@#$%4 GB@#$%Black, plum@#$%1 GB RAM@#$%4.3@#$%Discontinued
+HD7S@#$%16 GB@#$%Black@#$%576 MB RAM@#$%4.3@#$%Available. Released 2011, June
+Prime@#$%16 GB@#$%Black@#$%ram@#$%3.7@#$%Discontinued
+Merge@#$%2 GB@#$%Black@#$%512 MB RAM@#$%3.8@#$%Available. Released 2011, April
+Incredible S@#$%1.1 GB@#$%Black, Red@#$%768 MB RAM@#$%4.0@#$%Available. Released 2011, February
+Desire S@#$%1.1 GB@#$%Black, Red@#$%768 MB RAM@#$%3.7@#$%Available. Released 2011, March
+Wildfire S@#$%512 MB@#$%Black, Silver, Brown, Lilac@#$%512 MB RAM@#$%3.2@#$%Available. Released 2011, May
+Salsa@#$%512 MB@#$%Black, Silver, Lilac@#$%512 MB RAM@#$%3.4@#$%Available. Released 2011, June
+ChaCha@#$%512 MB@#$%Black, Silver@#$%512 MB RAM@#$%2.6@#$%Available. Released 2011, June
+Flyer@#$%16/32 GB@#$%Silver@#$%1 GB RAM@#$%7.0@#$%Discontinued
+Flyer Wi-Fi@#$%16/32 GB@#$%Silver@#$%1 GB RAM@#$%7.0@#$%Available. Released 2011, May
+EVO View 4G@#$%32 GB@#$%Silver@#$%1 GB RAM@#$%7.0@#$%Available. Released 2011, June 24th
+Inspire 4G@#$%4 GB@#$%Black, Brown, Red@#$%768 MB RAM@#$%4.3@#$%Available. Released 2011, February
+Freestyle@#$%150 MB@#$%Gray@#$%256 MB RAM@#$%3.2@#$%Available. Released 2011, February
+ThunderBolt 4G@#$%4 GB@#$%Black@#$%768 MB RAM@#$%4.3@#$%Available. Released 2011, March
+EVO Shift 4G@#$%2 GB@#$%Black@#$%512 MB RAM@#$%3.6@#$%Available. Released 2011, January
+Gratia@#$%512 MB@#$%Black, White, Green@#$%384 MB RAM@#$%3.2@#$%Discontinued
+HD7@#$%8 GB (Europe) / 16 GB (Asia)@#$%Black@#$%512 MB ROM@#$%4.3@#$%Discontinued
+7 Pro@#$%8 GB@#$%Black@#$%576 MB RAM@#$%3.6@#$%Available. Released 2011, January
+7 Surround@#$%16 GB@#$%Black@#$%448 MB RAM@#$%3.8@#$%Discontinued
+7 Mozart@#$%8 GB@#$%Black@#$%512 MB ROM@#$%3.7@#$%Discontinued
+7 Trophy@#$%8 GB@#$%Black@#$%576 MB RAM@#$%3.8@#$%Discontinued
+Arrive@#$%8/16 GB@#$%Black@#$%576 MB RAM@#$%3.6@#$%Available. Released 2011, March
+Desire HD@#$%8/16 GB@#$%Black, Brown@#$%ram@#$%4.3@#$%Discontinued
+Desire Z@#$%8/16 GB@#$%Black@#$%ram@#$%3.7@#$%Discontinued
+Paradise@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%3.2@#$%Cancelled
+Evo 4G+@#$%4 GB (1.3 GB user available)@#$%Black@#$%1 GB RAM@#$%4.3@#$%Available
+Aria@#$%512 MB@#$%Black@#$%384 MB RAM@#$%3.2@#$%Discontinued
+Wildfire CDMA@#$%512 MB@#$%Black@#$%384 MB RAM@#$%3.2@#$%Discontinued
+Wildfire@#$%512 MB@#$%Black, Brown, White, Red, Silver@#$%ram@#$%3.2@#$%Discontinued
+Desire@#$%512 MB@#$%Black, Brown, Silver, White@#$%ram@#$%3.7@#$%Discontinued
+HD mini@#$%384 MB RAM@#$%Black@#$%512 MB ROM@#$%3.2@#$%Discontinued
+Legend@#$%384 MB RAM@#$%Gray, Black@#$%512 MB@#$%3.2@#$%Discontinued
+Rider@#$%384 MB RAM@#$%Black@#$%ram@#$%4.3@#$%Discontinued
+Google Nexus One@#$%512 MB RAM@#$%Brown (teflon coating)@#$%512 MB@#$%3.7@#$%Discontinued
+Smart@#$%256 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+HD2@#$%448 MB RAM@#$%Black@#$%512 MB ROM@#$%4.3@#$%Discontinued
+Evo 4G@#$%1 GB@#$%Black, White@#$%512 MB RAM@#$%4.3@#$%Discontinued
+Droid Incredible@#$%1 GB@#$%Black@#$%ram@#$%3.7@#$%Discontinued
+DROID ERIS@#$%1 GB@#$%Black@#$%ram@#$%3.2@#$%Discontinued
+Pure@#$%288 MB RAM@#$%Black@#$%512 MB ROM@#$%3.2@#$%Discontinued
+Tattoo@#$%256 MB RAM@#$%Brown, White, Graphite, Black, Violet@#$%512 MB@#$%2.8@#$%Discontinued
+Touch2@#$%256 MB RAM@#$%Black, Brown, Silver@#$%512 MB ROM@#$%2.8@#$%Discontinued
+Hero CDMA@#$%288 MB RAM@#$%Silver@#$%512 MB@#$%3.2@#$%Discontinued
+Hero@#$%288 MB RAM@#$%Brown, White (teflon coating), Graphite, Black, Pink@#$%512 MB@#$%3.2@#$%Discontinued
+Ozone@#$%192 MB RAM@#$%Black@#$%256 MB ROM@#$%2.4@#$%Discontinued
+Snap@#$%192 MB RAM@#$%Brown@#$%256 MB ROM@#$%2.4@#$%Discontinued
+Schubert@#$%192 MB RAM@#$%Black@#$%ram@#$%@#$%Discontinued
+Magic@#$%288 MB RAM@#$%White, Black@#$%512 MB@#$%3.2@#$%Discontinued
+Tilt2@#$%288 MB RAM@#$%Black/Grey@#$%512 MB ROM@#$%3.6@#$%Discontinued
+Touch Pro2 CDMA@#$%288 MB RAM@#$%Black/Grey@#$%512 MB ROM@#$%3.6@#$%Discontinued
+Touch Pro2@#$%288 MB RAM@#$%Black/Grey@#$%512 MB ROM@#$%3.6@#$%Discontinued
+Touch Diamond2 CDMA@#$%288 MB RAM@#$%Black@#$%512 MB ROM@#$%3.6@#$%Discontinued
+Touch Diamond2@#$%288 MB RAM@#$%Black@#$%512 MB ROM@#$%3.2@#$%Discontinued
+Dream@#$%192 MB RAM@#$%Black@#$%256 MB@#$%3.2@#$%Discontinued
+Touch Cruise 09@#$%256 MB RAM@#$%Black@#$%512 MB ROM@#$%2.8@#$%Discontinued
+MAX 4G@#$%8 GB@#$%Black@#$%288 MB RAM@#$%3.8@#$%Discontinued
+Touch HD T8285@#$%288 MB RAM@#$%Black@#$%512 MB ROM@#$%3.8@#$%Discontinued
+Touch HD@#$%288 MB RAM@#$%Black@#$%512 MB ROM@#$%3.8@#$%Discontinued
+Touch 3G@#$%192 MB RAM@#$%Sophisticated black, Noble gold, Sparkle blue, Modern brown@#$%256 MB ROM@#$%2.8@#$%Discontinued
+Touch Viva@#$%128 MB RAM@#$%Storm Gray@#$%256 MB ROM@#$%2.8@#$%Discontinued
+S740@#$%256 MB RAM@#$%Black@#$%256 MB ROM@#$%2.4@#$%Discontinued
+Touch Pro CDMA@#$%288 MB RAM@#$%Black@#$%512 MB ROM@#$%2.8@#$%Discontinued
+Touch Pro@#$%288 MB RAM@#$%Black@#$%512 MB ROM@#$%2.8@#$%Discontinued
+Touch Diamond CDMA@#$%4 GB@#$%Black@#$%288 MB RAM@#$%2.8@#$%Discontinued
+Touch Diamond@#$%4 GB@#$%Black, White@#$%192 MB RAM@#$%2.8@#$%Discontinued
+Advantage X7510@#$%16 GB@#$%Black@#$%128 MB RAM@#$%5.0@#$%Discontinued
+P3470@#$%128 MB RAM@#$%Silver@#$%256 MB ROM@#$%2.8@#$%Discontinued
+Touch Cruise@#$%128 MB RAM@#$%Yes@#$%256 MB ROM@#$%2.8@#$%Discontinued
+Touch Dual@#$%128 MB RAM@#$%Silver@#$%256 MB ROM@#$%2.6@#$%Discontinued
+P6500@#$%128 MB RAM@#$%Silver@#$%ram@#$%3.5@#$%Discontinued
+S730@#$%64 MB RAM@#$%Metal grey@#$%256 MB ROM@#$%2.4@#$%Discontinued
+TyTN II@#$%128 MB RAM@#$%Silver@#$%256 MB ROM@#$%2.8@#$%Discontinued
+S630@#$%64 MB RAM@#$%@#$%128 MB ROM@#$%2.4@#$%Discontinued
+Touch@#$%64/128 MB RAM@#$%Soft Black, Wasabi Green, White, Burgundy@#$%128/256 MB ROM@#$%2.8@#$%Discontinued
+P6300@#$%128 MB RAM@#$%Silver@#$%256 MB ROM@#$%3.5@#$%Discontinued
+Shift@#$%40/80 GB (microdrive)@#$%@#$%1 GB RAM@#$%7.0@#$%Discontinued
+Advantage X7500@#$%8 GB (microdrive)@#$%Black@#$%128 MB RAM@#$%5.0@#$%Discontinued
+S710@#$%64 MB RAM@#$%Black/Silver@#$%128 MB ROM@#$%2.4@#$%Discontinued
+P3350@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.8@#$%Discontinued
+P3400@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+P4350@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+P3600i@#$%64 MB RAM@#$%Silver, Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+P3600@#$%64 MB RAM@#$%Silver, Black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+P3300@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.8@#$%Discontinued
+S620@#$%64 MB RAM@#$%@#$%128 MB ROM@#$%2.4@#$%Discontinued
+S310@#$%64 MB RAM@#$%Black, White, Grey.@#$%64 MB ROM@#$%2.0@#$%Discontinued
+TyTN@#$%64 MB RAM@#$%Silver, Black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+MTeoR@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.2@#$%Discontinued
+A12@#$%8 GB@#$%Various@#$%1 GB RAM@#$%4.7@#$%Cancelled
+Desire HD2@#$%8 GB@#$%Black@#$%512 MB RAM@#$%4.3@#$%Cancelled
+Ignite@#$%8 GB@#$%Black@#$%ram@#$%3.7@#$%Cancelled
+Ville@#$%microSD@#$%Black@#$%up to 32 GB (dedicated slot)@#$%4.3@#$%Cancelled
+Zeta@#$%32 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Cancelled
+Primo@#$%32 GB@#$%Black@#$%ram@#$%3.7@#$%Cancelled
+Tiara@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.3@#$%Cancelled
+One M8 Prime@#$%16/32 GB@#$%Gunmetal Gray, Glacial Silver, Amber Gold@#$%3 GB RAM@#$%5.5@#$%Cancelled
+One (M8i)@#$%16/32 GB@#$%Gunmetal Gray, Glacial Silver, Amber Gold@#$%2 GB RAM@#$%5.0@#$%Cancelled

@@ -1,20 +1,20 @@
-Note 5 Lite;16 GB;Gold, Gray;3 GB RAM;5.0
-Cool1 dual;32 GB;Gold, Silver, Rose Gold;3/4 GB RAM or 64 GB;5.5
-Conjr;16 GB;Gray;3 GB RAM;5.0
-Cool S1;64 GB;Gold;4 GB RAM or 128 GB;5.5
-Note 3s;32 GB;White, Gold;3 GB RAM;5.5
-Mega 3;16 GB;Champagne White, Moondust Grey, Gold White;2 GB RAM;5.5
-Note 5;32/64 GB;Royal Gold, Space Gray;4 GB RAM;5.5
-Modena 2;16 GB;Gold, Black;2 GB RAM;5.5
-Mega;16 GB;Gold, White, Black;3 GB RAM;5.5
-Torino;16 GB;White/Gold;3 GB RAM;5.5
-Note 3 Plus;16 GB;Champagne Gold, White;3 GB RAM;5.5
-Max;64 GB;Royal Gold, Rose Gold;4 GB RAM;5.5
-Porto S;8 GB;White;1 GB RAM;5.0
-Torino S;16 GB;Various;2 GB RAM;4.7
-Note 3 Lite;16 GB;Black, White, Champagne white;3 GB RAM;5.0
-Roar;8 GB;Black;1 GB RAM;4.5
-Note 3;16 GB;White;3 GB RAM;5.5
-Shine;8 GB;Gold;2 GB RAM;5.5
-Modena;8 GB;White;1 GB RAM;5.5
-Porto;8 GB;White;1 GB RAM;4.7
+Note 5 Lite@#$%16 GB@#$%Gold, Gray@#$%3 GB RAM@#$%5.0@#$%Available. Released 2017, March
+Cool1 dual@#$%32 GB@#$%Gold, Silver, Rose Gold@#$%3/4 GB RAM or 64 GB@#$%5.5@#$%Available. Released 2016, August
+Conjr@#$%16 GB@#$%Gray@#$%3 GB RAM@#$%5.0@#$%Available. Released 2017, January
+Cool S1@#$%64 GB@#$%Gold@#$%4 GB RAM or 128 GB@#$%5.5@#$%Available. Released 2017, January
+Note 3s@#$%32 GB@#$%White, Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, December
+Mega 3@#$%16 GB@#$%Champagne White, Moondust Grey, Gold White@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, December
+Note 5@#$%32/64 GB@#$%Royal Gold, Space Gray@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, October
+Modena 2@#$%16 GB@#$%Gold, Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, September
+Mega@#$%16 GB@#$%Gold, White, Black@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, August
+Torino@#$%16 GB@#$%White/Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, July
+Note 3 Plus@#$%16 GB@#$%Champagne Gold, White@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, July
+Max@#$%64 GB@#$%Royal Gold, Rose Gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, June
+Porto S@#$%8 GB@#$%White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, March
+Torino S@#$%16 GB@#$%Various@#$%2 GB RAM@#$%4.7@#$%Available. Released 2016, March
+Note 3 Lite@#$%16 GB@#$%Black, White, Champagne white@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, January
+Roar@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, November
+Note 3@#$%16 GB@#$%White@#$%3 GB RAM@#$%5.5@#$%Available. Released 2015, October
+Shine@#$%8 GB@#$%Gold@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, October
+Modena@#$%8 GB@#$%White@#$%1 GB RAM@#$%5.5@#$%Available. Released 2015, August
+Porto@#$%8 GB@#$%White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, August

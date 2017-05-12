@@ -1,79 +1,79 @@
-Noir Z12 Pro;32 GB;Mocha Gold, Latte Gold;3 GB RAM;5.5
-Noir Z14;32 GB;Gold, Silver, Rose Gold;4 GB RAM;5.5
-Noir LT680;16 GB;Black, Gold;2 GB RAM;5.0
-Noir LT700 Pro;16 GB;Pearl White, Grey;3 GB RAM;5.0
-Noir S4;16 GB;Gold;2 GB RAM;5.0
-Noir LT750;16 GB;White/Gold;3 GB RAM;5.0
-Noir i6 Metal HD;16 GB;Gold, Rose Gold, Silver Black;1 GB RAM;5.0
-Noir A6;32 GB;Black, White;3 GB RAM;5.0
-Noir S9;8 GB;White, Black;2 GB RAM;5.0
-Noir Z9 Plus;16 GB;White, Gold, Dark Blue;2 GB RAM;5.5
-Noir Z12;32 GB;Gold;3 GB RAM;5.5
-Noir Z10;16 GB;Black, White;3 GB RAM;5.2
-Noir S2;8 GB;Black;1 GB RAM;5.0
-Noir E8;64 GB;Black, Gold;3 GB RAM;6.0
-Noir S5;8 GB;Black/White;1 GB RAM;4.8
-Linq L15;8 GB;Black;1 GB RAM;5.0
-Noir Z9;16 GB;Black;2 GB RAM;4.8
-A1;8 GB;Black;1 GB RAM;4.5
-Noir S1;8 GB;Black;1 GB RAM;5.0
-Power3;32 MB;Black;32 MB RAM;2.4
-T50 Bolt;4 GB;Black;512 MB RAM;4.0
-T200 Bolt;4 GB;Black;512 MB RAM;4.0
-Noir X950;16 GB;Black;2 GB RAM;5.0
-QTab V10;8 GB;Black;1 GB RAM;7.85
-Explorer 3G;128 MB;Black;64 MB RAM;2.8
-Noir i8;8 GB;Black;1 GB RAM;4.7
-Noir X450;8 GB;Black;1 GB RAM;5.0
-Noir Z8 Plus;16 GB;Black;2 GB RAM;5.5
-Noir X350;8 GB;Black;1 GB RAM;4.5
-Noir LT600;8 GB;Black;1 GB RAM;5.0
-Noir M300;8 GB;Black;1 GB RAM;5.0
-W1;4 GB;Black;512 MB RAM;4.0
-Noir Z8;16 GB;Black;2 GB RAM;5.0
-Noir A750;16 GB;Black;1 GB RAM;5.0
-Linq X70;8 GB;Black;1 GB RAM;4.0
-Noir Z7;16 GB;Black;1 GB RAM;4.8
-Linq L10;8 GB;Black;1 GB RAM;5.0
-Noir LT250;4 GB;Black;1 GB RAM;4.7
-Noir LT150;8 GB;Black;1 GB RAM;4.7
-Noir X600;16 GB;Black;2 GB RAM;5.0
-Noir X700;8 GB;Black;1 GB RAM;5.0
-Noir X900;16 GB;Black;2 GB RAM;5.0
-Noir X60;4 GB;Black;512 MB RAM;4.0
-Noir X80;4 GB;Black;512 MB RAM;4.0
-Noir X90;8 GB;Black;1 GB RAM;5.0
-Noir X550;8 GB;Black;1 GB RAM;4.7
-Linq X300;8 GB;Black;1 GB RAM;4.5
-Linq X100;8 GB;Black;1 GB RAM;4.5
-Noir X35;4 GB;Black;512 MB RAM;4.0
-Noir X400;8 GB;Black;1 GB RAM;4.5
-Noir X500;8 GB;Black;1 GB RAM;4.7
-M800;64 MB;Black;64 MB RAM;2.4
-Noir i7;8 GB;Black;1 GB RAM;4.5
-Noir M90;8 GB;Black;1 GB RAM;5.0
-Noir X800;16 GB;Black;2 GB RAM;4.7
-B100TV;32 MB;Black;8 MB RAM;2.4
-Noir A115 ATV;512 MB;Black;512 MB RAM;3.97
-Noir i10;8 GB;Black;1 GB RAM;5.0
-B800;128 MB;Black;64 MB RAM;3.2
-Noir A8i;4 GB;Black;512 MB RAM;4.0
-Noir Z5;16 GB;Black;2 GB RAM;5.5
-Noir i12;16 GB;Black;2 GB RAM;5.0
-Noir Z6;16 GB;Black;2 GB RAM;5.0
-QTab X50;16 GB;Black, White;1 GB RAM;8.0
-Noir A120;4 GB;Black, Blue, Pink, White;512 MB RAM;4.0
-E990 Sirocco Edition;64 MB;Black, Golden;128 MB RAM;2.6
-Noir A110;512 MB;Black, Blue, Pink, White;512 MB RAM;3.5
-Noir i9;4 GB;Black;1 GB RAM;5.0
-Noir i6;8 GB;Black;1 GB RAM;4.5
-Noir A75;4 GB;Black;512 MB RAM;4.5
-Noir i5i;4 GB;Black;1 GB RAM;4.5
-Noir i5;4 GB;Black;512 MB RAM;4.7
-Noir A550;4 GB;Black;1 GB RAM;4.5
-Noir V4;16 GB;Black;1 GB RAM;5.7
-Noir Z4;32 GB;Black;2 GB RAM;5.0
-Noir Z3;16 GB;Black;1 GB RAM;4.8
-Noir A15 3D;4 GB;Black;512 MB RAM;5.0
-Noir A950;4 GB;Black;1 GB RAM;4.65
-Noir A500;4 GB;Black;512 MB RAM;4.5
+Noir Z12 Pro@#$%32 GB@#$%Mocha Gold, Latte Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, September
+Noir Z14@#$%32 GB@#$%Gold, Silver, Rose Gold@#$%4 GB RAM@#$%5.5@#$%Available. Released 2016, September
+Noir LT680@#$%16 GB@#$%Black, Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, August
+Noir LT700 Pro@#$%16 GB@#$%Pearl White, Grey@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, July
+Noir S4@#$%16 GB@#$%Gold@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, June
+Noir LT750@#$%16 GB@#$%White/Gold@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, June
+Noir i6 Metal HD@#$%16 GB@#$%Gold, Rose Gold, Silver Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, May
+Noir A6@#$%32 GB@#$%Black, White@#$%3 GB RAM@#$%5.0@#$%Available. Released 2016, May
+Noir S9@#$%8 GB@#$%White, Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, March
+Noir Z9 Plus@#$%16 GB@#$%White, Gold, Dark Blue@#$%2 GB RAM@#$%5.5@#$%Available. Released 2016, March
+Noir Z12@#$%32 GB@#$%Gold@#$%3 GB RAM@#$%5.5@#$%Available. Released 2016, February
+Noir Z10@#$%16 GB@#$%Black, White@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, November
+Noir S2@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, November
+Noir E8@#$%64 GB@#$%Black, Gold@#$%3 GB RAM@#$%6.0@#$%Available. Released 2015, November
+Noir S5@#$%8 GB@#$%Black/White@#$%1 GB RAM@#$%4.8@#$%Available. Released 2015, August
+Linq L15@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, July
+Noir Z9@#$%16 GB@#$%Black@#$%2 GB RAM@#$%4.8@#$%Available. Released 2015, July
+A1@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, July
+Noir S1@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, July
+Power3@#$%32 MB@#$%Black@#$%32 MB RAM@#$%2.4@#$%Available. Released 2015, June
+T50 Bolt@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, June
+T200 Bolt@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, June
+Noir X950@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, June 
+QTab V10@#$%8 GB@#$%Black@#$%1 GB RAM@#$%7.85@#$%Available. Released 2015, May
+Explorer 3G@#$%128 MB@#$%Black@#$%64 MB RAM@#$%2.8@#$%Available. Released 2015, May
+Noir i8@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, May
+Noir X450@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, May
+Noir Z8 Plus@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2015, May
+Noir X350@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2015, April
+Noir LT600@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, March
+Noir M300@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, March
+W1@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, March
+Noir Z8@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, March
+Noir A750@#$%16 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, February
+Linq X70@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, February
+Noir Z7@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.8@#$%Available. Released 2015, February
+Linq L10@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, February
+Noir LT250@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, February
+Noir LT150@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, February
+Noir X600@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, February
+Noir X700@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, February
+Noir X900@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, February
+Noir X60@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, January
+Noir X80@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, January
+Noir X90@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, January
+Noir X550@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, January
+Linq X300@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, December
+Linq X100@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, December
+Noir X35@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, December
+Noir X400@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, November
+Noir X500@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.7@#$%Available. Released 2014, November
+M800@#$%64 MB@#$%Black@#$%64 MB RAM@#$%2.4@#$%Available. Released 2014, September
+Noir i7@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, September
+Noir M90@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, September
+Noir X800@#$%16 GB@#$%Black@#$%2 GB RAM@#$%4.7@#$%Available. Released 2014, September
+B100TV@#$%32 MB@#$%Black@#$%8 MB RAM@#$%2.4@#$%Available. Released 2014, August
+Noir A115 ATV@#$%512 MB@#$%Black@#$%512 MB RAM@#$%3.97@#$%Available. Released 2014, August
+Noir i10@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, August
+B800@#$%128 MB@#$%Black@#$%64 MB RAM@#$%3.2@#$%Available. Released 2014, July
+Noir A8i@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, July
+Noir Z5@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.5@#$%Available. Released 2014, July
+Noir i12@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, July
+Noir Z6@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, July
+QTab X50@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%8.0@#$%Available. Released 2014, June
+Noir A120@#$%4 GB@#$%Black, Blue, Pink, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, May
+E990 Sirocco Edition@#$%64 MB@#$%Black, Golden@#$%128 MB RAM@#$%2.6@#$%Available. Released 2014, May
+Noir A110@#$%512 MB@#$%Black, Blue, Pink, White@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, May
+Noir i9@#$%4 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, May
+Noir i6@#$%8 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, May
+Noir A75@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.5@#$%Available. Released 2014, May
+Noir i5i@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, May
+Noir i5@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.7@#$%Available. Released 2014, May
+Noir A550@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, April
+Noir V4@#$%16 GB@#$%Black@#$%1 GB RAM@#$%5.7@#$%Available. Released 2014, January
+Noir Z4@#$%32 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, October
+Noir Z3@#$%16 GB@#$%Black@#$%1 GB RAM@#$%4.8@#$%Available. Released 2013, September
+Noir A15 3D@#$%4 GB@#$%Black@#$%512 MB RAM@#$%5.0@#$%Available. Released 2013, July
+Noir A950@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.65@#$%Available. Released 2013, July
+Noir A500@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.5@#$%Available. Released 2013, July

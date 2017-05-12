@@ -1,23 +1,23 @@
-DuraForce Pro;32 GB;Black;2 GB RAM;5.0
-DuraForce XD;16 GB;Black;2 GB RAM;5.7
-DuraForce;16 GB;Black;2 GB RAM;4.5
-Hydro Life;8 GB;Black;1.5 GB RAM;4.5
-Brigadier;16 GB;Black;2 GB RAM;4.5
-Hydro Elite;16 GB;Black;1.5 GB RAM;4.3
-Hydro Xtrm;4 GB;Black;1 GB RAM;4.0
-Torque E6710;4 GB (1 GB user available);Black;1 GB RAM;4.0
-Hydro C5170;2 GB;Black;512 MB RAM;3.5
-Rise C5155;2 GB;Black;512 MB RAM;3.5
-Milano C5121;512 MB;Pink, Black;512 MB RAM;3.0
-Milano C5120;512 MB;Black;512 MB RAM;3.0
-Presto S1350;512 MB;Black;ram;1.8
-Brio;512 MB;Black;ram;2.2
-Echo;1 GB;Black;512 MB RAM;3.5
-DuraCore E4210;1 GB;Black;ram;2.0
-DuraMax;1 GB;Black;ram;2.0
-E4600;1 GB;Black;ram;2.2
-Solo E4000;microSD;Black;up to 2 GB (dedicated slot);
-E3500;microSD;Black;ram;2.0
-E2500;microSD;Black;ram;2.0
-S1600;microSD;Black;ram;1.5
-TG 200;microSD;;ram;
+DuraForce Pro@#$%32 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2016, October
+DuraForce XD@#$%16 GB@#$%Black@#$%2 GB RAM@#$%5.7@#$%Available. Released 2015, November
+DuraForce@#$%16 GB@#$%Black@#$%2 GB RAM@#$%4.5@#$%Available. Released 2014, November
+Hydro Life@#$%8 GB@#$%Black@#$%1.5 GB RAM@#$%4.5@#$%Available. Released 2014, August
+Brigadier@#$%16 GB@#$%Black@#$%2 GB RAM@#$%4.5@#$%Available. Released 2014, July
+Hydro Elite@#$%16 GB@#$%Black@#$%1.5 GB RAM@#$%4.3@#$%Available. Released 2013, Q3
+Hydro Xtrm@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, June
+Torque E6710@#$%4 GB (1 GB user available)@#$%Black@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, March
+Hydro C5170@#$%2 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, Q3
+Rise C5155@#$%2 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2012, August
+Milano C5121@#$%512 MB@#$%Pink, Black@#$%512 MB RAM@#$%3.0@#$%Available. Released 2011, September
+Milano C5120@#$%512 MB@#$%Black@#$%512 MB RAM@#$%3.0@#$%Available. Released 2011, September
+Presto S1350@#$%512 MB@#$%Black@#$%ram@#$%1.8@#$%Available. Released 2011, October
+Brio@#$%512 MB@#$%Black@#$%ram@#$%2.2@#$%Available. Released 2011, September
+Echo@#$%1 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2011, April
+DuraCore E4210@#$%1 GB@#$%Black@#$%ram@#$%2.0@#$%Available
+DuraMax@#$%1 GB@#$%Black@#$%ram@#$%2.0@#$%Available. Released 2011, October
+E4600@#$%1 GB@#$%Black@#$%ram@#$%2.2@#$%Discontinued
+Solo E4000@#$%microSD@#$%Black@#$%up to 2 GB (dedicated slot)@#$%@#$%Discontinued
+E3500@#$%microSD@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+E2500@#$%microSD@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+S1600@#$%microSD@#$%Black@#$%ram@#$%1.5@#$%Discontinued
+TG 200@#$%microSD@#$%@#$%ram@#$%@#$%Discontinued

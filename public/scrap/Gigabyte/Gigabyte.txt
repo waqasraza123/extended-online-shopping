@@ -1,63 +1,63 @@
-GSmart Essence 4;4 GB;Black;512 MB RAM;4.0
-GSmart Classic Lite;8 GB;Black;512 MB RAM;5.0
-GSmart Essence;8 GB;Black, White;512 MB RAM;4.5
-GSmart Classic;8 GB;Black, Gray;1 GB RAM;5.0
-GSmart Guru GX;32 GB;Black;2 GB RAM;5.0
-GSmart Mika MX;8 GB;Black;1 GB RAM;5.0
-GSmart Roma RX;4 GB;Black;512 MB RAM;5.0
-GSmart Akta A4;8 GB;Navy Blue;1 GB RAM;5.0
-GSmart Mika M3;8 GB;Navy Blue;1 GB RAM;5.0
-GSmart GX2;8 GB;Black;2 GB RAM;5.0
-GSmart Guru (White Edition);32 GB;White;2 GB RAM;5.0
-GSmart T4 (Lite Edition);4 GB;Black;512 MB RAM;4.0
-GSmart Arty A3;4 GB;Black;1 GB RAM;5.0
-GSmart Mika M2;8 GB;Black;1 GB RAM;5.0
-GSmart T4;4 GB;Black, White;512 MB RAM;4.0
-GSmart Saga S3;8 GB;Black;1 GB RAM;6.0
-GSmart Rey R3;4 GB;Black;1 GB RAM;4.5
-GSmart Guru;32 GB;Black;2 GB RAM;5.0
-GSmart Alto A2;4 GB;Black, White;1 GB RAM;5.0
-GSmart Roma R2;4 GB;Black, White, Blue, Red;1 GB RAM;4.0
-GSmart Aku A1;4 GB;Black, White;1 GB RAM;4.5
-GSmart Tuku T2;4 GB;Black, White, Orange, Blue, Green;512 MB RAM;4.0
-GSmart Maya M1 v2;4 GB;Gray, White, Red;1 GB RAM;4.5
-GSmart Sierra S1;4 GB;Black/White;1 GB RAM;5.0
-GSmart Simba SX1;4 GB;Black/White;1 GB RAM;5.0
-GSmart Maya M1;4 GB;Brown, Brown/White, Brown/Red;1 GB RAM;4.5
-GSmart Rio R1;4 GB;Black, Black/White, Black/Blue, Black/Pink, Black/Yellow;512 MB RAM;4.0
-GSmart GS202;4 GB;White, Brown;512 MB RAM;4.3
-GSmart G1362;4 GB;Gray, White;512 MB RAM;4.3
-GSmart G1355;1 GB;Gray;512 MB RAM;4.3
-GSmart G1345;512 MB RAM;Black;512 MB;3.5
-GSmart G1342 Houston;1 GB;Black;512 MB RAM;3.5
-GSmart M3447;64 MB RAM;Black;128 MB ROM;2.4
-GSmart G1310;256 MB RAM;Champagne gold, pearl white;512 MB;3.2
-GSmart G1317 Rola;512 MB;Glossy Black, Glossy White;256 MB RAM;3.2
-GSmart G1315 Skate;256 MB RAM;Black, white;512 MB;3.5
-GSmart S1205;256 MB ROM;Black;128 MB RAM;3.2
-GSmart G1305 Boston;256 MB ROM;Black, White;ram;3.2
-GSmart MS802;128 MB RAM;Iron Gray;256 MB ROM;2.8
-GSmart MW702;128 MB RAM;Iron Gray;256 MB ROM;2.8
-GSmart S1200;288 MB RAM;Black;512 MB ROM;3.1
-GSmart MS820;128 MB RAM;Dark Gray;256 MB ROM;2.8
-GSmart MW998;64 MB RAM;Black;256 MB ROM;2.6
-GSmart MS800;64 MB RAM;Black;256 MB ROM;2.8
-GSmart MW700;64 MB RAM;White Light;256 MB ROM;2.8
-GSmart;256 MB RAM;Black;512 MB;2.8
-GSmart i350;256 MB;Black, White;64 MB RAM;2.6
-GSmart q60;- Intel XScale PXA270;Silver;520MHz;2.5
-GSmart t600;- Intel XScale PXA270;White;520MHz;2.6
-GSmart i120;64 MB RAM;Silver-black;256 MB ROM;2.4
-GSmart i300;- Intel XScale PXA272;Silver;520MHz;2.4
-GSmart 2005;64 MB RAM;Black;64 MB ROM;2.4
-GSmart i;64 MB RAM;Silver;64 MB ROM;2.4
-GSmart i (128);64 MB RAM;Silver;128 MB ROM;2.4
-g-YoYo;64 MB RAM;Silver;ram;2.0
-g-Cam;64 MB RAM;Silver;ram;2.0
-Barbie;64 MB RAM;Blue, Pink, Orange;ram;2.0
-g-re (b);64 MB RAM;Hippy Orange, Hip-Hop Blue;ram;2.0
-g-re (o);64 MB RAM;Hippy Orange, Hip-Hop Blue;ram;2.0
-Snoopy;64 MB RAM;White;ram;2.0
-Keroro;64 MB RAM;White;ram;2.0
-Doraemon;64 MB RAM;Black;ram;2.0
-g-X5;64 MB RAM;Black;ram;2.0
+GSmart Essence 4@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2015, November
+GSmart Classic Lite@#$%8 GB@#$%Black@#$%512 MB RAM@#$%5.0@#$%Available. Released 2015, November
+GSmart Essence@#$%8 GB@#$%Black, White@#$%512 MB RAM@#$%4.5@#$%Available. Released 2015, October
+GSmart Classic@#$%8 GB@#$%Black, Gray@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, October
+GSmart Guru GX@#$%32 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2015, April
+GSmart Mika MX@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, February
+GSmart Roma RX@#$%4 GB@#$%Black@#$%512 MB RAM@#$%5.0@#$%Available. Released 2015, April
+GSmart Akta A4@#$%8 GB@#$%Navy Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, November
+GSmart Mika M3@#$%8 GB@#$%Navy Blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, November
+GSmart GX2@#$%8 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, September
+GSmart Guru (White Edition)@#$%32 GB@#$%White@#$%2 GB RAM@#$%5.0@#$%Available. Released 2014, August
+GSmart T4 (Lite Edition)@#$%4 GB@#$%Black@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, July
+GSmart Arty A3@#$%4 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, July
+GSmart Mika M2@#$%8 GB@#$%Black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, June
+GSmart T4@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%4.0@#$%Available. Released 2014, April
+GSmart Saga S3@#$%8 GB@#$%Black@#$%1 GB RAM@#$%6.0@#$%Available. Released 2014, April
+GSmart Rey R3@#$%4 GB@#$%Black@#$%1 GB RAM@#$%4.5@#$%Available. Released 2014, March
+GSmart Guru@#$%32 GB@#$%Black@#$%2 GB RAM@#$%5.0@#$%Available. Released 2013, November
+GSmart Alto A2@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, November
+GSmart Roma R2@#$%4 GB@#$%Black, White, Blue, Red@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, October
+GSmart Aku A1@#$%4 GB@#$%Black, White@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, July
+GSmart Tuku T2@#$%4 GB@#$%Black, White, Orange, Blue, Green@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, July
+GSmart Maya M1 v2@#$%4 GB@#$%Gray, White, Red@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, July
+GSmart Sierra S1@#$%4 GB@#$%Black/White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, October
+GSmart Simba SX1@#$%4 GB@#$%Black/White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2013, November
+GSmart Maya M1@#$%4 GB@#$%Brown, Brown/White, Brown/Red@#$%1 GB RAM@#$%4.5@#$%Available. Released 2013, April
+GSmart Rio R1@#$%4 GB@#$%Black, Black/White, Black/Blue, Black/Pink, Black/Yellow@#$%512 MB RAM@#$%4.0@#$%Available. Released 2013, April
+GSmart GS202@#$%4 GB@#$%White, Brown@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, December
+GSmart G1362@#$%4 GB@#$%Gray, White@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, September
+GSmart G1355@#$%1 GB@#$%Gray@#$%512 MB RAM@#$%4.3@#$%Available. Released 2012, September
+GSmart G1345@#$%512 MB RAM@#$%Black@#$%512 MB@#$%3.5@#$%Available
+GSmart G1342 Houston@#$%1 GB@#$%Black@#$%512 MB RAM@#$%3.5@#$%Available
+GSmart M3447@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.4@#$%Available. Released 2011
+GSmart G1310@#$%256 MB RAM@#$%Champagne gold, pearl white@#$%512 MB@#$%3.2@#$%Available. Released 2011, July
+GSmart G1317 Rola@#$%512 MB@#$%Glossy Black, Glossy White@#$%256 MB RAM@#$%3.2@#$%Available. Released 2011, April
+GSmart G1315 Skate@#$%256 MB RAM@#$%Black, white@#$%512 MB@#$%3.5@#$%Discontinued
+GSmart S1205@#$%256 MB ROM@#$%Black@#$%128 MB RAM@#$%3.2@#$%Discontinued
+GSmart G1305 Boston@#$%256 MB ROM@#$%Black, White@#$%ram@#$%3.2@#$%Discontinued
+GSmart MS802@#$%128 MB RAM@#$%Iron Gray@#$%256 MB ROM@#$%2.8@#$%Discontinued
+GSmart MW702@#$%128 MB RAM@#$%Iron Gray@#$%256 MB ROM@#$%2.8@#$%Discontinued
+GSmart S1200@#$%288 MB RAM@#$%Black@#$%512 MB ROM@#$%3.1@#$%Discontinued
+GSmart MS820@#$%128 MB RAM@#$%Dark Gray@#$%256 MB ROM@#$%2.8@#$%Discontinued
+GSmart MW998@#$%64 MB RAM@#$%Black@#$%256 MB ROM@#$%2.6@#$%Discontinued
+GSmart MS800@#$%64 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+GSmart MW700@#$%64 MB RAM@#$%White Light@#$%256 MB ROM@#$%2.8@#$%Discontinued
+GSmart@#$%256 MB RAM@#$%Black@#$%512 MB@#$%2.8@#$%Cancelled
+GSmart i350@#$%256 MB@#$%Black, White@#$%64 MB RAM@#$%2.6@#$%Discontinued
+GSmart q60@#$%- Intel XScale PXA270@#$%Silver@#$%520MHz@#$%2.5@#$%Cancelled
+GSmart t600@#$%- Intel XScale PXA270@#$%White@#$%520MHz@#$%2.6@#$%Discontinued
+GSmart i120@#$%64 MB RAM@#$%Silver-black@#$%256 MB ROM@#$%2.4@#$%Discontinued
+GSmart i300@#$%- Intel XScale PXA272@#$%Silver@#$%520MHz@#$%2.4@#$%Discontinued
+GSmart 2005@#$%64 MB RAM@#$%Black@#$%64 MB ROM@#$%2.4@#$%Discontinued
+GSmart i@#$%64 MB RAM@#$%Silver@#$%64 MB ROM@#$%2.4@#$%Discontinued
+GSmart i (128)@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.4@#$%Discontinued
+g-YoYo@#$%64 MB RAM@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+g-Cam@#$%64 MB RAM@#$%Silver@#$%ram@#$%2.0@#$%Discontinued
+Barbie@#$%64 MB RAM@#$%Blue, Pink, Orange@#$%ram@#$%2.0@#$%Discontinued
+g-re (b)@#$%64 MB RAM@#$%Hippy Orange, Hip-Hop Blue@#$%ram@#$%2.0@#$%Discontinued
+g-re (o)@#$%64 MB RAM@#$%Hippy Orange, Hip-Hop Blue@#$%ram@#$%2.0@#$%Discontinued
+Snoopy@#$%64 MB RAM@#$%White@#$%ram@#$%2.0@#$%Discontinued
+Keroro@#$%64 MB RAM@#$%White@#$%ram@#$%2.0@#$%Discontinued
+Doraemon@#$%64 MB RAM@#$%Black@#$%ram@#$%2.0@#$%Discontinued
+g-X5@#$%64 MB RAM@#$%Black@#$%ram@#$%2.0@#$%Discontinued

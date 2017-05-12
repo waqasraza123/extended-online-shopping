@@ -15,7 +15,8 @@
         "guzzlehttp/guzzle": "~4.0",
         "laravel/scout" : "^2.0",
         "algolia/algoliasearch-client-php": "^1.17",
-        "fx3costa/laravelchartjs": "^2.2"
+        "fx3costa/laravelchartjs": "^2.2",
+        "gloudemans/notify": "^1.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

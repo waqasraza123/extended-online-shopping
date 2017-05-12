@@ -31,12 +31,18 @@ Route::get('/login/shop', 'ShopLoginController@shopLoginForm')->name('shop-login
 Route::post('/login/shop', 'ShopLoginController@shopLogin')->name('shop-login-post');
 Route::get('/user/{id}/select-shop', 'ShopController@showShopsForm')->name('select-shops-form');
 Route::post('/shops/shop/single/info', 'ShopsController@getShopInfo')->name('shop.info');
+Route::post('/shops/shop/lat/long', 'LocationController@getShopLatLong')->name('shop.lat_long');
+Route::get('/products/mobiles/out-of-stock', 'MobileController@outOfStock')->name('mobile.out_of_stock');
+Route::get('/users/user/profile', 'UserController@showProfile')->name('user.profile');
+Route::post('/users/user/profile', 'UserController@updateProfile')->name('user.profile.update');
+Route::get('/users/user/shop/settings', 'ShopController@showShopSettings')->name('shop.settings');
 
 /**
  * search routes
  */
-Route::post('/search', 'SearchController@search')->name('search');
+Route::match(['get'], '/search/', 'SearchController@search')->name('search');
 Route::get('/search/{filters}', 'SearchController@search')->name('filter-results');
+Route::post('/search/live/results', 'SearchController@liveSearch');
 
 /**
  * frontend user routes
@@ -71,11 +77,21 @@ Route::get('/login/email-verification/{id}', 'UserController@showVerificationFor
 Route::get('/shops', 'ShopsController@index')->name('shops.index');
 Route::get('/shops/single/{shopId}', 'ShopsController@viewShop')->name('shops.single');
 
+
+/**
+ * Graph routes
+ */
+Route::post('donut', 'GraphsController@donut')->name('graphs.donut');
+Route::post('line', 'GraphsController@line')->name('graphs.line');
+Route::post('line/month', 'GraphsController@lineMonth')->name('graphs.lineMonth');
+
 /**
  * Test routes
  */
 Route::get('gsm', function (){
-    dispatch(new \App\Jobs\SaveGsmDataJob());
+    /*dispatch(new \App\Jobs\SaveGsmDataJob());*/
+    $dataController = new \App\Http\Controllers\DataController();
+    $dataController->readAndStoreGsmData();
 });
 Route::get('savestores', 'DataController@listFolderFiles');
 Route::get('test', function (){
@@ -87,11 +103,8 @@ Route::get('test', function (){
             \App\Color::find($c->id)->update(['color' => $c->color]);
         }
     }*/
-    /*$arr = ['Blue Area, Islamabad, Pakistan', 'F-8 Markaz, Islamabad, Islamabad Capital Territory, Pakistan',
-        'F-7 Markaz, Islamabad, Islamabad Capital Territory, Pakistan', 'Singapore Plaza, Bank Road, Saddar, Rawalpindi, Pakistan'];
+    //return \Illuminate\Support\Facades\Auth::user();
 
-    foreach (\App\Shop::where('location', '<>', 'online')->get() as $item){
-        $item->location = $arr[rand(0, 3)];
-        $item->save();
-    }*/
+    $a = false;
+    echo isset($a);
 });

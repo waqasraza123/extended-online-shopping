@@ -16,14 +16,23 @@ class SearchController extends Controller
      */
     public function search(Request $request){
         $this->validate($request, [
-            'search_text' => 'required'
+            'search_text' => 'required',
+            'radius' => 'min:1|max:50'
         ]);
+
         $searchText = $request->input('search_text');
-        $location = $request->input('market_location');
+        //if user specifies the market location
+        $marketLocation = $request->input('market_location');
+        //if user specifies his/her location
+        $userLocation = $request->input('user_location');
+        $radius = $request->input('radius');
         $lat = $request->input('lat');
         $long = $request->input('long');
+        $userLat = $request->input('user_lat');
+        $userLong = $request->input('user_long');
         $offset = $request->input('page');
         $offset = 10*($offset - 1);
+        $locationController = new LocationController();
 
         //get the first mobile and then get the first mobile data
         $mobiles = Mobile::where('title', 'LIKE', '%'.$searchText.'%')
@@ -48,11 +57,14 @@ class SearchController extends Controller
             //would return collection
             $mobileData = $mobile->data;
             $price = 999999999999;
-            $locationMatched = false;
+            $distance = 999999999999;
+            $addMobileSinceWithinRadiusLimit = false;
+            $marketLocationMatched = false;
             $l = null;
             $o = null;
             $available = null;
-
+            $shopLat = null;
+            $shopLong = null;
             //there would be multiple rows for one iphone 7 say,
             //10 shops having iphone 7 so we need to get the min
             //price only
@@ -61,7 +73,17 @@ class SearchController extends Controller
 
                 //in other cases
                 if ($lat == null && $item->local_online == 'l'){
-                    $l = $l == null ? $item->shop->location : $l;
+                    $l = $item->shop->location;
+
+                    $lat2 = $userLat == null ? $this->isbLat : $userLat;
+                    $long2 = $userLong == null ? $this->isbLong : $userLong;
+                    $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $lat2, $long2);
+                    if($temp < $distance){
+                        $l = $item->shop->location;
+                        $distance = $temp;
+                        $shopLat = $item->shop->lat;
+                        $shopLong = $item->shop->long;
+                    }
                 }
 
                 if ($item->local_online == 'o'){
@@ -71,9 +93,33 @@ class SearchController extends Controller
 
                 //check if the shop location matched with the user specified location
                 //if user specified the location
+                //echo $lat . ' == ' . $item->shop->lat . ' ; ' . $long . ' == ' . $item->shop->long . '<br>';
                 if ($lat != null && $long != null && $item->local_online == 'l' && (int)$item->shop->lat == (int)$lat && (int)$item->shop->long == (int)$long){
-                    $l = $location;
+                    $l = $marketLocation;
+                    $marketLocationMatched = true;
                 }
+            }
+
+            //if user has specified radius
+            //which is not equal to 0
+            //if distance is null then
+            //mobile is not available on
+            //local shops
+            //dd($radius);
+            if($radius != "0" && isset($distance)){
+                //if shop and user distance
+                //if greater than
+                if(!($distance <= $radius)){
+                    $addMobileSinceWithinRadiusLimit = false;
+                }
+                else{
+                    $addMobileSinceWithinRadiusLimit = true;
+                }
+            }
+            //user did not specified the radius
+            //at all
+            elseif ($radius == "0"){
+                $addMobileSinceWithinRadiusLimit = true;
             }
 
             if(!empty($l) && !empty($o)){
@@ -84,12 +130,16 @@ class SearchController extends Controller
             elseif (!empty($l))
                 $available = 'local';
 
-
-            $data[$index]['mobile'] = $mobile;
-            $data[$index]['data'] = $mobileData;
-            $data[$index]['price'] = $price;
-            $data[$index]['available'] = $available;
-            $data[$index]['location'] = $l;
+            if($addMobileSinceWithinRadiusLimit){
+                $mobile->shop_lat = $shopLat;
+                $mobile->shop_long = $shopLong;
+                $data[$index]['mobile'] = $mobile;
+                $data[$index]['data'] = $mobileData;
+                $data[$index]['price'] = $price;
+                $data[$index]['available'] = $available;
+                $data[$index]['location'] = $l;
+                $data[$index]['distance'] = $distance;
+            }
         }
         //Get current page form url e.g. &page=6
         $currentPage = LengthAwarePaginator::resolveCurrentPage();
@@ -105,7 +155,20 @@ class SearchController extends Controller
 
         //Create our paginator and pass it to the view
         $paginatedSearchResults = new LengthAwarePaginator($data, $count, $perPage);
-        return view('welcome', compact('searchText'))->withMobiles($paginatedSearchResults);
+
+        $this->storeLatLong($userLat, $userLong);
+        $count = count($data);
+        return view('frontend.search-results', compact('searchText'))->withMobiles($paginatedSearchResults)
+            ->with([
+                'userLat' => $userLat,
+                'userLong' => $userLong,
+                'marketLat' => $lat,
+                'marketLong' => $long,
+                'marketLocation' => $marketLocation,
+                'userLocation' => $userLocation,
+                'marketLocationMatched' => $marketLocationMatched,
+                'resultsCount' => $count
+            ]);
     }
 
 
@@ -190,6 +253,41 @@ class SearchController extends Controller
         {
             $return = array('lat' => $response_a->results[0]->geometry->location->lat, 'long' => $long = $response_a->results[0]->geometry->location->lng);
             return $return;
+        }
+    }
+
+
+    /**
+     * return mobile titles for search box
+     * @param Request $request
+     */
+    public function liveSearch(Request $request){
+        return $request->all();
+    }
+
+
+    /**
+     * stores the lat long
+     * for user location
+     * to be used in map
+     * on single phone pages
+     *
+     * @param $userLat
+     * @param $userLong
+     */
+    public function storeLatLong($userLat, $userLong){
+
+        //if user lat long is null
+        //remove the data from session
+        if(!($userLat && $userLong)){
+            session()->forget('user_lat');
+            session()->forget('user_long');
+        }
+        else{
+            session([
+                'user_lat' => $userLat,
+                'user_long' => $userLong
+            ]);
         }
     }
 }

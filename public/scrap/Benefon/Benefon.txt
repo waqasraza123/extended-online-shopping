@@ -1,9 +1,9 @@
-TWIG Discovery Pro;64 MB RAM;Black;ram;2.0
-TWIG Discovery;40 dialed;Black;40 received;2.0
-Q;10 dialed;Silver;10 received;
-Track;15 dialed;;10 received;
-Twin+;15 dialed;3;5 received;
-Twin;15 dialed;3;5 received;
-Esc!;15 dialed;;10 received;
-iO;15 dialed;6;5 received;
-Vega;15 dialed;;12 received;
+TWIG Discovery Pro@#$%64 MB RAM@#$%Black@#$%ram@#$%2.0@#$%Cancelled
+TWIG Discovery@#$%40 dialed@#$%Black@#$%40 received@#$%2.0@#$%Discontinued
+Q@#$%10 dialed@#$%Silver@#$%10 received@#$%@#$%Discontinued
+Track@#$%15 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+Twin+@#$%15 dialed@#$%3@#$%5 received@#$%@#$%Discontinued
+Twin@#$%15 dialed@#$%3@#$%5 received@#$%@#$%Discontinued
+Esc!@#$%15 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+iO@#$%15 dialed@#$%6@#$%5 received@#$%@#$%Discontinued
+Vega@#$%15 dialed@#$%@#$%12 received@#$%@#$%Discontinued

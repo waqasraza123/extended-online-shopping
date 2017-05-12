@@ -29,7 +29,6 @@ class SaveGsmDataJob implements ShouldQueue
      */
     public function handle()
     {
-        dd("stop");
         $dataController = new DataController();
         $dataController->readAndStoreGsmData();
     }

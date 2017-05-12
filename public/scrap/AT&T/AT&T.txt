@@ -1,4 +1,4 @@
-Quickfire;32/64 GB;Gray, Green, Orange;ram;2.8
-SMT5700;32/64 GB;Gray;ram;
-Mustang;64 MB RAM;Black;128 MB ROM;2.2
-8525;64 MB RAM;Silver, Black;128 MB ROM;2.8
+Quickfire@#$%32/64 GB@#$%Gray, Green, Orange@#$%ram@#$%2.8@#$%Discontinued
+SMT5700@#$%32/64 GB@#$%Gray@#$%ram@#$%@#$%Discontinued
+Mustang@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.2@#$%Discontinued
+8525@#$%64 MB RAM@#$%Silver, Black@#$%128 MB ROM@#$%2.8@#$%Discontinued

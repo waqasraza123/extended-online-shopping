@@ -1,7 +1,7 @@
-T939;4 GB;;ram;
-T918;4 GB;;ram;
-T919i;4 GB;;ram;
-T919;10 dialed;;10 received;
-T910;10 dialed;;10 received;
-T909c;10 dialed;;10 received;
-T909;10 dialed;3 - Silver/ Grey, Grey/Silver, Silver/Blue;ram;
+T939@#$%4 GB@#$%@#$%ram@#$%@#$%Cancelled
+T918@#$%4 GB@#$%@#$%ram@#$%@#$%Discontinued
+T919i@#$%4 GB@#$%@#$%ram@#$%@#$%Discontinued
+T919@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+T910@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+T909c@#$%10 dialed@#$%@#$%10 received@#$%@#$%Discontinued
+T909@#$%10 dialed@#$%3 - Silver/ Grey, Grey/Silver, Silver/Blue@#$%ram@#$%@#$%Discontinued

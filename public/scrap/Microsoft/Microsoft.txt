@@ -1,30 +1,30 @@
-Lumia 650;16 GB;Black, White;1 GB RAM;5.0
-Lumia 950 XL Dual SIM;32 GB;Black, White;3 GB RAM;5.7
-Lumia 950 XL;32 GB;Black, White;3 GB RAM;5.7
-Lumia 950 Dual SIM;32 GB;Black, White;3 GB RAM;5.2
-Lumia 950;32 GB;Black, White;3 GB RAM;5.2
-Lumia 550;8 GB;Black, White;1 GB RAM;4.7
-Lumia 540 Dual SIM;8 GB;Orange, white, black, gray, blue;1 GB RAM;5.0
-Lumia 430 Dual SIM;8 GB;Black, Orange;1 GB RAM;4.0
-Lumia 640 XL LTE Dual SIM;8 GB;Matte cyan, Orange, Black, Matte white, Glossy white;1 GB RAM;5.7
-Lumia 640 XL LTE;8 GB;Matte cyan, Orange, Black, Matte white, Glossy white;1 GB RAM;5.7
-Lumia 640 XL Dual SIM;8 GB;Matte cyan, Orange, Black, Matte white, Glossy white;1 GB RAM;5.7
-Lumia 640 XL;8 GB;Matte cyan, Orange, Black, Matte white, Glossy white;1 GB RAM;5.7
-Lumia 640 LTE Dual SIM;8 GB;Glossy cyan, Orange, White, Matte black;1 GB RAM;5.0
-Lumia 640 LTE;8 GB;Glossy cyan, Orange, White, Matte black;1 GB RAM;5.0
-Lumia 640 Dual SIM;8 GB;Glossy cyan, Orange, White, Matte black;1 GB RAM;5.0
-Lumia 532 Dual SIM;8 GB;Black, White, Green, Orange;1 GB RAM;4.0
-Lumia 532;8 GB;Black, White, Green, Orange;1 GB RAM;4.0
-Lumia 435 Dual SIM;8 GB;Black, White, Green, Orange;1 GB RAM;4.0
-Lumia 435;8 GB;Black, White, Green, Orange;1 GB RAM;4.0
-Lumia 535 Dual SIM;8 GB;Orange, green, white, black, gray, blue;1 GB RAM;5.0
-Lumia 535;8 GB;Orange, green, white, black, gray, blue;1 GB RAM;5.0
-Surface 2;32/64 GB;Dark Titanium;2 GB RAM;10.6
-Surface;32/64 GB;Dark Titanium;2 GB RAM;10.6
-Kin TWOm;8 GB;Black;256 MB RAM;3.4
-Kin ONEm;4 GB;Black;256 MB RAM;2.6
-Kin Two;8 GB;Black;256 MB RAM;3.4
-Kin One;4 GB;Black;256 MB RAM;2.6
-Lumia 1030;32 GB;Various;2 GB RAM;5.0
-Lumia 1330;32 GB;Yellow, white, black, red;1 GB RAM;5.7
-Lumia 850;16 GB;Various;1 GB RAM;5.0
+Lumia 650@#$%16 GB@#$%Black, White@#$%1 GB RAM@#$%5.0@#$%Available. Released 2016, February
+Lumia 950 XL Dual SIM@#$%32 GB@#$%Black, White@#$%3 GB RAM@#$%5.7@#$%Available. Released 2015, December
+Lumia 950 XL@#$%32 GB@#$%Black, White@#$%3 GB RAM@#$%5.7@#$%Available. Released 2015, November
+Lumia 950 Dual SIM@#$%32 GB@#$%Black, White@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, December
+Lumia 950@#$%32 GB@#$%Black, White@#$%3 GB RAM@#$%5.2@#$%Available. Released 2015, November
+Lumia 550@#$%8 GB@#$%Black, White@#$%1 GB RAM@#$%4.7@#$%Available. Released 2015, December
+Lumia 540 Dual SIM@#$%8 GB@#$%Orange, white, black, gray, blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, May
+Lumia 430 Dual SIM@#$%8 GB@#$%Black, Orange@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, May
+Lumia 640 XL LTE Dual SIM@#$%8 GB@#$%Matte cyan, Orange, Black, Matte white, Glossy white@#$%1 GB RAM@#$%5.7@#$%Available. Released 2015, April
+Lumia 640 XL LTE@#$%8 GB@#$%Matte cyan, Orange, Black, Matte white, Glossy white@#$%1 GB RAM@#$%5.7@#$%Available. Released 2015, April
+Lumia 640 XL Dual SIM@#$%8 GB@#$%Matte cyan, Orange, Black, Matte white, Glossy white@#$%1 GB RAM@#$%5.7@#$%Available. Released 2015, April
+Lumia 640 XL@#$%8 GB@#$%Matte cyan, Orange, Black, Matte white, Glossy white@#$%1 GB RAM@#$%5.7@#$%Available. Released 2015, April
+Lumia 640 LTE Dual SIM@#$%8 GB@#$%Glossy cyan, Orange, White, Matte black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, April
+Lumia 640 LTE@#$%8 GB@#$%Glossy cyan, Orange, White, Matte black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, April
+Lumia 640 Dual SIM@#$%8 GB@#$%Glossy cyan, Orange, White, Matte black@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, April
+Lumia 532 Dual SIM@#$%8 GB@#$%Black, White, Green, Orange@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, February
+Lumia 532@#$%8 GB@#$%Black, White, Green, Orange@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, February
+Lumia 435 Dual SIM@#$%8 GB@#$%Black, White, Green, Orange@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, February
+Lumia 435@#$%8 GB@#$%Black, White, Green, Orange@#$%1 GB RAM@#$%4.0@#$%Available. Released 2015, March
+Lumia 535 Dual SIM@#$%8 GB@#$%Orange, green, white, black, gray, blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, December
+Lumia 535@#$%8 GB@#$%Orange, green, white, black, gray, blue@#$%1 GB RAM@#$%5.0@#$%Available. Released 2014, December
+Surface 2@#$%32/64 GB@#$%Dark Titanium@#$%2 GB RAM@#$%10.6@#$%Available. Released 2013, October
+Surface@#$%32/64 GB@#$%Dark Titanium@#$%2 GB RAM@#$%10.6@#$%Available. Released 2012, November
+Kin TWOm@#$%8 GB@#$%Black@#$%256 MB RAM@#$%3.4@#$%Discontinued
+Kin ONEm@#$%4 GB@#$%Black@#$%256 MB RAM@#$%2.6@#$%Discontinued
+Kin Two@#$%8 GB@#$%Black@#$%256 MB RAM@#$%3.4@#$%Cancelled
+Kin One@#$%4 GB@#$%Black@#$%256 MB RAM@#$%2.6@#$%Cancelled
+Lumia 1030@#$%32 GB@#$%Various@#$%2 GB RAM@#$%5.0@#$%Cancelled
+Lumia 1330@#$%32 GB@#$%Yellow, white, black, red@#$%1 GB RAM@#$%5.7@#$%Cancelled
+Lumia 850@#$%16 GB@#$%Various@#$%1 GB RAM@#$%5.0@#$%Cancelled

@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Mobile;
 use App\ProductData;
 use App\Sales;
+use App\Shop;
 use App\Visit;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
@@ -40,8 +41,7 @@ class HomeController extends Controller
         $shopId = $this->getShopId($request);
         $todaysSales = Sales::where('shop_id', $shopId)->where('updated_at', '<=', $carbon->now()->toDateTimeString())
         ->where('updated_at', '>', $carbon->yesterday())->get();
-
-        $count = Visit::where('shop_id', $shopId)->where('date', Carbon::now()->toDateString())->first()->count;
+        $count = Visit::where('shop_id', $shopId)->where('date', Carbon::now()->toDateString())->first();
 
         return view('home')->with([
             'sales' => $todaysSales,

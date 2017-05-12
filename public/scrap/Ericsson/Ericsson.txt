@@ -1,40 +1,40 @@
-R600;10 received;2 - Ice Blue, Luminous Champagne;dialed and missed calls;
-T68;10 received;2 - Zirocñan Gold, Lunar Grey;ram;
-T66;10 received;2 - Purple Passion, Silver Supreme;dialed and missed calls;
-T65;30 received;3 - Cosmic Blue, Stardust Yellow, Polar Blue;dialed and missed calls;
-T39;10 received;3 - Classic Blue, Icecap Blue, Rose White;dialed and missed calls;
-A3618;10 received;2 - Icy Silver, Graphite Silver;ram;
-T29s;10 received;2 - Amethyst Purple and Sapphire Blue;dialed and missed calls;
-R520m;10 received;;ram;
-T20e;10 received;5 - Purple Wild, Blue Whirl, Lime Twist, Silver Weave, Beige Harmony;ram;
-A2628;10 received;4 - Astral Blue, Pistachio Yellow, Green Pepper, Celestial black;ram;
-T20s;10 received;4 - Blue Whirl, Lime Twist, Silver Weave, Beige Harmony;ram;
-T36;10 received;;ram;
-R380;10 received;;ram;
-R320;30 received;Atlantic Blue, Rock Red and Stone Purple;dialed and missed calls;
-R310s;30 received;Bright Orange, Nautic Blue, Aquatic Green and Peak Yellow;ram;
-A2618;30 received;Exchangeable covers;dialed and missed calls;
-R250s PRO;30 received;2 - Bright Orange, Iron Green;ram;
-T28 World;30 received;;ram;
-T28s;30 received;;ram;
-T18s;30 received;3;ram;
-T10s;30 received;5;ram;
-A1018s;30 received;;ram;
-I 888;30 received;;ram;
-SH 888;30 received;;ram;
-S 868;30 received;;ram;
-GF 788e;30 received;4;ram;
-GF 788;30 received;4;ram;
-PF 768;30 received;4;ram;
-GF 768;30 received;4;ram;
-GH 688;30 received;;ram;
-GA 628;30 received;;ram;
-GF 388;30 received;;ram;
-GH 388;30 received;;ram;
-GS 337;30 received;;ram;
-GF 337;30 received;;ram;
-GH 337;30 received;;ram;
-GA 318;30 received;3;ram;
-GS 18;30 received;;ram;
-GO 118;30 received;;ram;
-GH 218;30 received;;ram;
+R600@#$%10 received@#$%2 - Ice Blue, Luminous Champagne@#$%dialed and missed calls@#$%@#$%Discontinued
+T68@#$%10 received@#$%2 - Zirocñan Gold, Lunar Grey@#$%ram@#$%@#$%Discontinued
+T66@#$%10 received@#$%2 - Purple Passion, Silver Supreme@#$%dialed and missed calls@#$%@#$%Discontinued
+T65@#$%30 received@#$%3 - Cosmic Blue, Stardust Yellow, Polar Blue@#$%dialed and missed calls@#$%@#$%Discontinued
+T39@#$%10 received@#$%3 - Classic Blue, Icecap Blue, Rose White@#$%dialed and missed calls@#$%@#$%Discontinued
+A3618@#$%10 received@#$%2 - Icy Silver, Graphite Silver@#$%ram@#$%@#$%Discontinued
+T29s@#$%10 received@#$%2 - Amethyst Purple and Sapphire Blue@#$%dialed and missed calls@#$%@#$%Discontinued
+R520m@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+T20e@#$%10 received@#$%5 - Purple Wild, Blue Whirl, Lime Twist, Silver Weave, Beige Harmony@#$%ram@#$%@#$%Discontinued
+A2628@#$%10 received@#$%4 - Astral Blue, Pistachio Yellow, Green Pepper, Celestial black@#$%ram@#$%@#$%Discontinued
+T20s@#$%10 received@#$%4 - Blue Whirl, Lime Twist, Silver Weave, Beige Harmony@#$%ram@#$%@#$%Discontinued
+T36@#$%10 received@#$%@#$%ram@#$%@#$%Cancelled
+R380@#$%10 received@#$%@#$%ram@#$%@#$%Discontinued
+R320@#$%30 received@#$%Atlantic Blue, Rock Red and Stone Purple@#$%dialed and missed calls@#$%@#$%Discontinued
+R310s@#$%30 received@#$%Bright Orange, Nautic Blue, Aquatic Green and Peak Yellow@#$%ram@#$%@#$%Discontinued
+A2618@#$%30 received@#$%Exchangeable covers@#$%dialed and missed calls@#$%@#$%Discontinued
+R250s PRO@#$%30 received@#$%2 - Bright Orange, Iron Green@#$%ram@#$%@#$%Discontinued
+T28 World@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+T28s@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+T18s@#$%30 received@#$%3@#$%ram@#$%@#$%Discontinued
+T10s@#$%30 received@#$%5@#$%ram@#$%@#$%Discontinued
+A1018s@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+I 888@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+SH 888@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+S 868@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GF 788e@#$%30 received@#$%4@#$%ram@#$%@#$%Discontinued
+GF 788@#$%30 received@#$%4@#$%ram@#$%@#$%Discontinued
+PF 768@#$%30 received@#$%4@#$%ram@#$%@#$%Discontinued
+GF 768@#$%30 received@#$%4@#$%ram@#$%@#$%Discontinued
+GH 688@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GA 628@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GF 388@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GH 388@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GS 337@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GF 337@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GH 337@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GA 318@#$%30 received@#$%3@#$%ram@#$%@#$%Discontinued
+GS 18@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GO 118@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued
+GH 218@#$%30 received@#$%@#$%ram@#$%@#$%Discontinued

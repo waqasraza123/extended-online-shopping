@@ -1,22 +1,22 @@
-glofiish X610;64 MB RAM;Black;128 MB ROM;2.8
-glofiish V900;128 MB RAM;Black;256 MB ROM;2.8
-glofiish X900;128 MB RAM;Black;256 MB ROM;2.8
-glofiish DX900;128 MB RAM;Black;256 MB ROM;2.8
-glofiish M750;64 MB RAM;Black;256 MB ROM;2.8
-glofiish M810;64 MB RAM;Black;256 MB ROM;2.8
-glofiish X650;64 MB RAM;Black, Purple;256 MB ROM;2.8
-glofiish M800;64 MB RAM;Silver;256 MB ROM;
-glofiish X600;64 MB RAM;Black, Red;128 MB ROM;2.8
-glofiish X500+;64 MB RAM;Silver, Black;128 MB ROM;2.8
-glofiish X800;64 MB RAM;Black;256 MB ROM;2.8
-glofiish M700;64 MB RAM;Silver;128 MB ROM;2.8
-glofiish X500;64 MB RAM;Silver;128 MB ROM;2.8
-M550;64 MB RAM;White;128 MB ROM;2.8
-G500+;64 MB RAM;;256 MB ROM;2.8
-M600+;64 MB RAM;;256 MB ROM;2.8
-G500;64 MB RAM;;128 MB ROM;2.8
-M600;64 MB RAM;;128 MB ROM;2.8
-M500;64 MB RAM;;128 MB ROM;2.8
-P300B;64 MB;;64 MB RAM;2.8
-P300;64 MB RAM;;32 MB ROM;2.8
-P700;64 MB;;64 MB RAM;3.5
+glofiish X610@#$%64 MB RAM@#$%Black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+glofiish V900@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+glofiish X900@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+glofiish DX900@#$%128 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+glofiish M750@#$%64 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+glofiish M810@#$%64 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+glofiish X650@#$%64 MB RAM@#$%Black, Purple@#$%256 MB ROM@#$%2.8@#$%Discontinued
+glofiish M800@#$%64 MB RAM@#$%Silver@#$%256 MB ROM@#$%@#$%Discontinued
+glofiish X600@#$%64 MB RAM@#$%Black, Red@#$%128 MB ROM@#$%2.8@#$%Discontinued
+glofiish X500+@#$%64 MB RAM@#$%Silver, Black@#$%128 MB ROM@#$%2.8@#$%Discontinued
+glofiish X800@#$%64 MB RAM@#$%Black@#$%256 MB ROM@#$%2.8@#$%Discontinued
+glofiish M700@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.8@#$%Discontinued
+glofiish X500@#$%64 MB RAM@#$%Silver@#$%128 MB ROM@#$%2.8@#$%Discontinued
+M550@#$%64 MB RAM@#$%White@#$%128 MB ROM@#$%2.8@#$%Discontinued
+G500+@#$%64 MB RAM@#$%@#$%256 MB ROM@#$%2.8@#$%Discontinued
+M600+@#$%64 MB RAM@#$%@#$%256 MB ROM@#$%2.8@#$%Discontinued
+G500@#$%64 MB RAM@#$%@#$%128 MB ROM@#$%2.8@#$%Discontinued
+M600@#$%64 MB RAM@#$%@#$%128 MB ROM@#$%2.8@#$%Discontinued
+M500@#$%64 MB RAM@#$%@#$%128 MB ROM@#$%2.8@#$%Discontinued
+P300B@#$%64 MB@#$%@#$%64 MB RAM@#$%2.8@#$%Discontinued
+P300@#$%64 MB RAM@#$%@#$%32 MB ROM@#$%2.8@#$%Discontinued
+P700@#$%64 MB@#$%@#$%64 MB RAM@#$%3.5@#$%Discontinued

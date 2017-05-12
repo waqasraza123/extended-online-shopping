@@ -1,5 +1,5 @@
-G'zOne CA-201L;16 GB;Black, Red;1 GB RAM;4.0
-G'zOne Commando;1 GB;Black;512 MB RAM;3.6
-G'zOne Ravine 2;512 MB;Black;256 MB RAM;2.2
-G'zOne Ravine;512 MB;Black;192 MB RAM;2.2
-G'zOne Brigade;512 MB;Black;ram;2.9
+G'zOne CA-201L@#$%16 GB@#$%Black, Red@#$%1 GB RAM@#$%4.0@#$%Available. Released 2013, May
+G'zOne Commando@#$%1 GB@#$%Black@#$%512 MB RAM@#$%3.6@#$%Available. Released 2011, April
+G'zOne Ravine 2@#$%512 MB@#$%Black@#$%256 MB RAM@#$%2.2@#$%Available. Released 2011, November
+G'zOne Ravine@#$%512 MB@#$%Black@#$%192 MB RAM@#$%2.2@#$%Discontinued
+G'zOne Brigade@#$%512 MB@#$%Black@#$%ram@#$%2.9@#$%Discontinued

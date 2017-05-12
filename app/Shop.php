@@ -5,7 +5,7 @@ namespace App;
 use Illuminate\Database\Eloquent\Model;
 class Shop extends Model
 {
-    protected $fillable = ['shop_name', 'phone', 'market_plaza', 'location', 'user_id', 'city'];
+    protected $fillable = ['shop_name', 'phone', 'market_plaza', 'location', 'user_id', 'city', 'lat', 'long'];
 
     /**
      * @return \Illuminate\Database\Eloquent\Relations\BelongsTo

@@ -1,60 +1,60 @@
-Mash;32 MB;White, Black, Red, Gold;32 MB RAM;2.2
-G8;32 MB;White, Black, Blue;ram;7.0
-Prime 5.0 Plus;8 GB;Various;1 GB RAM;5.0
-Prime 5.0;4 GB;Black, White;512 MB RAM;5.0
-Prime 4.0 Plus;4 GB;Various;512 MB RAM;,
-Gravity 4.0;8 GB;Black, White, Orange, Yellow, Green;1 GB RAM;4.02
-Rock 2.4;8 GB;Black, White, Red, Pink, Green, White&blue;ram;2.4
-Prime 5.5;16 GB;White;1 GB RAM;5.46
-Prime 3.5;4 GB;White, Black;512 MB RAM;3.5
-Prime 4.0;4 GB;White, Black, Blue;512 MB RAM;3.97
-Apollo Touch 3G;512 MB;White, Black, Blue;512 MB RAM;3.5
-Apollo 3G;512 MB;White, Black, Pink, Blue, Green, Red;512 MB RAM;2.6
-G7 Pro;4 GB;Black, Red, White, Gray;512 MB RAM;7.0
-G3;4 GB;Black, Red, White;512 MB RAM;7.0
-Prime 4.5;4 GB;Various;512 MB RAM;4.46
-Charm II;4 GB;Black, Red, Sliver, Blue, Pink;ram;2.0
-G10;4 GB;White, Black;ram;10.1
-Gravity Pro;4 GB;Black, White, Orange;1 GB RAM;4.02
-Sol III;4 GB;Black, Red, White, Blue;ram;4.0
-Hydro;4 GB;Black, White, Blue;ram;2.0
-Rock Bold;20 dialed;Black, White, Red, Blue;20 received;1.8
-G2;microSD;White, Black;up to 32 GB (dedicated slot);7.0
-Gprime Extreme;microSD;Black, White;up to 32 GB (dedicated slot);5.0
-G7;microSD;White, Black;up to 32 GB (dedicated slot);7.0
-G5;microSD;White/Black;up to 32 GB (dedicated slot);7.0
-Tropical 3;microSD;Black, Red, Blue, Silver, White;ram;1.8
-Quattro;microSD;White, Black, Silver, Blue, Red;ram;2.3
-Prime Plus;4 GB;Black, White;512 MB RAM;5.0
-Submarine;4 GB;Black, Orange, Gray;ram;2.0
-Charm;4 GB;Black, Red, Silver, Blue, Pink;ram;1.8
-Apollo Touch;microSD;White, Black, Pink, Blue, Green, Red, Yellow;up to 32 GB (dedicated slot);3.5
-Apollo;microSD;White, Black, Pink, Blue, Green, Red;up to 32 GB (dedicated slot);2.6
-Sol II;20 dialed;Black, Red, Pink, White, Blue;20 received;2.8
-Diamond Dust;16 MB ROM;White, Black, Pink, Blue, Violet;8 Mb RAM;2.2
-Blizzard;16 MB ROM;Various;ram;2.0
-Rock Lite;20 dialed;Black, Red, White, Red, Silver;20 received;1.8
-Cenior;20 dialed;Various;ram;1.8
-Acqua;20 dialed;Black, Orange, Green;ram;1.77
-Prime;512 MB;Black, White;512 MB RAM;5.2
-Rock Mini;20 dialed;Black, White, Red, Silver;20 received;1.8
-Twilight II;20 dialed;Black, Red, White;ram;2.4
-Fuego;20 dialed;Black, Red, White;ram;2.0
-Hurricane II;20 dialed;Black, White, Gold, Blue;ram;2.2
-Sol;20 dialed;Red, Pink, White, Blue;ram;2.4
-Twister;20 dialed;Black, Blue, White, Pink;ram;2.4
-Wave;20 dialed;Black/Red, Blue/White, Black/Silver, Black;ram;2.2
-Tornado II;20 dialed;Black, Red, Orange, Blue, Silver;ram;2.2
-Storm;20 dialed;Purple, Black, Red, Rose, Coffee, Blue, Yellow;ram;2.0
-Clima II;microSD;Black, Blue, White;up to 16 GB (dedicated slot);2.4
-Flurry II;microSD;Black, Red, Blue, Pink, White;ram;2.0
-Shine;512 MB;White, Black, Red;256 MB RAM;3.2
-Crystal;512 MB;Black, White;ram;3.5
-Comet II;512 MB;Black, Pink, Brown;ram;2.2
-Viento II;512 MB;Purple, Black, Red ;ram;2.0
-Rock;512 MB;Purple, Blue, Black, Red, Yellow;ram;1.77
-Tropical;512 MB;Black/Red, White/Black, Pink/Black;ram;1.8
-Tropical II;512 MB;Purple, Black, Red;ram;1.8
-Rainbow II;512 MB;Black, Blue, Red, Purple, Yellow;ram;1.8
-Rainbow;512 MB;Black, Blue, Red, Pink, White;ram;1.8
-Twilight;512 MB;Black, White, Red;ram;1.8
+Mash@#$%32 MB@#$%White, Black, Red, Gold@#$%32 MB RAM@#$%2.2@#$%Available. Released 2016, March
+G8@#$%32 MB@#$%White, Black, Blue@#$%ram@#$%7.0@#$%Available. Released 2015, September
+Prime 5.0 Plus@#$%8 GB@#$%Various@#$%1 GB RAM@#$%5.0@#$%Available. Released 2015, February
+Prime 5.0@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2015, February
+Prime 4.0 Plus@#$%4 GB@#$%Various@#$%512 MB RAM@#$%,@#$%Available. Released 2015, February
+Gravity 4.0@#$%8 GB@#$%Black, White, Orange, Yellow, Green@#$%1 GB RAM@#$%4.02@#$%Available. Released 2014, November
+Rock 2.4@#$%8 GB@#$%Black, White, Red, Pink, Green, White&blue@#$%ram@#$%2.4@#$%Available. Released 2014
+Prime 5.5@#$%16 GB@#$%White@#$%1 GB RAM@#$%5.46@#$%Discontinued
+Prime 3.5@#$%4 GB@#$%White, Black@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, July
+Prime 4.0@#$%4 GB@#$%White, Black, Blue@#$%512 MB RAM@#$%3.97@#$%Available. Released 2014, May
+Apollo Touch 3G@#$%512 MB@#$%White, Black, Blue@#$%512 MB RAM@#$%3.5@#$%Available. Released 2014, February
+Apollo 3G@#$%512 MB@#$%White, Black, Pink, Blue, Green, Red@#$%512 MB RAM@#$%2.6@#$%Available. Released 2014, February
+G7 Pro@#$%4 GB@#$%Black, Red, White, Gray@#$%512 MB RAM@#$%7.0@#$%Available. Released 2014
+G3@#$%4 GB@#$%Black, Red, White@#$%512 MB RAM@#$%7.0@#$%Available. Released 2014
+Prime 4.5@#$%4 GB@#$%Various@#$%512 MB RAM@#$%4.46@#$%Available. Released 2014, January
+Charm II@#$%4 GB@#$%Black, Red, Sliver, Blue, Pink@#$%ram@#$%2.0@#$%Available. Released 2014, January
+G10@#$%4 GB@#$%White, Black@#$%ram@#$%10.1@#$%Available. Released 2014, January
+Gravity Pro@#$%4 GB@#$%Black, White, Orange@#$%1 GB RAM@#$%4.02@#$%Available. Released 2013
+Sol III@#$%4 GB@#$%Black, Red, White, Blue@#$%ram@#$%4.0@#$%Available. Released 2013, November
+Hydro@#$%4 GB@#$%Black, White, Blue@#$%ram@#$%2.0@#$%Available. Released 2013
+Rock Bold@#$%20 dialed@#$%Black, White, Red, Blue@#$%20 received@#$%1.8@#$%Available. Released 2013
+G2@#$%microSD@#$%White, Black@#$%up to 32 GB (dedicated slot)@#$%7.0@#$%Available. Released 2013, July
+Gprime Extreme@#$%microSD@#$%Black, White@#$%up to 32 GB (dedicated slot)@#$%5.0@#$%Available. Released 2013
+G7@#$%microSD@#$%White, Black@#$%up to 32 GB (dedicated slot)@#$%7.0@#$%Available. Released 2013, April
+G5@#$%microSD@#$%White/Black@#$%up to 32 GB (dedicated slot)@#$%7.0@#$%Available. Released 2013, January
+Tropical 3@#$%microSD@#$%Black, Red, Blue, Silver, White@#$%ram@#$%1.8@#$%Available. Released 2012, November
+Quattro@#$%microSD@#$%White, Black, Silver, Blue, Red@#$%ram@#$%2.3@#$%Available. Released 2012, November
+Prime Plus@#$%4 GB@#$%Black, White@#$%512 MB RAM@#$%5.0@#$%Available. Released 2012, October
+Submarine@#$%4 GB@#$%Black, Orange, Gray@#$%ram@#$%2.0@#$%Available. Released 2012, October
+Charm@#$%4 GB@#$%Black, Red, Silver, Blue, Pink@#$%ram@#$%1.8@#$%Available. Released 2012, October
+Apollo Touch@#$%microSD@#$%White, Black, Pink, Blue, Green, Red, Yellow@#$%up to 32 GB (dedicated slot)@#$%3.5@#$%Available. Released 2012, October
+Apollo@#$%microSD@#$%White, Black, Pink, Blue, Green, Red@#$%up to 32 GB (dedicated slot)@#$%2.6@#$%Available. Released 2012, October
+Sol II@#$%20 dialed@#$%Black, Red, Pink, White, Blue@#$%20 received@#$%2.8@#$%Available. Released 2012, August
+Diamond Dust@#$%16 MB ROM@#$%White, Black, Pink, Blue, Violet@#$%8 Mb RAM@#$%2.2@#$%Available. Released 2012, August
+Blizzard@#$%16 MB ROM@#$%Various@#$%ram@#$%2.0@#$%Available
+Rock Lite@#$%20 dialed@#$%Black, Red, White, Red, Silver@#$%20 received@#$%1.8@#$%Available
+Cenior@#$%20 dialed@#$%Various@#$%ram@#$%1.8@#$%Available
+Acqua@#$%20 dialed@#$%Black, Orange, Green@#$%ram@#$%1.77@#$%Available. Released 2012, September
+Prime@#$%512 MB@#$%Black, White@#$%512 MB RAM@#$%5.2@#$%Available
+Rock Mini@#$%20 dialed@#$%Black, White, Red, Silver@#$%20 received@#$%1.8@#$%Available
+Twilight II@#$%20 dialed@#$%Black, Red, White@#$%ram@#$%2.4@#$%Available
+Fuego@#$%20 dialed@#$%Black, Red, White@#$%ram@#$%2.0@#$%Available. Released 2012, January
+Hurricane II@#$%20 dialed@#$%Black, White, Gold, Blue@#$%ram@#$%2.2@#$%Available. Released 2011, December
+Sol@#$%20 dialed@#$%Red, Pink, White, Blue@#$%ram@#$%2.4@#$%Available. Released Exp. release 2012, Q1
+Twister@#$%20 dialed@#$%Black, Blue, White, Pink@#$%ram@#$%2.4@#$%Available. Released Exp. release 2012, Q1
+Wave@#$%20 dialed@#$%Black/Red, Blue/White, Black/Silver, Black@#$%ram@#$%2.2@#$%Available. Released 2011, October
+Tornado II@#$%20 dialed@#$%Black, Red, Orange, Blue, Silver@#$%ram@#$%2.2@#$%Available. Released 2011, October
+Storm@#$%20 dialed@#$%Purple, Black, Red, Rose, Coffee, Blue, Yellow@#$%ram@#$%2.0@#$%Available. Released 2011, September
+Clima II@#$%microSD@#$%Black, Blue, White@#$%up to 16 GB (dedicated slot)@#$%2.4@#$%Available. Released 2011, December
+Flurry II@#$%microSD@#$%Black, Red, Blue, Pink, White@#$%ram@#$%2.0@#$%Available. Released 2011, September
+Shine@#$%512 MB@#$%White, Black, Red@#$%256 MB RAM@#$%3.2@#$%Available. Released 2011, July
+Crystal@#$%512 MB@#$%Black, White@#$%ram@#$%3.5@#$%Discontinued
+Comet II@#$%512 MB@#$%Black, Pink, Brown@#$%ram@#$%2.2@#$%Discontinued
+Viento II@#$%512 MB@#$%Purple, Black, Red @#$%ram@#$%2.0@#$%Available
+Rock@#$%512 MB@#$%Purple, Blue, Black, Red, Yellow@#$%ram@#$%1.77@#$%Discontinued
+Tropical@#$%512 MB@#$%Black/Red, White/Black, Pink/Black@#$%ram@#$%1.8@#$%Discontinued
+Tropical II@#$%512 MB@#$%Purple, Black, Red@#$%ram@#$%1.8@#$%Discontinued
+Rainbow II@#$%512 MB@#$%Black, Blue, Red, Purple, Yellow@#$%ram@#$%1.8@#$%Available. Released 2011, April
+Rainbow@#$%512 MB@#$%Black, Blue, Red, Pink, White@#$%ram@#$%1.8@#$%Discontinued
+Twilight@#$%512 MB@#$%Black, White, Red@#$%ram@#$%1.8@#$%Discontinued

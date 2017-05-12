@@ -2,11 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Brand;
-use App\Mobile;
 use App\Shop;
-use App\Storage;
-use App\User;
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Foundation\Validation\ValidatesRequests;
@@ -14,6 +10,7 @@ use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Session;
+use Illuminate\Support\Facades\View;
 
 class Controller extends BaseController
 {
@@ -22,13 +19,19 @@ class Controller extends BaseController
     public $shopId;
     public $currentShop;
     public $hasShops;
+    public $isbLat;
+    public $isbLong;
     //protected $brands;
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
     public function __construct()
     {
         date_default_timezone_set('Asia/Karachi');
+        $this->isbLat = 33.7294;
+        $this->isbLong = 73.0931;
+
         if(Auth::check()) {
+            //dd("logged in");
             $this->userId = Auth::user()->id;
             $this->authenticated = true;
             $shopCount = Auth::user()->shops()->count();
@@ -58,7 +61,11 @@ class Controller extends BaseController
         }
         else
             $this->authenticated = false;
-
+        $outOfStockItems = Shop::where('id', $this->shopId)->first();
+        if($outOfStockItems){
+            $outOfStockItems = $outOfStockItems->products()->where('product_data.stock', 0)->get();
+        }
+        View::share('outOfStock', $outOfStockItems);
         //create the directory
 
 
@@ -206,9 +213,5 @@ class Controller extends BaseController
     public function createDirectory($shopName, $category){
         if(!file_exists(public_path().'/uploads/products/'.$category.'/'.$shopName))
             File::makeDirectory(public_path().'/uploads/products/'.$category.'/'.$shopName, 0777, true);
-    }
-
-    public function getPaginationData(){
-
     }
 }
