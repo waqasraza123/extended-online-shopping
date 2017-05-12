@@ -20,7 +20,6 @@ class ChangeColorProductColorCol extends Migration
             if(!Schema::hasColumn('color_products', 'color_id')){
                 $table->unsignedInteger('color_id')->first();
             }
-            $table->foreign('color_id')->references('id')->on('colors');
         });
     }
 
