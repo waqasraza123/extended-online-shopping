@@ -18,17 +18,17 @@ class AddBrandIdToMobilesLaptops extends Migration
                 $table->unsignedInteger('brand_id');
                 $table->foreign('brand_id')->references('id')->on('brands');
             }
-            if(!Schema::hasColumn('mobiles', 'brand')){
+            if(Schema::hasColumn('mobiles', 'brand')){
                 $table->dropColumn('brand');
             }
         });
 
         Schema::table('laptops', function(Blueprint $table){
-            if(!Schema::hasColumn('mobiles', 'brand_id')){
+            if(!Schema::hasColumn('laptops', 'brand_id')){
                 $table->unsignedInteger('brand_id');
                 $table->foreign('brand_id')->references('id')->on('brands');
             }
-            if(!Schema::hasColumn('mobiles', 'brand')){
+            if(Schema::hasColumn('laptops', 'brand')){
                 $table->dropColumn('brand');
             }
         });
