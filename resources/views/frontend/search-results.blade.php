@@ -5,7 +5,9 @@
     @include('partials.map-modal')
     <div class="row clearfix">
         <h4 class="text-center">
-            @if(!empty($marketLocation) && $marketLocationMatchedCount == 0)
+            @if($radius != 0 && $resultsCount == 0)
+                0 Results Within {{$radius}} Km
+            @elseif((!empty($marketLocation) && $marketLocationMatchedCount == 0))
                 Not Available in {{$marketLocation}}
             @elseif(!empty($marketLocation) && $marketLocationMatchedCount > 0)
                 Available in {{$marketLocation}}

@@ -16,6 +16,7 @@
 
     <div class="col-sm-12 form-group-sm margin-top-20">
         <label class="text-white" for="radius">Select Radius(Km)</label>
+        <p class="text-white">Ignores Market Location</p>
         <div class="range-slider">
             <input class="range-slider__range" type="range" value="0" min="0" max="50" name="radius">
             <span class="range-slider__value">0</span>

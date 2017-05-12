@@ -114,7 +114,6 @@ class SearchController extends Controller
             //if distance is null then
             //mobile is not available on
             //local shops
-            //dd($radius);
             if($radius != "0" && isset($distance)){
                 //if shop and user distance
                 //if greater than
@@ -125,11 +124,6 @@ class SearchController extends Controller
                     $addMobileSinceWithinRadiusLimit = true;
                 }
             }
-            //user did not specified the radius
-            //at all
-            elseif ($radius == "0"){
-                $addMobileSinceWithinRadiusLimit = true;
-            }
 
             if(!empty($l) && !empty($o)){
                 $available = 'both';
@@ -139,7 +133,10 @@ class SearchController extends Controller
             elseif (!empty($l))
                 $available = 'local';
 
-            if($addMobileSinceWithinRadiusLimit && $marketLocationMatched){
+            //defaults to true if radius was
+            //not specified or mobile location
+            //falls within radius range
+            if($radius !== '0' && $addMobileSinceWithinRadiusLimit){
                 $mobile->shop_lat = $shopLat;
                 $mobile->shop_long = $shopLong;
                 $data[$index]['mobile'] = $mobile;
@@ -148,6 +145,32 @@ class SearchController extends Controller
                 $data[$index]['available'] = $available;
                 $data[$index]['location'] = $l;
                 $data[$index]['distance'] = $distance;
+            }
+            //user did not specify the radius
+            elseif ($radius == '0'){
+                //user has specified market location
+                //then add only those results
+                //which are matched
+                if($marketLocation != null && $marketLocationMatched){
+                    $mobile->shop_lat = $shopLat;
+                    $mobile->shop_long = $shopLong;
+                    $data[$index]['mobile'] = $mobile;
+                    $data[$index]['data'] = $mobileData;
+                    $data[$index]['price'] = $price;
+                    $data[$index]['available'] = $available;
+                    $data[$index]['location'] = $l;
+                    $data[$index]['distance'] = $distance;
+                }
+                elseif ($marketLocation == null){
+                    $mobile->shop_lat = $shopLat;
+                    $mobile->shop_long = $shopLong;
+                    $data[$index]['mobile'] = $mobile;
+                    $data[$index]['data'] = $mobileData;
+                    $data[$index]['price'] = $price;
+                    $data[$index]['available'] = $available;
+                    $data[$index]['location'] = $l;
+                    $data[$index]['distance'] = $distance;
+                }
             }
         }
         //Get current page form url e.g. &page=6
@@ -176,7 +199,8 @@ class SearchController extends Controller
                 'marketLocation' => $marketLocation,
                 'userLocation' => $userLocation,
                 'marketLocationMatchedCount' => $marketLocationMatchedCount,
-                'resultsCount' => $count
+                'resultsCount' => $count,
+                'radius' => $radius
             ]);
     }
 
