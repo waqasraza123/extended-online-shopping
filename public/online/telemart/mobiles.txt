@@ -453,3 +453,23 @@ Lenovo;Lenovo Vibe C 2020 With Official Warranty;;;10,959;http://www.telemart.pk
 Lenovo;Lenovo Vibe K5 Plus 4G Dual Sim with Official Warranty;;;17,829;http://www.telemart.pk/lenovo-vibe-k5-plus-in-pakistan.html
 Lenovo;Lenovo Vibe P1 4G 32GB With Official Warranty;;;31,299;http://www.telemart.pk/lenovo-vibe-p1-in-pakistan.html
 Lenovo;Lenovo Vibe S1 32GB With Official Warranty;;;33,679;http://www.telemart.pk/lenovo-vibe-s1-in-pakistan.html
+Innjoo;Innjoo 3 4G 64GB Dual Sim;;;30,649;http://www.telemart.pk/innjoo-3-4g-in-pakistan.html
+Innjoo;Innjoo Fire 2 Air LTE 4G Dual Sim;;;11,539;http://www.telemart.pk/innjoo-fire-2-air-in-pakistan.html
+InnJoo;InnJoo Fire 2 LTE Dual Sim;;;13,979;http://www.telemart.pk/innjoo-fire-2-lte-in-pakistan.html
+Innjoo;Innjoo Fire 3 Air LTE Dual Sim;;;13,219;http://www.telemart.pk/innjoo-fire-3-air-in-pakistan.html
+Innjoo;Innjoo Fire 3 LTE 16GB Dual Sim;;;15,049;http://www.telemart.pk/innjoo-fire-3-lte-in-pakistan.html
+Innjoo;Innjoo Halo Plus 3G 8GB Dual Sim;;;10,629;http://www.telemart.pk/innjoo-halo-plus-in-pakistan.html
+Innjoo;Innjoo Max 3 LTE Dual Sim;;;16,269;http://www.telemart.pk/innjoo-max-3-in-pakistan.html
+Innjoo;Innjoo Max 3 Pro LTE Dual Sim;;;19,629;http://www.telemart.pk/innjoo-max-3-pro-in-pakistan.html
+Alcatel;Alcatel 5010U Pixi 4 3G With Official Warranty;;;8,919;http://www.telemart.pk/alcatel-5010u-in-pakistan.html
+Alcatel;Alcatel 5051D Pop 4 4G With Official Warranty;;;12,419;http://www.telemart.pk/alcatel-5051d-in-pakistan.html
+Alcatel;Alcatel 6070K Idol 4S 4G VR With Official Warranty;;;44,999;http://www.telemart.pk/alcatel-6070k-idol-4s-in-pakistan.html
+Alcatel;Alcatel Idol 3 4G With Official Warranty;;;22,279;http://www.telemart.pk/alcatel-idol-3-black-in-pakistan.html
+Alcatel;Alcatel Idol 4 With Official Warranty ;;;26,319;http://www.telemart.pk/alcatel-idol-4-in-pakistan.html
+Alcatel;Alcatel Pixi 3 3G 4GB Black;;;9,249;http://www.telemart.pk/alcatel-pixi-3-in-pakistan.html
+Alcatel;Alcatel Pixi 3 3G Black;;;8,489;http://www.telemart.pk/alcatel-pixi-3-3g-black-in-pakistan.html
+Alcatel;Alcatel Pop 4 Plus With Official Warranty;;;13,789;http://www.telemart.pk/alcatel-pop-4-in-pakistan.html
+Alcatel;Alcatel Pop Star 3G Dual Sim With Official Warranty;;;10,329;http://www.telemart.pk/alcatel-pop-star-gold-in-pakistan.html
+Alcatel;Alcatel Pop Star 4G Dual Sim With Official Warranty;;;12,269;http://www.telemart.pk/alcatel-pop-star-4g-dual-sim-in-pakistan.html
+Alcatel;Alcatel Pop Up 4G Dual Sim With Official Warranty;;;14,399;http://www.telemart.pk/alcatel-pop-up-in-pakistan.html
+Alcatel;Alcatel X1 4G Dual Sim With Official Warranty;;;17,999;http://www.telemart.pk/alcatel-x1-in-pakistan.html
