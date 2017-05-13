@@ -19,7 +19,7 @@ class SalesController extends Controller
     public function showSales(Controller $controller){
         $shopId = $controller->shopId;
 
-        return view('sales.index');
+        return view('sales.index', 'shopId');
     }
 
 
@@ -85,7 +85,6 @@ class SalesController extends Controller
      * @return \Illuminate\Http\RedirectResponse
      */
     public function sellProduct(Request $request){
-
         $this->validate($request, [
             'price' => 'required|numeric',
             'quantity' => 'required|numeric',

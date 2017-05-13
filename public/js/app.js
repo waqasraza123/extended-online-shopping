@@ -1148,7 +1148,7 @@ $(document).ready(function () {
             lon: 73.0931,
             title: 'Islamabad',
             html: '<h3>Islamabad, Pakistan</h3>',
-            icon: 'http://maps.google.com/mapfiles/markerA.png',
+            icon: '/img/marker.png',
             animation: google.maps.Animation.DROP
         }]
         var map = new Maplace();
@@ -1159,6 +1159,10 @@ $(document).ready(function () {
             show_markers: true,
             draggable: false,
             visualRefresh: true,
+            map_options: {
+                mapTypeId: google.maps.MapTypeId.ROADMAP,
+                zoom: 12
+            },
             directions_options: {
                 travelMode: google.maps.TravelMode.DRIVING,
                 unitSystem: google.maps.UnitSystem.METRIC,
@@ -1192,23 +1196,23 @@ $(document).ready(function () {
                             lat: userLat == "" ? 33.7294 : userLat,
                             lon: userLong == "" ? 73.0931 : userLong,
                             title: 'Your Location',
-                            html: '<h3>Your Location</h3>',
-                            icon: 'http://maps.google.com/mapfiles/markerA.png',
+                            icon: '/img/user-marker.png',
                             animation: google.maps.Animation.DROP
                         },
                         {
                             lat: data.lat,
                             lon: data.long,
                             title: 'Shop Location',
-                            html: '<h3>Shop Location</h3>',
-                            icon: 'http://maps.google.com/mapfiles/markerB.png',
-                            show_infowindow: false
+                            icon: '/img/shop-marker.png',
+                            show_infowindow: false,
+                            animation: google.maps.Animation.DROP
                         }
                     ]
 
                     if (map) {
                         map.RemoveLocations(1);
                         map.Load({
+                            show_markers: true,
                             locations: LocsA,
                             type: 'directions',
                         });
@@ -1263,6 +1267,19 @@ $(document).ready(function () {
     if(radiusSlider.length){
         radiusSlider.slider()
     }
+    var rangeSlider = function(){
+        var slider = $('.range-slider'),
+            range = $('.range-slider__range'),
+            value = $('.range-slider__value');
+
+        range.on('input', function(){
+            range.val(this.value)
+            console.log(this.value);
+            $(this).parent().next().find(".range-slider__value").html(this.value);
+        });
+    };
+
+    rangeSlider();
     /*if(searchBar.length){
         searchBar.select2({
             placeholder: 'Search',

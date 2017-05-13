@@ -9,17 +9,16 @@
     <header class="main-header">
         @include('layouts.partials.nav')
     </header>
-    <aside class="main-sidebar">
-        @include('layouts.partials.frontend-sidebar')
-    </aside>
-    <div class="content-wrapper container-fluid">
+    <div class="content-wrapper container-fluid" style="margin-left: 0">
         @include('partials.preloader')
         @include('layouts.partials.content-header')
+        @yield('map')
         <div class="content">
+            @include('layouts.partials.frontend.search-box')
             @yield('content')
         </div>
     </div>
-    <footer class="main-footer">
+    <footer class="main-footer" style="margin-left: 0">
         @include('layouts.partials.footer')
     </footer>
 </div>

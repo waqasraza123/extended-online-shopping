@@ -27,4 +27,8 @@ class Shop extends Model
     public function visits(){
         return $this->hasMany('App\Visit', 'shop_id');
     }
+
+    public function sales(){
+        return $this->hasMany('App\Sales');
+    }
 }

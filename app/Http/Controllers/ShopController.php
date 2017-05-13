@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\ShopSettingsFormRequest;
 use App\Http\Requests\StoreShopCredentialsRequest;
 use App\Shop;
 use App\User;
@@ -16,6 +17,7 @@ class ShopController extends Controller
     public function __construct()
     {
         $this->middleware(['auth', 'verified']);
+        $this->middleware(['has-shop'], ['only' => ['showShopSettings', 'updateShopSettings']]);
     }
 
 
@@ -86,7 +88,45 @@ class ShopController extends Controller
     }
 
 
-    public function showShopSettings(){
 
+    /**
+     * shows settings
+     * for current shop
+     *
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public function showShopSettings(){
+        $controller = new Controller();
+        $shopId = $controller->shopId;
+        $shop = Shop::find($shopId);
+
+        return view('user.shop-settings', compact('shop'));
+    }
+
+
+
+    /**
+     * update the shop settings
+     *
+     * @param ShopSettingsFormRequest $request
+     * @return \Illuminate\Http\RedirectResponse
+     */
+    public function updateShopSettings(ShopSettingsFormRequest $request){
+        $controller = new Controller();
+        $shopId = $controller->shopId;
+        $data = $request->all();
+        $shop = Shop::find($shopId);
+        $shop->shop_name = $data['shop_name'];
+        $shop->phone = $data['phone'];
+        $shop->location = $data['location'];
+        $shop->lat = $data['lat'];
+        $shop->long = $data['long'];
+        $shop->market_plaza = $data['market_plaza'];
+        $shop->city = $data['city'];
+        $shop->user_id = Auth::user()->id;
+
+        $shop->save();
+
+        return redirect()->back()->with('success', 'Shop Settings Updated');
     }
 }

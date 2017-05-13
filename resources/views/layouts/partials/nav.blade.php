@@ -24,7 +24,7 @@
             @else
                 @if(Auth::check() && isset($outOfStock))
                 <!-- Messages: style can be found in dropdown.less-->
-                    <li class="dropdown messages-menu">
+                    {{--<li class="dropdown messages-menu">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                             <i class="fa fa-envelope-o"></i>
                             <span class="label label-success">4</span>
@@ -37,7 +37,7 @@
                                     <li><!-- start message -->
                                         <a href="#">
                                             <div class="pull-left">
-                                                <img src="/uploads/user.jpg" class="img-circle" alt="User Image">
+                                                <img src="{{isset(Auth::user()->image) ? Auth::user()->image: asset('/user.png')}}" class="img-circle" alt="User Image">
                                             </div>
                                             <h4>
                                                 Support Team
@@ -51,7 +51,7 @@
                             </li>
                             <li class="footer"><a href="#">See All Messages</a></li>
                         </ul>
-                    </li>
+                    </li>--}}
                     <!-- Notifications: style can be found in dropdown.less -->
                     <li class="dropdown notifications-menu">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -80,7 +80,7 @@
                             <li class="footer"><a href="{{route('mobile.out_of_stock')}}">View all</a></li>
                         </ul>
                     </li>
-                    <!-- Tasks: style can be found in dropdown.less -->
+                    {{--<!-- Tasks: style can be found in dropdown.less -->
                     <li class="dropdown tasks-menu">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                             <i class="fa fa-flag-o"></i>
@@ -111,18 +111,18 @@
                                 <a href="#">View all tasks</a>
                             </li>
                         </ul>
-                    </li>
+                    </li>--}}
                 @endif
                 <!-- User Account: style can be found in dropdown.less -->
                 <li class="dropdown user user-menu">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                        <img src="/uploads/user.jpg" class="user-image" alt="User Image">
+                        <img src="{{isset(Auth::user()->image) ? Auth::user()->image: asset('/user.png')}}" class="user-image" alt="User Image">
                         <span class="hidden-xs">{{Auth::user()->name}}</span>
                     </a>
                     <ul class="dropdown-menu">
                         <!-- User image -->
                         <li class="user-header">
-                            <img src="/uploads/user.jpg" class="img-circle" alt="User Image">
+                            <img src="{{isset(Auth::user()->image) ? Auth::user()->image: asset('/user.png')}}" class="img-circle" alt="User Image">
 
                             <p>
                                 {{Auth::user()->name}}
@@ -139,7 +139,7 @@
                                     <a href="{{route('shop.settings')}}">Shop Settings</a>
                                 </div>
                                 <div class="col-xs-4 text-center">
-                                    <a href="#">Friends</a>
+                                    <a href="{{route('register-shop')}}">Register Shop</a>
                                 </div>
                             </div>
                             <!-- /.row -->

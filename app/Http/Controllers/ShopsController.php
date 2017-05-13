@@ -110,4 +110,15 @@ class ShopsController extends Controller
             ]);
         }
     }
+
+
+    /**
+     * return shops info
+     * for homepage map
+     *
+     * @return Collection|static[]
+     */
+    public function shopsInfoForMap(){
+        return Shop::where('lat', '<>', null)->get();
+    }
 }

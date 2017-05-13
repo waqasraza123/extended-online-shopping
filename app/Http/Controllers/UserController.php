@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Controllers\Auth\LoginController;
+use App\Http\Requests\UserSettingsFormRequest;
 use App\User;
 use App\UserVerification;
 use Carbon\Carbon;
@@ -67,6 +68,8 @@ class UserController extends Controller
         $this->sendResponse($exists, $request);
     }
 
+
+
     /**
      * @param $id
      * @return $this
@@ -102,6 +105,8 @@ class UserController extends Controller
         }
     }
 
+
+
     /**
      * make the user verified
      * after token authentication
@@ -125,19 +130,21 @@ class UserController extends Controller
      */
     public function showProfile(){
         $user = Auth::user();
-        return view('user.profile', compact('user'));
+        $controller = new Controller();
+        $shopId = $controller->shopId;
+        $currentShopProductsCount = $user->shops()->where('shops.id', $shopId)->first()->products()->count();
+        return view('user.profile', compact('user', 'currentShopProductsCount', 'shopId'));
     }
 
 
-
-    public function updateProfile(Request $request){
-        //dd($request->all());
+    /**
+     * update the shop settings
+     *
+     * @param UserSettingsFormRequest $request
+     * @return \Illuminate\Http\RedirectResponse
+     */
+    public function updateProfile(UserSettingsFormRequest $request){
         $user = Auth::user();
-        $this->validate($request, [
-            'name' => 'required|max:255',
-            'user_name' => 'required|email|max:255|unique:users,email_phone,'.$user->id,
-            'phone' => 'phone|max:11|unique:users,phone,'.$user->id
-        ]);
         $data = $request->all();
         //move the image
         if(Input::file('image'))
@@ -153,11 +160,12 @@ class UserController extends Controller
         $user->email_phone = $data['user_name'];
         $user->email = $data['email'];
         $user->phone = $data['phone'];
+        $user->about = $data['about'];
         if(isset($data['password'])) {
             $user->password = bcrypt($data['password']);
         }
 
         $user->save();
-        return redirect()->back();
+        return redirect()->back()->with('success', 'Settings has been Updated.');
     }
 }

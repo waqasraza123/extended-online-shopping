@@ -13,11 +13,15 @@ class UpdateMobilesTable extends Migration
      */
     public function up()
     {
+        Schema::disableForeignKeyConstraints();
+
+
         Schema::table('mobiles', function (Blueprint $table) {
             $table->dropColumn(['link', 'old_price', 'current_price', 'discount', 'shop_id', 'local_online', 'stock']);
             $table->unsignedInteger('storage');
             $table->string('color');
         });
+        Schema::enableForeignKeyConstraints();
     }
 
     /**

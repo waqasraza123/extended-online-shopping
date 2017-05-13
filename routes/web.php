@@ -36,6 +36,7 @@ Route::get('/products/mobiles/out-of-stock', 'MobileController@outOfStock')->nam
 Route::get('/users/user/profile', 'UserController@showProfile')->name('user.profile');
 Route::post('/users/user/profile', 'UserController@updateProfile')->name('user.profile.update');
 Route::get('/users/user/shop/settings', 'ShopController@showShopSettings')->name('shop.settings');
+Route::post('/users/user/shop/settings', 'ShopController@updateShopSettings')->name('shop.settings.update');
 
 /**
  * search routes
@@ -76,6 +77,7 @@ Route::get('/login/email-verification/{id}', 'UserController@showVerificationFor
  */
 Route::get('/shops', 'ShopsController@index')->name('shops.index');
 Route::get('/shops/single/{shopId}', 'ShopsController@viewShop')->name('shops.single');
+Route::post('/shops/maps', 'ShopsController@shopsInfoForMap');
 
 
 /**
@@ -103,8 +105,5 @@ Route::get('test', function (){
             \App\Color::find($c->id)->update(['color' => $c->color]);
         }
     }*/
-    //return \Illuminate\Support\Facades\Auth::user();
-
-    $a = false;
-    echo isset($a);
+    return \Illuminate\Support\Facades\Auth::user();
 });

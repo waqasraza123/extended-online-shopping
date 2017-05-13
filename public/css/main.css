@@ -279,3 +279,43 @@ header [role="progressbar"][aria-busy="true"]::after {
 }
 .invisible{visibility: hidden}
 .black{color: #333}
+.profile-user-img {
+    height: 100px;
+}
+.user-panel>.image>img {
+    height: 50px;
+    width: 50px !important;
+}
+.theme-blue .navbar {
+    background-color: #00A65A;
+}
+.search-box {
+    padding: 30px;
+    background: rgb(241, 245, 247);
+    border: 3px solid #fff;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.margin-top-50{margin-top: 50px}
+.search-box .range-slider__value {
+    display: inline-block;
+    position: relative;
+    width: 25px;
+    color: #fff;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 3px;
+    background: #00A65A;
+    padding: 5px 3px;
+    top: -10px;
+    margin-left: 0px !important;
+    left: 0px !important;
+}
+.search-box .range-slider {
+    margin: 50px 0 0 0%;
+    width: 98%;
+}
+.content-wrapper{background-color: #fff;}
+.box.box-widget.widget-user {
+    min-height: 300px;
+}

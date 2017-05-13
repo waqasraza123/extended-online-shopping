@@ -6,7 +6,7 @@
     <div class="row clearfix">
         <h4 class="text-center">
             @if($radius != 0 && $resultsCount == 0)
-                0 Results Within {{$radius}} Km
+                Zero Results Within {{$radius}} Km
             @elseif((!empty($marketLocation) && $marketLocationMatchedCount == 0))
                 Not Available in {{$marketLocation}}
             @elseif(!empty($marketLocation) && $marketLocationMatchedCount > 0)

@@ -22,11 +22,11 @@ class AppServiceProvider extends ServiceProvider
         //add validation rule for phone numbers
         Validator::extend('phone', function($attribute, $value, $parameters)
         {
-            if(preg_match("/^[0]{1}[3]{1}[0-6]{1}[0-9]{1}[0-9]{7}$/", str_replace("-", "", $value))){
+            if(preg_match("/^[0]{1}[3]{1}[0-6]{1}[0-9]{1}-[0-9]{7}$/", $value)){
                 return true;
             }
 
-            if(preg_match('/^[0]{1}[0-9]{9}$/', str_replace("-", "", $value))){
+            if(preg_match('/^[0]{1}[0-9]{2}-[0-9]{7}$/', $value)){
                 return true;
             }
 

@@ -6,28 +6,34 @@
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-20">
             <div>
                 <div class="body">
-                    @foreach($mobiles->chunk(4) as $m)
-                        <div class="row">
-                            @foreach($m as $mobile)
-                                <a href="{{route('show-mobile', ['brand' => $mobile->mobile->brand->name, 'id' => $mobile->mobile->id])}}">
-                                    <div class="col-sm-6 col-md-3 product mobile">
-                                        <div class="white-block product-box">
-                                            <div class="white-block-border">
-                                                <div class="thumbnail image_outer">
-                                                    <img width="120px" height="90px" src="{{$placeholderImage}}" data-src="{{$mobile->mobile->image}}">
-                                                </div>
-                                                <div class="caption product-data">
-                                                    <p class="text-left">{{$mobile->mobile->brand->name}}</p>
-                                                    <b class="margin-0">{{$mobile->mobile->title}}</b><br>
-                                                    <span class="margin-0">{{$mobile->current_price == 999999999999 ? 'Not Available' : 'Rs - ' . $mobile->current_price}}</span><br>
+                    @if($mobiles->count() > 0)
+                        @foreach($mobiles->chunk(4) as $m)
+                            <div class="row">
+                                @foreach($m as $mobile)
+                                    <a href="{{route('show-mobile', ['brand' => $mobile->mobile->brand->name, 'id' => $mobile->mobile->id])}}">
+                                        <div class="col-sm-6 col-md-3 product mobile">
+                                            <div class="white-block product-box">
+                                                <div class="white-block-border">
+                                                    <div class="thumbnail image_outer">
+                                                        <img width="120px" height="90px" src="{{$placeholderImage}}" data-src="{{$mobile->mobile->image}}">
+                                                    </div>
+                                                    <div class="caption product-data">
+                                                        <p class="text-left">{{$mobile->mobile->brand->name}}</p>
+                                                        <b class="margin-0">{{$mobile->mobile->title}}</b><br>
+                                                        <span class="margin-0">{{$mobile->current_price == 999999999999 ? 'Not Available' : 'Rs - ' . $mobile->current_price}}</span><br>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </a>
-                            @endforeach
+                                    </a>
+                                @endforeach
+                            </div>
+                        @endforeach
+                    @else
+                        <div class="callout callout-danger">
+                            <h3>No Products Added Yet.</h3>
                         </div>
-                    @endforeach
+                    @endif
                     @if($mobiles instanceof \Illuminate\Pagination\LengthAwarePaginator)
                         <div class="pagination-wrapper"> {!! $mobiles->render() !!} </div>
                     @endif
