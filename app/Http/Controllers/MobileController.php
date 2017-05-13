@@ -111,13 +111,11 @@ class MobileController extends Controller
         $destinationPath = '/uploads/products/mobiles'; // upload path
         $fileName = null;
         $controller = new Controller();
-
         if (Input::file('product_image')) {
             $extension = Input::file('product_image')->getClientOriginalExtension(); // getting image extension
             $fileName = str_replace(" ", "_", strtolower($data['title'].' '.$controller->currentShop->shop_name.'.'.$extension)); // renameing image
             Input::file('product_image')->move(public_path().$destinationPath, $fileName);
         }
-
         foreach ($data['colors'] as $key => $c){
             if(!is_numeric($c)){
                 $c = ucwords($c);
@@ -130,7 +128,6 @@ class MobileController extends Controller
                 array_push($data['colors'], $color->id);
             }
         }
-
         $mobileData  = ProductData::create([
             'link' => '#',
             'current_price' => $data['current_price'], //discount price is new price so it would be current price
@@ -143,14 +140,11 @@ class MobileController extends Controller
         ]);
         //filter the array for string color values
         $data['colors'] = array_filter($data['colors'], function($var){return (is_numeric($var));});
-
-
         //sync storage
         if($data['storage']){
             $mobileData->storages()->sync($data['storage']);
         }
         $mobileData->colors()->sync($data['colors']);
-
         if($mobileData){
             return redirect(route('mobile.create'))->with('success', 'Mobile Added!');
         }

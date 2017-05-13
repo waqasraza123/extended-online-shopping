@@ -52,12 +52,6 @@ class APIController extends Controller
      */
     public function returnSinglePhoneData($id){
 
-        /*$temp = collect([1499, 1457, 1472, 1507, 1523, 1587, 1596, 1629, 1641, 1696, 1720, 1752, 1746, 1762, 1768, 1774]);
-        $completeData = array();*/
-
-        /*foreach ($temp as $t){*/
-            //$id = $t;
-
         $mobile = Mobile::find($id);
 
         $mobileData = ProductData::select('shop_id', 'mobile_id')
@@ -96,11 +90,22 @@ class APIController extends Controller
         return response()->json($finalArr);
     }
 
+
+    /**
+     * @param $id
+     * @return \Illuminate\Http\JsonResponse
+     */
     public function returnShopData($id){
         $shop = Shop::find($id);
         return response()->json($shop);
     }
 
+
+
+    /**
+     * @param $url
+     * @return mixed
+     */
     public function setImageUrl($url){
 
         $fullData = '';

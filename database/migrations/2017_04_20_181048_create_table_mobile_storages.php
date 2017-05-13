@@ -13,15 +13,17 @@ class CreateTableMobileStorages extends Migration
      */
     public function up()
     {
-        Schema::create('mobile_storages', function (Blueprint $table) {
-            $table->increments('id');
-            $table->unsignedInteger('storage_id');
-            $table->unsignedInteger('product_id');
+        if(!Schema::hasTable('mobile_storages')){
+            Schema::create('mobile_storages', function (Blueprint $table) {
+                $table->increments('id');
+                $table->unsignedInteger('storage_id');
+                $table->unsignedInteger('product_id');
 
-            $table->foreign('storage_id')->references('id')->on('storages');
-            $table->foreign('product_id')->references('id')->on('product_data');
-            $table->timestamps();
-        });
+                $table->foreign('storage_id')->references('id')->on('storages');
+                $table->foreign('product_id')->references('id')->on('product_data');
+                $table->timestamps();
+            });
+        }
     }
 
     /**
