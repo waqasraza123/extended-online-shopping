@@ -41,20 +41,10 @@ class RegisterController extends Controller
     public function __construct()
     {
         $this->middleware('guest');
-        //$this->shopController = new ShopController();
     }
 
-    /**
-     * Get a validator for an incoming registration request.
-     *
-     * @param  Request  $request
-     * @return \Illuminate\Contracts\Validation\Validator
-     */
-    protected function validator(StoreUserRequest $request)
-    {
-        $data = $request->all();
-        $errors = array();
-    }
+
+
     /**
      * Create a new user instance after a valid registration.
      *
