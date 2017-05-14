@@ -102,10 +102,9 @@ class MobileController extends Controller
 
     /**
      * @param SaveMobileRequest $request
-     * @param \App\Http\Controllers\Controller $controller
      * @return \Illuminate\Http\RedirectResponse
      */
-    public function store(SaveMobileRequest $request, Controller $controller)
+    public function store(SaveMobileRequest $request)
     {
         $data = $request->all();
         $destinationPath = '/uploads/products/mobiles'; // upload path
@@ -366,39 +365,9 @@ class MobileController extends Controller
          */
         $data = array();
 
-        /*$ids = array();
-        foreach ($mobiles as $index => $m){
-            array_push($ids, $m->id);
-        }
-        $colorProducts = DB::table('color_products')
-            ->where('color_products_type', 'App\Mobile')
-            ->whereIn('color_products_id', $ids)
-            ->get();
-
-        $colorProductsIds = array();
-        foreach ($colorProducts as $colorProduct){
-            array_push($colorProductsIds, $colorProduct->color_id);
-        }
-
-        $middleStorages = DB::table('mobile_storage')->whereIn('mobile_id', $ids)->get();
-        $middleStoragesIds = array();
-        foreach($middleStorages as $middleStorage){
-            array_push($middleStoragesIds, $middleStorage->storage_id);
-        }*/
-
-        //combine all data sets into one array
-        //$colors = Color::whereIn('id', $colorProductsIds)->get();
-        //$storages = Storage::whereIn('id', $middleStoragesIds)->get();
-
         foreach ($mobiles as $index => $m){
             $data[$index]['id'] = $m->id;
             $data[$index]['title'] = $m->title;
-            /*$data[$index]['colors'] = $colors
-                ->whereIn('id', $colorProducts->where('color_products_id', $m->id)->pluck('color_id')->all())
-                ->pluck('color', 'id')->all();
-            $data[$index]['storages'] = $storages
-                ->whereIn('id', $middleStorages->where('mobile_id', $m->id)->pluck('storage_id')->all())
-                ->pluck('storage', 'id')->all();*/
         }
         $data = collect($data);
         return $data;
@@ -416,13 +385,8 @@ class MobileController extends Controller
             'current_price' => 'required'
         ]);
         $shopId = $controller->shopId;
-        $currentShop = $controller->currentShop;
         $productDataId = null;
-
         $data = $request->all();
-        $brandId = $data['brands'];
-        $localOnline = $data['local_online'];
-
         //arrays
         $titles = $data['title'];
         $currentPrice = $data['current_price'];
@@ -538,10 +502,6 @@ class MobileController extends Controller
             };
         }
         usort($excelData, build_sorter('brand'));
-
-        $colors = $dataController->colors;
-        $skipArray = array();
-        //dd($onlineLines);
         $dbMobiles = null;
         foreach($excelData as $ed){
             $ed = array_values($ed);
@@ -555,16 +515,6 @@ class MobileController extends Controller
             if($dbMobiles){
                 $dbMobiles = Brand::find($dbMobiles->id)->mobiles()->where('mobiles.title', '<>', '')->get();
             }
-            //if brand name not already in array
-            //then fetch the data
-            //since brand has changed
-            /*if(!(DB::table('temp')->where('brand', $brandName)->where('shop', $shopName)->first())){
-                $dbMobiles = Brand::where('name', $brandName)->first();
-                if($dbMobiles){
-                    $dbMobiles = Brand::find($dbMobiles->id)->mobiles()->where('mobiles.title', '<>', '')->get();
-                }
-                DB::table('temp')->insert(['brand' => $brandName, 'shop' => $shopName]);
-            }*/
             //if brand name is in the array already
             //then keep on reading the data
             //loop through database mobiles
@@ -629,15 +579,6 @@ class MobileController extends Controller
                                 }
                             }
                         }
-
-                        /*if(!($exactMatch == true || $overallPass == true || $yearPass == true)) {
-                            foreach ($colors as $c){
-                                $c = preg_replace('/\\W/', '', $c);
-                                if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($c)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
-                                    $colorPass = true;
-                                }
-                            }
-                        }*/
 
                         if ($yearPass || $overallPass || $exactMatch) {
                             /*echo 'color pass '. $dataController->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $dataController->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .

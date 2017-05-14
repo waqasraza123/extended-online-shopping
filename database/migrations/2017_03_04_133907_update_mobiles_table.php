@@ -18,8 +18,10 @@ class UpdateMobilesTable extends Migration
 
         Schema::table('mobiles', function (Blueprint $table) {
             $table->dropColumn(['link', 'old_price', 'current_price', 'discount', 'shop_id', 'local_online', 'stock']);
-            $table->unsignedInteger('storage');
-            $table->string('color');
+            if(!Schema::hasColumn('mobiles', 'storage'))
+                $table->unsignedInteger('storage');
+            if(!Schema::hasColumn('mobiles', 'color'))
+                $table->string('color');
         });
         Schema::enableForeignKeyConstraints();
     }
