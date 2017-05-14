@@ -15,7 +15,7 @@ class UpdateMobilesTable extends Migration
     {
         Schema::disableForeignKeyConstraints();
         Schema::table('mobiles', function (Blueprint $table) {
-            $table->dropColumn(['link', 'old_price', 'current_price', 'discount', 'shop_id', 'local_online', 'stock']);
+            $table->dropColumn(['link', 'old_price', 'current_price', 'discount', 'local_online', 'stock']);
             $table->dropForeign('mobiles_shop_id_foreign');
             $table->dropColumn('shop_id');
             if(!Schema::hasColumn('mobiles', 'storage'))
