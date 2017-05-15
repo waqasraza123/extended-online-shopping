@@ -23,11 +23,11 @@
                 <i class="fa fa-plus"></i> <span>Add Mobile</span>
             </a>
         </li>
-        <li>
+        {{--<li>
             <a href="/products/mobile/create">
                 <i class="fa fa-envelope"></i> <span>Categories/Brands</span>
             </a>
-        </li>
+        </li>--}}
         <li class="treeview">
             <a href="#">
                 <i class="fa fa-money"></i> <span>Sales</span>
@@ -36,7 +36,7 @@
             </span>
             </a>
             <ul class="treeview-menu">
-                <li><a href="{{route('user-sales', ['userId' => Auth::user()->id])}}"><i class="fa  fa-bar-chart-o"></i> View Sales</a></li>
+                {{--<li><a href="{{route('user-sales', ['userId' => Auth::user()->id])}}"><i class="fa  fa-bar-chart-o"></i> View Sales</a></li>--}}
                 <li><a href="{{route('show-sell-items', ['userId' => Auth::user()->id])}}"><i class="fa fa-cart-arrow-down"></i> Sell Product</a></li>
             </ul>
         </li>

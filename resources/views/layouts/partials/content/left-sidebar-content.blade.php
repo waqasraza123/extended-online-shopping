@@ -54,9 +54,9 @@
                             <li>
                                 <a href="/products/mobile/create">Add Mobile</a>
                             </li>
-                            <li>
+                            {{--<li>
                                 <a href="/products/mobile/create">Categories/Brands</a>
-                            </li>
+                            </li>--}}
                         </ul>
                     </li>
                 </ul>
