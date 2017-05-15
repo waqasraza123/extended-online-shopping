@@ -99,7 +99,6 @@ $(document).ready(function () {
             url: '/register',
             headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
             success: function (data) {
-                console.log(data)
                 user_register_form.addClass('animated bounceOutRight')
                 user_register_form.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
                     function () {
@@ -136,9 +135,7 @@ $(document).ready(function () {
      * ****************************************************************************/
     $("#email_verification_button").click(function (e) {
         e.preventDefault()
-        console.log("clicked")
         //send the ajax request
-        console.log("sending ajax request")
         $.ajax({
             url: '/register/users/email-verification',
             data: $("#email_verification_form").serialize(),
@@ -146,7 +143,6 @@ $(document).ready(function () {
             headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
             success: function (data) {
                 console.log("inside success")
-                console.log(data)
                 if(data == 'success'){
 
                     //redirect the user to login page
@@ -603,7 +599,6 @@ $(document).ready(function () {
                     return {"name": this.name, "value": this.value}
                 }).get()
         );
-        console.log(data)
         submitButton.prop('disabled', 'true')
         $.ajax({
             url: '/mobiles/save/bulk-data',
@@ -611,7 +606,6 @@ $(document).ready(function () {
             data: data,
             headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
             success: function (data) {
-                console.log(data)
                 submitButton.removeAttr('disabled')
             },
             error: function (error) {
@@ -742,7 +736,6 @@ $(document).ready(function () {
      * @type {any}
      */
     var colors = $(".colors, .colors_storage")
-    console.log(colors)
     var existsVar = false;
     try{
         colors.select2({
@@ -919,7 +912,6 @@ $(document).ready(function () {
                 data: {'mobile-id': mobileId},
                 success: function (data) {
                     console.log('storages data')
-                    console.log(data)
                     var arr = []
                     $.each(data, function (index, value) {
                         arr.push({
@@ -944,7 +936,6 @@ $(document).ready(function () {
                 data: {'mobile-id': mobileId},
                 success: function (data) {
                     console.log('colors data')
-                    console.log(data)
                     var arr = []
                     $.each(data, function (index, value) {
                         arr.push({
@@ -1177,7 +1168,6 @@ $(document).ready(function () {
             var target = $(this)
             target.html(dotsLoader('#fff'))
             var shopId = target.attr('data-shop-id')
-            console.log(shopId)
 
             $.ajax({
                 url: '/shops/shop/lat/long',
@@ -1189,7 +1179,6 @@ $(document).ready(function () {
                 success: function (data) {
                     var userLat = $("#phone_user_lat").val()
                     var userLong = $("#phone_user_long").val()
-                    console.log(data)
                     target.html(text)
                     var LocsA = [
                         {
