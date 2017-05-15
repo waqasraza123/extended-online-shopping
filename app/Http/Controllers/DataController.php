@@ -284,12 +284,16 @@ class DataController extends Controller
             //replace the / char and content around it with ""
             $gsmTitle = preg_replace("/[a-zA-Z0-9]+\\/[a-zA-Z0-9]+/", "" , $gsmTitle);
 
-            $mobile = Mobile::firstOrCreate([
-                'title' => $data[0],
-                'brand_id' => $brand->id,
-                'image' => url('/').'/scrap/'.$brandName . '/' .$data[0].'.png',
-                'release_date' => $releaseDate,
-                'model' => $this->getModel($gsmTitle)
+            $mobile = Mobile::updateOrCreate([
+                [
+                    'title' => $data[0],
+                    'brand_id' => $brand->id,
+                    'model' => $this->getModel($gsmTitle)
+                ],
+                [
+                    'image' => url('/').'/scrap/'.ucwords($brandName) . '/' .$data[0].'.png',
+                    'release_date' => $releaseDate,
+                ]
             ]);
 
             /*insert colors and storages*/
