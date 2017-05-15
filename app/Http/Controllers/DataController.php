@@ -150,7 +150,7 @@ class DataController extends Controller
 
                     //dd($colors);
                     $years = $this->years;
-
+                    echo $gsmTitle . ', ' . $onlineTitle . '<br>';
                     if($gsmTitle == 'B' || $gsmTitle == 'b'){
                         if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)([^[G]])$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
                             $overallPass = true;
@@ -194,9 +194,9 @@ class DataController extends Controller
                     }*/
 
                     if($yearPass || $overallPass || $exactMatch){
-                        echo 'color pass '. $this->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $this->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .
+                        /*echo 'color pass '. $this->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $this->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .
                             $this->returnTrueFalse($overallPass).'<br>' . 'exact match ' . $this->returnTrueFalse($exactMatch). '<br>';
-                        echo $gsmTitle . ' = ' . $onlineTitle . '<br>';
+                        echo $gsmTitle . ' = ' . $onlineTitle . '<br>';*/
                         $this->saveComparedData($gsmTitle, $onlineLine, $this->shopName, $mobile->id);
                         $mobileMatched = true;
                     }
