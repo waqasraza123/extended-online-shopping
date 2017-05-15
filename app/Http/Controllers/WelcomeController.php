@@ -86,7 +86,7 @@ class WelcomeController extends Controller
         }
 
         if($category == 'samsung'){
-            $mobiles = Brand::where('name', $category)->first()->mobiles()->orderBy('release_date', 'DESC')->limit(8)->get();
+            $mobiles = Brand::where('name', $category)->first()->mobiles()->where('title', 'NOT LIKE', '%Gear%')->orderBy('release_date', 'DESC')->limit(8)->get();
         }
 
         if($category == 'htc'){
