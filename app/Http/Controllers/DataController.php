@@ -206,7 +206,7 @@ class DataController extends Controller
                             echo $gsmTitle . ' = ' . $onlineTitle . '<br>';*/
                         }
                     }catch (\Exception $e){
-                        
+
                     }
                 }
             }//end if db mobiles is null
@@ -404,8 +404,8 @@ class DataController extends Controller
                 }
                 if($fileInfo->getType() == 'file' && !(in_array($fileInfo->getFilename(), ['laptops', 'laptop']))){
                     echo $this->dirName . ', ' . $fileInfo->getFilename() . '<br>';
-                    $this->readData($this->dirName, $fileInfo->getFilename());
-                    //$this->dispatch(new SaveStoresDataJob($this->dirName, $fileInfo->getFilename()));
+                    //$this->readData($this->dirName, $fileInfo->getFilename());
+                    $this->dispatch(new SaveStoresDataJob($this->dirName, $fileInfo->getFilename()));
                 }
                 if ($fileInfo->isDir()) {
                     $this->dir = $fileInfo->getPathname();
