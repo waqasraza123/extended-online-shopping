@@ -91,9 +91,7 @@ Route::post('line/month', 'GraphsController@lineMonth')->name('graphs.lineMonth'
  * Test routes
  */
 Route::get('gsm', function (){
-    /*dispatch(new \App\Jobs\SaveGsmDataJob());*/
-    $dataController = new \App\Http\Controllers\DataController();
-    $dataController->readAndStoreGsmData();
+    dispatch(new \App\Jobs\SaveGsmDataJob());
 });
 Route::get('savestores', 'DataController@listFolderFiles');
 Route::get('test', function (){

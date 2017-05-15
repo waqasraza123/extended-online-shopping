@@ -12,11 +12,6 @@ use Illuminate\Http\Request;
 | is assigned the "api" middleware group. Enjoy building your API!
 |
 */
-
-Route::get('/user', function (Request $request) {
-    return \App\Mobile::where('title', 'LIKE', 'iphone')->get();
-})->middleware('auth:api');
-
 Route::get("/search/{search_term}/{api_token}", 'APIController@searchData')->name('search-api');
 Route::get("/search/single/{id}/{api_token}", 'APIController@returnSinglePhoneData')->name('search-api-single');
 Route::get("/home/{api_token}", 'APIController@homePageData');

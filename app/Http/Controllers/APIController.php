@@ -15,7 +15,7 @@ class APIController extends Controller
 
     public function __construct()
     {
-        //$this->middleware('verify-api-requests');
+        $this->middleware('verify-api-requests');
     }
 
 
