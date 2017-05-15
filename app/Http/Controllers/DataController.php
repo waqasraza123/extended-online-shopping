@@ -61,7 +61,7 @@ class DataController extends Controller
             if($file->getExtension() == 'txt' && $file->isFile()){
                 try
                 {
-                    $onlyFileName = strtolower(explode(".", $file->getFilename())[0]);
+                    $onlyFileName = explode(".", $file->getFilename())[0];
                     $gsmData = file_get_contents($filename);
                     $this->saveData($gsmData, $onlyFileName);
                 }
@@ -291,7 +291,7 @@ class DataController extends Controller
                     'model' => $this->getModel($gsmTitle)
                 ],
                 [
-                    'image' => url('/').'/scrap/'.ucwords($brandName) . '/' .$data[0].'.png',
+                    'image' => url('/').'/scrap/'. $brandName . '/' .$data[0].'.png',
                     'release_date' => $releaseDate,
                 ]
             );
