@@ -22,7 +22,7 @@
     <section class="content">
         <!-- Small boxes (Stat box) -->
         <div class="row">
-            <div class="col-lg-3 col-xs-6">
+            <div class="col-lg-4 col-xs-3">
                 <!-- small box -->
                 <div class="small-box bg-aqua">
                     <div class="inner">
@@ -37,7 +37,7 @@
                 </div>
             </div>
             <!-- ./col -->
-            <div class="col-lg-3 col-xs-6">
+            <div class="col-lg-4 col-xs-3">
                 <!-- small box -->
                 <div class="small-box bg-green">
                     <div class="inner">
@@ -52,7 +52,7 @@
                 </div>
             </div>
             <!-- ./col -->
-            <div class="col-lg-3 col-xs-6">
+            {{--<div class="col-lg-3 col-xs-6">
                 <!-- small box -->
                 <div class="small-box bg-yellow">
                     <div class="inner">
@@ -65,9 +65,9 @@
                     </div>
                     <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
                 </div>
-            </div>
+            </div>--}}
             <!-- ./col -->
-            <div class="col-lg-3 col-xs-6">
+            <div class="col-lg-4 col-xs-3">
                 <!-- small box -->
                 <div class="small-box bg-red">
                     <div class="inner">
@@ -105,7 +105,7 @@
                 <!-- /.nav-tabs-custom -->
 
                 <!-- Chat box -->
-                <div class="box box-success">
+                {{--<div class="box box-success">
                     <div class="box-header">
                         <i class="fa fa-comments-o"></i>
 
@@ -188,11 +188,11 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>--}}
                 <!-- /.box (chat box) -->
 
                 <!-- TO DO List -->
-                <div class="box box-primary">
+                {{--<div class="box box-primary">
                     <div class="box-header">
                         <i class="ion ion-clipboard"></i>
 
@@ -300,7 +300,7 @@
                     <div class="box-footer clearfix no-border">
                         <button type="button" class="btn btn-default pull-right"><i class="fa fa-plus"></i> Add item</button>
                     </div>
-                </div>
+                </div>--}}
                 <!-- /.box -->
 
                 <!-- quick email widget -->
@@ -340,7 +340,7 @@
             <!-- right col (We are only adding the ID to make the widgets sortable)-->
             <section class="col-lg-5 connectedSortable">
 
-                <!-- Map box -->
+               {{-- <!-- Map box -->
                 <div class="box box-solid bg-light-blue-gradient">
                     <div class="box-header">
                         <!-- tools box -->
@@ -382,7 +382,7 @@
                         </div>
                         <!-- /.row -->
                     </div>
-                </div>
+                </div>--}}
                 <!-- /.box -->
 
                 <!-- solid sales graph -->

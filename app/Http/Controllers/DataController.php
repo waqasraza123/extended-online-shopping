@@ -97,9 +97,6 @@ class DataController extends Controller
         {
             return strcmp(explode(";", $a)[0], explode(";", $b)[0]);
         });
-
-        $colors = $this->colors;
-        $skipArray = array();
         //dd($onlineLines);
         $dbMobiles = null;
         foreach($onlineLines as $onlineLine){
@@ -119,7 +116,6 @@ class DataController extends Controller
                 if($dbMobiles){
                     $dbMobiles = Brand::find($dbMobiles->id)->mobiles()->where('mobiles.title', '<>', '')->get();
                 }
-                array_push($skipArray, $brandName);
                 DB::table('temp')->insert(['brand' => $brandName, 'shop' => $this->shopName]);
             }
             //if brand name is in the array already
@@ -188,14 +184,14 @@ class DataController extends Controller
                         }
                     }
 
-                    if(!($exactMatch == true || $overallPass == true || $yearPass == true)) {
+                    /*if(!($exactMatch == true || $overallPass == true || $yearPass == true)) {
                         foreach ($colors as $c){
                             $c = preg_replace('/\\W/', '', $c);
                             if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($c)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
                                 $colorPass = true;
                             }
                         }
-                    }
+                    }*/
 
                     if($yearPass || $overallPass || $exactMatch){
                         echo 'color pass '. $this->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $this->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .
@@ -331,7 +327,6 @@ class DataController extends Controller
 
         $mobileController = new MobileController();
         $onlineData = explode(";", $onlineData);
-        $unmodifiedTitle = $gsmTitle;
         $oldPrice = $onlineData[3];
         $newPrice = $onlineData[4];
         $productLink = $onlineData[5];
@@ -404,8 +399,9 @@ class DataController extends Controller
                     $this->shopName = ucwords($fileInfo->getFilename());
                 }
                 if($fileInfo->getType() == 'file' && !(in_array($fileInfo->getFilename(), ['laptops', 'laptop']))){
-                    //$this->readData($this->dirName, $fileInfo->getFilename());
-                    $this->dispatch(new SaveStoresDataJob($this->dirName, $fileInfo->getFilename()));
+                    echo $this->dirName . ', ' . $fileInfo->getFilename() . '<br>';
+                    $this->readData($this->dirName, $fileInfo->getFilename());
+                    //$this->dispatch(new SaveStoresDataJob($this->dirName, $fileInfo->getFilename()));
                 }
                 if ($fileInfo->isDir()) {
                     $this->dir = $fileInfo->getPathname();
