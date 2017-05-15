@@ -404,8 +404,8 @@ class DataController extends Controller
                     $this->shopName = ucwords($fileInfo->getFilename());
                 }
                 if($fileInfo->getType() == 'file' && !(in_array($fileInfo->getFilename(), ['laptops', 'laptop']))){
-                    $this->readData($this->dirName, $fileInfo->getFilename());
-                    //$this->dispatch(new SaveStoresDataJob($this->dirName, $fileInfo->getFilename()));
+                    //$this->readData($this->dirName, $fileInfo->getFilename());
+                    $this->dispatch(new SaveStoresDataJob($this->dirName, $fileInfo->getFilename()));
                 }
                 if ($fileInfo->isDir()) {
                     $this->dir = $fileInfo->getPathname();
