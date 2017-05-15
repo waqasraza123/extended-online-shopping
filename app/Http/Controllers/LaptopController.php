@@ -14,6 +14,8 @@ class LaptopController extends Controller
 
     public function __construct()
     {
+        $c = new WelcomeController();
+        $l = new LocationController();
         $this->middleware(['auth', 'verified', 'has-shop']);
     }
     /**

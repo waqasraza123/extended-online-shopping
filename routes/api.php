@@ -12,5 +12,5 @@
 */
 Route::post("/search/{search_term}/{api_token}", 'APIController@searchData')->name('search-api');
 Route::post("/search/single/{id}/{api_token}", 'APIController@returnSinglePhoneData')->name('search-api-single');
-Route::post("/home/{api_token}", 'APIController@homePageData');
+Route::get("/home/{api_token}", 'APIController@homePageData');
 Route::post("/search/shop/{id}/{api_token}", 'APIController@returnShopData')->name('api-shop');

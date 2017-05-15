@@ -5,9 +5,6 @@ namespace App\Http\Controllers;
 use App\Brand;
 use App\Mobile;
 use App\ProductData;
-use Illuminate\Http\Request;
-use Illuminate\Pagination\LengthAwarePaginator;
-use Illuminate\Database\Eloquent\Collection;
 class WelcomeController extends Controller
 {
     /**
