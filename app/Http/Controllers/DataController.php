@@ -284,7 +284,7 @@ class DataController extends Controller
             //replace the / char and content around it with ""
             $gsmTitle = preg_replace("/[a-zA-Z0-9]+\\/[a-zA-Z0-9]+/", "" , $gsmTitle);
 
-            $mobile = Mobile::updateOrCreate([
+            $mobile = Mobile::updateOrCreate(
                 [
                     'title' => $data[0],
                     'brand_id' => $brand->id,
@@ -294,7 +294,7 @@ class DataController extends Controller
                     'image' => url('/').'/scrap/'.ucwords($brandName) . '/' .$data[0].'.png',
                     'release_date' => $releaseDate,
                 ]
-            ]);
+            );
 
             /*insert colors and storages*/
             $colorIds = array();
