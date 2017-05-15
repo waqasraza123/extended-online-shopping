@@ -65,6 +65,7 @@ class APIController extends Controller
             //if user specifies his/her location
             $userLocation = $request->input('user_location');
             $radius = $request->input('radius');
+            $radius = $radius == null ? '0' : $radius;
             $lat = $request->input('lat');
             $long = $request->input('long');
             $userLat = $request->input('user_lat');
