@@ -18,7 +18,7 @@ use Illuminate\Filesystem\Filesystem;
 class DataController extends Controller
 {
 
-    protected $f = null;
+    protected $fileHandler = null;
     public $colors = null;
     public $years = null;
     protected $globalBrandName = null;
@@ -32,7 +32,7 @@ class DataController extends Controller
      */
     public function __construct()
     {
-        $this->f = fopen('data.txt', 'a+');
+        $this->fileHandler = fopen('data.txt', 'a+');
         $this->colors = Color::pluck('color')->toArray();
         $this->years = range(2000, date('Y'));
         $this->shopName = 'Telemart';
@@ -151,58 +151,62 @@ class DataController extends Controller
                     //dd($colors);
                     $years = $this->years;
                     echo $gsmTitle . ', ' . $onlineTitle . '<br>';
-                    if($gsmTitle == 'B' || $gsmTitle == 'b'){
-                        if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)([^[G]])$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
-                            $overallPass = true;
-                        }
-                    }
-
-                    if($gsmTitle == 'Z' || $gsmTitle == 'z'){
-                        if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)([^[GH]])$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
-                            $overallPass = true;
-                        }
-                    }
-
-                    //if exact title or followed by - or _ or :
-                    if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)$gsmTitle$/i", $onlineTitle)){
-                        $exactMatch = true;
-                    }
-
-                    if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
-                        $overallPass = true;
-                    }
-
-                    if(!($exactMatch == true || $overallPass == true)){
-                        //now handle the case where space comes after title
-                        foreach ($years as $y){
-
-                            //there must be a space after title
-                            //after space a year, gb, dual sim, 2g or 3g etc
-                            if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($y)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
-                                $yearPass = true;
+                    try{
+                        if($gsmTitle == 'B' || $gsmTitle == 'b'){
+                            if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)([^[G]])$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
+                                $overallPass = true;
                             }
                         }
-                    }
 
-                    /*if(!($exactMatch == true || $overallPass == true || $yearPass == true)) {
-                        foreach ($colors as $c){
-                            $c = preg_replace('/\\W/', '', $c);
-                            if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($c)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
-                                $colorPass = true;
+                        if($gsmTitle == 'Z' || $gsmTitle == 'z'){
+                            if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)([^[GH]])$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
+                                $overallPass = true;
                             }
                         }
-                    }*/
 
-                    if($yearPass || $overallPass || $exactMatch){
-                        /*echo 'color pass '. $this->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $this->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .
-                            $this->returnTrueFalse($overallPass).'<br>' . 'exact match ' . $this->returnTrueFalse($exactMatch). '<br>';
-                        echo $gsmTitle . ' = ' . $onlineTitle . '<br>';*/
-                        $this->saveComparedData($gsmTitle, $onlineLine, $this->shopName, $mobile->id);
-                        $mobileMatched = true;
-                    }
-                    else{
-                        /*echo 'All of the passes failed';
-                        echo $gsmTitle . ' = ' . $onlineTitle . '<br>';*/
+                        //if exact title or followed by - or _ or :
+                        if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)$gsmTitle$/i", $onlineTitle)){
+                            $exactMatch = true;
+                        }
+
+                        if(preg_match("/^.*?(?:(\\s|-|_|:|\\|)?)$gsmTitle(?:(\\s)?)(-|_|:|\\|)+/i", $onlineTitle)){
+                            $overallPass = true;
+                        }
+
+                        if(!($exactMatch == true || $overallPass == true)){
+                            //now handle the case where space comes after title
+                            foreach ($years as $y){
+
+                                //there must be a space after title
+                                //after space a year, gb, dual sim, 2g or 3g etc
+                                if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($y)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
+                                    $yearPass = true;
+                                }
+                            }
+                        }
+
+                        /*if(!($exactMatch == true || $overallPass == true || $yearPass == true)) {
+                            foreach ($colors as $c){
+                                $c = preg_replace('/\\W/', '', $c);
+                                if(preg_match("/^.*?$gsmTitle(\\s)+(?:(($c)|(3g|4g|lte|2g)|(Dual Sim)|(\\p{N}GB))?)/i", $onlineTitle)){
+                                    $colorPass = true;
+                                }
+                            }
+                        }*/
+
+                        if($yearPass || $overallPass || $exactMatch){
+                            /*echo 'color pass '. $this->returnTrueFalse($colorPass) .'<br>'. ' year pass ' . $this->returnTrueFalse($yearPass) . '<br>'. ' overall pass ' .
+                                $this->returnTrueFalse($overallPass).'<br>' . 'exact match ' . $this->returnTrueFalse($exactMatch). '<br>';
+                            echo $gsmTitle . ' = ' . $onlineTitle . '<br>';*/
+                            $this->saveComparedData($gsmTitle, $onlineLine, $this->shopName, $mobile->id);
+                            $mobileMatched = true;
+                        }
+                        else{
+                            /*echo 'All of the passes failed';
+                            echo $gsmTitle . ' = ' . $onlineTitle . '<br>';*/
+                        }
+                    }catch (\Exception $e){
+                        
                     }
                 }
             }//end if db mobiles is null
