@@ -95,7 +95,7 @@ class DataController extends Controller
         //based on brand name
         usort($onlineLines, function($a, $b)
         {
-            return strcmp(explode("@#$%", $a)[0], explode("@#$%", $b)[0]);
+            return strcmp(explode(";", $a)[0], explode(";", $b)[0]);
         });
 
         $colors = $this->colors;
@@ -103,13 +103,13 @@ class DataController extends Controller
         //dd($onlineLines);
         $dbMobiles = null;
         foreach($onlineLines as $onlineLine){
-            if($onlineLine == ""){
+            if($onlineLine == "" || $onlineLine == "\n"){
                 continue;
             }
-            $onlineTitle = explode("@#$%", $onlineLine)[1];
+            $onlineTitle = explode(";", $onlineLine)[1];
 
             //get the brand name from every line
-            $brandName = strtolower(explode("@#$%", $onlineLine)[0]);
+            $brandName = strtolower(explode(";", $onlineLine)[0]);
 
             //if brand name not already in array
             //then fetch the data
@@ -330,7 +330,7 @@ class DataController extends Controller
     public function saveComparedData($gsmTitle, $onlineData, $shopName, $mobileId){
 
         $mobileController = new MobileController();
-        $onlineData = explode("@#$%", $onlineData);
+        $onlineData = explode(";", $onlineData);
         $unmodifiedTitle = $gsmTitle;
         $oldPrice = $onlineData[3];
         $newPrice = $onlineData[4];
