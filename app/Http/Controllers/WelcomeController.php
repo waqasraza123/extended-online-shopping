@@ -52,7 +52,6 @@ class WelcomeController extends Controller
         $mobileData = ProductData::select('shop_id', 'mobile_id')
             ->where('mobile_id', $id)
             ->groupBy(['shop_id', 'mobile_id'])->get();
-
         $data = [];
         foreach($mobileData as $m){
             array_push($data, ProductData::where(['mobile_id' => $m->mobile_id, 'shop_id' => $m->shop_id])->first());

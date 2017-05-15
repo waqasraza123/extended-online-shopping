@@ -4,6 +4,7 @@ namespace App\Http;
 
 use App\Http\Middleware\LoggedInMiddleware;
 use App\Http\Middleware\UserVerifiedMiddleware;
+use App\Http\Middleware\VerifyAPIRequestsMiddleware;
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
 class Kernel extends HttpKernel
@@ -56,6 +57,7 @@ class Kernel extends HttpKernel
         'throttle' => \Illuminate\Routing\Middleware\ThrottleRequests::class,
         'has-shop' => \App\Http\Middleware\ShopOwner::class,
         'verified' => UserVerifiedMiddleware::class,
-        'logged-in' => LoggedInMiddleware::class
+        'logged-in' => LoggedInMiddleware::class,
+        'verify-api-requests' => VerifyAPIRequestsMiddleware::class
     ];
 }

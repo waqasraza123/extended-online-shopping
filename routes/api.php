@@ -17,6 +17,7 @@ Route::get('/user', function (Request $request) {
     return \App\Mobile::where('title', 'LIKE', 'iphone')->get();
 })->middleware('auth:api');
 
-Route::get("/search/{search_term}", 'APIController@searchData')->name('search-api');
-Route::get("/search/single/{id}", 'APIController@returnSinglePhoneData')->name('search-api-single');
-Route::get("/search/shop/{id}", 'APIController@returnShopData')->name('api-shop');
+Route::get("/search/{search_term}/{api_token}", 'APIController@searchData')->name('search-api');
+Route::get("/search/single/{id}/{api_token}", 'APIController@returnSinglePhoneData')->name('search-api-single');
+Route::get("/home/{api_token}", 'APIController@homePageData');
+Route::get("/search/shop/{id}/{api_token}", 'APIController@returnShopData')->name('api-shop');
