@@ -67,11 +67,10 @@ class WelcomeController extends Controller
      *
      * @param $category
      * @param LocationController $locationController
-     * @param Controller $controller
      *
      * @return array
      */
-    public function getMobilesSeparatedInSections($category, LocationController $locationController, Controller $controller){
+    public function getMobilesSeparatedInSections($category, LocationController $locationController){
         if($category == 'latest'){
 
             $mobiles = Mobile::join('product_data', 'mobiles.id', '=', 'product_data.mobile_id')
@@ -166,12 +165,10 @@ class WelcomeController extends Controller
             elseif (!empty($l))
                 $available = 'local';
 
-            /*if($available == null){
-                continue;
-            }*/
             $mobile->shop_lat = $shopLat;
             $mobile->shop_long = $shopLong;
             $data[$index]['mobile'] = $mobile;
+            $data[$index]['brand'] = $mobile->brand->name;
             $data[$index]['data'] = $mobileData;
             $data[$index]['price'] = $price;
             $data[$index]['available'] = $available;
