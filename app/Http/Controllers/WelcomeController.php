@@ -25,6 +25,7 @@ class WelcomeController extends Controller
         $htc = $this->getMobilesSeparatedInSections('htc', $locationController, $controller);
         $lg = $this->getMobilesSeparatedInSections('lg', $locationController, $controller);
         $data = array();
+
         array_push($data, [
             'latest' => collect($latest),
             'apple' => collect($apple),
@@ -117,20 +118,44 @@ class WelcomeController extends Controller
             //i.e. iphone 5 may have 5 rows in product data table
             //since item can be on different shops
             foreach ($mobileData as $item){
-                $price = $item->current_price < $price ? $item->current_price : $price;
-                //check if the item is available
-                //online or local or both
-                if ($item->local_online == 'l'){
-                    $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
-                    //echo $item->shop->shop_name . ' ' . $temp . ' < ' . $distance . ' = ' . '<br>';
-                    if($temp < $distance){
+
+                //get the minimum price and
+                //get the location of that specific shop
+                $shopPrice = preg_replace("/[^\\d]+/", "", $item->current_price);
+                if($shopPrice < $price){
+                    $price = $shopPrice;
+
+                    //check if the item is available
+                    //online or local or both
+                    if ($item->local_online == 'l'){
+                        $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
                         $l = $item->shop->location;
-                        $distance = $temp;
                         $shopLat = $item->shop->lat;
                         $shopLong = $item->shop->long;
+                    }else {
+                        $o = 'online';
                     }
-                }else {
-                    $o = 'online';
+                }
+                //shops have same value then
+                //show that shop which has min
+                //distance from user
+                elseif ($shopPrice == $price){
+                    //check if the item is available
+                    //online or local or both
+                    if ($item->local_online == 'l'){
+                        $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
+
+                        //if new shop which has same price
+                        //has less distance then update the location
+                        if($temp < $distance){
+                            $l = $item->shop->location;
+                            $distance = $temp;
+                            $shopLat = $item->shop->lat;
+                            $shopLong = $item->shop->long;
+                        }
+                    }else {
+                        $o = 'online';
+                    }
                 }
             }
             if(!empty($l) && !empty($o)){
@@ -153,7 +178,6 @@ class WelcomeController extends Controller
             $data[$index]['location'] = $l;
             $data[$index]['distance'] = $distance;
         }
-
         return $data;
     }
 }

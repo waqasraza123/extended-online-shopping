@@ -22,7 +22,7 @@ class LocationController extends Controller
         $c = 2 * atan2(sqrt($a), sqrt(1 - $a));
         $km = $r * $c;
 
-        return round($km, 2) + 1.5;
+        return round($km) + 4;
     }
 
 

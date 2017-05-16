@@ -26,7 +26,9 @@ class SaveMobileRequest extends FormRequest
     public function messages()
     {
         return [
-            'current_price.discount' => 'Discount value should be less than the old value.'
+            'current_price.discount' => 'Current Price should be less than the Old Price.',
+            'current_price.eos_int' => 'Current Price can not be negative',
+            'old_price.eos_int' => 'Old Price can not be negative'
         ];
     }
 
@@ -39,13 +41,13 @@ class SaveMobileRequest extends FormRequest
     public function rules()
     {
         //this is discounted price
-        $currentPrice = $this->input('current_price');
+        $oldPrice = $this->input('old_price');
 
         return [
             "title" => "required|min:3|max:255",
             'stock' => 'required|digits_between:0,500',
-            'old_price' => 'required|integer',
-            'current_price' => 'discount:'.$currentPrice,
+            'old_price' => 'eos_int',
+            'current_price' => 'required|eos_int|discount:'.$oldPrice,
             'brands' => 'required'
         ];
     }

@@ -351,7 +351,7 @@ $(document).ready(function () {
                     required: true,
                     digits: true
                 },
-                discount_price: {
+                old_price: {
                     required: true,
                     digits: true
                 },

@@ -155,7 +155,6 @@ class UserController extends Controller
             $image->move(public_path().'/users/',$filename);
             $user->image = url('/'). '/users/' . $filename;
         }
-
         $user->name = $data['name'];
         $user->email_phone = $data['user_name'];
         $user->email = $data['email'];
@@ -164,7 +163,6 @@ class UserController extends Controller
         if(isset($data['password'])) {
             $user->password = bcrypt($data['password']);
         }
-
         $user->save();
         return redirect()->back()->with('success', 'Settings has been Updated.');
     }

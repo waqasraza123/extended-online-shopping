@@ -26,8 +26,12 @@ class ShopController extends Controller
      * @return \Illuminate\Http\RedirectResponse|\Illuminate\Routing\Redirector
      */
     public function create(StoreShopCredentialsRequest $request){
-
         $data = $request->all();
+
+        //create the shop against
+        //current logged in user
+        //after performing Validation
+        //in StoreShopCredentialsRequest Class
         $shop = Shop::create([
             'shop_name' => $data['shop_name'],
             'phone' => $data['shop_phone'],

@@ -36,9 +36,18 @@ class AppServiceProvider extends ServiceProvider
 
         Validator::extend('discount', function($attribute, $value, $parameters)
         {
-            //current price (parameters) is discounted price
-            //so should obviously be less than old price
-            return $parameters > $value;
+            //parameters[0] contain old price
+            //value contains current_price
+            if($parameters[0] == '0'){
+                return true;
+            }
+            else{
+                return $parameters[0] > $value;
+            }
+        });
+
+        Validator::extend('eos_int', function ($attribute, $value, $parameters){
+            return (int)$value >= 0 ? true : false;
         });
 
         $this->placeholderImage = url('/').'/uploads/placeholder.png';
