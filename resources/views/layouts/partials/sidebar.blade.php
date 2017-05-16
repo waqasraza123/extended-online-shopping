@@ -36,7 +36,7 @@
             </span>
             </a>
             <ul class="treeview-menu">
-                {{--<li><a href="{{route('user-sales', ['userId' => Auth::user()->id])}}"><i class="fa  fa-bar-chart-o"></i> View Sales</a></li>--}}
+                <li><a href="{{route('user-sales', ['userId' => Auth::user()->id])}}"><i class="fa  fa-bar-chart-o"></i> View Sales</a></li>
                 <li><a href="{{route('show-sell-items', ['userId' => Auth::user()->id])}}"><i class="fa fa-cart-arrow-down"></i> Sell Product</a></li>
             </ul>
         </li>

@@ -13,6 +13,6 @@ class Sales extends Model
     }
 
     public function product(){
-        return $this->belongsTo('App\ProductData');
+        return $this->belongsTo('App\ProductData', 'product_id');
     }
 }

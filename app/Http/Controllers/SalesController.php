@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\ProductData;
 use App\Sales;
+use App\Shop;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Mobile;
@@ -11,19 +12,43 @@ use App\Mobile;
 class SalesController extends Controller
 {
 
+    /**
+     * apply middlewares on all
+     * functions
+     *
+     * SalesController constructor.
+     */
     public function __construct()
     {
         $this->middleware(['auth', 'verified', 'has-shop']);
     }
 
+
+    /**
+     * returns the shop sales
+     *
+     * @param Controller $controller
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
     public function showSales(Controller $controller){
         $shopId = $controller->shopId;
-
-        return view('sales.index', 'shopId');
+        $shop = Shop::find($shopId);
+        $sales = $shop->sales;
+        if($sales){
+            return view('sales.index', compact('sales'));
+        }
+        else{
+            redirect()->back()->with('error', 'Invalid Shop');
+        }
     }
 
 
-
+    /**
+     * shows shop items
+     * to be sold
+     *
+     * @return $this
+     */
     public function showItemsToSell(){
         $data = $this->getListing();
 

@@ -374,7 +374,7 @@
                         <div class="chart" id="line-chart" style="height: 250px;"></div>
                     </div>
                     <!-- /.box-body -->
-                    <div class="box-footer no-border">
+                    {{--<div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-4 text-center" style="border-right: 1px solid #f4f4f4">
                                 <input type="text" class="knob" data-readonly="true" value="20" data-width="60" data-height="60" data-fgColor="#39CCCC">
@@ -396,7 +396,7 @@
                             <!-- ./col -->
                         </div>
                         <!-- /.row -->
-                    </div>
+                    </div>--}}
                     <!-- /.box-footer -->
                 </div>
                 <!-- /.box -->
