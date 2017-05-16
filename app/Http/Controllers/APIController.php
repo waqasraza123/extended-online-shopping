@@ -336,7 +336,7 @@ class APIController extends Controller
         $dataHolder = [];
         $finalArr = [];
         foreach ($data as $d){
-            $dataHolder['shop_id'] = $d->shop_id;
+            $dataHolder['shop'] = Shop::find($d->shop_id);
             $dataHolder['mobile_id'] = $d->mobile_id;
             $dataHolder['link'] = $d->link;
             $dataHolder['old_price'] = $d->old_price;
@@ -345,7 +345,6 @@ class APIController extends Controller
             $dataHolder['title'] = $mobile->title;
             $dataHolder['image_url'] = $mobile->image;
             $dataHolder['brand_id'] = $mobile->brand_id;
-            $dataHolder['shop_name'] = Shop::where('id', $d->shop_id)->first()->shop_name;
 
             array_push($finalArr, $dataHolder);
         }
