@@ -129,7 +129,7 @@ class APIController extends Controller
                     //which is further than the specified radius
                     if($radius !== '0'){
                         if ($item->local_online == 'l'){
-                            $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $controller->isbLat, $controller->isbLong);
+                            $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $controller->generalLat, $controller->generalLong);
 
                             //if shop distance is less than the
                             //radius specified and shop price is
@@ -164,7 +164,7 @@ class APIController extends Controller
                             //check if the item is available
                             //online or local or both
                             if ($item->local_online == 'l'){
-                                $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $controller->isbLat, $controller->isbLong);
+                                $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $controller->generalLat, $controller->generalLong);
                                 $l = $item->shop->location;
                                 $shopLat = $item->shop->lat;
                                 $shopLong = $item->shop->long;
@@ -179,7 +179,7 @@ class APIController extends Controller
                             //check if the item is available
                             //online or local or both
                             if ($item->local_online == 'l'){
-                                $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $controller->isbLat, $controller->isbLong);
+                                $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $controller->generalLat, $controller->generalLong);
 
                                 //if new shop which has same price
                                 //has less distance then update the location
@@ -205,8 +205,8 @@ class APIController extends Controller
 
                             //if user has specified target location then
                             //calculate the distance from that shop
-                            $lat2 = $userLat == null ? $controller->isbLat : $userLat;
-                            $long2 = $userLong == null ? $controller->isbLong : $userLong;
+                            $lat2 = $userLat == null ? $controller->generalLat : $userLat;
+                            $long2 = $userLong == null ? $controller->generalLong : $userLong;
                             $distanceForUserSpecifiedLocation = $locationController->getDistance($item->shop->lat, $item->shop->long, $lat2, $long2);
                         }
                     }

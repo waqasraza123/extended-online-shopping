@@ -127,7 +127,7 @@ class WelcomeController extends Controller
                     //check if the item is available
                     //online or local or both
                     if ($item->local_online == 'l'){
-                        $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
+                        $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->generalLat, $this->generalLong);
                         $l = $item->shop->location;
                         $shopLat = $item->shop->lat;
                         $shopLong = $item->shop->long;
@@ -142,7 +142,7 @@ class WelcomeController extends Controller
                     //check if the item is available
                     //online or local or both
                     if ($item->local_online == 'l'){
-                        $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
+                        $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->generalLat, $this->generalLong);
 
                         //if new shop which has same price
                         //has less distance then update the location

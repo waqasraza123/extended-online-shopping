@@ -19,19 +19,21 @@ class Controller extends BaseController
     public $shopId;
     public $currentShop;
     public $hasShops;
-    public $isbLat;
-    public $isbLong;
-    //protected $brands;
+    public $generalLat;
+    public $generalLong;
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
     public function __construct()
     {
         date_default_timezone_set('Asia/Karachi');
-        $this->isbLat = 33.7294;
-        $this->isbLong = 73.0931;
+
+        //isb lat long
+        $this->generalLat = 33.7294;
+        $this->generalLong = 73.0931;
 
         if(Auth::check()) {
-            //dd("logged in");
+            $this->generalLat = Auth::user()->lat == null ? 33.7294 : Auth::user()->lat;
+            $this->generalLong = Auth::user()->long == null ? 73.0931 : Auth::user()->long;
             $this->userId = Auth::user()->id;
             $this->authenticated = true;
             $shopCount = Auth::user()->shops()->count();

@@ -37,7 +37,7 @@ Route::get('/users/user/profile', 'UserController@showProfile')->name('user.prof
 Route::post('/users/user/profile', 'UserController@updateProfile')->name('user.profile.update');
 Route::get('/users/user/shop/settings', 'ShopController@showShopSettings')->name('shop.settings');
 Route::post('/users/user/shop/settings', 'ShopController@updateShopSettings')->name('shop.settings.update');
-
+Route::post('/send-support-email', 'EmailController@send')->name('support.email');
 /**
  * search routes
  */

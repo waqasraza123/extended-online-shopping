@@ -5,8 +5,6 @@ namespace App\Observers;
 use App\Http\Controllers\UserController;
 use App\Mail\EmailVerification;
 use App\User;
-use App\UserVerification;
-use Carbon\Carbon;
 use Illuminate\Support\Facades\Mail;
 
 class UserObserver
