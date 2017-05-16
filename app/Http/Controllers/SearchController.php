@@ -72,60 +72,95 @@ class SearchController extends Controller
             //10 shops having iphone 7 so we need to get the min
             //price only
             foreach ($mobileData as $item){
-                //get the minimum price and
-                //get the location of that specific shop
                 $shopPrice = preg_replace("/[^\\d]+/", "", $item->current_price);
-                if($shopPrice < $price){
-                    $price = $shopPrice;
-
-                    //check if the item is available
-                    //online or local or both
-                    if ($item->local_online == 'l'){
-                        $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
-                        $l = $item->shop->location;
-                        $shopLat = $item->shop->lat;
-                        $shopLong = $item->shop->long;
-                    }else {
-                        $o = 'online';
-                    }
-                }
-                //shops have same value then
-                //show that shop which has min
-                //distance from user
-                elseif ($shopPrice == $price){
-                    //check if the item is available
-                    //online or local or both
+                //if user has specified a radius then
+                //the shops within that radius must show
+                //irrespective of the min priced product
+                //which is further than the specified radius
+                if($radius !== '0'){
                     if ($item->local_online == 'l'){
                         $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
 
-                        //if new shop which has same price
-                        //has less distance then update the location
+                        //if shop distance is less than the
+                        //radius specified and shop price is
+                        //also less than the previous price
                         if($temp < $distance){
-                            $l = $item->shop->location;
-                            $distance = $temp;
-                            $shopLat = $item->shop->lat;
-                            $shopLong = $item->shop->long;
+                            if($shopPrice < $price) {
+                                $l = $item->shop->location;
+                                $distance = $temp;
+                                $shopLat = $item->shop->lat;
+                                $shopLong = $item->shop->long;
+                                $price = $shopPrice;
+                            }
+                            else{
+                                $l = $item->shop->location;
+                                $distance = $temp;
+                                $shopLat = $item->shop->lat;
+                                $shopLong = $item->shop->long;
+                            }
+
                         }
                     }else {
                         $o = 'online';
                     }
                 }
 
-                //check if the shop location matched with the user specified location
-                //if user specified the location
-                //echo $lat . ' == ' . $item->shop->lat . ' ; ' . $long . ' == ' . $item->shop->long . '<br>';
-                if ($lat != null && $long != null && $item->local_online == 'l' && (int)$item->shop->lat == (int)$lat && (int)$item->shop->long == (int)$long){
-                    $l = $marketLocation;
-                    $marketLocationMatched = true;
-                    ++$marketLocationMatchedCount;
+                elseif ($radius == '0'){
+                    //get the minimum price and
+                    //get the location of that specific shop
+                    if($shopPrice < $price){
+                        $price = $shopPrice;
+
+                        //check if the item is available
+                        //online or local or both
+                        if ($item->local_online == 'l'){
+                            $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
+                            $l = $item->shop->location;
+                            $shopLat = $item->shop->lat;
+                            $shopLong = $item->shop->long;
+                        }else {
+                            $o = 'online';
+                        }
+                    }
+                    //shops have same value then
+                    //show that shop which has min
+                    //distance from user
+                    elseif ($shopPrice == $price){
+                        //check if the item is available
+                        //online or local or both
+                        if ($item->local_online == 'l'){
+                            $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->isbLat, $this->isbLong);
+
+                            //if new shop which has same price
+                            //has less distance then update the location
+                            if($temp < $distance){
+                                $l = $item->shop->location;
+                                $distance = $temp;
+                                $shopLat = $item->shop->lat;
+                                $shopLong = $item->shop->long;
+                            }
+                        }else {
+                            $o = 'online';
+                        }
+                    }
+
+                    //check if the shop location matched with the user specified location
+                    //if user specified the location
+                    //echo $lat . ' == ' . $item->shop->lat . ' ; ' . $long . ' == ' . $item->shop->long . '<br>';
+                    if ($lat != null && $long != null && $item->local_online == 'l' && (int)$item->shop->lat == (int)$lat && (int)$item->shop->long == (int)$long){
+                        $l = $marketLocation;
+                        $marketLocationMatched = true;
+                        ++$marketLocationMatchedCount;
 
 
-                    //if user has specified target location then
-                    //calculate the distance from that shop
-                    $lat2 = $userLat == null ? $this->isbLat : $userLat;
-                    $long2 = $userLong == null ? $this->isbLong : $userLong;
-                    $distanceForUserSpecifiedLocation = $locationController->getDistance($item->shop->lat, $item->shop->long, $lat2, $long2);
+                        //if user has specified target location then
+                        //calculate the distance from that shop
+                        $lat2 = $userLat == null ? $this->isbLat : $userLat;
+                        $long2 = $userLong == null ? $this->isbLong : $userLong;
+                        $distanceForUserSpecifiedLocation = $locationController->getDistance($item->shop->lat, $item->shop->long, $lat2, $long2);
+                    }
                 }
+
             }
 
             //if user has specified radius
