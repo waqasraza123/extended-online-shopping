@@ -52,7 +52,7 @@ class SaveMobileRequest extends FormRequest
             'current_price' => 'required|eos_int|discount:'.$oldPrice,
             'brands' => 'required',
             'colors' => 'required',
-            'storage' => 'requried'
+            'storage' => 'required'
         ];
     }
 }
