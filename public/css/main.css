@@ -319,3 +319,4 @@ header [role="progressbar"][aria-busy="true"]::after {
 .box.box-widget.widget-user {
     min-height: 300px;
 }
+.color-red{color: #B63E2F !important;}.color-green{color: #00884A !important;}

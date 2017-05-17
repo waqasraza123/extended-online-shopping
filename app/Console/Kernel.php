@@ -24,7 +24,7 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        $schedule->exec(app_path().'/python scripts/gsm.py');
+        $schedule->exec(base_path().'/python/gsm.py');
     }
 
     /**

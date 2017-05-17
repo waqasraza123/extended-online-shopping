@@ -19,11 +19,11 @@ class WelcomeController extends Controller
         $controller = new Controller();
         $searchText = "";
         $location = null;
-        $latest = $this->getMobilesSeparatedInSections('latest', $locationController, $controller);
-        $apple = $this->getMobilesSeparatedInSections('apple', $locationController, $controller);
-        $samsung = $this->getMobilesSeparatedInSections('samsung', $locationController, $controller);
-        $htc = $this->getMobilesSeparatedInSections('htc', $locationController, $controller);
-        $lg = $this->getMobilesSeparatedInSections('lg', $locationController, $controller);
+        $latest = $this->getMobilesSeparatedInSections('latest', $locationController);
+        $apple = $this->getMobilesSeparatedInSections('apple', $locationController);
+        $samsung = $this->getMobilesSeparatedInSections('samsung', $locationController);
+        $htc = $this->getMobilesSeparatedInSections('htc', $locationController);
+        $lg = $this->getMobilesSeparatedInSections('lg', $locationController);
         $data = array();
 
         array_push($data, [
@@ -71,6 +71,9 @@ class WelcomeController extends Controller
      * @return array
      */
     public function getMobilesSeparatedInSections($category, LocationController $locationController){
+
+        $controller = new Controller();
+
         if($category == 'latest'){
 
             $mobiles = Mobile::join('product_data', 'mobiles.id', '=', 'product_data.mobile_id')
@@ -106,6 +109,7 @@ class WelcomeController extends Controller
             //would return collection
             $mobileData = $mobile->data;
             $price = 999999999999;
+            $onlineShopPrice = 999999999999;
             $distance = 999999999999;
             $l = null;
             $o = null;
@@ -121,39 +125,41 @@ class WelcomeController extends Controller
                 //get the minimum price and
                 //get the location of that specific shop
                 $shopPrice = preg_replace("/[^\\d]+/", "", $item->current_price);
-                if($shopPrice < $price){
-                    $price = $shopPrice;
 
-                    //check if the item is available
-                    //online or local or both
-                    if ($item->local_online == 'l'){
-                        $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->generalLat, $this->generalLong);
+                //check if the item is available
+                //online or local or both
+                if ($item->local_online == 'l'){
+                    if($shopPrice < $price) {
+                        $price = $shopPrice;
                         $l = $item->shop->location;
+                        $distance = $locationController->getDistance($item->shop->lat, $item->shop->long, $controller->generalLat, $controller->generalLong);;
                         $shopLat = $item->shop->lat;
                         $shopLong = $item->shop->long;
-                    }else {
-                        $o = 'online';
                     }
-                }
-                //shops have same value then
-                //show that shop which has min
-                //distance from user
-                elseif ($shopPrice == $price){
-                    //check if the item is available
-                    //online or local or both
-                    if ($item->local_online == 'l'){
-                        $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $this->generalLat, $this->generalLong);
+                    //shops have same value then
+                    //show that shop which has min
+                    //distance from user
+                    elseif ($shopPrice == $price){
+                        //check if the item is available
+                        //online or local or both
+                        $temp = $locationController->getDistance($item->shop->lat, $item->shop->long, $controller->generalLat, $controller->generalLong);
 
                         //if new shop which has same price
                         //has less distance then update the location
                         if($temp < $distance){
+                            $price = $shopPrice;
                             $l = $item->shop->location;
                             $distance = $temp;
                             $shopLat = $item->shop->lat;
                             $shopLong = $item->shop->long;
                         }
-                    }else {
-                        $o = 'online';
+                    }
+                }
+                //item is online
+                else {
+                    $o = 'online';
+                    if($shopPrice < $onlineShopPrice) {
+                        $onlineShopPrice = $shopPrice;
                     }
                 }
             }
@@ -171,6 +177,7 @@ class WelcomeController extends Controller
             $data[$index]['brand'] = $mobile->brand->name;
             $data[$index]['data'] = $mobileData;
             $data[$index]['price'] = $price;
+            $data[$index]['online_price'] = $onlineShopPrice == 999999999999 ? null : $onlineShopPrice;
             $data[$index]['available'] = $available;
             $data[$index]['location'] = $l;
             $data[$index]['distance'] = $distance;

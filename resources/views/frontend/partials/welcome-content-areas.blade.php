@@ -14,7 +14,7 @@
                         <div class="caption product-data">
                             <p class="text-left">{{$mobile['mobile']->brand->name}}</p>
                             <b class="margin-0">{{$mobile['mobile']->title}}</b><br>
-                            <span class="margin-0 black"><i class="fa fa-money"></i> {!!$mobile['price'] == 999999999999 ? 'Not Available' : ' Rs - ' . $mobile['price']!!}</span><br>
+                            <span class="margin-0 color-green" data-toggle="tooltip" data-placement="top" title="local"><i class="fa fa-money"></i> {!!$mobile['price'] == 999999999999 ? 'N/A' : ' Rs - ' . $mobile['price']!!}</span><span data-toggle="tooltip" data-placement="top" title="online" class="color-red" style="margin-left: 20px;"><i class="fa fa-money"></i> {{$mobile['online_price'] == null ? "N/A" : ' Rs - ' . $mobile['online_price']}}</span><br>
                             <p class="black"><i class="fa  fa-location-arrow"></i> {!!$mobile['distance'] == 999999999999 ? "Unavailable Local" : " Approx " . $mobile['distance'] . " Km Away"!!}</p>
                             <p class="local_online_tags">
                                 <button data-shop-lat="{{$mobile['mobile']->shop_lat}}" data-shop-long="{{$mobile['mobile']->shop_long}}" data-toggle="tooltip" data-placement="top" title="{{$mobile['location']}}" class="btn bg-green btn-xs waves-effect shop_map_modal "{{($mobile['available'] == null || $mobile['available'] == 'online') ? "disabled" : ""}}>Local</button>

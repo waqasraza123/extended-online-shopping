@@ -105,5 +105,10 @@ Route::get('test', function (){
             \App\Color::find($c->id)->update(['color' => $c->color]);
         }
     }*/
-    return \Illuminate\Support\Facades\Auth::user();
+    //return base_path().'\python\gsm.py';
+    /*exec('/usr/bin/python ' . base_path().'\python\gsm.py');
+    $command = escapeshellcmd(base_path().'\python\gsm.py');
+    $output = shell_exec($command);
+    echo $output;*/
+    echo 17 < '6';
 });
