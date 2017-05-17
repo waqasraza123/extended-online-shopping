@@ -1,2 +1,2 @@
-<h1>Subject: {{$subject}}</h1>
-<p>{!! $body !!}</p>
+<h1>Subject: {{isset($subject) ? $subject : ""}}</h1>
+<p>{!! isset($body) ? $body : "" !!}</p>
