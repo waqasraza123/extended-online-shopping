@@ -1,3 +1,6 @@
+
+<h1 class="text-center">Your Physical and Virtual Mobile Shop</h1>
+
 {!! Form::open(['url' => route('search'), 'class' => 'form-horizontal', 'id' => 'search_form', 'method' => 'get']) !!}
 <div class="col-md-12 col-lg-12 search-box">
     <div class="col-sm-4 search_box_outer animated">

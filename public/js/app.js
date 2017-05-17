@@ -1144,8 +1144,6 @@ $(document).ready(function () {
                         function () {
                             $(".search_box_outer").removeClass('jello')
                         });
-                searchBar.val("")
-                ("#search_box").select2({placeholder: 'Field is Required'})
                 searchBar.focus()
             }
             else{

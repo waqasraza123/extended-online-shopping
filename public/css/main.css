@@ -333,3 +333,6 @@ header [role="progressbar"][aria-busy="true"]::after {
     user-select: none;
     -webkit-user-select: none;
 }
+a.sidebar-toggle {
+    visibility: hidden;
+}
