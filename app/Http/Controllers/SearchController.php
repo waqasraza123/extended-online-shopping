@@ -16,7 +16,7 @@ class SearchController extends Controller
      */
     public function search(Request $request){
         $this->validate($request, [
-            'search_text' => 'required',
+            'search_text' => 'required|min:1|max:20',
             'radius' => 'min:1|max:50'
         ]);
 

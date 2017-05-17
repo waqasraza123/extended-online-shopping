@@ -6,6 +6,7 @@
 @section('content')
     <div class="row clearfix welcome">
         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-top-20">
+            @include('partials.error-messages.error')
             <div>
                 <div class="body">
                     @if($data)
