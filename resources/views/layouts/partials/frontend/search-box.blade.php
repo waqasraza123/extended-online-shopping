@@ -1,7 +1,8 @@
 {!! Form::open(['url' => route('search'), 'class' => 'form-horizontal', 'id' => 'search_form', 'method' => 'get']) !!}
 <div class="col-md-12 col-lg-12 search-box">
-    <div class="col-sm-4">
-        <input id="search_box" placeholder="Search" type="text" name="search_text" class="animated form-control" value="{{isset($searchText) == false ? "" : $searchText}}">
+    <div class="col-sm-4 search_box_outer animated">
+        <select id="search_box" placeholder="Search" name="search_text" class="form-control">
+        </select>
     </div>
 
     <div class="col-sm-4">

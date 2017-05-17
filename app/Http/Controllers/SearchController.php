@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Brand;
 use App\Mobile;
 use Illuminate\Http\Request;
 use Illuminate\Pagination\LengthAwarePaginator;
@@ -34,20 +35,52 @@ class SearchController extends Controller
         $offset = 10*($offset - 1);
         $locationController = new LocationController();
         $controller = new Controller();
-
         //get the first mobile and then get the first mobile data
-        $mobiles = Mobile::where('title', 'LIKE', '%'.$searchText.'%')
+        $mobiles = Mobile::where('title', 'LIKE', '%' . $searchText . '%')
             ->select('title')
             ->groupBy('title')
             ->offset($offset)
             ->limit(20)
             ->get();
-        $count = Mobile::where('title', 'LIKE', '%'.$searchText.'%')
-            ->select('title')
-            ->groupBy('title')
-            ->get()
-            ->count();
-
+        /*$newMobiles = null;
+        $brandMobiles = null;
+        if($mobiles->count() == 0){
+            $search = explode(' ', $searchText);
+            if(isset($search[0])){
+                if(!empty($search[0]) || $search[0] != null){
+                    $brand = Brand::where('name', ucwords($search[0]))->first();
+                    if($brand){
+                        $brandMobilesCount = $brand->mobiles()->count();
+                        if($brandMobilesCount > 0){
+                            $brandMobiles = $brand->mobiles()->where(function ($q) use ($search){
+                                $count = 1;
+                                foreach ($search as $s){
+                                    if($count == 1){
+                                        continue;
+                                    }
+                                    $q->orWhere('title', 'LIKE', '%' . $s . '%');
+                                    ++$count;
+                                }
+                            })->select('title')
+                                ->get();
+                            dd($brandMobiles);
+                        }
+                    }
+                }
+            }
+            if($brandMobiles->count() == 0){
+                $newMobiles = Mobile::where(function ($q) use ($search){
+                    foreach ($search as $s){
+                        $q->orWhere('title', 'LIKE', '%' . $s . '%');
+                    }
+                })
+                    ->select('title')
+                    ->offset($offset)
+                    ->get();
+            }
+        }
+        $mobiles = $brandMobiles == null ? $mobiles : $mobiles->merge($brandMobiles);
+        $mobiles = $newMobiles == null ? $mobiles : $mobiles->merge($newMobiles);*/
         $data = array();
         $marketLocationMatchedCount = 0;
         foreach ($mobiles as $index => $m){
@@ -340,7 +373,7 @@ class SearchController extends Controller
      * @param Request $request
      */
     public function liveSearch(Request $request){
-        return $request->all();
+        return Mobile::where('title', 'LIKE', '%' . $request->input('q') . '%')->pluck('title', 'id')->toArray();
     }
 
 

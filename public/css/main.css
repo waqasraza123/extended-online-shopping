@@ -320,3 +320,16 @@ header [role="progressbar"][aria-busy="true"]::after {
     min-height: 300px;
 }
 .color-red{color: #B63E2F !important;}.color-green{color: #00884A !important;}
+.search-box .select2-container--default .select2-selection--single {
+    background-color: #fff;
+    border: 1px solid #aaa;
+    border-radius: 0px;
+}
+.search-box .select2-container .select2-selection--single {
+    box-sizing: border-box;
+    cursor: pointer;
+    display: block;
+    height: 34px;
+    user-select: none;
+    -webkit-user-select: none;
+}

@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Brand;
 use App\Shop;
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;
@@ -9,7 +10,6 @@ use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\File;
-use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\View;
 
 class Controller extends BaseController
@@ -30,7 +30,6 @@ class Controller extends BaseController
         //isb lat long
         $this->generalLat = 33.7294;
         $this->generalLong = 73.0931;
-
         if(Auth::check()) {
             $this->generalLat = Auth::user()->lat == null ? 33.7294 : Auth::user()->lat;
             $this->generalLong = Auth::user()->long == null ? 73.0931 : Auth::user()->long;
@@ -67,10 +66,7 @@ class Controller extends BaseController
         if($outOfStockItems){
             $outOfStockItems = $outOfStockItems->products()->where('product_data.stock', 0)->get();
         }
-        View::share('outOfStock', $outOfStockItems);
-        //create the directory
-
-
+        View::share(['outOfStock' => $outOfStockItems]);
         /*$this->brands = collect([
             'Samsung' => 'Samsung',
             'OPPO' => 'OPPO',

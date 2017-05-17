@@ -21,6 +21,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
 <!-- AdminBSB Themes. You can choose a theme from css/themes instead of get all themes -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
 <link href="{{url('/css/slider.css')}}" rel="stylesheet">
 <link rel="shortcut icon" href="{{ asset('favicon.png') }}" >
 <!-- Scripts -->

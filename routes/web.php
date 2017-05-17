@@ -43,7 +43,7 @@ Route::post('/send-support-email', 'EmailController@send')->name('support.email'
  */
 Route::match(['get'], '/search/', 'SearchController@search')->name('search');
 Route::get('/search/{filters}', 'SearchController@search')->name('filter-results');
-Route::post('/search/live/results', 'SearchController@liveSearch');
+Route::get('/search/live/results/', 'SearchController@liveSearch');
 
 /**
  * frontend user routes
@@ -110,5 +110,5 @@ Route::get('test', function (){
     $command = escapeshellcmd(base_path().'\python\gsm.py');
     $output = shell_exec($command);
     echo $output;*/
-    echo 17 < '6';
+    return \App\User::pluck('id', 'name')->toArray();
 });

@@ -769,6 +769,36 @@ $(document).ready(function () {
         storage.select2()
         colors.select2()
         $("#bulk-title").select2()
+        searchBar.select2({
+            ajax: {
+                url: "/search/live/results/",
+                dataType: 'json',
+                headers : {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+                delay: 250,
+                type: 'GET',
+                data: function (params) {
+                    return {
+                        q: params.term, // search term
+                    };
+                },
+                processResults: function (data) {
+                    var arr = []
+                    $.each(data, function (index, value) {
+                        arr.push({
+                            id: value,
+                            text: value
+                        })
+                    })
+                    return {
+                        results: arr
+                    };
+                },
+                cache: true
+            },
+            escapeMarkup: function (markup) { return markup; },
+            minimumInputLength: 1,
+            placeholder: 'Search Mobiles'
+        });
     }
     catch (err){
         console.log(err + " select 2 error")
@@ -1096,31 +1126,30 @@ $(document).ready(function () {
 
     searchBar.on('change', function () {
         if($.trim(searchBar.val()).length == 0){
-            searchBar.css('border', '2px solid red')
+            $(".search_box_outer .select2-container").css('border', '1px solid red')
         }
         else{
-            searchBar.css('border', '0px solid red')
+            $(".search_box_outer .select2-container").css('border', '0px solid red')
         }
     })
+    var searchBoxOuter = $(".search_box_outer")
     if(searchForm.length){
         searchForm.submit(function (event) {
-            console.log("seach button clicked")
-            if($.trim(searchBar.val()).length == 0){
-                console.log("search text is empty")
-                searchBar.css('border', '2px solid red')
-                searchBar.addClass('jello')
-                searchBar
+            if(($("#search_box option:selected").val()) == undefined){
+                event.preventDefault()
+                $(".search_box_outer .select2-container").css('border', '1px solid red')
+                searchBoxOuter.addClass('jello')
+                searchBoxOuter
                     .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
                         function () {
-                            searchBar.removeClass('jello')
+                            $(".search_box_outer").removeClass('jello')
                         });
                 searchBar.val("")
-                searchBar.attr('placeholder', 'Field is Required')
+                ("#search_box").select2({placeholder: 'Field is Required'})
                 searchBar.focus()
-                event.preventDefault()
             }
             else{
-                searchBar.css('border', '0px solid #fff')
+                $(".search_box_outer .select2-container").css('border', '0px solid #fff')
             }
         })
     }
