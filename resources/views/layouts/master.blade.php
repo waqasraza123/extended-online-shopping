@@ -23,6 +23,7 @@
     <!-- AdminBSB Themes. You can choose a theme from css/themes instead of get all themes -->
     <link href="/theme/css/themes/all-themes.min.css" rel="stylesheet" />
     <link href="/css/main.css" rel="stylesheet">
+    <link rel="shortcut icon" href="{{ asset('favicon.png') }}" >
     <!-- Scripts -->
     <script>
         window.Laravel = <?php echo json_encode([
