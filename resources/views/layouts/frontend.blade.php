@@ -10,7 +10,6 @@
         @include('layouts.partials.nav')
     </header>
     <div class="content-wrapper container-fluid" style="margin-left: 0">
-        @include('partials.preloader')
         @include('layouts.partials.content-header')
         @yield('map')
         <div class="content">

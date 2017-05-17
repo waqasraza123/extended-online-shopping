@@ -16,11 +16,11 @@
 
     <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
-            <li><a href="{{ route('shops.index') }}">Shops</a></li>
+            <li><a href="{{ route('shops.index') }}">All Shops</a></li>
             @if (Auth::guest())
-                <li><a href="{{ url('/login') }}">Login</a></li>
+                <li><a href="{{ url('/login') }}">My Dashboard</a></li>
                 {{--<li><a href="{{ url('/login/shop') }}">My Shop</a></li>--}}
-                <li><a href="{{ url('/register') }}">Register</a></li>
+                <li><a href="{{ url('/register') }}">Register Shop</a></li>
             @else
                 @if(Auth::check() && isset($outOfStock))
                 <!-- Messages: style can be found in dropdown.less-->
@@ -159,10 +159,6 @@
                             </div>
                         </li>
                     </ul>
-                </li>
-                <!-- Control Sidebar Toggle Button -->
-                <li>
-                    <a href="#" data-toggle="control-sidebar"><i class="fa fa-gears"></i></a>
                 </li>
             @endif
         </ul>
