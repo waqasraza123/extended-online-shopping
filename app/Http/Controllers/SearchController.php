@@ -7,6 +7,7 @@ use App\Mobile;
 use Illuminate\Http\Request;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Database\Eloquent\Collection;
+use Illuminate\Support\Facades\Cache;
 
 class SearchController extends Controller
 {
@@ -373,7 +374,11 @@ class SearchController extends Controller
      * @param Request $request
      */
     public function liveSearch(Request $request){
-        return Mobile::where('title', 'LIKE', '%' . $request->input('q') . '%')->pluck('title', 'id')->toArray();
+        $value = Cache::remember($request->input('q'), 30, function () use ($request){
+            return Mobile::where('title', 'LIKE', '%' . $request->input('q') . '%')->pluck('title', 'id')->toArray();
+        });
+
+        return $value;
     }
 
 

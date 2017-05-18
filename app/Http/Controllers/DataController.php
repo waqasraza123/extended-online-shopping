@@ -210,9 +210,6 @@ class DataController extends Controller
                     }
                 }
             }//end if db mobiles is null
-            else{
-                //echo $brandName. '<br>';
-            }
         }
     }
 
@@ -366,9 +363,6 @@ class DataController extends Controller
                 'stock' => '111999'
             ]);
 
-            /*$product = ProductData::where('mobile_id', $mobileId)->where('shop_id', $shopId)->first();
-            $product->colors()->sync($colorIds);
-            $product->storages()->sync($storageIds);*/
         }
     }
 

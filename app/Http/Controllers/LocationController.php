@@ -7,6 +7,16 @@ use Illuminate\Http\Request;
 
 class LocationController extends Controller
 {
+    /**
+     * returns the distance between two
+     * lat and long points
+     *
+     * @param $lat1
+     * @param $lon1
+     * @param $lat2
+     * @param $lon2
+     * @return float
+     */
     function getDistance($lat1, $lon1, $lat2, $lon2) {
 
         $pi80 = M_PI / 180;

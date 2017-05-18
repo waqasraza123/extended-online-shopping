@@ -586,16 +586,10 @@ class MobileController extends Controller
                             echo $gsmTitle . ' = ' . $ed[0] . '<br>';*/
                             $this->saveComparedData($mobile->id, $ed, $c->shopId);
                             $mobileMatched = true;
-                        } else {
-                            /*echo 'All of the passes failed';
-                            echo $gsmTitle . ' = ' . $ed[0] . '<br>';*/
                         }
                     }
                 }
             }//end if db mobiles is null
-            else{
-                //echo $brandName. '<br>';
-            }
         }
     }
 
