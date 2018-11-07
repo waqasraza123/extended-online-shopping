@@ -18,7 +18,7 @@ class ChangeColorProductColorCol extends Migration
                 $table->dropColumn('color');
             }
             if(!Schema::hasColumn('color_products', 'color_id')){
-                $table->unsignedInteger('color_id')->first();
+                $table->unsignedInteger('color_id');
             }
         });
     }
