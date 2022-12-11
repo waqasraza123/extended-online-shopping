@@ -6,3 +6,4 @@ Homestead.yaml
 /config/database.php
 /vendor
 /python
+/.bp-config
